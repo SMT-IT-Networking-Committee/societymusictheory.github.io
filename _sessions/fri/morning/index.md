@@ -5,7 +5,7 @@ title: Friday Morning Sessions
 
 # Friday Morning Sessions
 
-## Full-Length Sessions, 9:00--12:00
+## Full-Length Session, 9:00--12:00
 
 - [Russian Music Theory Today: A View from Inside](russian-theory.html)
 
