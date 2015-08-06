@@ -262,3 +262,18 @@ h3.sponsor {
     font-style: italic;
     margin-bottom: 2em;
 }
+
+table.meetings {
+    td:first-child {
+        padding-right: 1.5em;
+    }
+    td {
+        vertical-align: top;
+        padding-bottom: 0.5em;
+    }
+}
+
+p.note {
+    font-size: 85%;
+    font-style: italic;
+}
