@@ -251,6 +251,30 @@ p.title {
 p.author {
     margin-bottom: .5em;
 }
+
+p.abs-title {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0;
+}
+p.abs-author {
+    text-align: center;
+}
+
+span.title {
+    &:before {
+        content: "\201C";
+    }
+    &:after {
+        content: "\201D";
+    }
+}
+
+span.room {
+    color: #999999;
+    font-size: 75%;
+}
+
 h2.chair {
     font-size: 110%;
     margin-top: -0.5em;
