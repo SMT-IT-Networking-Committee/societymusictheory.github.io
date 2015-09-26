@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    border-top: 5px solid #009aea;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -280,4 +280,9 @@ table.meetings {
 p.note {
     font-size: 85%;
     font-style: italic;
+}
+
+img#smt-logo {
+    width: 100px;
+    margin-bottom: 7px;
 }
