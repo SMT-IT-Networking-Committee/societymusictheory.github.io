@@ -3,6 +3,8 @@ layout: default
 title: Friday Afternoon Sessions
 ---
 
+[Complete list of Friday afternoon sessions](complete.html)
+
 # Friday Afternoon Sessions
 
 ## Full-Length Sessions, 2:00--5:00

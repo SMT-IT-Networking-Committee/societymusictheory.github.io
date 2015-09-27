@@ -5,6 +5,8 @@ title: Thursday Evening Sessions
 
 # Thursday Evening Sessions
 
+[Complete list of Thursday evening sessions](complete.html)
+
 ## Full-Length Sessions, 7:30--10:30
 
 - [Delight in Diversity](diversity.html) (sponsored by the Committee on Diversity)
