@@ -273,6 +273,13 @@ span.title {
 span.room {
     color: #999999;
     font-size: 75%;
+    a, a:visited {
+           color: #999999;
+           text-decoration: underline;
+           &:hover {
+               color: #666666;
+           }
+    }
 }
 
 h2.chair {
