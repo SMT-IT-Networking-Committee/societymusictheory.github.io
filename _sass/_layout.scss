@@ -3,11 +3,11 @@
  */
 .site-header {
     min-height: 56px;
-    background-color: $brand-color;
     border-bottom: 1px solid $brand-color-dark;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    background: no-repeat right url(/smt2015-guide/swoosh.png) $brand-color;
 }
 
 .site-title {
