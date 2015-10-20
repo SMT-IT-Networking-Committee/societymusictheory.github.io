@@ -1,5 +1,7 @@
 # SMT 2015, St. Louis
 
+Visit the site online at http://guide.societymusictheory.org.
+
 This is a repository for a conference webpage for the Society for Music Theory
 annual meeting in St. Louis, Missouri, to be held October 29--November
 1, 2015.
