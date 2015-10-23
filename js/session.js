@@ -1,7 +1,11 @@
 var SMT = {};
 
 Zepto(function($) {
+    SMT.linkAbstracts($);
+    SMT.linkHandouts($);
+});
 
+SMT.linkAbstracts = function($) {
     var titles = $('p.title'),
         abstractTitles = $('p.abs-title'),
         num = titles.length,
@@ -21,22 +25,23 @@ Zepto(function($) {
         abstractTitles[i].id = genId
         $(titles[i]).wrapInner('<a href="#'+ genId + '"></a>');
     }
-
-    SMT.linkHandouts($);
-});
+};
 
 
 SMT.linkHandouts = function($) {
-    // Get author last name as lowercase.
-    // NB: This only gets the first author's name, and doesn't work if there
-    // are non-ASCII characters. There are few enough of those that we can
-    // special-case them manually.
     $('p.author').each(function(_, elem) {
+        // Get author last name as lowercase.
+        // NB: This only gets the first author's name, and doesn't work if there
+        // are non-ASCII characters. There are few enough of those that we can
+        // special-case them manually.
         var matches = $(elem).text().match(/\s([A-Za-z\-]+)\s+\(/);
         if (matches !== null && matches[1]) {
             var lcName = matches[1].toLowerCase();
 
-            // TODO: generate JSON list of handouts, wire up the links here
+            // TODO: wire up the links here
+            if (SMT.handoutList[lcName]) {
+                console.log(SMT.handoutList[lcName]);
+            }
         }
     });
 };
