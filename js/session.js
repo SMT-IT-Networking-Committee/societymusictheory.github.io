@@ -60,7 +60,7 @@ SMT.linkHandouts = function($) {
         // if key isn't in the hash, give up
         if (!filename) { return; }
 
-        href = '/files/2015_handouts/' + filename;
+        href = '//societymusictheory.org/files/2015_handouts/' + filename;
         $(elem).append('&emsp;<a href="'+href+'"><i class="fa fa-file"></i></i>');
     });
 };
