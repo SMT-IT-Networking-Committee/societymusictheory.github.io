@@ -11,6 +11,7 @@ SMT.handoutList = {
     lee: "lee.pdf",
     michaelsen: "michaelsen.pdf",
     mirka: "mirka.pdf",
+    moseley: "moseley.pdf",
     nobile: "nobile.pdf",
     rabinovitch: "rabinovitch.pdf",
     ricci: "ricci.pdf",
