@@ -3,6 +3,7 @@ SMT.handoutList = {
     cannon: "cannon.pdf",
     chenette: "chenette.pdf",
     cubero: "cubero.pdf",
+    deguchi: "deguchi.pdf",
     duncan: "duncan.pdf",
     emmery: "emmery.pdf",
     fmig: "FMIG.pdf",
@@ -26,6 +27,7 @@ SMT.handoutList = {
     schachter: "schachter.pdf",
     schumann: "schumann.pdf",
     sofer: "sofer.pdf",
+    tan: "tan.pdf",
     wells: "wells.pdf",
     wfig: "work_fam_ig.pdf"
 };
