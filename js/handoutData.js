@@ -1,5 +1,7 @@
 SMT.handoutList = {
     ayers: "ayers.pdf",
+    blustein: "blustein.pdf",
+    buchler: "buchler.pdf",
     cannon: "cannon.pdf",
     chenette: "chenette.pdf",
     cubero: "cubero.pdf",
@@ -7,6 +9,7 @@ SMT.handoutList = {
     duncan: "duncan.pdf",
     emmery: "emmery.pdf",
     fmig: "FMIG.pdf",
+    grant: "grant.pdf",
     heetderks: "heetderks.pdf",
     hoag: "hoag.pdf",
     hook: "hook.pdf",
@@ -21,6 +24,8 @@ SMT.handoutList = {
     nobile: "nobile.pdf",
     pellegrin:"pellegrin.pdf",
     rabinovitch: "rabinovitch.pdf",
+    rahn: "rahn.pdf",
+    reale: "reale.pdf",
     ricci: "ricci.pdf",
     rothstein: "rothstein.pdf",
     schachterJazz: "schachter_jazz.pdf",
@@ -28,6 +33,7 @@ SMT.handoutList = {
     schumann: "schumann.pdf",
     sofer: "sofer.pdf",
     tan: "tan.pdf",
+    vitalino: "vitalino.pdf",
     wells: "wells.pdf",
     wfig: "work_fam_ig.pdf"
 };
