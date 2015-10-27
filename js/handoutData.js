@@ -23,6 +23,7 @@ SMT.handoutList = {
     klorman: "klorman.pdf",
     lee: "lee.pdf",
     manifesto: "manifesto.pdf",
+    mcclimon: "mcclimon.pdf",
     michaelsen: "michaelsen.pdf",
     mirka: "mirka.pdf",
     moseley: "moseley.pdf",
