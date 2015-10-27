@@ -10,6 +10,7 @@ SMT.handoutList = {
     emmery: "emmery.pdf",
     fmig: "FMIG.pdf",
     grant: "grant.pdf",
+    hartt: "hartt.pdf",
     heetderks: "heetderks.pdf",
     hoag: "hoag.pdf",
     hook: "hook.pdf",
