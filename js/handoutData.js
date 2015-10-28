@@ -27,7 +27,7 @@ SMT.handoutList = {
     mcclimon: "mcclimon.pdf",
     michaelsen: "michaelsen.pdf",
     mirka: "mirka.pdf",
-    mitchell: "mitchell.pdf"
+    mitchell: "mitchell.pdf",
     moseley: "moseley.pdf",
     nobile: "nobile.pdf",
     osborn: "osborn.pdf",
