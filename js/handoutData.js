@@ -1,5 +1,6 @@
 SMT.handoutList = {
     acevedo: "acevedo.pdf",
+    arthur: "arthur.pdf",
     attas: "attas.pdf",
     ayers: "ayers.pdf",
     bell: "bell.pdf",
