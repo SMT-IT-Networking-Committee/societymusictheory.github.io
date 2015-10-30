@@ -7,7 +7,6 @@ SMT.handoutList = {
     blustein: "blustein.pdf",
     buchler: "buchler.pdf",
     burton: "burton.pdf",
-    carter-enyi: "carter-enyi.pdf",
     cannon: "cannon.pdf",
     chenette: "chenette.pdf",
     cubero: "cubero.pdf",
