@@ -29,6 +29,7 @@ SMT.handoutList = {
     jarvis: "jarvis.pdf",
     kaminsky: "kaminsky.pdf",
     kim: "kim.pdf",
+    klein: "klein.pdf",
     klorman: "klorman.pdf",
     lavengood: "lavengood.pdf",
     lee: "lee.pdf",
