@@ -66,5 +66,5 @@ SMT.handoutList = {
     wells: "wells.pdf",
     westergaard: "westergaard.pdf",
     wfig: "work_fam_ig.pdf",
-    carter-enyi: "carter-enyi.pdf"
+    yust: "yust.pdf"
 };
