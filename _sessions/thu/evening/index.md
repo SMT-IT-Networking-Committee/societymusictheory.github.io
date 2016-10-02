@@ -7,6 +7,10 @@ title: Thursday Evening Sessions
 
 # Thursday Evening Sessions
 
+## Early Evening Session, 5:30--6:30
+
+- [AMS President's Endowed Plenary Lecture](ams-plenary-lecture.html) <span class="room">(Grand Ballroom A/B)</span>
+
 ## Full-Length Sessions, 8:00--11:00
 
 - [Susanne Langer Reconsidered](susanne-langer-reconsidered.html) <span class="room">(Pavilion Ballroom A)</span>
@@ -21,5 +25,11 @@ title: Thursday Evening Sessions
 - [Digital Scores: Navigating Online Music from Antiphons to Mozart to Zorn](digital-scores.html) <span class="room">(Grand Ballroom D)</span>
 - [Musical Artifacts](musical-artifacts.html) <span class="room">(Port McNeill)</span>
 - [Songs of the Jewish Enlightenment: Vocal Music in the Circle of Sara Levy (1761–1854)](songs-of-the-jewish-enlightenment.html) <span class="room">(St. Andrew’s Wesley United Church)</span>
+
+## Short Session, 8:00--9:30
+
 - [Musical Significations](musical-significations.html) <span class="room">(Pavilion Ballroom C)</span>
+
+## Short Session, 9:30--11:00
+
 - [Nineteenth-Century Periods](nineteenth-century-periods.html) <span class="room">(Pavilion Ballroom C) Poundie Burstein (Hunter College / Graduate Center, CUNY), Chair Stephen Rodgers (University of Oregon)</span>
