@@ -20,7 +20,13 @@ title: Friday Morning Sessions
 - [The Reach of Humanistic Learning](the-reach-of-humanistic-learning.html) <span class="room">(Port Alberni)</span>
 - [SMT Goes to High School: The AP Music Theory Outreach Project](smt-goes-to-high-school.html) <span class="room">(Pavilion Ballroom C)</span>
 - [Sounding Stereotypes](sounding-stereotypes.html) <span class="room">(Grand Ballroom D)</span>
+
+## Short Sessions, 9:00--10:30
+
 - [Bernstein](bernstein.html) <span class="room">(Junior Ballroom D)</span>
 - [Boulez: From Sketch to Score](boulez.html) <span class="room">(Pavilion Ballroom B)</span>
+
+## Short Sessions, 10:30--12:00
+
 - [Canonic American Composers](canonic-american-composers.html) <span class="room">(Junior Ballroom D)</span>
 - [Dallapiccola and the Dynamics of Influence](dallapiccola-and-the-dynamics-of-influence.html) <span class="room">(Pavilion Ballroom B)</span>
