@@ -17,7 +17,7 @@ title: Thursday Evening Sessions
 - [Apocalypse, Ecomusicology, and Radical Listening](apocalypse-ecomusicology-and-radical-listening.html) <span class="room">(Junior Ballroom D)</span>
 - [Cripping the Music Theory/Music History Curriculum](cripping-the-music-theorymusic-history-curriculum.html) <span class="room">(Grand Ballroom A)</span>
 - [Experimenting with the Canon: New Approaches to the Music History Survey](experimenting-with-the-canon.html) <span class="room">(Grand Ballroom B)</span>
-- [Ginastera at 100: Politics, Ideology, and Representation](ginastera-at-.html) <span class="room">(Port Alberni)</span>
+- [Ginastera at 100: Politics, Ideology, and Representation](ginastera-at-100.html) <span class="room">(Port Alberni)</span>
 - [The Hermeneutics of Sonata Deformation](the-hermeneutics-of-sonata-deformation.html) <span class="room">(Junior Ballroom C)</span>
 - [Ligeti](ligeti.html) <span class="room">(Pavilion Ballroom B)</span>
 - [Ludomusicology outside Video Games](ludomusicology-outside-video-games.html) <span class="room">(Grand Ballroom C)</span>
@@ -32,4 +32,4 @@ title: Thursday Evening Sessions
 
 ## Short Session, 9:30--11:00
 
-- [Nineteenth-Century Periods](nineteenth-century-periods.html) <span class="room">(Pavilion Ballroom C) Poundie Burstein (Hunter College / Graduate Center, CUNY), Chair Stephen Rodgers (University of Oregon)</span>
+- [Nineteenth-Century Periods](nineteenth-century-periods.html) <span class="room">(Pavilion Ballroom C)</span>
