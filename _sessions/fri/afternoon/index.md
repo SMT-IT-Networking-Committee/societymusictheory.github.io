@@ -22,5 +22,12 @@ title: Friday Afternoon Sessions
 - [Technologies of the Avant-Garde](technologies-of-the-avant-garde.html) <span class="room">(Grand Ballroom C)</span>
 - [Transatlantic Opera](transatlantic-opera.html) <span class="room">(Grand Ballroom D)</span>
 - [Theory and Practice](theory-and-practice.html) <span class="room">(Pavilion Ballroom B)</span>
+
+
+## Short Session, 2:00--3:30
+
 - [Radio Canada](radio-canada.html) <span class="room">(Junior Ballroom D)</span>
+
+## Short Session, 3:30--5:00
+
 - [Jazz and the Demimonde](jazz-and-the-demimonde.html) <span class="room">(Junior Ballroom D)</span>
