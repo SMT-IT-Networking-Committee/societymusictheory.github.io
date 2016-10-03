@@ -9,6 +9,7 @@ title: Saturday Afternoon Sessions
 
 ## Full-Length Sessions, 2:00--5:00
 
+- [Saturday Afternoon Special SMT Session](saturday-afternoon-special-smt-session.html) <span class="room">(Grand Ballroom)</span>
 - [Comparing Notes: Just Intonation, Japan, and the Origins of Musical Disciplines](comparing-notes.html) <span class="room">(Pavilion Ballroom D)</span>
 - [Jazz and the In Between](jazz-and-the-in-between.html) <span class="room">(Junior Ballroom D)</span>
 - [National Entanglements](national-entanglements.html) <span class="room">(Pavilion Ballroom C)</span>
