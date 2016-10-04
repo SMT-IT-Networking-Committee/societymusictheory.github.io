@@ -7,6 +7,26 @@ title: Friday Afternoon Sessions
 
 # Friday Afternoon Sessions
 
+<table class="meetings">
+  <tr>
+    <td>12:15–1:45</td>
+    <td><a href="stravinsky-comes-to-vancouver.html">Lecture: Stravinsky Comes to Vancouver</a> <span class="room">(Grand Ballroom C)</span></td>
+  </tr>
+  <tr>
+    <td>12:15–1:45</td>
+    <td><a href="ccri-session-1.html">CCRI Session I: Master-Teacher Roundtable: Interdisciplinary Strategies</a> <span class="room">(Port Alberni)</span></td>
+  </tr>
+  <tr>
+    <td>12:30–-1:30</td>
+    <td><a href="redefining-latin-american-music.html">Redefining the Latin-American Music for Guitar through the Works of Guastavino and Santórsola</a> <span class="room">(St. Andrew's Wesley Church)</span></td>
+  </tr>
+  <tr>
+    <td>2:00–-3:00</td>
+    <td><a href="integrating-violincello-music.html">Integrating the Violoncello Music of Angelo Maria Fiorè with Early Baroque Performance Practice</a> <span class="room">(St. Andrew's Wesley Church)</span></td>
+  </tr>
+</table>
+
+
 ## Full-Length Sessions, 2:00--5:00
 
 - [After Machaut and before Monteverdi: Current Trends in Music of the Renaissance](after-machaut-and-before-monteverdi.html) <span class="room">(Junior Ballroom A/B)</span>
