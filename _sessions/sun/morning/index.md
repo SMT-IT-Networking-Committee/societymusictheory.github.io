@@ -9,6 +9,7 @@ title: Sunday Morning Sessions
 
 ## Full-Length Sessions, 9:00--12:00
 
+- [Case Studies in Radiophonic Art](case-studies-in-radiophonic-art.html) <span class="room">(Grand Ballroom A)</span>
 - [Music, Class, and the Great War](music-class-and-the-great-war.html) <span class="room">(Port McNeill)</span>
 - [Navigating the First Years on the Job](navigating-the-first-years-on-the-job.html) <span class="room">(Junior Ballroom C)</span>
 - [Opera in Russia](opera-in-russia.html) <span class="room">(Grand Ballroom B)</span>

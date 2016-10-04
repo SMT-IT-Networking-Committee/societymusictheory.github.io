@@ -12,5 +12,7 @@ title: Saturday Evening Sessions
 - [Music and Medievalism: New Critical Approaches](music-and-medievalism.html) <span class="room">(Port Alberni)</span>
 - [New Directions in Post-Soviet Musicology](new-directions-in-post-soviet-musicology.html) <span class="room">(Port McNeill)</span>
 - [Toward a Critical World History of Music: Developing Theory for an Emergent Field](toward-a-critical-world-history-of-music.html) <span class="room">(Pavilion Ballroom B)</span>
+
+## Short Session, 8:00--9:30
+
 - [Music and the Middlebrow](music-and-the-middlebrow.html) <span class="room">(Pavilion Ballroom A)</span>
-- [Case Studies in Radiophonic Art](case-studies-in-radiophonic-art.html) <span class="room">(Grand Ballroom A)</span>

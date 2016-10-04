@@ -22,7 +22,8 @@ title: Friday Afternoon Sessions
   </tr>
   <tr>
     <td>2:00–-3:00</td>
-    <td><a href="integrating-violincello-music.html">Integrating the Violoncello Music of Angelo Maria Fiorè with Early Baroque Performance Practice</a> <span class="room">(St. Andrew's Wesley Church)</span></td>
+    <td><a href="integrating-violincello-music.html">Integrating the Violoncello Music of Angelo Maria Fiorè with Early Baroque Performance Practice</a> <span class="room">(St. Andrew's Wesley Church)</span><br>
+    <em>8-min. walk; shuttle available from 1:40 p.m., Lobby Level</em></td>
   </tr>
 </table>
 
