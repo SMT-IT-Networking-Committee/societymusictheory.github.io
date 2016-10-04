@@ -300,6 +300,19 @@ h3.sponsor {
     font-style: italic;
     margin-bottom: 2em;
 }
+
+table.program {
+    width: 85%;
+    margin: 0 auto;
+    td {
+        vertical-align: top;
+        padding-bottom: .5em;
+    }
+    tr td:nth-child(2) {
+        text-align: right;
+    }
+}
+
 h4 {
     text-decoration: underline;
     font-size: 105%;
