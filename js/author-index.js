@@ -6,10 +6,10 @@ SMT.index = {
 
     // the function to ascii-ize names
     latinize: (function() {
-        var translate_re = /[’Ááèéëöóñ]/g;  // special chars here
+        var translate_re = /[’Ááèéëöóñü]/g;  // special chars here
         var asciiMap = {
             "’": "'", "Á": "A", "á": "a", "è": "e", "é": "e", "ë": "e",
-            "ö": "o", "ó": "o", "ñ": "n",
+            "ö": "o", "ó": "o", "ñ": "n", "ü": "u",
         };
         return function(s) {
             return (s.replace(translate_re,
