@@ -11,9 +11,6 @@ SMT.linkAbstracts = function($) {
         num = titles.length,
         i, genId;
 
-    // link room number
-    $('span.room').first().wrapInner('<a href="../../../maps/"></a>');
-
     // don't try to link if there are no abstracts
     if (abstractTitles.length === 0) {
         return;
