@@ -1,13 +1,12 @@
-# SMT 2015, St. Louis
+# SMT Mobile Conference site
 
 Visit the site online at http://guide.societymusictheory.org.
 
 This is a repository for a conference webpage for the Society for Music Theory
-annual meeting in St. Louis, Missouri, to be held October 29--November
-1, 2015.
+annual meeting in Vancouver, British Columbia, to be held November 3--6, 2016.
 
 For details, issues, comments, or questions, contact Michael McClimon
-(michael@mcclimon.org).
+(michael@mcclimon.org), or the SMT webmaster at webmaster@societymusictheory.org.
 
 ## Running locally
 
