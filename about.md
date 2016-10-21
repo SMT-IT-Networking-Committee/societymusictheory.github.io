@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-This conference guide was created by the SMT Networking Committee. For details, issues, comments, or questions, contact [Michael McClimon](michael@mcclimon.org), or the [SMT webmaster](webmaster@societymusictheory.org).
+This conference guide was created by the SMT Networking Committee. For details, issues, comments, or questions, contact [Michael McClimon](mailto:michael@mcclimon.org), or the [SMT webmaster](mailto:webmaster@societymusictheory.org).
 
 A printable copy of the program is available by visiting the [SMT website](https://societymusictheory.org/events/meeting2016/main#program).
 
