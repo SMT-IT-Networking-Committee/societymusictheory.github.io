@@ -7,7 +7,7 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
-    background: no-repeat right url(/swoosh.png) $brand-color;
+    background: no-repeat $brand-color;
 }
 
 .site-title {
@@ -26,9 +26,10 @@
 .site-nav {
     float: right;
     line-height: 56px;
+    list-style: none;
 
     .menu-icon {
-        display: none;
+        display: inline;
     }
 
     .page-link {
@@ -121,8 +122,8 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
@@ -239,7 +240,7 @@
  * Indexes
  */
 li.sessions {
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 p.society {
@@ -248,7 +249,7 @@ p.society {
 
 p.title {
     margin-top: 0;
-    font-weight: bold;
+    font-weight: bolder;
     margin-bottom: 2em;
     padding-left: 2em;
     a:visited {
@@ -260,7 +261,7 @@ p.author {
 }
 
 p.abs-title {
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
     margin-bottom: 0;
 }
@@ -338,6 +339,6 @@ span.nobr {
 }
 
 img#smt-logo {
-    width: 100px;
+    height: 36px;
     margin-bottom: 7px;
 }
