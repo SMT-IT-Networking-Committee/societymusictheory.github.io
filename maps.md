@@ -6,7 +6,5 @@ permalink: /maps/
 
 Links to maps of the conference hotel:
 
-- [2nd floor]({{ site.baseurl }}/map-floor2.png) (includes Regency Ballroom,
-  Sterling Studios)
-- [4th floor]({{ site.baseurl }}/map-floor4.png) (includes Grand Ballroom,
-  Mills Studios)
+- [3rd and 4th floor]({{ site.baseurl }}/map-floor3and4.pdf) (includes Port Hardy, Port McNeil, Port Alberni, Pavilion, Junior Ballrooms, Chartroom, and Parksville)
+- [Ballrooms]({{ site.baseurl }}/map-ballroom.pdf) (includes Grand Ballroom and Gulf Islands)
