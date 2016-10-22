@@ -4,12 +4,12 @@ SMT.handoutList = {
      * IMPORTANT: Do not forget the trailing comma!
      */
     // name: "filename.pdf",
-    losada: "boulez.pdf",
-    digiulio: "sciarrino.pdf",
-    rodgers:
-    fankhauser:
-    hesselink:
-    covach:
-    carone:  
+    losada: "losada.pdf",
+    digiulio: "digiulio.pdf",
+    rodgers: "rodgers.pdf",
+    fankhauser: "fankhauser.pdf",
+    hesselink: "hesselink.pdf",
+    covach: "covach.pdf",
+    carone: "carone.pdf"
 
 };
