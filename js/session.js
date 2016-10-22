@@ -1,4 +1,4 @@
-var SMT = {};
+var SMT = SMT || {};
 
 Zepto(function($) {
     SMT.linkAbstracts($);
