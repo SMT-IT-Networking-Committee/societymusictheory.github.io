@@ -9,7 +9,6 @@ SMT.handoutList = {
     rodgers: "rodgers.pdf",
     fankhauser: "fankhauser.pdf",
     hesselink: "hesselink.pdf",
-    covach: "covach.pdf",
     carone: "carone.pdf"
 
 };
