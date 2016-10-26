@@ -13,4 +13,14 @@ SMT.handoutList = {
     klorman: "klorman.pdf",
     willis: "willis.pdf",
     benedict: "benedict.pdf"
+    long: "long.pdf",
+    hatten: "hatten.pdf",
+    bonds: "bonds.pdf",
+    zhang: "zhang.pdf",
+    selinksky: "selinsky.pdf",
+    hunt: "hunt.pdf",
+    derrico: "derrico.pdf",
+    vandemoortele: "vandemoortele",
+    chenette: "chenette.pdf",
+    manabe: "manabe.docx"
 };
