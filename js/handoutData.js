@@ -12,7 +12,7 @@ SMT.handoutList = {
     carone: "carone.pdf",
     klorman: "klorman.pdf",
     willis: "willis.pdf",
-    benedict: "benedict.pdf"
+    benedict: "benedict.pdf",
     long: "long.pdf",
     hatten: "hatten.pdf",
     bonds: "bonds.pdf",
@@ -22,5 +22,8 @@ SMT.handoutList = {
     derrico: "derrico.pdf",
     vandemoortele: "vandemoortele",
     chenette: "chenette.pdf",
-    manabe: "manabe.docx"
+    manabe: "manabe.docx",
+    bonds: "bonds.pdf",
+    attas: "attas.pdf"
+    aboyle: "aboyle.pdf"
 };
