@@ -47,17 +47,28 @@ SMT.linkHandouts = function($) {
             }
 
             return false;
+        },
+        linkHandout = function(elem, key) {
+            var filename = SMT.handoutList[key],
+                href;
+
+            // don't try to link if the filename doesn't exist
+            if (!filename) { return; }
+
+            href = '//societymusictheory.org/files/2016_handouts/' + filename;
+            $(elem).append('&emsp;<a href="'+href+'"><i class="fa fa-file"></i></i>');
         };
 
     $('p.author').each(function(idx, elem) {
-        var key = getKey(elem),
-            filename = SMT.handoutList[key],
-            href;
+        var key = getKey(elem);
+        linkHandout(elem, key);
+    });
 
-        // if key isn't in the hash, give up
-        if (!filename) { return; }
-
-        href = '//societymusictheory.org/files/2016_handouts/' + filename;
-        $(elem).append('&emsp;<a href="'+href+'"><i class="fa fa-file"></i></i>');
+    // Check lis for data-handout attributes.
+    // This is needed for panel discussions when people might not have
+    // <p.author> tags.
+    $('li').each(function(idx, elem) {
+        var key = $(elem).data('handout');
+        linkHandout(elem, key);
     });
 };
