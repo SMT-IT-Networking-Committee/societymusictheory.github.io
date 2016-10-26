@@ -1,0 +1,906 @@
+{
+   "copyright-permissions-and-fair-use-in-music-scholarship.html" : {
+      "session" : "Friday Evening",
+      "title" : "Copyright Permissions and Fair Use in Music Scholarship",
+      "path" : "/_sessions/fri/evening/copyright-permissions-and-fair-use-in-music-scholarship.html",
+      "time" : "8:00--11:00",
+      "room" : "<span class=\"room\">(Grand Ballroom D)</span>"
+   },
+   "performing-difference-in-the-city.html" : {
+      "time" : "9:00--10:30",
+      "room" : "<span class=\"room\">(Junior Ballroom A/B)</span>",
+      "path" : "/_sessions/sun/morning/performing-difference-in-the-city.html",
+      "session" : "Sunday Morning",
+      "title" : "Performing Difference in the City"
+   },
+   "cripping-the-music-theorymusic-history-curriculum.html" : {
+      "path" : "/_sessions/thu/evening/cripping-the-music-theorymusic-history-curriculum.html",
+      "session" : "Thursday Evening",
+      "title" : "Cripping the Music Theory/Music History Curriculum",
+      "room" : "<span class=\"room\">(Grand Ballroom A)</span>",
+      "time" : "8:00--11:00"
+   },
+   "apocalypse-ecomusicology-and-radical-listening.html" : {
+      "title" : "Apocalypse, Ecomusicology, and Radical Listening",
+      "session" : "Thursday Evening",
+      "path" : "/_sessions/thu/evening/apocalypse-ecomusicology-and-radical-listening.html",
+      "room" : "<span class=\"room\">(Junior Ballroom D)</span>",
+      "time" : "8:00--11:00"
+   },
+   "modernist-intermedia.html" : {
+      "session" : "Sunday Morning",
+      "title" : "Modernist Intermedia",
+      "path" : "/_sessions/sun/morning/modernist-intermedia.html",
+      "time" : "9:00--10:30",
+      "room" : "<span class=\"room\">(Grand Ballroom D)</span>"
+   },
+   "regulating-pitch.html" : {
+      "title" : "Regulating Pitch",
+      "session" : "Saturday Afternoon",
+      "path" : "/_sessions/sat/afternoon/regulating-pitch.html",
+      "room" : "<span class=\"room\">(Port Alberni)</span>",
+      "time" : "2:00--3:30"
+   },
+   "musical-literacy-in-the-early-middle-ages.html" : {
+      "title" : "Musical Literacy in the Early Middle Ages",
+      "session" : "Thursday Afternoon",
+      "path" : "/_sessions/thu/afternoon/musical-literacy-in-the-early-middle-ages.html",
+      "time" : "2:00--5:00",
+      "room" : "<span class=\"room\">(Grand Ballroom A)</span>"
+   },
+   "jazz-and-the-demimonde.html" : {
+      "room" : "<span class=\"room\">(Junior Ballroom D)</span>",
+      "time" : "3:30--5:00",
+      "path" : "/_sessions/fri/afternoon/jazz-and-the-demimonde.html",
+      "title" : "Jazz and the Demimonde",
+      "session" : "Friday Afternoon"
+   },
+   "experimenting-with-the-canon.html" : {
+      "path" : "/_sessions/thu/evening/experimenting-with-the-canon.html",
+      "title" : "Experimenting with the Canon: New Approaches to the Music History Survey",
+      "session" : "Thursday Evening",
+      "time" : "8:00--11:00",
+      "room" : "<span class=\"room\">(Grand Ballroom B)</span>"
+   },
+   "producing-the-groove.html" : {
+      "path" : "/_sessions/fri/evening/producing-the-groove.html",
+      "session" : "Friday Evening",
+      "title" : "Producing the Groove",
+      "time" : "8:00--11:00",
+      "room" : "<span class=\"room\">(Grand Ballroom B)</span>"
+   },
+   "new-perspectives-in-the-history-of-music-theory.html" : {
+      "session" : "Friday Morning",
+      "title" : "New Perspectives in the History of Music Theory",
+      "path" : "/_sessions/fri/morning/new-perspectives-in-the-history-of-music-theory.html",
+      "room" : "<span class=\"room\">(Junior Ballroom C)</span>",
+      "time" : "9:00--12:00"
+   },
+   "ludomusicology-outside-video-games.html" : {
+      "path" : "/_sessions/thu/evening/ludomusicology-outside-video-games.html",
+      "title" : "Ludomusicology outside Video Games",
+      "session" : "Thursday Evening",
+      "room" : "<span class=\"room\">(Grand Ballroom C)</span>",
+      "time" : "8:00--11:00"
+   },
+   "frauenarbeit.html" : {
+      "room" : "<span class=\"room\">(Pavilion Ballroom B)</span>",
+      "time" : "8:00--11:00",
+      "path" : "/_sessions/fri/evening/frauenarbeit.html",
+      "title" : "Frauenarbeit: Four Triptychs by Women in Music Theory",
+      "session" : "Friday Evening"
+   },
+   "performance-and-analysis.html" : {
+      "path" : "/_sessions/fri/evening/performance-and-analysis.html",
+      "session" : "Friday Evening",
+      "title" : "Performance and Analysis",
+      "room" : "<span class=\"room\">(Junior Ballroom C)</span>",
+      "time" : "9:30--11:00"
+   },
+   "analyzing-beethoven.html" : {
+      "room" : "<span class=\"room\">(Junior Ballroom C)</span>",
+      "time" : "8:00--9:30",
+      "title" : "Analyzing Beethoven",
+      "session" : "Friday Evening",
+      "path" : "/_sessions/fri/evening/analyzing-beethoven.html"
+   },
+   "case-studies-in-late-medieval-devotion.html" : {
+      "room" : "<span class=\"room\">(Port Alberni)</span>",
+      "time" : "2:00--5:00",
+      "path" : "/_sessions/fri/afternoon/case-studies-in-late-medieval-devotion.html",
+      "title" : "Case Studies in Late Medieval Devotion",
+      "session" : "Friday Afternoon"
+   },
+   "positional-listeningpositional-analysis.html" : {
+      "path" : "/_sessions/thu/afternoon/positional-listeningpositional-analysis.html",
+      "session" : "Thursday Afternoon",
+      "title" : "Positional Listening/Positional Analysis",
+      "room" : "<span class=\"room\">(Pavilion Ballroom C)</span>",
+      "time" : "3:30--5:00"
+   },
+   "musical-institutions-in-the-seventeenth-century.html" : {
+      "time" : "3:30--5:00",
+      "room" : "<span class=\"room\">(Port Alberni)</span>",
+      "path" : "/_sessions/sat/afternoon/musical-institutions-in-the-seventeenth-century.html",
+      "title" : "Musical Institutions in the Seventeenth Century",
+      "session" : "Saturday Afternoon"
+   },
+   "paris-streets-in-the-nineteenth-century.html" : {
+      "room" : "<span class=\"room\">(Pavilion Ballroom B)</span>",
+      "time" : "3:30--5:00",
+      "path" : "/_sessions/sat/afternoon/paris-streets-in-the-nineteenth-century.html",
+      "title" : "Paris Streets in the Nineteenth Century",
+      "session" : "Saturday Afternoon"
+   },
+   "re-making-radio.html" : {
+      "session" : "Saturday Afternoon",
+      "title" : "Re-Making Radio",
+      "path" : "/_sessions/sat/afternoon/re-making-radio.html",
+      "time" : "2:00--5:00",
+      "room" : "<span class=\"room\">(Junior Ballroom C)</span>"
+   },
+   "case-studies-in-radiophonic-art.html" : {
+      "room" : "<span class=\"room\">(Grand Ballroom A)</span>",
+      "time" : "9:00--12:00",
+      "session" : "Sunday Morning",
+      "title" : "Case Studies in Radiophonic Art",
+      "path" : "/_sessions/sun/morning/case-studies-in-radiophonic-art.html"
+   },
+   "sound-and-image.html" : {
+      "room" : "<span class=\"room\">(Pavilion Ballroom C)</span>",
+      "time" : "9:00--10:30",
+      "title" : "Sound and Image",
+      "session" : "Sunday Morning",
+      "path" : "/_sessions/sun/morning/sound-and-image.html"
+   },
+   "holograms-and-hauntings.html" : {
+      "path" : "/_sessions/sat/morning/holograms-and-hauntings.html",
+      "session" : "Saturday Morning",
+      "title" : "Holograms and Hauntings",
+      "time" : "9:00--10:30",
+      "room" : "<span class=\"room\">(Grand Ballroom C)</span>"
+   },
+   "the-eloquent-body.html" : {
+      "room" : "<span class=\"room\">(Port McNeill)</span>",
+      "time" : "9:00--10:30",
+      "session" : "Saturday Morning",
+      "title" : "The Eloquent Body",
+      "path" : "/_sessions/sat/morning/the-eloquent-body.html"
+   },
+   "constructing-the-artist.html" : {
+      "title" : "Constructing the Artist",
+      "session" : "Friday Afternoon",
+      "path" : "/_sessions/fri/afternoon/constructing-the-artist.html",
+      "time" : "2:00--5:00",
+      "room" : "<span class=\"room\">(Pavilion Ballroom A)</span>"
+   },
+   "dystopic-soundtracks.html" : {
+      "time" : "10:30--12:00",
+      "room" : "<span class=\"room\">(Port Alberni)</span>",
+      "title" : "Dystopic Soundtracks",
+      "session" : "Saturday Morning",
+      "path" : "/_sessions/sat/morning/dystopic-soundtracks.html"
+   },
+   "theory-and-practice.html" : {
+      "path" : "/_sessions/fri/afternoon/theory-and-practice.html",
+      "session" : "Friday Afternoon",
+      "title" : "Theory and Practice",
+      "room" : "<span class=\"room\">(Pavilion Ballroom B)</span>",
+      "time" : "2:00--5:00"
+   },
+   "music-language-voice-failure.html" : {
+      "room" : "<span class=\"room\">(Grand Ballroom D)</span>",
+      "time" : "10:30--12:00",
+      "path" : "/_sessions/sun/morning/music-language-voice-failure.html",
+      "title" : "Music, Language, Voice, Failure: Views from Postwar",
+      "session" : "Sunday Morning"
+   },
+   "opera-exchanges.html" : {
+      "path" : "/_sessions/thu/afternoon/opera-exchanges.html",
+      "session" : "Thursday Afternoon",
+      "title" : "Opera Exchanges",
+      "time" : "2:00--5:00",
+      "room" : "<span class=\"room\">(Grand Ballroom C)</span>"
+   },
+   "brazil-and-the-difference-within.html" : {
+      "title" : "Brazil and the Difference Within",
+      "session" : "Saturday Morning",
+      "path" : "/_sessions/sat/morning/brazil-and-the-difference-within.html",
+      "room" : "<span class=\"room\">(Junior Ballroom D)</span>",
+      "time" : "10:30--12:00"
+   },
+   "constructing-the-past-in-the-long-nineteenth-century.html" : {
+      "session" : "Friday Morning",
+      "title" : "Constructing the Past in the Long Nineteenth Century",
+      "path" : "/_sessions/fri/morning/constructing-the-past-in-the-long-nineteenth-century.html",
+      "room" : "<span class=\"room\">(Port McNeill)</span>",
+      "time" : "9:00--12:00"
+   },
+   "early-modern-performance.html" : {
+      "session" : "Thursday Afternoon",
+      "title" : "Early Modern Performance",
+      "path" : "/_sessions/thu/afternoon/early-modern-performance.html",
+      "room" : "<span class=\"room\">(Port Alberni)</span>",
+      "time" : "2:00--3:30"
+   },
+   "technologies-of-the-avant-garde.html" : {
+      "session" : "Friday Afternoon",
+      "title" : "Technologies of the Avant-Garde",
+      "path" : "/_sessions/fri/afternoon/technologies-of-the-avant-garde.html",
+      "time" : "2:00--5:00",
+      "room" : "<span class=\"room\">(Grand Ballroom C)</span>"
+   },
+   "the-operatic-canon.html" : {
+      "session" : "Friday Evening",
+      "title" : "The Operatic Canon",
+      "path" : "/_sessions/fri/evening/the-operatic-canon.html",
+      "room" : "<span class=\"room\">(Port Alberni)</span>",
+      "time" : "8:00--11:00"
+   },
+   "circuits-of-empire.html" : {
+      "session" : "Saturday Morning",
+      "title" : "Circuits of Empire",
+      "path" : "/_sessions/sat/morning/circuits-of-empire.html",
+      "time" : "9:00--10:30",
+      "room" : "<span class=\"room\">(Grand Ballroom A)</span>"
+   },
+   "genre-and-geography-in-the-thirteenth-century-motet.html" : {
+      "room" : "<span class=\"room\">(Grand Ballroom B)</span>",
+      "time" : "9:00--12:00",
+      "session" : "Friday Morning",
+      "title" : "Genre and Geography in the Thirteenth-Century Motet",
+      "path" : "/_sessions/fri/morning/genre-and-geography-in-the-thirteenth-century-motet.html"
+   },
+   "musical-significations.html" : {
+      "room" : "<span class=\"room\">(Pavilion Ballroom C)</span>",
+      "time" : "8:00--9:30",
+      "path" : "/_sessions/thu/evening/musical-significations.html",
+      "session" : "Thursday Evening",
+      "title" : "Musical Significations"
+   },
+   "behind-and-beyond-the-iron-curtain.html" : {
+      "path" : "/_sessions/fri/morning/behind-and-beyond-the-iron-curtain.html",
+      "session" : "Friday Morning",
+      "title" : "Behind and Beyond the Iron Curtain",
+      "time" : "9:00--12:00",
+      "room" : "<span class=\"room\">(Junior Ballroom A/B)</span>"
+   },
+   "late-quattrocento-song.html" : {
+      "room" : "<span class=\"room\">(Pavilion Ballroom A)</span>",
+      "time" : "10:30--12:00",
+      "path" : "/_sessions/sun/morning/late-quattrocento-song.html",
+      "session" : "Sunday Morning",
+      "title" : "Late Quattrocento Song"
+   },
+   "ginastera-at-100.html" : {
+      "room" : "<span class=\"room\">(Port Alberni)</span>",
+      "time" : "8:00--11:00",
+      "title" : "Ginastera at 100: Politics, Ideology, and Representation",
+      "session" : "Thursday Evening",
+      "path" : "/_sessions/thu/evening/ginastera-at-100.html"
+   },
+   "sounding-out-the-archive.html" : {
+      "path" : "/_sessions/fri/afternoon/sounding-out-the-archive.html",
+      "session" : "Friday Afternoon",
+      "title" : "Sounding (Out) the Archive: Western Music, Empire, and Aural History",
+      "room" : "<span class=\"room\">(Grand Ballroom B)</span>",
+      "time" : "2:00--5:00"
+   },
+   "rethinking-romantic-form.html" : {
+      "time" : "9:00--12:00",
+      "room" : "<span class=\"room\">(Pavilion Ballroom D)</span>",
+      "session" : "Sunday Morning",
+      "title" : "Rethinking Romantic Form: Mendelssohn’s Sonata-Form Practice",
+      "path" : "/_sessions/sun/morning/rethinking-romantic-form.html"
+   },
+   "logics-of-late-modernism.html" : {
+      "time" : "2:00--3:30",
+      "room" : "<span class=\"room\">(Pavilion Ballroom B)</span>",
+      "session" : "Thursday Afternoon",
+      "title" : "Logics of Late Modernism",
+      "path" : "/_sessions/thu/afternoon/logics-of-late-modernism.html"
+   },
+   "mediating-the-blues.html" : {
+      "room" : "<span class=\"room\">(Junior Ballroom A/B)</span>",
+      "time" : "10:30--12:00",
+      "title" : "Mediating the Blues",
+      "session" : "Sunday Morning",
+      "path" : "/_sessions/sun/morning/mediating-the-blues.html"
+   },
+   "musical-artifacts.html" : {
+      "path" : "/_sessions/thu/evening/musical-artifacts.html",
+      "title" : "Musical Artifacts",
+      "session" : "Thursday Evening",
+      "time" : "8:00--11:00",
+      "room" : "<span class=\"room\">(Port McNeill)</span>"
+   },
+   "digital-scores.html" : {
+      "time" : "8:00--11:00",
+      "room" : "<span class=\"room\">(Grand Ballroom D)</span>",
+      "path" : "/_sessions/thu/evening/digital-scores.html",
+      "session" : "Thursday Evening",
+      "title" : "Digital Scores: Navigating Online Music from Antiphons to Mozart to Zorn"
+   },
+   "new-directions-in-post-soviet-musicology.html" : {
+      "room" : "<span class=\"room\">(Port McNeill)</span>",
+      "time" : "8:00--11:00",
+      "path" : "/_sessions/sat/evening/new-directions-in-post-soviet-musicology.html",
+      "title" : "New Directions in Post-Soviet Musicology",
+      "session" : "Saturday Evening"
+   },
+   "sounding-stereotypes.html" : {
+      "title" : "Sounding Stereotypes",
+      "session" : "Friday Morning",
+      "path" : "/_sessions/fri/morning/sounding-stereotypes.html",
+      "room" : "<span class=\"room\">(Grand Ballroom D)</span>",
+      "time" : "9:00--12:00"
+   },
+   "finding-voice-in-popular-music.html" : {
+      "time" : "9:00--12:00",
+      "room" : "<span class=\"room\">(Grand Ballroom A)</span>",
+      "path" : "/_sessions/fri/morning/finding-voice-in-popular-music.html",
+      "session" : "Friday Morning",
+      "title" : "Finding Voice in Popular Music"
+   },
+   "the-parisian-stage-in-the-nineteenth-century.html" : {
+      "time" : "10:30--12:00",
+      "room" : "<span class=\"room\">(Junior Ballroom A/B)</span>",
+      "title" : "The Parisian Stage in the Nineteenth Century",
+      "session" : "Saturday Morning",
+      "path" : "/_sessions/sat/morning/the-parisian-stage-in-the-nineteenth-century.html"
+   },
+   "lost-repertories-of-the-cold-war-era.html" : {
+      "session" : "Saturday Morning",
+      "title" : "Lost Repertories of the Cold War Era",
+      "path" : "/_sessions/sat/morning/lost-repertories-of-the-cold-war-era.html",
+      "time" : "9:00--12:00",
+      "room" : "<span class=\"room\">(Pavilion Ballroom A)</span>"
+   },
+   "timbre-transformation-and-harmonic-dualism.html" : {
+      "room" : "<span class=\"room\">(Pavilion Ballroom B)</span>",
+      "time" : "9:00--12:00",
+      "path" : "/_sessions/sun/morning/timbre-transformation-and-harmonic-dualism.html",
+      "session" : "Sunday Morning",
+      "title" : "Timbre, Transformation, and Harmonic Dualism"
+   },
+   "news-from-the-ars-nova.html" : {
+      "time" : "2:00--3:30",
+      "room" : "<span class=\"room\">(Pavilion Ballroom A)</span>",
+      "session" : "Saturday Afternoon",
+      "title" : "News from the Ars Nova",
+      "path" : "/_sessions/sat/afternoon/news-from-the-ars-nova.html"
+   },
+   "music-and-everyday-life-in-eighteenth-century-england.html" : {
+      "time" : "9:00--12:00",
+      "room" : "<span class=\"room\">(Pavilion Ballroom A)</span>",
+      "path" : "/_sessions/fri/morning/music-and-everyday-life-in-eighteenth-century-england.html",
+      "session" : "Friday Morning",
+      "title" : "Music and Everyday Life in Eighteenth-Century England"
+   },
+   "printing-and-music-in-post-revolutionary-america.html" : {
+      "time" : "9:00--10:30",
+      "room" : "<span class=\"room\">(Pavilion Ballroom A)</span>",
+      "path" : "/_sessions/sun/morning/printing-and-music-in-post-revolutionary-america.html",
+      "title" : "Printing and Music in Post-Revolutionary America",
+      "session" : "Sunday Morning"
+   },
+   "comparing-notes.html" : {
+      "path" : "/_sessions/sat/afternoon/comparing-notes.html",
+      "session" : "Saturday Afternoon",
+      "title" : "Comparing Notes: Just Intonation, Japan, and the Origins of Musical Disciplines",
+      "room" : "<span class=\"room\">(Pavilion Ballroom D)</span>",
+      "time" : "2:00--5:00"
+   },
+   "out-of-time.html" : {
+      "time" : "10:30--12:00",
+      "room" : "<span class=\"room\">(Grand Ballroom A)</span>",
+      "session" : "Saturday Morning",
+      "title" : "Out of Time: The (A)historicity of Nineteenth-Century Instrumental Technologies",
+      "path" : "/_sessions/sat/morning/out-of-time.html"
+   },
+   "music-and-the-middlebrow.html" : {
+      "path" : "/_sessions/sat/evening/music-and-the-middlebrow.html",
+      "title" : "Music and the Middlebrow",
+      "session" : "Saturday Evening",
+      "room" : "<span class=\"room\">(Pavilion Ballroom A)</span>",
+      "time" : "8:00--9:30"
+   },
+   "art-and-advocacy-in-environmentalist-music.html" : {
+      "path" : "/_sessions/fri/evening/art-and-advocacy-in-environmentalist-music.html",
+      "title" : "Art and Advocacy in Environmentalist Music: Tensions, Dimensions, and Perceptions",
+      "session" : "Friday Evening",
+      "time" : "8:00--11:00",
+      "room" : "<span class=\"room\">(Pavilion Ballroom A)</span>"
+   },
+   "ams-plenary-lecture.html" : {
+      "room" : "<span class=\"room\">(Grand Ballroom A/B)</span>",
+      "time" : "5:30--6:30",
+      "title" : "AMS President's Endowed Plenary Lecture",
+      "session" : "Thursday Evening",
+      "path" : "/_sessions/thu/evening/ams-plenary-lecture.html"
+   },
+   "encounters-with-the-music-of-milton-babbitt.html" : {
+      "path" : "/_sessions/fri/afternoon/encounters-with-the-music-of-milton-babbitt.html",
+      "session" : "Friday Afternoon",
+      "title" : "Encounters with the Music of Milton Babbitt: A Centennial Celebration",
+      "time" : "2:00--5:00",
+      "room" : "<span class=\"room\">(Pavilion Ballroom C)</span>"
+   },
+   "french-music-at-home-and-abroad-in-the-long-eighteenth-century.html" : {
+      "time" : "2:00--5:00",
+      "room" : "<span class=\"room\">(Pavilion Ballroom A)</span>",
+      "path" : "/_sessions/thu/afternoon/french-music-at-home-and-abroad-in-the-long-eighteenth-century.html",
+      "session" : "Thursday Afternoon",
+      "title" : "French Music at Home and Abroad in the Long Eighteenth Century"
+   },
+   "songs-of-the-jewish-enlightenment.html" : {
+      "time" : "8:00--11:00",
+      "room" : "<span class=\"room\">(St. Andrew’s Wesley United Church)</span>",
+      "path" : "/_sessions/thu/evening/songs-of-the-jewish-enlightenment.html",
+      "session" : "Thursday Evening",
+      "title" : "Songs of the Jewish Enlightenment: Vocal Music in the Circle of Sara Levy (1761–1854)"
+   },
+   "figuring-the-rhythm.html" : {
+      "time" : "8:00--11:00",
+      "room" : "<span class=\"room\">(Grand Ballroom C)</span>",
+      "title" : "Figuring the Rhythm: Black Social Dance and its Musics",
+      "session" : "Friday Evening",
+      "path" : "/_sessions/fri/evening/figuring-the-rhythm.html"
+   },
+   "music-and-historical-materialism.html" : {
+      "room" : "<span class=\"room\">(Pavilion Ballroom D)</span>",
+      "time" : "9:00--12:00",
+      "path" : "/_sessions/sat/morning/music-and-historical-materialism.html",
+      "title" : "Music and Historical Materialism",
+      "session" : "Saturday Morning"
+   },
+   "bernstein.html" : {
+      "title" : "Bernstein",
+      "session" : "Friday Morning",
+      "path" : "/_sessions/fri/morning/bernstein.html",
+      "time" : "9:00--10:30",
+      "room" : "<span class=\"room\">(Junior Ballroom D)</span>"
+   },
+   "dallapiccola-and-the-dynamics-of-influence.html" : {
+      "path" : "/_sessions/fri/morning/dallapiccola-and-the-dynamics-of-influence.html",
+      "title" : "Dallapiccola and the Dynamics of Influence",
+      "session" : "Friday Morning",
+      "room" : "<span class=\"room\">(Pavilion Ballroom B)</span>",
+      "time" : "10:30--12:00"
+   },
+   "realism-and-surrealism-in-french-film-music.html" : {
+      "room" : "<span class=\"room\">(Port Alberni)</span>",
+      "time" : "9:00--10:30",
+      "session" : "Sunday Morning",
+      "title" : "Realism and Surrealism in French Film Music",
+      "path" : "/_sessions/sun/morning/realism-and-surrealism-in-french-film-music.html"
+   },
+   "video-games.html" : {
+      "path" : "/_sessions/sat/afternoon/video-games.html",
+      "session" : "Saturday Afternoon",
+      "title" : "Video Games",
+      "time" : "3:30--5:00",
+      "room" : "<span class=\"room\">(Port McNeill)</span>"
+   },
+   "between-music-theory-and-music-history.html" : {
+      "room" : "<span class=\"room\">(Junior Ballroom C)</span>",
+      "time" : "2:00--5:00",
+      "session" : "Thursday Afternoon",
+      "title" : "Between Music Theory and Music History: Carl Dahlhaus on the History of Music Theory",
+      "path" : "/_sessions/thu/afternoon/between-music-theory-and-music-history.html"
+   },
+   "melodic-motivations.html" : {
+      "room" : "<span class=\"room\">(Pavilion Ballroom C)</span>",
+      "time" : "9:00--12:00",
+      "title" : "Melodic Motivations",
+      "session" : "Saturday Morning",
+      "path" : "/_sessions/sat/morning/melodic-motivations.html"
+   },
+   "nineteenth-century-periods.html" : {
+      "room" : "<span class=\"room\">(Pavilion Ballroom C)</span>",
+      "time" : "9:30--11:00",
+      "session" : "Thursday Evening",
+      "title" : "Nineteenth-Century Periods",
+      "path" : "/_sessions/thu/evening/nineteenth-century-periods.html"
+   },
+   "performing-babbitt-and-morris.html" : {
+      "title" : "Performing Babbitt and Morris",
+      "session" : "Thursday Afternoon",
+      "path" : "/_sessions/thu/afternoon/performing-babbitt-and-morris.html",
+      "time" : "3:30--5:00",
+      "room" : "<span class=\"room\">(Pavilion Ballroom B)</span>"
+   },
+   "music-and-encounter-in-the-seventeenth-and-eighteenth-centuries.html" : {
+      "room" : "<span class=\"room\">(Grand Ballroom D)</span>",
+      "time" : "9:00--12:00",
+      "title" : "Music and Encounter in the Seventeenth and Eighteenth Centuries",
+      "session" : "Saturday Morning",
+      "path" : "/_sessions/sat/morning/music-and-encounter-in-the-seventeenth-and-eighteenth-centuries.html"
+   },
+   "performing-meter.html" : {
+      "title" : "Performing Meter",
+      "session" : "Saturday Morning",
+      "path" : "/_sessions/sat/morning/performing-meter.html",
+      "room" : "<span class=\"room\">(Pavilion Ballroom B)</span>",
+      "time" : "9:00--10:30"
+   },
+   "national-entanglements.html" : {
+      "room" : "<span class=\"room\">(Pavilion Ballroom C)</span>",
+      "time" : "2:00--5:00",
+      "session" : "Saturday Afternoon",
+      "title" : "National Entanglements",
+      "path" : "/_sessions/sat/afternoon/national-entanglements.html"
+   },
+   "cipriano-de-rores-quincentenary.html" : {
+      "room" : "<span class=\"room\">(Junior Ballroom C)</span>",
+      "time" : "9:00--12:00",
+      "path" : "/_sessions/sat/morning/cipriano-de-rores-quincentenary.html",
+      "title" : "Cipriano de Rore’s Quincentenary: Looking Back at His Madrigals with Modern Eyes",
+      "session" : "Saturday Morning"
+   },
+   "susanne-langer-reconsidered.html" : {
+      "session" : "Thursday Evening",
+      "title" : "Susanne Langer Reconsidered",
+      "path" : "/_sessions/thu/evening/susanne-langer-reconsidered.html",
+      "room" : "<span class=\"room\">(Pavilion Ballroom A)</span>",
+      "time" : "8:00--11:00"
+   },
+   "beyond-propaganda.html" : {
+      "session" : "Saturday Morning",
+      "title" : "Beyond Propaganda: Music and Politics in Napoleonic Theater",
+      "path" : "/_sessions/sat/morning/beyond-propaganda.html",
+      "room" : "<span class=\"room\">(Port Alberni)</span>",
+      "time" : "9:00--10:30"
+   },
+   "ligeti.html" : {
+      "title" : "Ligeti",
+      "session" : "Thursday Evening",
+      "path" : "/_sessions/thu/evening/ligeti.html",
+      "time" : "8:00--11:00",
+      "room" : "<span class=\"room\">(Pavilion Ballroom B)</span>"
+   },
+   "frames-fantasia-and-formal-functions.html" : {
+      "room" : "<span class=\"room\">(Pavilion Ballroom D)</span>",
+      "time" : "9:00--12:00",
+      "path" : "/_sessions/fri/morning/frames-fantasia-and-formal-functions.html",
+      "session" : "Friday Morning",
+      "title" : "Frames, Fantasia, and Formal Functions"
+   },
+   "race-ing-queer-music-scholarship.html" : {
+      "title" : "Race-ing Queer Music Scholarship: Critiquing Racial Blindness",
+      "session" : "Friday Evening",
+      "path" : "/_sessions/fri/evening/race-ing-queer-music-scholarship.html",
+      "room" : "<span class=\"room\">(Grand Ballroom A)</span>",
+      "time" : "8:00--10:00"
+   },
+   "prima-donnas.html" : {
+      "path" : "/_sessions/sun/morning/prima-donnas.html",
+      "title" : "Prima Donnas",
+      "session" : "Sunday Morning",
+      "time" : "10:30--12:00",
+      "room" : "<span class=\"room\">(Junior Ballroom D)</span>"
+   },
+   "shedding-new-light-on-questions-about-bruckner-versions.html" : {
+      "time" : "9:00--10:30",
+      "room" : "<span class=\"room\">(Junior Ballroom A/B)</span>",
+      "path" : "/_sessions/sat/morning/shedding-new-light-on-questions-about-bruckner-versions.html",
+      "title" : "Shedding New Light on Questions about Bruckner Versions",
+      "session" : "Saturday Morning"
+   },
+   "reforming-the-nation.html" : {
+      "session" : "Saturday Morning",
+      "title" : "Reforming the Nation",
+      "path" : "/_sessions/sat/morning/reforming-the-nation.html",
+      "time" : "9:00--10:30",
+      "room" : "<span class=\"room\">(Junior Ballroom D)</span>"
+   },
+   "transatlantic-opera.html" : {
+      "time" : "2:00--5:00",
+      "room" : "<span class=\"room\">(Grand Ballroom D)</span>",
+      "session" : "Friday Afternoon",
+      "title" : "Transatlantic Opera",
+      "path" : "/_sessions/fri/afternoon/transatlantic-opera.html"
+   },
+   "musical-performers-musical-works.html" : {
+      "title" : "Musical Performers, Musical Works",
+      "session" : "Thursday Evening",
+      "path" : "/_sessions/thu/evening/musical-performers-musical-works.html",
+      "time" : "8:00--11:00",
+      "room" : "<span class=\"room\">(Pavilion Ballroom D)</span>"
+   },
+   "smt-goes-to-high-school.html" : {
+      "path" : "/_sessions/fri/morning/smt-goes-to-high-school.html",
+      "session" : "Friday Morning",
+      "title" : "SMT Goes to High School: The AP Music Theory Outreach Project",
+      "room" : "<span class=\"room\">(Pavilion Ballroom C)</span>",
+      "time" : "9:00--12:00"
+   },
+   "extending-topic-theory.html" : {
+      "time" : "2:00--5:00",
+      "room" : "<span class=\"room\">(Pavilion Ballroom D)</span>",
+      "path" : "/_sessions/thu/afternoon/extending-topic-theory.html",
+      "title" : "Extending Topic Theory",
+      "session" : "Thursday Afternoon"
+   },
+   "gastromusicology.html" : {
+      "path" : "/_sessions/sun/morning/gastromusicology.html",
+      "session" : "Sunday Morning",
+      "title" : "Gastromusicology",
+      "time" : "9:00--10:30",
+      "room" : "<span class=\"room\">(Junior Ballroom D)</span>"
+   },
+   "transatlantic-utopias.html" : {
+      "title" : "Transatlantic Utopias",
+      "session" : "Saturday Afternoon",
+      "path" : "/_sessions/sat/afternoon/transatlantic-utopias.html",
+      "time" : "2:00--3:30",
+      "room" : "<span class=\"room\">(Pavilion Ballroom B)</span>"
+   },
+   "classical-music-on-the-big-screen.html" : {
+      "room" : "<span class=\"room\">(Grand Ballroom C)</span>",
+      "time" : "9:00--12:00",
+      "path" : "/_sessions/fri/morning/classical-music-on-the-big-screen.html",
+      "session" : "Friday Morning",
+      "title" : "Classical Music on the Big Screen"
+   },
+   "alla-bastarda.html" : {
+      "room" : "<span class=\"room\">(Port McNeill)</span>",
+      "time" : "10:30--12:00",
+      "title" : "*Alla Bastarda*",
+      "session" : "Saturday Morning",
+      "path" : "/_sessions/sat/morning/alla-bastarda.html"
+   },
+   "the-reach-of-humanistic-learning.html" : {
+      "time" : "9:00--12:00",
+      "room" : "<span class=\"room\">(Port Alberni)</span>",
+      "session" : "Friday Morning",
+      "title" : "The Reach of Humanistic Learning",
+      "path" : "/_sessions/fri/morning/the-reach-of-humanistic-learning.html"
+   },
+   "music-as-character-in-film.html" : {
+      "room" : "<span class=\"room\">(Port Alberni)</span>",
+      "time" : "10:30--12:00",
+      "session" : "Sunday Morning",
+      "title" : "Music as Character in Film",
+      "path" : "/_sessions/sun/morning/music-as-character-in-film.html"
+   },
+   "sharing-the-gospel.html" : {
+      "time" : "10:30--12:00",
+      "room" : "<span class=\"room\">(Grand Ballroom C)</span>",
+      "session" : "Saturday Morning",
+      "title" : "Sharing the Gospel",
+      "path" : "/_sessions/sat/morning/sharing-the-gospel.html"
+   },
+   "the-hermeneutics-of-sonata-deformation.html" : {
+      "room" : "<span class=\"room\">(Junior Ballroom C)</span>",
+      "time" : "8:00--11:00",
+      "path" : "/_sessions/thu/evening/the-hermeneutics-of-sonata-deformation.html",
+      "title" : "The Hermeneutics of Sonata Deformation",
+      "session" : "Thursday Evening"
+   },
+   "canonic-american-composers.html" : {
+      "path" : "/_sessions/fri/morning/canonic-american-composers.html",
+      "session" : "Friday Morning",
+      "title" : "Canonic American Composers",
+      "room" : "<span class=\"room\">(Junior Ballroom D)</span>",
+      "time" : "10:30--12:00"
+   },
+   "navigating-the-first-years-on-the-job.html" : {
+      "session" : "Sunday Morning",
+      "title" : "Navigating the First Years on the Job",
+      "path" : "/_sessions/sun/morning/navigating-the-first-years-on-the-job.html",
+      "room" : "<span class=\"room\">(Junior Ballroom C)</span>",
+      "time" : "9:00--12:00"
+   },
+   "enlightenment-tarantism.html" : {
+      "time" : "3:30--5:00",
+      "room" : "<span class=\"room\">(Port Alberni)</span>",
+      "path" : "/_sessions/thu/afternoon/enlightenment-tarantism.html",
+      "session" : "Thursday Afternoon",
+      "title" : "Enlightenment Tarantism"
+   },
+   "boulez.html" : {
+      "session" : "Friday Morning",
+      "title" : "Boulez: From Sketch to Score",
+      "path" : "/_sessions/fri/morning/boulez.html",
+      "room" : "<span class=\"room\">(Pavilion Ballroom B)</span>",
+      "time" : "9:00--10:30"
+   },
+   "effect-and-affect.html" : {
+      "time" : "2:00--5:00",
+      "room" : "<span class=\"room\">(Grand Ballroom A)</span>",
+      "path" : "/_sessions/fri/afternoon/effect-and-affect.html",
+      "session" : "Friday Afternoon",
+      "title" : "Effect and Affect"
+   },
+   "music-and-medievalism.html" : {
+      "title" : "Music and Medievalism: New Critical Approaches",
+      "session" : "Saturday Evening",
+      "path" : "/_sessions/sat/evening/music-and-medievalism.html",
+      "room" : "<span class=\"room\">(Port Alberni)</span>",
+      "time" : "8:00--11:00"
+   },
+   "meters-in-global-perspective.html" : {
+      "time" : "2:00--5:00",
+      "room" : "<span class=\"room\">(Junior Ballroom C)</span>",
+      "path" : "/_sessions/fri/afternoon/meters-in-global-perspective.html",
+      "title" : "Meters in Global Perspective",
+      "session" : "Friday Afternoon"
+   },
+   "modernisms-tensions.html" : {
+      "room" : "<span class=\"room\">(Junior Ballroom D)</span>",
+      "time" : "2:00--5:00",
+      "title" : "Modernism’s Tensions",
+      "session" : "Thursday Afternoon",
+      "path" : "/_sessions/thu/afternoon/modernisms-tensions.html"
+   },
+   "concepts-spaces-sounds.html" : {
+      "session" : "Friday Evening",
+      "title" : "Concepts, Spaces, Sounds",
+      "path" : "/_sessions/fri/evening/concepts-spaces-sounds.html",
+      "time" : "8:00--11:00",
+      "room" : "<span class=\"room\">(Junior Ballroom A/B)</span>"
+   },
+   "rethinking-tridentine-reform.html" : {
+      "room" : "<span class=\"room\">(Pavilion Ballroom A)</span>",
+      "time" : "3:30--5:00",
+      "path" : "/_sessions/sat/afternoon/rethinking-tridentine-reform.html",
+      "title" : "Rethinking Tridentine Reform: Orlando di Lasso’s Cipriano de Rore",
+      "session" : "Saturday Afternoon"
+   },
+   "music-theory-african-rhythm-and-the-politics-of-data.html" : {
+      "path" : "/_sessions/thu/afternoon/music-theory-african-rhythm-and-the-politics-of-data.html",
+      "session" : "Thursday Afternoon",
+      "title" : "Music Theory, African Rhythm, and the Politics of Data: Three Analyses of a Corpus of Jembe Drum Music from Mali",
+      "room" : "<span class=\"room\">(Pavilion Ballroom C)</span>",
+      "time" : "2:00--3:30"
+   },
+   "body-and-spirit.html" : {
+      "time" : "10:30--12:00",
+      "room" : "<span class=\"room\">(Pavilion Ballroom B)</span>",
+      "path" : "/_sessions/sat/morning/body-and-spirit.html",
+      "title" : "Body and Spirit",
+      "session" : "Saturday Morning"
+   },
+   "opera-in-russia.html" : {
+      "path" : "/_sessions/sun/morning/opera-in-russia.html",
+      "title" : "Opera in Russia",
+      "session" : "Sunday Morning",
+      "room" : "<span class=\"room\">(Grand Ballroom B)</span>",
+      "time" : "9:00--12:00"
+   },
+   "minstrelsy.html" : {
+      "session" : "Thursday Afternoon",
+      "title" : "Minstrelsy",
+      "path" : "/_sessions/thu/afternoon/minstrelsy.html",
+      "time" : "3:30--5:00",
+      "room" : "<span class=\"room\">(Grand Ballroom D)</span>"
+   },
+   "theatrical-voices.html" : {
+      "time" : "9:00--12:00",
+      "room" : "<span class=\"room\">(Grand Ballroom C)</span>",
+      "path" : "/_sessions/sun/morning/theatrical-voices.html",
+      "session" : "Sunday Morning",
+      "title" : "Theatrical Voices"
+   },
+   "jazz-and-the-in-between.html" : {
+      "room" : "<span class=\"room\">(Junior Ballroom D)</span>",
+      "time" : "2:00--5:00",
+      "path" : "/_sessions/sat/afternoon/jazz-and-the-in-between.html",
+      "title" : "Jazz and the In Between",
+      "session" : "Saturday Afternoon"
+   },
+   "radio-canada.html" : {
+      "session" : "Friday Afternoon",
+      "title" : "Radio Canada",
+      "path" : "/_sessions/fri/afternoon/radio-canada.html",
+      "room" : "<span class=\"room\">(Junior Ballroom D)</span>",
+      "time" : "2:00--3:30"
+   },
+   "poster-presentations.html" : {
+      "title" : "Poster Presentations",
+      "session" : "Friday Afternoon",
+      "path" : "/_sessions/fri/afternoon/poster-presentations.html",
+      "room" : "<span class=\"room\">(Gulf Islands B/C/D)</span>",
+      "time" : "2:00--5:00"
+   },
+   "smt-plenary.html" : {
+      "title" : "Saturday Afternoon Special SMT Session",
+      "session" : "Saturday Afternoon",
+      "path" : "/_sessions/sat/afternoon/smt-plenary.html",
+      "time" : "2:00--5:00",
+      "room" : "<span class=\"room\">(Grand Ballroom)</span>"
+   },
+   "race-in-midtown.html" : {
+      "room" : "<span class=\"room\">(Grand Ballroom D)</span>",
+      "time" : "2:00--3:30",
+      "title" : "Race in Midtown",
+      "session" : "Thursday Afternoon",
+      "path" : "/_sessions/thu/afternoon/race-in-midtown.html"
+   },
+   "early-modern-women.html" : {
+      "room" : "<span class=\"room\">(Port McNeill)</span>",
+      "time" : "2:00--5:00",
+      "path" : "/_sessions/fri/afternoon/early-modern-women.html",
+      "session" : "Friday Afternoon",
+      "title" : "Early Modern Women"
+   },
+   "nineteenth-century-music-and-social-history.html" : {
+      "room" : "<span class=\"room\">(Port McNeill)</span>",
+      "time" : "2:00--5:00",
+      "path" : "/_sessions/thu/afternoon/nineteenth-century-music-and-social-history.html",
+      "title" : "Nineteenth-Century Music and Social History",
+      "session" : "Thursday Afternoon"
+   },
+   "toward-a-critical-world-history-of-music.html" : {
+      "title" : "Toward a Critical World History of Music: Developing Theory for an Emergent Field",
+      "session" : "Saturday Evening",
+      "path" : "/_sessions/sat/evening/toward-a-critical-world-history-of-music.html",
+      "time" : "8:00--11:00",
+      "room" : "<span class=\"room\">(Pavilion Ballroom B)</span>"
+   },
+   "colonial-music-in-the-new-world.html" : {
+      "title" : "Colonial Music in the New World",
+      "session" : "Thursday Afternoon",
+      "path" : "/_sessions/thu/afternoon/colonial-music-in-the-new-world.html",
+      "room" : "<span class=\"room\">(Grand Ballroom B)</span>",
+      "time" : "2:00--5:00"
+   },
+   "agency-in-instrumental-music-of-the-long-eighteenth-century.html" : {
+      "room" : "<span class=\"room\">(Pavilion Ballroom D)</span>",
+      "time" : "2:00--5:00",
+      "session" : "Friday Afternoon",
+      "title" : "Agency in Instrumental Music of the Long Eighteenth Century",
+      "path" : "/_sessions/fri/afternoon/agency-in-instrumental-music-of-the-long-eighteenth-century.html"
+   },
+   "sexual-violence-on-stage.html" : {
+      "room" : "<span class=\"room\">(Junior Ballroom A/B)</span>",
+      "time" : "2:00--5:00",
+      "path" : "/_sessions/sat/afternoon/sexual-violence-on-stage.html",
+      "title" : "Sexual Violence on Stage: How Musicologists Promote Resistance in the Twenty-First Century",
+      "session" : "Saturday Afternoon"
+   },
+   "performance-and-conceptual-art-in-new-york-city.html" : {
+      "room" : "<span class=\"room\">(Port McNeill)</span>",
+      "time" : "2:00--3:30",
+      "title" : "Performance and Conceptual Art in New York City",
+      "session" : "Saturday Afternoon",
+      "path" : "/_sessions/sat/afternoon/performance-and-conceptual-art-in-new-york-city.html"
+   },
+   "music-class-and-the-great-war.html" : {
+      "room" : "<span class=\"room\">(Port McNeill)</span>",
+      "time" : "9:00--12:00",
+      "title" : "Music, Class, and the Great War",
+      "session" : "Sunday Morning",
+      "path" : "/_sessions/sun/morning/music-class-and-the-great-war.html"
+   },
+   "music-for-stage-and-screen.html" : {
+      "time" : "10:30--12:00",
+      "room" : "<span class=\"room\">(Pavilion Ballroom C)</span>",
+      "path" : "/_sessions/sun/morning/music-for-stage-and-screen.html",
+      "title" : "Music for Stage and Screen",
+      "session" : "Sunday Morning"
+   },
+   "musical-histories-of-modern-nationhood.html" : {
+      "room" : "<span class=\"room\">(Junior Ballroom A/B)</span>",
+      "time" : "2:00--5:00",
+      "path" : "/_sessions/thu/afternoon/musical-histories-of-modern-nationhood.html",
+      "session" : "Thursday Afternoon",
+      "title" : "Musical Histories of Modern Nationhood"
+   },
+   "sacredsecular-exegetical-practices.html" : {
+      "title" : "Sacred/Secular Exegetical Practices",
+      "session" : "Saturday Morning",
+      "path" : "/_sessions/sat/morning/sacredsecular-exegetical-practices.html",
+      "time" : "9:00--12:00",
+      "room" : "<span class=\"room\">(Grand Ballroom B)</span>"
+   },
+   "after-machaut-and-before-monteverdi.html" : {
+      "room" : "<span class=\"room\">(Junior Ballroom A/B)</span>",
+      "time" : "2:00--5:00",
+      "title" : "After Machaut and before Monteverdi: Current Trends in Music of the Renaissance",
+      "session" : "Friday Afternoon",
+      "path" : "/_sessions/fri/afternoon/after-machaut-and-before-monteverdi.html"
+   }
+}
+
