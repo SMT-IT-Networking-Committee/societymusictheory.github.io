@@ -26,4 +26,7 @@ SMT.handoutList = {
     bonds: "bonds.pdf",
     attas: "attas.pdf",
     aboyle: "aboyle.pdf",
+    degraf: "degraf.pdf",
+    osborn: "osborn.pdf",
+    jemian: "jemian.pdf",
 };
