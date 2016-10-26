@@ -20,10 +20,10 @@ SMT.handoutList = {
     selinksky: "selinsky.pdf",
     hunt: "hunt.pdf",
     derrico: "derrico.pdf",
-    vandemoortele: "vandemoortele",
+    vandemoortele: "vandemoortele.pdf",
     chenette: "chenette.pdf",
     manabe: "manabe.docx",
     bonds: "bonds.pdf",
-    attas: "attas.pdf"
-    aboyle: "aboyle.pdf"
+    attas: "attas.pdf",
+    aboyle: "aboyle.pdf",
 };
