@@ -18,6 +18,18 @@ v5.14 or later, for the indispensable `/r` flag to `s///`.
 
 ## Program descriptions
 
+### addSessionInfo.pl
+
+This was used to add the `<p class="sessionInfo">` line to every session file.
+It reads the sessionData JSON and edits all of the individual session files in
+a batch.
+
+
+### compileData.pl
+
+This parses all of the `index.md` pages and generates a JSON file (on STDOUT).
+This was used to generate the [sessionData.json](../js/sessionData.json) file.
+
 ### compileFromIndex.pl
 
 This is my favorite of these: it takes an `index.md` file from a session page
