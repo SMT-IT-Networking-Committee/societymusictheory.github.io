@@ -29,4 +29,9 @@ SMT.handoutList = {
     degraf: "degraf.pdf",
     osborn: "osborn.pdf",
     jemian: "jemian.pdf",
+    thompson: "thompson.pdf",
+    horlacher: "horlacher.pdf",
+    gawboy: "gawboy.pdf",
+    rusch: "rusch.pdf",
+    johnson: "johnson.pdf",
 };
