@@ -40,7 +40,7 @@ SMT.handoutList = {
     beavers: "beavers.pdf",
     neal: "neal.pptx",
     roder: "roeder.pdf",
-    woo: "woo.pdf",
+    woo: "woo.pptx",
     taycher: "taycher.pdf",
     watts: "watts.pdf",
     hudson: "hudson.pdf",
