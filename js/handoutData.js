@@ -46,7 +46,7 @@ SMT.handoutList = {
     holmhudson: "holmhudson.pdf",
     jenkins: "jenkins.pptx",
     beaudoin: "beaudoin.pdf",
-    witt: "witt.pdf",
+    rosenholtz-witt: "rosenholtz-witt.pdf",
     straus: "straus.pdf",
     rifkin: "rifkin.pdf",
     mckinney: "mckinney.pdf",
