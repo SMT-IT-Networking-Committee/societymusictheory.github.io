@@ -54,5 +54,7 @@ SMT.handoutList = {
     stevens: "stevens.pptx",
     bakker: "bakker.pdf",
     desimone: "desimone.pdf",
+    malawey: "malawey.pptx",
+    pau: "pau.pdf",
 
 };
