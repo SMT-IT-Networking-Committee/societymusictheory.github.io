@@ -43,7 +43,7 @@ SMT.handoutList = {
     woo: "woo.pptx",
     taycher: "taycher.pdf",
     watts: "watts.pdf",
-    hudson: "hudson.pdf",
+    holm-hudson: "holm-hudson.pdf",
     jenkins: "jenkins.pptx",
     beaudoin: "beaudoin.pdf",
     witt: "witt.pdf",
