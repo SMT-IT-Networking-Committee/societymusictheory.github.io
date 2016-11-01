@@ -56,5 +56,4 @@ SMT.handoutList = {
     desimone: "desimone.pdf",
     malawey: "malawey.pptx",
     pau: "pau.pdf",
-
 };
