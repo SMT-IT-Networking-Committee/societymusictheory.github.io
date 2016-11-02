@@ -5,7 +5,7 @@ SMT.handoutList = {
      */
     // name: "filename.pdf",
     losada: "losada.pdf",
-    digiulio: "digiulio.pdf",
+    giulio: "digiulio.pdf",
     rodgers: "rodgers.pdf",
     fankhauser: "fankhauser.pdf",
     hesselink: "hesselink.pptx",
@@ -61,5 +61,6 @@ SMT.handoutList = {
     goldberg: "goldberg.pdf",
     jackson: "jackson.pdf",
     benedictis: "benedictis.pdf",
+    bain: "bain.pptx",
 
 };
