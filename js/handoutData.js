@@ -56,4 +56,10 @@ SMT.handoutList = {
     desimone: "desimone.pdf",
     malawey: "malawey.pptx",
     pau: "pau.pdf",
+    neidich: "neidich.pdf",
+    campbell: "campbell.pdf",
+    goldberg: "goldberg.pdf",
+    jackson: "jackson.pdf",
+    benedictis: "benedictis.pdf",
+
 };
