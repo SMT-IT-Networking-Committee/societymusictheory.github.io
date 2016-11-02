@@ -65,5 +65,10 @@ SMT.handoutList = {
     blake: "blake.pdf",
     peres: "peres.pptx",
     vanderbeek: "vanderbeek.pdf",
+    frymoyer: "frymoyer.pdf",
+    mckay: "mckay.pdf",
+    mak: "mak.pptx",
+    hunter: "hunter.pdf",
+    hermann: "hermann.pdf",
 
 };
