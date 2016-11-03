@@ -70,5 +70,8 @@ SMT.handoutList = {
     mak: "mak.pptx",
     hunter: "hunter.pdf",
     hermann: "hermann.pdf",
+    lehman: "lehman.pdf",
+    bakulina: "bakulina.docx",
+    covach: "covach.pdf",
 
 };
