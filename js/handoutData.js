@@ -78,5 +78,7 @@ SMT.handoutList = {
     gosden: "gosden.pdf",
     blustein: "blustein.pdf",
     raz: "raz.pdf",
+    sullivan: "sullivan.pdf",
+    park: "park.pdf",
 
 };
