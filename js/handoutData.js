@@ -74,5 +74,7 @@ SMT.handoutList = {
     bakulina: "bakulina.docx",
     covach: "covach.pdf",
     everett: "everett.pdf",
+    dobbs: "dobbs.pdf",
+    gosden: "gosden.pdf",
 
 };
