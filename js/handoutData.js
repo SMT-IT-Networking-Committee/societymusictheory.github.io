@@ -83,5 +83,6 @@ SMT.handoutList = {
     alcalde: "alcalde.pdf",
     stover: "stover.pptx",
     garrison: "garrison.pdf",
+    burnham: "burnham.pdf",
 
 };
