@@ -17,7 +17,7 @@ SMT.handoutList = {
     hatten: "hatten.pdf",
     bonds: "bonds.pdf",
     zhang: "zhang.pdf",
-    selinksky: "selinsky.pdf",
+    selinsky: "selinsky.pdf",
     hunt: "hunt.pdf",
     derrico: "derrico.pdf",
     vandemoortele: "vandemoortele.pdf",
