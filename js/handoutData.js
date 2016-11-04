@@ -82,5 +82,6 @@ SMT.handoutList = {
     park: "park.pdf",
     alcalde: "alcalde.pdf",
     stover: "stover.pptx",
+    garrison: "garrison.pdf",
 
 };
