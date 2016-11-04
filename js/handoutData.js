@@ -80,5 +80,7 @@ SMT.handoutList = {
     raz: "raz.pdf",
     sullivan: "sullivan.pdf",
     park: "park.pdf",
+    alcalde: "alcalde.pdf",
+    stover: "stover.pptx",
 
 };
