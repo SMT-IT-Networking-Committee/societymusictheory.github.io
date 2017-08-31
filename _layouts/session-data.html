@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <p class="note">Click the <i class="fa fa-file" style="color: rgb(0, 135, 188)"></i> icons below to access author handouts.</p>
+
+        <p class="sessionInfo"><span class="room">{{ page.room }}</span> • {{ page.time }}</p>
+        <h1>{{ page.title }}</h1>
+
+        <p class="chair">{{ page.chair.name }} ({{ page.chair.inst }}), Chair</p>
+
+        {% for paper in page.papers %}
+        {% assign p = site.data.papers[paper] %}
+        {% assign authors = p.authors | pretty_authors | array_to_sentence_string %}
+
+        <p class="author">{{ authors }} </p>
+        <p class="title">{{ p.title }} </p>
+        {% endfor %}
+
+        <h2>Abstracts</h2>
+
+        {% for paper in page.papers %}
+        {% assign p = site.data.papers[paper] %}
+        {% assign authors = p.authors | pretty_authors | array_to_sentence_string %}
+        <p class="abs-title">{{ p.title }} </p>
+        <p class="abs-author">{{ authors }}</p>
+        {{ p.abstract }}
+        {% endfor %}
+
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    <script src="{{ site.baseurl }}/js/zepto.min.js"></script>
+    <script src="{{ site.baseurl }}/js/linkRooms.js"></script>
+    <script src="{{ site.baseurl }}/js/nav.js"></script>
+    <script src="{{ site.baseurl }}/js/session.js"></script>
+    <script src="{{ site.baseurl }}/js/handoutData.js"></script>
+  </body>
+</html>
