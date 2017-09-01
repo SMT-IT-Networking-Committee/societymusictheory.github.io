@@ -15,9 +15,18 @@
 
         {% for paper in page.papers %}
         {% assign p = site.data.papers[paper] %}
-        {% assign authors = p.authors | pretty_authors | array_to_sentence_string %}
 
-        <p class="author">{{ authors }} </p>
+        {{ p.authors.formatted }}
+
+        {% capture auth %}
+        {% if p.authors[0].formatted %}
+        {{ p.authors[0].formatted }}
+        {% else %}
+        {{ p.authors[0].name }} ({{ p.authors[0].institution }})
+        {% endif %}
+        {% endcapture %}
+
+        <p class="author">{{ auth }} </p>
         <p class="title">{{ p.title }} </p>
         {% endfor %}
 
