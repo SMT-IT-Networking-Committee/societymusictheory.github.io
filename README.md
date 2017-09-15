@@ -3,7 +3,7 @@
 Visit the site online at http://guide.societymusictheory.org.
 
 This is a repository for a conference webpage for the Society for Music Theory
-annual meeting in Vancouver, British Columbia, to be held November 3--6, 2016.
+annual meeting in Arlington, VA, to be held November 2--5, 2017.
 
 For details, issues, comments, or questions, contact Michael McClimon
 (michael@mcclimon.org), or the SMT webmaster at webmaster@societymusictheory.org.

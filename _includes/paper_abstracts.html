@@ -1,0 +1,14 @@
+{% for paper in page.papers %}
+  {% assign p = site.data.papers[paper] %}
+  {% capture auth %}
+    {% if p.authors[0].formatted %}
+      {{ p.authors[0].formatted }}
+    {% else %}
+      {{ p.authors[0].name }} ({{ p.authors[0].institution }})
+    {% endif %}
+  {% endcapture %}
+
+  <p class="abs-title">{{ p.title }} </p>
+  <p class="abs-author">{{ auth | rstrip | lstrip}}</p>
+  {{ p.abstract }}
+{% endfor %}

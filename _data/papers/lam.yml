@@ -1,0 +1,33 @@
+---
+authors:
+    - name: Nathan Lam
+      institution: Indiana University
+title: Modal Spelled Pitch Classes
+handout: ''
+abstract: |
+    <p>This paper proposes <i>modal spelled pitch class</i> (mspc) as an
+    extension upon Julian Hook’s spelled heptachords (2011). Mspcs formally
+    specify the tonic for the analysis of diatonic, centric music. The
+    theory’s utility is similar to that of Steven Rings’s Tonal GIS (2011);
+    however, while Rings’s theory is based on mod-12 pitch classes, Hook’s
+    system is situated on the line of fifths, and it represents diatonic
+    objects more efficiently and elegantly.</p>
+
+    <p>Mspcs take the form of an ordered triple that includes the key
+    signature, the generic pitch class (gpc, letter name without accidentals)
+    of the note in question, and the tonic’s gpc. The structure of the group
+    is <nobr>ℤ × ℤ<sub>7</sub> × ℤ<sub>7</sub>,</nobr> and the group forms an interval
+    space (Lewinian GIS).  Although the three components could be transposed
+    independently, I will focus on the <i>coordinated transpositions</i> of
+    these components.  Coordinated transpositions correspond to familiar
+    compositional devices such as diatonic transposition, parallel inflection,
+    scale-degree reinterpretation, chromatic modulation, etc., which are all
+    abstract transpositions within my framework.</p>
+
+    <p>I will demonstrate analytical usage that intersects with the
+    triadic-transformational analyses of nineteenth-century chromatic
+    mediants, and burgeoning research in diatonic modality. The paper
+    concludes with a few notable mspc T-nets, including Schubert’s Piano
+    Sonata in B-flat major and Holst’s First Suite for Military Band.</p>
+
+
