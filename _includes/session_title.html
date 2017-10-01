@@ -3,4 +3,14 @@
 {% if page.sponsor %}
 <h3 class="sponsor">Sponsored by the {{ page.sponsor }}</h3>
 {% endif %}
-<p class="chair">{{ page.chair.name }} ({{ page.chair.institution }}), Chair</p>
+<p class="chair">{{ page.chair.name }} ({{ page.chair.institution }}),&nbsp;
+{%- if page.chair.title -%}
+  {{ page.chair.title }}
+{%- else -%}
+  Chair
+{%- endif -%}
+{%- if page.respondent -%}
+<br />
+{{ page.respondent.name }} ({{ page.respondent.institution }}), Respondent
+{%- endif -%}
+</p>
