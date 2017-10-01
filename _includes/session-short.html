@@ -1,0 +1,21 @@
+{% assign sess = site.data.sessions[include.session] %}
+
+<h3><a href="{{ sess.slug }}">{{ sess.title }}</a>
+  <span class="room">({{ sess.room }})</span></h3>
+<ul class="paper-list">
+
+{% for paper in sess.papers %}
+  {% assign p = site.data.papers[paper] %}
+  {{ p.authors.formatted }}
+
+  {%- capture auth -%}
+    {%- if p.authors[0].formatted -%}
+      {{ p.authors | slice: 1,99 | map: "name" | array_to_sentence_string }}
+    {%- else -%}
+      {{ p.authors[0].name }}
+    {%- endif -%}
+  {%- endcapture -%}
+  <li>{{ auth }}, <span class="title">{{ p.title }}</span></li>
+{% endfor %}
+</ul>
+
