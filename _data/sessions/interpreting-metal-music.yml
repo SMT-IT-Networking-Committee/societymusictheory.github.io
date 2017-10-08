@@ -1,4 +1,3 @@
----
 title: Interpreting Metal Music
 slug: interpreting-metal-music
 layout: session
@@ -11,10 +10,3 @@ chair:
 papers:
     - smialek
     - lucas
----
-
-{% include session_title.html %}
-{% include paper_titles.html %}
-
-<h2>Abstracts</h2>
-{% include paper_abstracts.html %}

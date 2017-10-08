@@ -7,4 +7,28 @@ authors:
       institution: Stony Brook University
 title: 'Near-Symmetry: A Theory of Chord Quality with Implications for Voice Leading'
 handout: ''
-abstract: ''
+abstract: |
+    <p>Traditional methods of musical analysis tend to treat chord symmetry as
+    a binary property: chords are either symmetrical or they are not. Symmetry is
+    thus understood as a static property that inheres in a chord. This paper
+    proposes instead a dynamic, transformational approach to chord asymmetry by
+    addressing two questions: 1) is it possible to render an asymmetrical chord
+    symmetrical by adjusting one of its tones by some distance (cardinality stays
+    the same)? And 2) is it possible to render it symmetrical by adjoining one or
+    more tones (cardinality increases)? The authors refer to these distinct
+    symmetrical potentialities as ‘degrees of near–symmetry.’</p>
+
+    <p>To measure the symmetrical potentiality of a collection, the authors
+    draw and extend upon the literature on parsimonious voice-leading
+    distances as elucidated in Callender, Tymoczko and Quinn (2008) and
+    Douthett and Steinbach (1998), as well as on the atonal voice-leading
+    literature by Straus (1997, 2003, 2005, 2011) and transformational theory
+    by Lewin (1982, 1987, 1992). Having calculated the near–symmetry degrees
+    of all pc-sets from cardinalities 3 through 6, the authors explore
+    relationships between pc-sets not generally considered to be closely
+    related but that share the same (or similar) symmetrical potentiality and
+    examine how these otherwise-disparate sets are deployed in similar manners
+    across the work of various composers. The authors also explore the various
+    ways in which pc-sets with special degrees of near–symmetry behave in
+    certain parsimonious and SUM-class voice-leading spaces.</p>
+

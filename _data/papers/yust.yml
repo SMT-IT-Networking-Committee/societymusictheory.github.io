@@ -4,4 +4,34 @@ authors:
       institution: Boston University
 title: 'Generalized Trichordal and Tetrachordal Tonnetze: Geometry and Analytical Applications'
 handout: ''
-abstract: ''
+abstract: |
+    <p>Some recent work on generalized <i>Tonnetze </i>has examined the
+    topologies resulting from Richard Cohn’s common-tone based formulation,
+    while other work has reformulated the <i>Tonnetz</i> as a network of
+    voice-leading relationships and investigated the resulting geometries.
+    This paper considers the original common-tone based formulation and takes
+    a geometrical approach, showing that <i>Tonnetze</i> can always be
+    realized in toroidal spaces, and that the resulting spaces always
+    correspond to one of the possible Fourier phase spaces. We can optimize
+    the given <i>Tonnetz</i> to the space (or vice-versa) using the DFT. Short
+    analytical examples from Stravinsky’s “Owl and the Pussycat” and
+    Shostakovich’s String Quartet no. 12 demonstrate how the embedding in
+    phase spaces broadens the potential application on non-triadic trichordal
+    <i>Tonnetze</i>.</p>
+
+    <p>Two-dimensional <i>Tonnetze</i> may be understood as simplicial
+    decompositions of the 2-torus into regions associated with the
+    representatives of a single Forte set class, making simplicial
+    decompositions of the 3-torus a natural generalization to tetrachords.
+    This means that a three-dimensional <i>Tonnetz</i> is a network of
+    <i>three</i> tetrachord-types related by shared trichordal subsets.
+    Essential to constructing the three-dimensional <i>Tonnetze</i> is the
+    duplication of interval classes with distinguishable intervallic axes. I
+    illustrate one possible three-dimensional <i>Tonnetz</i>, whose duplicated
+    ic3s can be enharmonically distinguished as minor thirds or augmented
+    seconds, in an analysis of Brahms’ Sarabande WoO 5/1 and its reuse in the
+    Op. 88 Quintet. Duplicated intervals in other three-dimensional
+    <i>Tonnetze</i> may be understood through Hauptmannian or tuning-theory
+    based distinctions or distinctions between chordal and non-chordal
+    intervals.</p>
+
