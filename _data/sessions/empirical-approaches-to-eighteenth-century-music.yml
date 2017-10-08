@@ -1,4 +1,3 @@
----
 title: Empirical Approaches to Eighteenth-Century Music
 slug: empirical-approaches-to-eighteenth-century-music
 layout: session
@@ -11,10 +10,3 @@ chair:
 papers:
     - jayasuriya
     - sears
----
-
-{% include session_title.html %}
-{% include paper_titles.html %}
-
-<h2>Abstracts</h2>
-{% include paper_abstracts.html %}
