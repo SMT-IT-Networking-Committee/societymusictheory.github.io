@@ -7,12 +7,18 @@ title: Friday Evening Sessions
 
 # Friday Evening Sessions
 
-## Early Evening Sessions
+## Full-Length Sessions, 7:30--10:30
 
-## Full-Length Sessions, 8:00--11:00
+- [The Music of Chen Yi](the-music-of-chen-yi.html) <span class="room">(Salons 1 & 2)</span>
+- [Topic and Schema in the Long Eighteenth Century](topic-and-schema-in-the-long-eighteenth-century.html) <span class="room">(Studio D)</span>
+- [Considering Coltrane: Analytical Perspectives After Fifty Years](considering-coltrane.html) <span class="room">(Studio E)</span>
 
-## Short Session, 8:00--9:30
 
-## Short Session, 8:00--10:00
+## Short Session, 7:30--9:00
 
-## Short Session, 9:30--11:00
+- [Irony and Topics](irony-and-topics.html) <span class="room">(Studio B)</span>
+
+## Short Session, 9:00--10:30
+
+- [Music Analysis in Comparative Perspective](music-analysis-in-comparative-perspective.html) <span class="room">(Studio B)</span>
+

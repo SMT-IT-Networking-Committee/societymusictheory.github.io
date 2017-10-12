@@ -7,4 +7,27 @@ authors:
       institution: Lagos State University
 title: A Corpus Study of Pitch Polarity in Praise-Singing and Hip-Hop
 handout: ''
-abstract: ''
+abstract: |
+    <p><i>Tonal counterpoint </i>is a common device in the oral improvisatory
+    tradition of Yorùbá <i>oríkì</i> (praise-singing), first documented by
+    Ọlátunji (1984). Both <i>tonal</i> and <i>counterpoint</i> are terms familiar
+    to musicians, but the meaning here is the linguistic <i>tonal</i>, not the
+    harmonic, and the rhetorical <i>counterpoint</i>, not polyphonic. Ọlátunji
+    describes couplets in which each phrase is parallel if not identical in terms
+    of phonic content and the first sets up a tonal expectancy for the second. The
+    contrast might also be between words within a single phrase. There are three
+    primary categories of tonal counterpoint in Yorùbá <i>oríkì</i>: parallelism
+    of similar words; homophone change; and non-lexical contrast providing
+    paralinguistic affect. Through the application of computational analysis to a
+    broad corpus, we provide substantial documentation for a phenomenon that may
+    be as ubiquitous in Africana (Black) vocal arts as rhyming is in Indo-European
+    cultures. Analysis of an American hip-hop subcorpus suggests diachronic change
+    in the use and complexity of pitch polarity over the last three decades. Over
+    the decades American hip-hop has evolved away from couplets to include
+    patterns involving three or more phrases, or even marked contrasts within a
+    single phrase. During the same period, pitch polarity has remained more stable
+    in examples of traditional vocal arts from Kenya and Nigeria despite varying
+    degrees of exposure to emerging global hip-hop. This presentation incorporates
+    concepts from music theory and linguistics with signal processing techniques
+    to analyze a newly gathered and annotated corpus of recorded music.</p>
+

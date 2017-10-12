@@ -1,4 +1,3 @@
----
 title: Irony and Topics
 slug: irony-and-topics
 layout: session
@@ -10,10 +9,3 @@ chair:
 papers:
     - koozin
     - stroud
----
-
-{% include session_title.html %}
-{% include paper_titles.html %}
-
-<h2>Abstracts</h2>
-{% include paper_abstracts.html %}
