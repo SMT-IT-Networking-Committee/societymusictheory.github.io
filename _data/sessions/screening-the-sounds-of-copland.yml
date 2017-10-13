@@ -1,4 +1,3 @@
----
 title: Screening the Sounds of Copland
 slug: screening-the-sounds-of-copland
 layout: session
@@ -10,10 +9,3 @@ chair:
 papers:
     - kleppinger
     - murphy
----
-
-{% include session_title.html %}
-{% include paper_titles.html %}
-
-<h2>Abstracts</h2>
-{% include paper_abstracts.html %}

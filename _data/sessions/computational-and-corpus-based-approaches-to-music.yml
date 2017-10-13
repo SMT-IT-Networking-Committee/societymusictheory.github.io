@@ -1,4 +1,3 @@
----
 title: Computational and Corpus-Based Approaches to Music
 slug: computational-and-corpus-based-approaches-to-music
 layout: session
@@ -12,10 +11,3 @@ papers:
     - morgan
     - sailor-sigler
     - kelley
----
-
-{% include session_title.html %}
-{% include paper_titles.html %}
-
-<h2>Abstracts</h2>
-{% include paper_abstracts.html %}

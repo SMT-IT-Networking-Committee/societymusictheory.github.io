@@ -4,4 +4,18 @@ authors:
       institution: Microsoft
 title: A Machine Learning Approach to Modality and Tonality in Early Music
 handout: ''
-abstract: ''
+abstract: |
+    <p>This paper presents a corpus study that identifies the number of
+    statistically distinct modes used in sacred and secular genres from
+    1400–1750. Corpora used for the study include Masses, motets, and secular
+    songs from the Franco-Flemish School, works by Palestrina, secular Italian
+    songs with alfabeto guitar tablature from the early seventeenth century,
+    and works by J.S. Bach. K-means clustering of key profiles are used to
+    determine the number of distinguishable modes in each corpus. The results
+    of this study show that the number of modes present in a corpus depends
+    not only on date of publication but also on the genre of a composition.
+    Secular genres are more likely to cluster into two modes while sacred
+    genres cluster into several modes. This paper also explores the
+    differences between systems of notation and musical practice and suggests
+    other ways in which machine learning techniques can be in dialogue with
+    the study of harmonic practice in early music.</p>

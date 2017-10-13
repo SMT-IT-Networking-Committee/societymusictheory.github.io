@@ -1,0 +1,37 @@
+---
+authors:
+    - formatted: Malcolm Sailor and Andie Sigler (McGill University)
+    - name: Malcolm Sailor
+      institution: McGill University
+    - name: Andie Sigler
+      institution: McGill University
+title: 'Renaissance “Dissonance Fingerprints”: A Corpus Study of Dissonance Treatment from Dufay to Victoria'
+handout: ''
+abstract: |
+    <p>Using new software that sorts dissonant note-pairs into dissonant
+    idioms (e.g., suspension, cambiata), we present the results of a corpus study
+    of over 2,100 movements of Renaissance counterpoint, from Dufay (1397–1474) to
+    Victoria (1548–1611). As a major nexus of stylistic evolution in Renaissance
+    music, dissonance treatment has long been studied, but computer-assisted
+    analysis enables us to: (1) re-examine it on a more comprehensive scale, (2)
+    describe, search for, and count new dissonant idioms, and (3) calculate
+    individual composers’ “dissonance fingerprint,” which may prove useful in
+    questions of attribution.</p>
+
+    <p>Dissonant idiom definitions in Palestrina’s style, as described by
+    theorists such as Jeppesen and Schubert, successfully categorize virtually
+    all High Renaissance dissonance but cannot account for a significant
+    minority of dissonances in earlier music (e.g., Ockeghem). Defining new
+    idioms to account for these earlier dissonances, we show that the
+    trajectory of Renaissance dissonance treatment was a consolidation where
+    general tendencies of dissonance treatment (e.g., downwards resolution)
+    became uniform, and the most common dissonant idioms (passing tones, etc.)
+    became very nearly the only acceptable idioms.</p>
+
+    <p>The rigor required for computer analysis leads us to identify a new
+    family of dissonant idioms: a pair of voices simultaneously attack a dissonant
+    interval, but one of these voices sounds a pitch-class either still sounding
+    in another voice or left at the moment of onset. Since explaining such
+    dissonances requires invoking notes from outside the dissonant pair, such
+    idioms indicate an emerging necessity for something like a chordal model to
+    explain dissonance treatment.</p>

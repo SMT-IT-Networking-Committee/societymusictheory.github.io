@@ -1,4 +1,3 @@
----
 title: Foundational Concepts in the Nineteenth Century
 slug: foundational-concepts-in-the-nineteenth-century
 layout: session
@@ -10,10 +9,3 @@ chair:
 papers:
     - boyle_m
     - piilonen
----
-
-{% include session_title.html %}
-{% include paper_titles.html %}
-
-<h2>Abstracts</h2>
-{% include paper_abstracts.html %}
