@@ -4,4 +4,40 @@ authors:
       institution: The Ohio State University
 title: 'Twirling Triplets: What Makes Music Spin?'
 handout: ''
-abstract: ''
+abstract: |
+    <p>While music scholars have long noted that triplets evoke sensations of
+    spinning or rotation in listeners (Jankélévitch, 1961; Mellers, 1954),
+    this topic has not been subject to theoretical development or empirical
+    scrutiny.</p>
+
+    <p>Addressing this question, we first solicited musical examples
+    “connoting spinning, rotating, twirling, or swirling” using SMT Discuss.
+    Analysis revealed a prominence of fast, repeated, isochronous patterns
+    employing stepwise pitch movement and compound meters.</p>
+
+    <p>To explain these associations, we devised an <i>Ecological Theory of
+    Rotating Sounds</i> (<i>ETRoS</i>) inspired by ecological acoustics
+    (Gibson, 1979). Specifically, listeners acquire sensitivity to continuous
+    fluctuations in location, pitch, and dynamics emitted by rotating sound
+    sources. Whereas immobile musical instruments producing discrete pitches
+    render location and pitch cues largely unavailable, loudness changes
+    remain pertinent. <i>ETRoS</i> posits that stress patterns for binary
+    (strong-weak) and ternary (e.g., strong-weak-weak) rhythms are consistent
+    with a spinning trajectory, unlike archetypal quaternary or quinary
+    patterns (e.g. strong-weak-medium-weak, strong-weak-medium-weak-weak). For
+    binary rhythms, however, ecologically simpler, pendular representations
+    may be cognitively preferred (Chater & Vitányi, 2003).</p>
+
+    <p>Two perceptual experiments tested <i>ETRoS</i>. Participants in
+    Experiment 1 rated how much binary, ternary, quaternary, and quinary
+    figures evoked sensations of rotation. Experiment 2 used a two-alternative
+    forced-choice paradigm pitting ecological quaternary stimuli
+    (strong-medium-weak-medium) against unecological ones containing the
+    strong-weak-medium-weak pattern more typical of Western music. Our results
+    show greater perceived rotation for ecological patterns, for faster tempi,
+    and for ternary/quaternary/quinary compared to binary stimuli.</p>
+
+    <p>In conclusion, ecological acoustics provides a plausible explanation
+    for the musical qualia of rotation, potentially explaining why composers
+    resort to triplet/compound rhythms.</p>
+

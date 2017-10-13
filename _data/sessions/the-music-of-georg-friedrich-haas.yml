@@ -1,4 +1,3 @@
----
 title: The Music of Georg Friedrich Haas
 slug: the-music-of-georg-friedrich-haas
 layout: session
@@ -10,10 +9,3 @@ chair:
 papers:
     - morrison
     - mason
----
-
-{% include session_title.html %}
-{% include paper_titles.html %}
-
-<h2>Abstracts</h2>
-{% include paper_abstracts.html %}
