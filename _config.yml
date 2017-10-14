@@ -8,6 +8,8 @@ twitter_username: SMT_musictheory
 collections:
   sessions:
     output: true
+  ig-meetings:
+    output: true
 
 # Build settings
 markdown: kramdown
