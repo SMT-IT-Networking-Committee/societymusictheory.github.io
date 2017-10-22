@@ -13,8 +13,8 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #67AA67;
-$brand-color-dark: #1c2f73;
+$brand-color:      #bb545c;
+$brand-color-dark: darken($brand-color, 25%);
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);

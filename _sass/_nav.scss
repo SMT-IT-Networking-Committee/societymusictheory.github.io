@@ -24,7 +24,7 @@ $b-trans-speed: .4s; //Transition speed settings
 $b-transition: all $b-trans-speed ease; //Transitions
 
 $b-font-size: 24px; //Font size of brand and links
-$b-font-family: Gill Sans, Helvetica-Neue, Helvetica, Arial, sans-serif; //Font family of the brand and links
+$b-font-family: "Gill Sans", Helvetica-Neue, Helvetica, Arial, sans-serif; //Font family of the brand and links
 $b-font-weight: 400; //Font weight of brand and links
 $b-txt-pad: 30px; //Left padding on both brand and links
 
@@ -131,7 +131,7 @@ body {
 .b-link {
   background: transparent;
   border-left: color(complement, normal, 0) solid $b-border-width;
-  color: color(complement);
+  color: white !important; //color(complement);
   font-family: $b-font-family;
   font-size: $b-font-size;
   font-weight: $b-font-weight;
@@ -192,7 +192,7 @@ body {
 }
 
 .b-brand {
-  color: color(primary);
+  color: white !important; // color(primary);
   font-family: $b-font-family;
   font-size: $b-font-size;
   font-weight: $b-font-weight;

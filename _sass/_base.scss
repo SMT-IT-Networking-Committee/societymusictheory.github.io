@@ -90,11 +90,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: darken($brand-color, 10%);
+    color: $brand-color;
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 20%);
+        color: darken($brand-color, 7.5%);
     }
 
     &:hover {
