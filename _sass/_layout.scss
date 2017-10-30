@@ -303,5 +303,16 @@ ul.ig-list {
         margin: .4em auto;
 
     }
+}
+
+input#search-box {
+    font-family: $base-font-family;
+    font-size: 135%;
+    padding: 0.5rem;
+    width: 90%;
+}
+
+div#search-results {
+    margin-top: 3em;
 
 }
