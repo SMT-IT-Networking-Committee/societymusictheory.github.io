@@ -7,7 +7,7 @@ title: Thursday Evening Sessions
 
 # Thursday Evening Sessions
 
-## Full-Length Sessions, 8:00--11:00
+## Full-Length Sessions, 7:30–10:30
 
 - [Musical Topics in Opera and Ballet](musical-topics-in-opera-and-ballet.html)
 - [History of Theory](history-of-theory.html)
