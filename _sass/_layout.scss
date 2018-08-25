@@ -326,3 +326,7 @@ div#search-results {
     margin-top: 3em;
 
 }
+
+a, a:visited {
+    color: lighten($brand-color, 20%);
+}
