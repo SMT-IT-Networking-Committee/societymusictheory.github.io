@@ -7,17 +7,18 @@ title: Thursday Afternoon Sessions
 
 # Thursday Afternoon Sessions
 
-## Full-Length Sessions, 2:00--5:00
+## 2:15--3:45
 
-* [Notation and Performance: Influence, Intersection, and Interpretation](notation-and-performance.html)
-* [Russian Music](russian-music.html)
-
-## Short Sessions, 2:00--3:30
-
-* [Revisiting Prolongation and Dissonance in Jazz](revisiting-prolongation-and-dissonance-in-jazz.html)
-* [Transformations](transformations.html)
-
-## Short Sessions, 3:30--5:00
-
-* [Instruments and Transformations](instruments-and-transformations.html)
-* [Reconsidering Genre](reconsidering-genre.html)
+{% include session-short.html session="african-american-representations" %}
+{% include session-short.html session="cassettes" %}
+{% include session-short.html session="eighteenth-century-opera" %}
+{% include session-short.html session="enlightenment-aesthetics" %}
+{% include session-short.html session="genres-in-transformation" %}
+{% include session-short.html session="history-of-theory" %}
+{% include session-short.html session="neo-riemannian-theory" %}
+{% include session-short.html session="place-for-women" %}
+{% include session-short.html session="recomposition-forgery-plagiarism" %}
+{% include session-short.html session="rhythm-flow-transcendence" %}
+{% include session-short.html session="subjectivity-time-hearing" %}
+{% include session-short.html session="workplace-harassment" %}
+{% include session-short.html session="visualizing-archival-research" %}
