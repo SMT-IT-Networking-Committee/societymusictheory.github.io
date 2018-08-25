@@ -3,12 +3,21 @@
 {% if page.sponsor %}
 <h3 class="sponsor">Sponsored by the {{ page.sponsor }}</h3>
 {% endif %}
-<p class="chair">{{ page.chair.name }} ({{ page.chair.institution }}),&nbsp;
-{%- if page.chair.title -%}
-  {{ page.chair.title }}
-{%- else -%}
-  Chair
-{%- endif -%}
+
+{%- capture chair -%}
+  {%- if page.chair.formatted -%}
+    {{ page.chair.formatted }}
+  {%- else -%}
+    {{ page.chair.name }} ({{ page.chair.institution }}),&nbsp;
+    {%- if page.chair.title -%}
+      {{ page.chair.title }}
+    {%- else -%}
+      Chair
+    {%- endif -%}
+  {%- endif -%}
+{%- endcapture -%}
+
+<p class="chair">{{ chair }}
 {%- if page.respondent -%}
 <br />
 {{ page.respondent.name }} ({{ page.respondent.institution }}), Respondent
