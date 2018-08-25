@@ -9,13 +9,15 @@
 {%- else -%}
   Chair
 {%- endif -%}
+{%- if sess.respondent -%}
+; {{ sess.respondent.name }}, Respondent
+{%- endif -%}
 </p>
 
 <ul class="paper-list">
 
 {% for paper in sess.papers %}
   {% assign p = site.data.papers[paper] %}
-  {{ p.authors.formatted }}
 
   {%- capture auth -%}
     {%- if p.authors[0].formatted -%}

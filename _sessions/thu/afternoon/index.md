@@ -3,9 +3,10 @@ layout: default
 title: Thursday Afternoon Sessions
 ---
 
-[Complete list of Thursday Afternoon sessions](complete.html)
-
 # Thursday Afternoon Sessions
+
+## 2:15--5:30
+{% include session-short.html session="workplace-harassment" %}
 
 ## 2:15--3:45
 
@@ -20,5 +21,21 @@ title: Thursday Afternoon Sessions
 {% include session-short.html session="recomposition-forgery-plagiarism" %}
 {% include session-short.html session="rhythm-flow-transcendence" %}
 {% include session-short.html session="subjectivity-time-hearing" %}
-{% include session-short.html session="workplace-harassment" %}
 {% include session-short.html session="visualizing-archival-research" %}
+<ul class="paper-list">
+  <li>Mollie Ables, Anne MacNeil, and Massimo Ossi, Panelists</li>
+</ul>
+
+## 4:00--5:30
+
+{% include session-short.html session="cold-war" %}
+{% include session-short.html session="diatonic-collectional-theory" %}
+{% include session-short.html session="embodiment-tonality" %}
+{% include session-short.html session="floyd-the-dead" %}
+{% include session-short.html session="lamenting-women" %}
+{% include session-short.html session="latin-american-representations" %}
+{% include session-short.html session="medieval-early-modern-theory" %}
+{% include session-short.html session="pop-poetics-style" %}
+{% include session-short.html session="rethinking-appropriation" %}
+{% include session-short.html session="sound-materials" %}
+{% include session-short.html session="time-in-opera" %}
