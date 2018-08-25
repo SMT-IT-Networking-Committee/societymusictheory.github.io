@@ -1,7 +1,16 @@
 {% assign sess = site.data.sessions[include.session] %}
 
-<h3><a href="{{ sess.slug }}">{{ sess.title }}</a>
+<h3 class="index-session-title"><a href="{{ sess.slug }}">{{ sess.title }}</a>
+   {% if sess.society %}<span class="society">({{ sess.society }})</span>{% endif %}
   <span class="room">({{ sess.room }})</span></h3>
+<p class="index-chair">{{ sess.chair.name }},&nbsp;
+{%- if sess.chair.title -%}
+  {{ sess.chair.title }}
+{%- else -%}
+  Chair
+{%- endif -%}
+</p>
+
 <ul class="paper-list">
 
 {% for paper in sess.papers %}
