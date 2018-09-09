@@ -9,30 +9,11 @@ use Encode;
 binmode(STDIN, ':utf8');
 binmode(STDOUT, ':utf8');
 
+# This is a dumb program, meant to be called as a vim filter. Highlight some
+# yaml front matter and call this as a filter. It'll dump out the two
+# necessary files with the right filenames.
 
 my $SESSION_PATH = path('/Users/michael/code/smt/societymusictheory.github.io/_data/sessions');
-
-
-=pod
-
-my $given = <<EOF;
----
-title: "Embodiment and Voice in Contemporary Music"
-slug: embodiment-voice-contemporary-music
-society: SMT
-layout: session
-time: 'Thursday evening, 8:00–9:30'
-room: ''
-chair:
-    name: Judith Lochhead
-    institution: Stony Brook University
-papers:
-    - jakubowski
-    - mason
-    - oinas
-EOF
-
-=cut
 
 my $append_paper = <<EOF;
 ---
@@ -65,10 +46,13 @@ my $yaml_path = $SESSION_PATH->child("$slug.yml");
 
 my $append_what = $struct->{panelists} ? $append_panel : $append_paper;
 
+# ->spew rather than ->spew_utf8 because we have octets here.
 $html_path->spew($given . $append_what);
 $yaml_path->spew(join '', @lines[1..$#lines]);
 
+# ...but vim wants characters
 print decode('utf-8', $_) for @lines;
+
 
 
 
