@@ -20,6 +20,11 @@
 <p class="chair">{{ chair }}
 {%- if page.respondent -%}
 <br />
-{{ page.respondent.name }} ({{ page.respondent.institution }}), Respondent
+  {{ page.respondent.name }} ({{ page.respondent.institution }}),&nbsp;
+  {%- if page.respondent.title -%}
+    {{ page.respondent.title }}
+  {%- else -%}
+    Respondent
+  {%- endif -%}
 {%- endif -%}
 </p>
