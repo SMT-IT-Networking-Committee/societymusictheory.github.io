@@ -1,0 +1,7 @@
+<h2>Panelists</h2>
+
+<ul>
+{% for panelist in page.panelists %}
+  <li>{{ panelist.name }} ({{ panelist.institution }})</li>
+{% endfor %}
+</ul>

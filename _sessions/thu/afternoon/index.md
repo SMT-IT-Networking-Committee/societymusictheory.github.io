@@ -22,9 +22,6 @@ title: Thursday Afternoon Sessions
 {% include session-short.html session="rhythm-flow-transcendence" %}
 {% include session-short.html session="subjectivity-time-hearing" %}
 {% include session-short.html session="visualizing-archival-research" %}
-<ul class="paper-list">
-  <li>Mollie Ables, Anne MacNeil, and Massimo Ossi, Panelists</li>
-</ul>
 
 ## 4:00--5:30
 

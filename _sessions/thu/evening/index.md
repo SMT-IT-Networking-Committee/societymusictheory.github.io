@@ -3,13 +3,20 @@ layout: default
 title: Thursday Evening Sessions
 ---
 
-[Complete list of Thursday Evening sessions](complete.html)
-
 # Thursday Evening Sessions
 
-## Full-Length Sessions, 7:30–10:30
+## 8:00--9:30
 
-- [Musical Topics in Opera and Ballet](musical-topics-in-opera-and-ballet.html)
-- [History of Theory](history-of-theory.html)
-- [Preparing Articles for Publication](preparing-articles-for-publication.html)
-- [Rhythm and Meter in Popular Genres](rhythm-and-meter-in-popular-genres.html)
+{% include session-short.html session="embodiment-voice-contemporary-music" %}
+
+## 8:00--10:30
+
+{% include session-short.html session="intoxication" %}
+
+## 8:00--11:00
+
+{% include session-short.html session="dynamics-job-interview" %}
+{% include session-short.html session="music-disability-environment" %}
+{% include session-short.html session="music-at-the-border" %}
+{% include session-short.html session="othered-within-other" %}
+

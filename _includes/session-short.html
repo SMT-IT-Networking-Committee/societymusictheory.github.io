@@ -3,14 +3,19 @@
 <h3 class="index-session-title"><a href="{{ sess.slug }}">{{ sess.title }}</a>
    {% if sess.society %}<span class="society">({{ sess.society }})</span>{% endif %}
   <span class="room">({{ sess.room }})</span></h3>
-<p class="index-chair">{{ sess.chair.name }},&nbsp;
-{%- if sess.chair.title -%}
-  {{ sess.chair.title }}
+<p class="index-chair">
+{%- if sess.chair.formatted_short -%}
+  {{ sess.chair.formatted_short }}
 {%- else -%}
-  Chair
-{%- endif -%}
-{%- if sess.respondent -%}
-; {{ sess.respondent.name }}, Respondent
+  {{ sess.chair.name }},&nbsp;
+  {%- if sess.chair.title -%}
+    {{ sess.chair.title }}
+  {%- else -%}
+    Chair
+  {%- endif -%}
+  {%- if sess.respondent -%}
+  ; {{ sess.respondent.name }}, Respondent
+  {%- endif -%}
 {%- endif -%}
 </p>
 
@@ -28,5 +33,10 @@
   {%- endcapture -%}
   <li>{{ auth }}, <span class="title">{{ p.title }}</span></li>
 {% endfor %}
+
+{%- if sess.panelists[0].name -%}
+    <li>{{ sess.panelists | map: "name" | array_to_sentence_string }}, Panelists</li>
+{%- endif -%}
+
 </ul>
 
