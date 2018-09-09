@@ -4,6 +4,9 @@
    {% if sess.society %}<span class="society">({{ sess.society }})</span>{% endif %}
   <span class="room">({{ sess.room }})</span></h3>
 <p class="index-chair">
+{%- if sess.sponsor -%}
+<i>Sponsored by the {{ sess.sponsor }}</i><br>
+{%- endif -%}
 {%- if sess.chair.formatted_short -%}
   {{ sess.chair.formatted_short }}
 {%- else -%}
@@ -14,7 +17,12 @@
     Chair
   {%- endif -%}
   {%- if sess.respondent -%}
-  ; {{ sess.respondent.name }}, Respondent
+    ; {{ sess.respondent.name }},&nbsp;
+    {%- if sess.respondent.title -%}
+      {{ sess.respondent.title }}
+    {%- else -%}
+      Respondent
+    {%- endif -%}
   {%- endif -%}
 {%- endif -%}
 </p>

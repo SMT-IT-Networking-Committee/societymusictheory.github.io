@@ -1,7 +1,21 @@
-6:00–7:00 AMS President’s Endowed Plenary Lecture (Room?)
-Martha Feldman (University of Chicago), Chair
-Dwandalyn R. Reece (National Museum of African American History and Culture), “Music and the Meaning of Things”
-Guthrie P. Ramsey, Jr. (University of Pennsylvania), Interlocutor
+(scratch page)
+
+---
+title: AMS President’s Endowed Plenary Lecture
+slug: endowed-plenary-lecture
+society: AMS
+layout: session
+time: 'Thursday evening, 6:00–7:00'
+room: ''
+chair:
+    name: Martha Feldman
+    institution: University of Chicago
+respondent:
+    name: Guthrie P. Ramsey, Jr.
+    institution: University of Pennsylvania
+    title: Interlocutor
+papers:
+    - reece_d
 
 
 
@@ -21,41 +35,97 @@ papers:
     - oinas
 
 
+---
+title: "Extemporaneous Dialogues on Historical Improvisation: Bridging Music, Music History, and Theory"
+slug: extemporaneous-dialogues-improvisation
+society: AMS/SMT
+layout: session
+time: 'Thursday evening, 8:00–10:00'
+room: ''
+chair:
+    formatted_short: ''
+sponsor: SMT Interest Group on Improvisation with Anna Maria Busse Berger
+papers: ~
+panelists:
+    - name: Massimiliano Guido
+      institution: University of Pavia
+    - name: Peter Schubert
+      institution: McGill University
+    - name: Johnandrew Slominsky
+      institution: Linfield College
+    - name: Gilad Rabinovitch
+      institution: Georgia State University
+    - name: Anna Maria Busse Berger
+      institution: University of California, Davis
 
 
-Joint Session: Extemporaneous Dialogues on Historical Improvisation: Bridging Music, Music History, and Theory (Room?)
 
-A Special Joint Session organized by the SMT Interest Group on Improvisation with Anna Maria Busse Berger (University of California, Davis)
-Part I
-Massimiliano Guido (University of Pavia), General Introduction
-Peter Schubert (McGill University) vs. Peter Schubert (and the audience), “Super librum. Improvising polyphony”
-“Father, Son, and Fantasia.” Pamela Ruiter-Feenstra improvises fantasias in the style of J. S. and C. P. E. Bach
-“A Galant Conversation Surrounding Mozart’s K. 488,” Johnandrew Slominski (Linfield College) and Gilad Rabinovitch (Georgia State University)
-Part II
-Anna Maria Busse Berger responds to the performances; discussion follows.
-Joint Session: Listening for the “San Antonio Sound” in Tejano Conjunto/Progressive Music (Room?)
+---
+title: Listening for the “San Antonio Sound” in Tejano Conjunto/Progressive Music
+slug: listening-for-the-san-antonio-sound
+society: AMS/SMT
+layout: session
+time: 'Thursday evening, 8:00–10:00'
+room: ''
+chair:
+    name: Cathy Ragland
+    institution: University of North Texas
+    title: Moderator
+papers:
+    - bauer
+    - hatch
+    - ragland
+    - trevino
 
-Cathy Ragland (University of North Texas), Moderator
-Erin Bauer (University of Wisconsin-Whitewater), “The Hybridity of the San Antonio Sound: Cross-Cultural Amalgamations in the Texas-Mexican Accordion Music of Flaco Jiménez, Mingo Saldívar, Esteban Jordan, and Piñata Protest”
-Amy Hatch (University of North Texas), “San Antonio’s Progressive Voice: David Lee Garza’s pasadas, a Motivic Analysis of Performance ‘Formulas’”
-Cathy Ragland, “‘A Mi San Antonio (For My San Antonio)’: Eva Ybarra’s Dissonance in the Hypermasculine World of Tejano Conjunto”
-Joe Treviño (Blue Cat Recording Studio) and Max Baca (Los Texmaniacs), “Crafting ‘La onda Tejana (the Tejano Experience)’ in the Studio, on Stage, and in the Backyard”
-Publishing in Journals Roundtable (Room?)
 
-Sponsored by the AMS Committee on Career-Related Issues
-Geraldine Richards (Taylor & Francis), Chair
-Joy Calico (Vanderbilt University), JAMS
-Christopher Gibbs (Bard College), MQ
-Loren Kajikawa (George Washington University), JSAM
-Deborah Kauffman (University of Northern Colorado), JMR
-Rethinking the Enlightenment (AMS) (Room?)
+---
+title: Publishing in Journals Roundtable
+slug: publishing-in-journals
+society: AMS
+layout: session
+time: 'Thursday evening, 8:00–10:00'
+room: ''
+chair:
+    name: Geraldine Richards
+    institution: Taylor & Francis
+sponsor: AMS Committee on Career-Related Issues
+papers: ~
+panelists:
+    - name: Joy Calico 
+      institution: Vanderbilt University, <i>JAMS</i>
+    - name: Christopher Gibbs 
+      institution: Bard College, <i>MQ</i>
+    - name: Loren Kajikawa 
+      institution: George Washington University <i>JSAM</i>
+    - name: Deborah Kauffman 
+      institution: University of Northern Colorado, <i>JMR</i>
 
-Charles Dill (University of Wisconsin-Madison), Chair
-William Weber (California State University, Long Beach), Commentator
-Rebecca Geoffroy-Schwinden (University of North Texas)
-Andrei Pesic (Stanford University)
-Georgia Cowart (Case Western Reserve University)
-Olivia Bloechl (University of Pittsburgh)
+
+
+---
+title: Rethinking the Enlightenment
+slug: rethinking-the-enlightenment
+society: AMS
+layout: session
+time: 'Thursday evening, 8:00–10:00'
+room: ''
+chair:
+    name: Charles Dill
+    institution: University of Wisconsin-Madison
+respondent:
+    name: William Weber
+    institution: California State University, Long Beach 
+    title: Commentator
+papers: ~
+panelists:
+    - name: Rebecca Geoffroy-Schwinden 
+      institution: University of North Texas
+    - name: Andrei Pesic 
+      institution: Stanford University
+    - name: Georgia Cowart 
+      institution: Case Western Reserve University
+    - name: Olivia Bloechl 
+      institution: University of Pittsburgh
 
 
 THURSDAY EVENING SESSION—
@@ -77,12 +147,6 @@ papers:
     - abbate
     - szabo
     - taricani
-
-Edward Spencer (University of Oxford), “Beyond Intoxication: On Sobering Experiences of Electronic Dance Music”
-Tomas McAuley (University of Cambridge), “Orgasmic Rapture and Devotional Bliss: Schopenhauer on Music and Sex”
-Beth Abbate (Boston Conservatory), “
-Victor Szabo (Hampden-Sydney College), “
-JoAnn Taricani (University of Washington),
 
 
 THURSDAY EVENING SESSIONS—
@@ -154,10 +218,6 @@ papers:
     - garciacorona
     - amado_thu
 
-Jacqueline Avila (University of Tennessee), “
-Léon Felipe García Corona (Northern Arizona University), “Los Tres Reyes Sing to the Westside: Social Change and the Trio Style”
-Andrés R. Amado (University of Texas Rio Grande Valley), “Mariachi Mass in San Juan, Texas: Intersections of Faith, Ethnicity and Politics”
-
 
 
 ---
@@ -185,48 +245,102 @@ panelists:
 
 
 
-Perspectives on Public Music Theory and Analysis (SMT) (Room?)
+---
+title: Perspectives on Public Music Theory and Analysis
+slug: public-music-theory
+society: SMT
+layout: session
+time: 'Thursday Evening, 8:00–11:00'
+room: ''
+chair:
+    name: Anna Gawboy
+    institution: Ohio State University
+papers:
+    - jenkins_d
+    - thorau
+    - rehding
+    - barna
+    - piilonen
+    - stevens_d
 
-Anna Gawboy (Ohio State University), Chair
-J. Daniel Jenkins (University of South Carolina), “Leonard Bernstein’s Public Music Theory”
-Christian Thorau (Universität Potsdam, Germany), “Music Analysis, Popularized? Recent Technologies of Interactive Scores for Listeners”
-Alexander Rehding (Harvard University), “Graphic Animation as a Tool in Public Music Theory”
-Alyssa Barna (Eastman School of Music, University of Rochester), “Music Theory’s Role in Mainstream Digital Journalism”
-Miriam Piilonen (Northwestern University), “‘#musictheory Will Be the Death of Me’: Reflections on Tweeted Complaints about Music Theory”
-Daniel B. Stevens (University of Delaware), “Pedagogies of Encounter: Community Outreach and the Music Theory Classroom”
-Rethinking Amateurism (Room?)
+---
+title: Rethinking Amateurism
+slug: rethinking-amateurism
+society: AMS
+layout: session
+time: 'Thursday Evening, 8:00–11:00'
+sponsor: AMS Popular Music Study Group
+chair:
+    name: Albin Zak 
+    institution: University at Albany
+papers:
+    - craft
+    - blaistremblay
+    - ramirez
+    - miller_k
 
-Sponsored by the AMS Popular Music Study Group
-Albin Zak (University at Albany), Chair
-Elizabeth Craft (University of Utah), “A ‘Merely Entertaining Craftsman’? George M. Cohan and Early Twentieth-Century Discourses of Amateurism and Professionalism”
-Vanessa Blais-Tremblay (McGill University), “Vera Guilaroff and the Maple Leaf in (D)Rag: Issues of Identity, Genre, and Historiography with the Novelty Style”
-Jeannelle Ramírez (University of Texas at Austin), “‘Make music like a pro’: GarageBand and the Computer as Aspirational Folk Instrument”
-Keynote Address: Karl Hagstrom Miller (University of Virginia), “Sound Investments: Amateurs Make American Pop”
-Synchronizations (AMS) (Room?)
 
-Brian Kane (Yale University), Chair
-Daniel Callahan (Boston College)
-Alessandra Campana (Tufts University)
-Hayley Fenn (Harvard University)
-Marco Ladd (Yale University)
-Deirdre Loughridge (Northeastern University)
-Roger Moseley (Cornell University)
-Stephanie Probst (Deutsches Museum, Munich)
-Danielle Simon (University of California, Berkeley)
-Mary Simonson (Colgate University)
-Teaching and Learning through Interdisciplinarity (Room?)
 
-Sponsored by the AMS Pedagogy Study Group
-Paula J. Bishop (Bridgewater State University), Chair
-Jessica Getman (University of Michigan) and Lena Leson (University of Michigan), “Online Skills for Real-World Impact: The Gershwin Initiative’s Undergraduate Research Program”
-Kimberly Francis (University of Guelph), “Gamified Learning and the Limits of Interdisciplinarity: Lessons from the Scribe Hero Beta Launch”
-Sonia Seeman, Robin Moore, and Andrew Dell’Antonio (University of Texas at Austin), “Framing the Undergraduate Music Experience: Toward an Interdisciplinary Approach to the First-Year Course”
-Anna Stephan-Robinson (West Liberty University), “‘Musicianship’: An Interdisciplinary Course to Prepare First-Year Music Majors for Success”
-Claire Fontijn and Laura Jeppesen (Wellesley College), “‘Musicke’s Recreation’: Musicology Meets Performance in a Blended-Learning Course”
-THURSDAY EVENING SESSION—9:45–11:15
-Twentieth-Century Art Song: Babbitt and Beyond (SMT) (Room?)
+---
+title: Synchronizations
+slug: synchronizations
+society: AMS
+layout: session
+time: 'Thursday Evening, 8:00–11:00'
+chair:
+    name: Brian Kane
+    institution: Yale University
+papers: ~
+panelists:
+    - name: Daniel Callahan 
+      institution: Boston College
+    - name: Alessandra Campana 
+      institution: Tufts University
+    - name: Hayley Fenn 
+      institution: Harvard University
+    - name: Marco Ladd 
+      institution: Yale University
+    - name: Deirdre Loughridge 
+      institution: Northeastern University
+    - name: Roger Moseley 
+      institution: Cornell University
+    - name: Stephanie Probst 
+      institution: Deutsches Museum, Munich
+    - name: Danielle Simon 
+      institution: University of California, Berkeley
+    - name: Mary Simonson 
+      institution: Colgate University
 
-Joshua Banks Mailman (Columbia University), Chair
-Matthew BaileyShea (University of Rochester), “A Drunken Leg: Line, Phrasing, and Syntax in Song”
-Zachary Bernstein (Eastman School of Music, University of Rochester), “Poetic Form and Psychological Portraiture in Babbitt’s Early Texted Works”
-Nicholas Jurkowski (University of California, Santa Barbara), “The Medium and the Message: Milton Babbitt’s Sounds and Words in the Context of the RCA Synthesizer”
+
+
+---
+title: Teaching and Learning through Interdisciplinarity
+slug: teaching-learning-interdisciplinarity
+society: AMS
+layout: session
+time: 'Thursday evening, 8:00–11:00'
+sponsor: AMS Pedagogy Study Group
+chair:
+    name: Paula J. Bishop
+    institution: Bridgewater State University
+papers:
+    - getman-leson
+    - francis
+    - seeman-moore-dellantonio
+    - stephanrobinson
+    - fontijn-jeppesen
+
+
+---
+title: "Twentieth-Century Art Song: Babbitt and Beyond"
+slug: twentieth-century-art-song
+society: SMT
+layout: session
+time: 'Thursday evening, 9:45–11:15'
+chair:
+    name: Joshua Banks Mailman
+    institution: Columbia University
+papers:
+    - baileyshea
+    - bernstein
+    - jurkowski
