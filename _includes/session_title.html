@@ -1,16 +1,18 @@
-<p class="sessionInfo"><span class="room"><a href="/maps">{{ page.room }}</a></span> • {{ page.time }}</p>
-<h1>{{ page.title }}</h1>
-{% if page.sponsor %}
-<h3 class="sponsor">Sponsored by the {{ page.sponsor }}</h3>
+{% assign sess = site.data.sessions[page.slug] %}
+
+<p class="sessionInfo"><span class="room"><a href="/maps">{{ sess.room }}</a></span> • {{ sess.time }}</p>
+<h1>{{ sess.title }}</h1>
+{% if sess.sponsor %}
+<h3 class="sponsor">Sponsored by the {{ sess.sponsor }}</h3>
 {% endif %}
 
 {%- capture chair -%}
-  {%- if page.chair.formatted -%}
-    {{ page.chair.formatted }}
+  {%- if sess.chair.formatted -%}
+    {{ sess.chair.formatted }}
   {%- else -%}
-    {{ page.chair.name }} ({{ page.chair.institution }}),&nbsp;
-    {%- if page.chair.title -%}
-      {{ page.chair.title }}
+    {{ sess.chair.name }} ({{ sess.chair.institution }}),&nbsp;
+    {%- if sess.chair.title -%}
+      {{ sess.chair.title }}
     {%- else -%}
       Chair
     {%- endif -%}
@@ -18,11 +20,11 @@
 {%- endcapture -%}
 
 <p class="chair">{{ chair }}
-{%- if page.respondent -%}
+{%- if sess.respondent -%}
 <br />
-  {{ page.respondent.name }} ({{ page.respondent.institution }}),&nbsp;
-  {%- if page.respondent.title -%}
-    {{ page.respondent.title }}
+  {{ sess.respondent.name }} ({{ sess.respondent.institution }}),&nbsp;
+  {%- if sess.respondent.title -%}
+    {{ sess.respondent.title }}
   {%- else -%}
     Respondent
   {%- endif -%}

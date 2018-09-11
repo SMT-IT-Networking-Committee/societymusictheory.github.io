@@ -1,4 +1,6 @@
-{% for paper in page.papers %}
+{% assign sess = site.data.sessions[page.slug] %}
+
+{% for paper in sess.papers %}
   {% assign p = site.data.papers[paper] %}
   {% capture auth %}
     {% if p.authors[0].formatted %}

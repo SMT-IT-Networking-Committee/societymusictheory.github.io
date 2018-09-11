@@ -16,9 +16,6 @@ binmode(STDOUT, ':utf8');
 my $SESSION_PATH = path('/Users/michael/code/smt/societymusictheory.github.io/_data/sessions');
 
 my $append_paper = <<EOF;
----
-
-{% include session_title.html %}
 {% include paper_titles.html %}
 
 <h2>Abstracts</h2>
@@ -27,8 +24,6 @@ EOF
 
 my $append_panel = <<EOF;
 ---
-
-{% include session_title.html %}
 {% include panelist_info.html %}
 EOF
 
@@ -43,11 +38,21 @@ my $slug = $struct->{slug};
 my $html_path = path("$slug.html");
 my $yaml_path = $SESSION_PATH->child("$slug.yml");
 
+my $html = <<EOF;
+---
+title: "$struct->{title}"
+slug: $struct->{slug}
+layout: session
+---
+
+{% include session_title.html %}
+EOF
+
 
 my $append_what = $struct->{panelists} ? $append_panel : $append_paper;
 
 # ->spew rather than ->spew_utf8 because we have octets here.
-$html_path->spew($given . $append_what);
+$html_path->spew($html . $append_what);
 $yaml_path->spew(join '', @lines[1..$#lines]);
 
 # ...but vim wants characters
