@@ -1,38 +1,9 @@
 ---
 authors:
-    - name: Thomas Johnson
-      institution: 'The Graduate Center, CUNY'
-title: '#genre'
-link: "/sessions/thu/afternoon/reconsidering-genre.html"
-handout: 'johnson.pdf'
+- name: Thomas Johnson
+  institution: Skidmore College
+title: "Description-as-Analysis and Orchestration-as-Form in Feldman’s Coptic Light"
+handout: ''
 abstract: |
-    <p>“Genre is dead!” The sentiment resounds throughout current
-    popular-music critic-fan and artist discourses, as developments like
-    predictive algorithms, professional playlist curators, and ubiquitous
-    access all throw wrenches into traditional machines of musical
-    categorization. Recent sociological work on the increasing eclecticism of
-    musical tastes appears to support this perspective, flattening
-    conventional boundaries between kinds of music and classes of people.</p>
-
-    <p>But in this talk, I argue that such omnivorousness of musical
-    proclivities doesn’t obviate popular music genres; instead, it hints at a
-    deeper shift in genre ordering. To address this change, I explicitly
-    theorize the work genre does in the smooth and striated spaces of popular
-    music with a new concept I call “#genre.” Essentially, #genre captures the
-    adjectival quality and in-between-ness of the seemingly-flattened
-    stylistic world of popular music categories by exploring clusters of
-    related artists, genre tags, and playlist constituency.</p>
-
-    <p>My methodology approaches this topological change by excavating the
-    kinds of linear genre-fabric that Spotify weaves through its platform,
-    investigating relational algorithms and proprietary metadata. To do so, I
-    use original Python scripts to access and parse Spotify’s metadata,
-    quantitatively assessing the various <i>kinds </i>of connections that the
-    streaming service generates. I compare these results to demographic biases
-    to problematize notions of a “post-genre” musical landscape, nudging genre
-    discourses away from conventional phylogenetic cartographies or nested
-    hierarchies and towards lateral and multiple models. My methodology and
-    conception of #genre show how classification continues to guide all parts
-    of the 21st-century popular music machine, demanding a renewed
-    investigation.</p>
+  <p>Abstract goes here</p>
 

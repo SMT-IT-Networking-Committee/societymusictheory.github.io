@@ -1,34 +1,9 @@
 ---
 authors:
-    - name: Leah Frederick
-      institution: Indiana University
-title: Generic (Mod-7) Voice-Leading Spaces
-link: "/sessions/fri/afternoon/topics-in-geometrical-music-theory.html"
-handout: 'frederick.pdf'
+- name: Leah Frederick
+  institution: Indiana University
+title: "Diatonic Voice-Leading Transformations"
+handout: ''
 abstract: |
-    <p>In the burgeoning field of geometric music theory, scholars have
-    explored ways of spatially representing voice leadings between chords. The
-    <i>OPTIC</i> spaces provide a way to examine all “classes” of <i>n</i>-note
-    chords formed under various types of equivalence: octave, permutational,
-    transpositional, inversional, and cardinality. Although it is possible to map
-    diatonic progressions in these spaces, they often appear irregular since the
-    spaces are constructed with the fundamental unit of a mod-12 semitone, rather
-    than a mod-7 diatonic step. Outside of geometric music theory, the properties
-    of diatonic structure have been studied more broadly: Clough has established
-    framework for describing diatonic structure analogous to that of Forte’s set
-    theory; Hook provides a more generalized, “generic,” version of this work to
-    describe any seven-note scale.  This paper employs these theories in order to
-    explore the fundamental difference between mod-12 and mod-7 spaces: that is,
-    whether the spaces are fundamentally discrete or continuous.</p>
-
-    <p>After reviewing the construction of these voice-leading spaces, this
-    paper will present the mod-7 <i>OPTIC-</i>,<i> OPTI</i>-, <i>OPT</i>-, and
-    <i>OP</i>-spaces of 2- and 3-note chords. Although these spaces are
-    fundamentally discrete, they can be imagined as lattice points within a
-    continuous space. This construction reveals that the chromatic (mod-12)
-    and generic (mod-7) voice-leading lattices both derive from the same
-    topological space. In fact, although the discrete versions of these
-    lattices appear to be quite different, the topological space underlying
-    each of these graphs depends solely on the number of notes in the chords
-    and the particular <i>OPTIC</i> relations applied.</p>
+  <p>Abstract goes here</p>
 

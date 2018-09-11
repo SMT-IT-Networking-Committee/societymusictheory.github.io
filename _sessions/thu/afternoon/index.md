@@ -3,21 +3,36 @@ layout: default
 title: Thursday Afternoon Sessions
 ---
 
-[Complete list of Thursday Afternoon sessions](complete.html)
-
 # Thursday Afternoon Sessions
 
-## Full-Length Sessions, 2:00--5:00
+## 2:15--5:30
+{% include session-short.html session="workplace-harassment" %}
 
-* [Notation and Performance: Influence, Intersection, and Interpretation](notation-and-performance.html)
-* [Russian Music](russian-music.html)
+## 2:15--3:45
 
-## Short Sessions, 2:00--3:30
+{% include session-short.html session="african-american-representations" %}
+{% include session-short.html session="cassettes" %}
+{% include session-short.html session="eighteenth-century-opera" %}
+{% include session-short.html session="enlightenment-aesthetics" %}
+{% include session-short.html session="genres-in-transformation" %}
+{% include session-short.html session="history-of-theory" %}
+{% include session-short.html session="neo-riemannian-theory" %}
+{% include session-short.html session="place-for-women" %}
+{% include session-short.html session="recomposition-forgery-plagiarism" %}
+{% include session-short.html session="rhythm-flow-transcendence" %}
+{% include session-short.html session="subjectivity-time-hearing" %}
+{% include session-short.html session="visualizing-archival-research" %}
 
-* [Revisiting Prolongation and Dissonance in Jazz](revisiting-prolongation-and-dissonance-in-jazz.html)
-* [Transformations](transformations.html)
+## 4:00--5:30
 
-## Short Sessions, 3:30--5:00
-
-* [Instruments and Transformations](instruments-and-transformations.html)
-* [Reconsidering Genre](reconsidering-genre.html)
+{% include session-short.html session="cold-war" %}
+{% include session-short.html session="diatonic-collectional-theory" %}
+{% include session-short.html session="embodiment-tonality" %}
+{% include session-short.html session="floyd-the-dead" %}
+{% include session-short.html session="lamenting-women" %}
+{% include session-short.html session="latin-american-representations" %}
+{% include session-short.html session="medieval-early-modern-theory" %}
+{% include session-short.html session="pop-poetics-style" %}
+{% include session-short.html session="rethinking-appropriation" %}
+{% include session-short.html session="sound-materials" %}
+{% include session-short.html session="time-in-opera" %}

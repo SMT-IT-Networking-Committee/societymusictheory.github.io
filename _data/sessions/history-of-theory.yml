@@ -1,13 +1,13 @@
-title: History of Theory
-slug: history-of-theory
+title: "History of Theory: Politics, Practicalities and Speculation"
+slug:  history-of-theory
+society: SMT
 layout: session
-time: 'Thursday evening, 8:00–11:00'
-room: Studio B
+time: 'Thursday afternoon, 2:15–3:45'
+room: ''
 chair:
-    name: Thomas Christensen
-    institution: University of Chicago
+    name: Caleb Mutch
+    institution: Indiana University
 papers:
-    - mutch
-    - redwood
-    - remes
-    - burton
+    - fitzgibbon
+    - klopfenstein
+    - sabetrohani

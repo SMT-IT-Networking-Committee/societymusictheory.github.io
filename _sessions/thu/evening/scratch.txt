@@ -1,0 +1,346 @@
+(scratch page)
+
+---
+title: AMS President’s Endowed Plenary Lecture
+slug: endowed-plenary-lecture
+society: AMS
+layout: session
+time: 'Thursday evening, 6:00–7:00'
+room: ''
+chair:
+    name: Martha Feldman
+    institution: University of Chicago
+respondent:
+    name: Guthrie P. Ramsey, Jr.
+    institution: University of Pennsylvania
+    title: Interlocutor
+papers:
+    - reece_d
+
+
+
+---
+title: "Embodiment and Voice in Contemporary Music"
+slug: embodiment-voice-contemporary-music
+society: SMT
+layout: session
+time: 'Thursday evening, 8:00–9:30'
+room: ''
+chair:
+    name: Judith Lochhead
+    institution: Stony Brook University
+papers:
+    - jakubowski
+    - mason
+    - oinas
+
+
+---
+title: "Extemporaneous Dialogues on Historical Improvisation: Bridging Music, Music History, and Theory"
+slug: extemporaneous-dialogues-improvisation
+society: AMS/SMT
+layout: session
+time: 'Thursday evening, 8:00–10:00'
+room: ''
+chair:
+    formatted_short: ''
+sponsor: SMT Interest Group on Improvisation with Anna Maria Busse Berger
+papers: ~
+panelists:
+    - name: Massimiliano Guido
+      institution: University of Pavia
+    - name: Peter Schubert
+      institution: McGill University
+    - name: Johnandrew Slominsky
+      institution: Linfield College
+    - name: Gilad Rabinovitch
+      institution: Georgia State University
+    - name: Anna Maria Busse Berger
+      institution: University of California, Davis
+
+
+
+---
+title: Listening for the “San Antonio Sound” in Tejano Conjunto/Progressive Music
+slug: listening-for-the-san-antonio-sound
+society: AMS/SMT
+layout: session
+time: 'Thursday evening, 8:00–10:00'
+room: ''
+chair:
+    name: Cathy Ragland
+    institution: University of North Texas
+    title: Moderator
+papers:
+    - bauer
+    - hatch
+    - ragland
+    - trevino
+
+
+---
+title: Publishing in Journals Roundtable
+slug: publishing-in-journals
+society: AMS
+layout: session
+time: 'Thursday evening, 8:00–10:00'
+room: ''
+chair:
+    name: Geraldine Richards
+    institution: Taylor & Francis
+sponsor: AMS Committee on Career-Related Issues
+papers: ~
+panelists:
+    - name: Joy Calico 
+      institution: Vanderbilt University, <i>JAMS</i>
+    - name: Christopher Gibbs 
+      institution: Bard College, <i>MQ</i>
+    - name: Loren Kajikawa 
+      institution: George Washington University <i>JSAM</i>
+    - name: Deborah Kauffman 
+      institution: University of Northern Colorado, <i>JMR</i>
+
+
+
+---
+title: Rethinking the Enlightenment
+slug: rethinking-the-enlightenment
+society: AMS
+layout: session
+time: 'Thursday evening, 8:00–10:00'
+room: ''
+chair:
+    name: Charles Dill
+    institution: University of Wisconsin-Madison
+respondent:
+    name: William Weber
+    institution: California State University, Long Beach 
+    title: Commentator
+papers: ~
+panelists:
+    - name: Rebecca Geoffroy-Schwinden 
+      institution: University of North Texas
+    - name: Andrei Pesic 
+      institution: Stanford University
+    - name: Georgia Cowart 
+      institution: Case Western Reserve University
+    - name: Olivia Bloechl 
+      institution: University of Pittsburgh
+
+
+THURSDAY EVENING SESSION—
+8:00–10:30
+
+---
+title: Intoxication 
+slug: intoxication
+society: AMS
+layout: session
+time: 'Thursday Evening, 8:00–10:30'
+chair:
+    name: Andrew Hicks
+    institution: Cornell University
+sponsor: AMS Music and Philosophy Study Group
+papers:
+    - spencer
+    - mcauley
+    - abbate
+    - szabo
+    - taricani
+
+
+THURSDAY EVENING SESSIONS—
+8:00–11:00
+
+
+---
+title: The Dynamics of the Job Interview
+slug: dynamics-job-interview
+society: SMT
+layout: session
+time: 'Thursday Evening, 8:00–11:00'
+chair:
+    name: Roger Graybill
+    institution: New England Conservatory
+    title: Moderator
+sponsor: SMT Professional Development Committee
+papers: []
+panelists:
+    - name: Michael Callahan
+      institution: Michigan State University
+    - name: Philip Duker
+      institution: University of Delaware
+    - name: Megan Lavengood
+      institution: George Mason Universti
+    - name: Elizabeth Sayrs
+      institution: Ohio University
+
+
+---
+title: "Music, Disability, and the Environment: Bridging Scholarship with Activism"
+slug: music-disability-environment
+society: AMS/SMT
+layout: session
+time: 'Thursday Evening, 8:00–11:00'
+chair:
+    formatted: Jacob Cohen (Macaulay Honors College, CUNY), Anabel Maler (Indiana University), Jessica A. Holmes (University of California, Los Angeles), Chairs
+    formatted_short: Jacob Cohen, Anabel Maler, and Jessica A. Holmes, Chairs
+papers: ~
+panelists:
+    - name: Chantal Lemire
+      institution: Western University
+    - name: Jessica Schwartz
+      institution: University of California, Los Angeles
+    - name: Ailsa Lipscombe
+      institution: University of Chicago
+    - name: William Robin
+      institution: University of Maryland
+    - name: James Deaville
+      institution: Carleton University
+    - name: Rachel Mundy
+      institution: Rutgers University-Newark
+sponsor: AMS Music and Disability Study Group, SMT Music and Disability Interest Group, and AMS Ecocriticism Study Group
+
+
+
+---
+title: "Music at the Border"
+slug: music-at-the-border
+society: AMS
+layout: session
+time: 'Thursday Evening, 8:00–11:00'
+chair:
+    name: Jesús A. Ramos-Kittrell
+    institution: University of Connecticut
+sponsor: AMS Ibero-American Music Study Group
+papers:
+    - avila
+    - garciacorona
+    - amado_thu
+
+
+
+---
+title: 'Othered within the Other: Marginalized Voices in Jewish Studies'
+slug: othered-within-other
+society: AMS
+layout: session
+time: 'Thursday Evening, 8:00–11:00'
+chair:
+    name: Brigid Cohen 
+    institution: New York University
+    title: Chair and Respondent
+sponsor: AMS Jewish Studies and Music Study Group
+papers: ~
+panelists:
+    - name: Assaf Shelleg 
+      institution: Hebrew University of Jerusalem
+    - name: Karen Uslin 
+      institution: Rowan University
+    - name: Kristofer Matthias Eckelhoff 
+      institution: Graduate Center, CUNY
+    - name: Bobbi Elkamely 
+      institution: U.S. Grant Hight School/El Sistema
+
+
+
+
+---
+title: Perspectives on Public Music Theory and Analysis
+slug: public-music-theory
+society: SMT
+layout: session
+time: 'Thursday Evening, 8:00–11:00'
+room: ''
+chair:
+    name: Anna Gawboy
+    institution: Ohio State University
+papers:
+    - jenkins_d
+    - thorau
+    - rehding
+    - barna
+    - piilonen
+    - stevens_d
+
+---
+title: Rethinking Amateurism
+slug: rethinking-amateurism
+society: AMS
+layout: session
+time: 'Thursday Evening, 8:00–11:00'
+sponsor: AMS Popular Music Study Group
+chair:
+    name: Albin Zak 
+    institution: University at Albany
+papers:
+    - craft
+    - blaistremblay
+    - ramirez
+    - miller_k
+
+
+
+---
+title: Synchronizations
+slug: synchronizations
+society: AMS
+layout: session
+time: 'Thursday Evening, 8:00–11:00'
+chair:
+    name: Brian Kane
+    institution: Yale University
+papers: ~
+panelists:
+    - name: Daniel Callahan 
+      institution: Boston College
+    - name: Alessandra Campana 
+      institution: Tufts University
+    - name: Hayley Fenn 
+      institution: Harvard University
+    - name: Marco Ladd 
+      institution: Yale University
+    - name: Deirdre Loughridge 
+      institution: Northeastern University
+    - name: Roger Moseley 
+      institution: Cornell University
+    - name: Stephanie Probst 
+      institution: Deutsches Museum, Munich
+    - name: Danielle Simon 
+      institution: University of California, Berkeley
+    - name: Mary Simonson 
+      institution: Colgate University
+
+
+
+---
+title: Teaching and Learning through Interdisciplinarity
+slug: teaching-learning-interdisciplinarity
+society: AMS
+layout: session
+time: 'Thursday evening, 8:00–11:00'
+sponsor: AMS Pedagogy Study Group
+chair:
+    name: Paula J. Bishop
+    institution: Bridgewater State University
+papers:
+    - getman-leson
+    - francis
+    - seeman-moore-dellantonio
+    - stephanrobinson
+    - fontijn-jeppesen
+
+
+---
+title: "Twentieth-Century Art Song: Babbitt and Beyond"
+slug: twentieth-century-art-song
+society: SMT
+layout: session
+time: 'Thursday evening, 9:45–11:15'
+chair:
+    name: Joshua Banks Mailman
+    institution: Columbia University
+papers:
+    - baileyshea
+    - bernstein
+    - jurkowski
