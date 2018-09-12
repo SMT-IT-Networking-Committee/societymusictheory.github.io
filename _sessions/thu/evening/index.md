@@ -5,6 +5,8 @@ title: Thursday Evening Sessions
 
 # Thursday Evening Sessions
 
+[View session titles only](index-short)
+
 ## 6:00--7:00
 
 {% include session-short.html session="endowed-plenary-lecture" %}

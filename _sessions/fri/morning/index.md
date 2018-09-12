@@ -5,6 +5,8 @@ title: Friday Morning Sessions
 
 # Friday Morning Sessions
 
+[View session titles only](index-short)
+
 ## 9:00--12:15
 
 {% include session-short.html session="debussy-sound-cultural-imagination" %}

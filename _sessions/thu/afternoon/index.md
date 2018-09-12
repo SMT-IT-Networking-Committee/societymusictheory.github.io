@@ -5,6 +5,8 @@ title: Thursday Afternoon Sessions
 
 # Thursday Afternoon Sessions
 
+[View session titles only](index-short)
+
 ## 2:15--5:30
 {% include session-short.html session="workplace-harassment" %}
 

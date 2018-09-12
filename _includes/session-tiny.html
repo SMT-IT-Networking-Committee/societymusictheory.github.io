@@ -1,0 +1,5 @@
+{% assign sess = site.data.sessions[include.session] %}
+
+<li><a href="{{ sess.slug }}">{{ sess.title }}</a>
+   {% if sess.society %}<span class="society">({{ sess.society }})</span>{% endif %}
+  <span class="room">({{ sess.room }})</span></li>
