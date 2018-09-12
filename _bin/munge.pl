@@ -23,12 +23,11 @@ my $append_paper = <<EOF;
 EOF
 
 my $append_panel = <<EOF;
----
 {% include panelist_info.html %}
 EOF
 
 
-my @lines = <STDIN>;
+my @lines =  <STDIN>;
 @lines = map {; encode('utf-8', $_) } @lines;
 my $given = join '', @lines;
 
