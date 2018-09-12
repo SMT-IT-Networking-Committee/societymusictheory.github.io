@@ -1,7 +1,9 @@
+{% assign sess = site.data.sessions[page.slug] %}
+
 <h2>Panelists</h2>
 
 <ul>
-{% for panelist in page.panelists %}
+{% for panelist in sess.panelists %}
   <li>{{ panelist.name }} ({{ panelist.institution }})</li>
 {% endfor %}
 </ul>
