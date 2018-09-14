@@ -1,0 +1,216 @@
+scratch document
+
+---
+title: "Roots and Records: Analyzing Bluegrass and Americana"
+slug: roots-and-records
+society: SMT
+room: Texas A
+time: 'Friday afternoon, 2:15–4:15'
+chair:
+    name: Chelsea Burns
+    institution: Eastman School of Music, University of Rochester
+respondent:
+    name: Steven Rings
+    institution: University of Chicago
+papers:
+    - rockwell
+    - newton
+    - neal
+    - palmer
+
+
+---
+title: Agency, Algorithms, Aurality
+slug: agency-algorithms-aurality
+society: SMT
+room: Lone Star B
+time: 'Friday afternoon, 2:15–3:45'
+chair:
+    name: Maryam Moshaver
+    institution: University of Alberta
+papers:
+    - walthamsmith
+    - luong
+    - miller
+
+
+---
+title: Arcadia and the Pastoral
+slug: arcadia-pastoral
+society: AMS
+room: Lone Star A
+time: 'Friday afternoon, 2:15–3:45'
+chair:
+    name: Basil Considine
+    institution: University of Tennessee-Chattanooga
+papers:
+    - doe
+    - mitchell
+    - peiser
+
+
+---
+title: Beethoven Elsewhere
+slug: beethoven-elsewhere
+society: AMS
+room: Republic B
+time: 'Friday afternoon, 2:15–3:45'
+chair:
+    name: Tekla Babyak
+    institution: independent scholar, Davis, Calif.
+papers:
+    - chong
+    - timberlake
+    - salinas
+
+
+---
+title: Composing Notre Dame Polyphony
+slug: composing-notre-dame-polyphony
+society: AMS
+room: Texas F
+time: 'Friday afternoon, 2:15–3:45'
+chair:
+    name: Mary Wolinski
+    institution: Western Kentucky University
+papers:
+    - mathias
+    - bradley
+    - schroeder
+
+
+---
+title: Contesting European Music
+slug: contesting-european-music
+society: AMS
+room: Crockett AB
+time: 'Friday afternoon, 2:15–3:45'
+chair:
+    name: Laura Tunbridge
+    institution: University of Oxford
+papers:
+    - crisenbery
+    - bomberger
+    - hambridge
+
+---
+title: Crossing the Pacific
+slug: crossing-the-pacific
+society: AMS
+room: Texas C
+time: 'Friday afternoon, 2:15–3:45'
+chair:
+    name: Jeongwon Joe
+    institution: University of Cincinnati
+papers:
+    - tang
+    - edwards
+    - chang
+
+
+---
+title: Dance Forms
+slug: dance-forms
+society: SMT
+room: Travis AB
+time: 'Friday afternoon, 2:15–3:45'
+chair:
+    name: Gretchen Horlacher
+    institution: Indiana University
+papers:
+    - stevens
+    - simpsonlitke
+    - goldberg
+
+
+---
+title: "Panel: Diversity in Publication"
+slug: diversity-in-publication
+society: AMS
+room: Presidio B
+time: 'Friday afternoon, 2:15–3:45'
+sponsor: Sponsored by the AMS Committee on Career-Related Issues 
+chair:
+    formatted: Mary C. Francis (University of Michigan Press), Shawn Keener (A-R Editions), Chairs
+    formatted_short: Mary C. Francis and Shawn Keener, Chairs
+papers: ~
+panelists:
+    - name: Daphne Carr 
+      institution: New York University
+    - name: Norman Hirschy 
+      institution: Oxford University Press
+    - name: Loren Kajikawa 
+      institution: George Washington University
+    - name: Guthrie P. Ramsey, Jr. 
+      institution: University of Pennsylvania
+
+
+---
+title: Emigrés and Stereotypes
+slug: emigres-and-stereotypes
+society: AMS
+room: Texas D
+time: 'Friday afternoon, 2:15–3:45'
+chair:
+    name: Laura Pruett
+    institution: Merrimack College
+papers:
+    - agugliaro
+    - rindom
+    - zelensky
+
+---
+title: 'Seminar: On the Academic Pipeline'
+slug: academic-pipeline
+society: AMS
+room: Texas E
+time: 'Friday afternoon, 2:15–3:45'
+chair:
+    formatted: Ellie Hisama (Columbia University), Matthew Leslie Santana (Harvard University), conveners 
+    formatted_short: Ellie Hisama and Matthew Leslie Santana, conveners 
+papers:
+    - attas-nickleson
+    - uy
+    - desaistephens
+
+---
+title: Radio
+slug: radio
+society: AMS
+room: Crockett CD
+time: 'Friday afternoon, 2:15–3:45'
+chair:
+    name: Beth Levy
+    institution: University of California, Davis
+papers:
+    - morganellis
+    - green
+    - simon
+
+---
+title: Seventeenth-Century Italian Voices and Bodies
+slug: 17c-italian-voices-bodies
+society: AMS
+room: Texas B
+time: 'Friday afternoon, 2:15–3:45'
+chair:
+    name: Robert Holzer
+    institution: Yale University
+papers:
+    - freitas
+    - purciello
+    - heller
+
+---
+title: "Unity, Geometry, and Aesthetics: Revivals of Pythagoreanism in Eighteenth- and Nineteenth-Century Music Theory"
+slug: unity-geometry-aesthetics
+society: SMT
+room: Travis CD
+time: 'Friday afternoon, 2:15–3:45'
+chair:
+    name: Nathan John Martin
+    institution: University of Michigan
+papers:
+    - cohen
+    - raz
+    - christensen_t
