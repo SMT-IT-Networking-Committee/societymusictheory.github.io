@@ -17,11 +17,15 @@
     Chair
   {%- endif -%}
   {%- if sess.respondent -%}
-    ; {{ sess.respondent.name }},&nbsp;
-    {%- if sess.respondent.title -%}
-      {{ sess.respondent.title }}
+    {%- if sess.respondent.formatted_short -%}
+      ; {{ sess.respondent.formatted_short }}
     {%- else -%}
-      Respondent
+      ; {{ sess.respondent.name }},&nbsp;
+      {%- if sess.respondent.title -%}
+        {{ sess.respondent.title }}
+      {%- else -%}
+        Respondent
+      {%- endif -%}
     {%- endif -%}
   {%- endif -%}
 {%- endif -%}

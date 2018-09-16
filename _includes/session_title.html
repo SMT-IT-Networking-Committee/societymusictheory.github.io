@@ -22,11 +22,15 @@
 <p class="chair">{{ chair }}
 {%- if sess.respondent -%}
 <br />
-  {{ sess.respondent.name }} ({{ sess.respondent.institution }}),&nbsp;
-  {%- if sess.respondent.title -%}
-    {{ sess.respondent.title }}
+  {%- if sess.respondent.formatted -%}
+    {{ sess.respondent.formatted }}
   {%- else -%}
-    Respondent
+    {{ sess.respondent.name }} ({{ sess.respondent.institution }}),&nbsp;
+    {%- if sess.respondent.title -%}
+      {{ sess.respondent.title }}
+    {%- else -%}
+      Respondent
+    {%- endif -%}
   {%- endif -%}
 {%- endif -%}
 </p>
