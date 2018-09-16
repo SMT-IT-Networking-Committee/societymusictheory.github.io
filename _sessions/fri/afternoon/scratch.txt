@@ -129,19 +129,19 @@ slug: diversity-in-publication
 society: AMS
 room: Presidio B
 time: 'Friday afternoon, 2:15–3:45'
-sponsor: Sponsored by the AMS Committee on Career-Related Issues 
+sponsor: Sponsored by the AMS Committee on Career-Related Issues
 chair:
     formatted: Mary C. Francis (University of Michigan Press), Shawn Keener (A-R Editions), Chairs
     formatted_short: Mary C. Francis and Shawn Keener, Chairs
 papers: ~
 panelists:
-    - name: Daphne Carr 
+    - name: Daphne Carr
       institution: New York University
-    - name: Norman Hirschy 
+    - name: Norman Hirschy
       institution: Oxford University Press
-    - name: Loren Kajikawa 
+    - name: Loren Kajikawa
       institution: George Washington University
-    - name: Guthrie P. Ramsey, Jr. 
+    - name: Guthrie P. Ramsey, Jr.
       institution: University of Pennsylvania
 
 
@@ -166,8 +166,8 @@ society: AMS
 room: Texas E
 time: 'Friday afternoon, 2:15–3:45'
 chair:
-    formatted: Ellie Hisama (Columbia University), Matthew Leslie Santana (Harvard University), conveners 
-    formatted_short: Ellie Hisama and Matthew Leslie Santana, conveners 
+    formatted: Ellie Hisama (Columbia University), Matthew Leslie Santana (Harvard University), conveners
+    formatted_short: Ellie Hisama and Matthew Leslie Santana, conveners
 papers:
     - attas-nickleson
     - uy
@@ -214,3 +214,186 @@ papers:
     - cohen
     - raz
     - christensen_t
+
+
+---
+title: Posters
+slug: posters-ams
+society: AMS
+room: Lone Star CDEF
+time: 'Friday afternoon, 4:00–5:30'
+chair:
+    formatted: ''
+    formatted_short: ''
+papers:
+    - clifton
+    - houyshaver
+    - torres
+
+---
+title: Cultural Exchange
+slug: cultural-exchange
+society: AMS
+room: Crockett AB
+time: 'Friday afternoon, 4:00–5:30'
+chair:
+    name: Beau Bothwell
+    institution: Kalamazoo College
+papers:
+    - stalarow
+    - payne
+    - dorf
+
+
+---
+title: Explorations of Sound
+slug: explorations-of-sound
+society: AMS
+room: Crockett CD
+time: 'Friday afternoon, 4:00–5:30'
+chair:
+    name: Amy Bauer
+    institution: University of California, Irvine
+papers:
+    - wilson_s
+    - levy
+    - cimini
+
+
+---
+title: Manuscripts
+slug: manuscripts
+society: AMS
+room: Lone Star A
+time: 'Friday afternoon, 4:00–5:30'
+chair:
+    name: Catherine Saucier
+    institution: Arizona State University
+papers:
+    - sewright
+    - roule
+    - pintodesa
+
+---
+title: Media Transformations
+slug: media-transformations
+society: AMS
+room: Texas B
+time: 'Friday afternoon, 4:00–5:30'
+chair:
+    name: Nick Stevens
+    institution: Case Western Reserve University
+papers:
+    - mccorkle
+    - boyd
+    - brooks
+
+---
+title: Modern Figures in the History of Music Theory
+slug: modern-figures-history-theory
+society: SMT
+room: Travis CD
+time: 'Friday afternoon, 4:00–5:30'
+chair:
+    name: Alan Street
+    institution: University of Kansas
+papers:
+    - lumsden
+    - wiskus
+    - elder
+
+---
+title: New Histories of “Latin American” Opera
+slug: new-histories-latin-american-opera
+society: AMS
+room: Texas F
+time: 'Friday afternoon, 4:00–5:30'
+chair:
+    name: Rogerio Budasz
+    institution: University of California, Riverside
+papers:
+    - walton
+    - bentley
+    - izquierdokonig
+
+---
+title: "Nineteenth-Century Music: New Perspectives"
+slug: 19c-music-new-perspectives
+society: SMT
+room: Travis AB
+time: 'Friday afternoon, 4:00–5:30'
+chair:
+    name: Daniel Harrison
+    institution: Yale University
+papers:
+    - zhang
+    - piche
+    - weiss
+
+---
+title: Objects and Mediators
+slug: objects-and-mediators
+society: SMT
+room: Lone Star B
+time: 'Friday afternoon, 4:00–5:30'
+chair:
+    name: Alexander Rehding
+    institution: Harvard University
+papers:
+    - ayers
+    - wente
+    - sofer
+
+---
+title: Recognizing Women’s Labor
+slug: recognizing-womens-labor
+society: AMS
+room: Texas C
+time: 'Friday afternoon, 4:00–5:30'
+chair:
+    name: Rebecca Geoffroy-Schwinden
+    institution: University of North Texas
+papers:
+    - mazuelaanguita
+    - dye
+    - vagnerova
+
+---
+title: "“Who is this?” Listening for Practices of Antiphonal Life in African American Music and Performance"
+slug: who-is-this
+society: AMS
+room: Texas D
+time: 'Friday afternoon, 4:00–5:30'
+chair:
+    name: Nina Sun Eidsheim
+    institution: University of California, Los Angeles
+papers:
+    - jones_a
+    - morrison
+    - redmond
+
+---
+title: "Panel: Workshop on Access and Accessibility"
+slug: workshop-access-accessibility
+society: AMS
+sponsor: AMS Committee on Women and Gender
+room: Texas E
+time: 'Friday afternoon, 4:00–5:30'
+chair:
+    name: Mary Hunter
+    institution: Bowdoin College
+papers: ~
+panelists:
+    - name: Naomi André 
+      institution: University of Michigan
+    - name: Suzanne Cusick 
+      institution: New York University
+    - name: Jeannette Di Bernardo Jones 
+      institution: Boston University
+    - name: Gayle Murchison 
+      institution: College of William and Mary
+    - name: Linda Shaver-Gleason 
+      institution: Not Another Music History Cliché
+    - name: Reba Wissner 
+      institution: Montclair State University
+

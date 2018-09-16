@@ -26,3 +26,19 @@ title: Friday Afternoon Sessions
 {% include session-short.html session="radio" %}
 {% include session-short.html session="17c-italian-voices-bodies" %}
 {% include session-short.html session="unity-geometry-aesthetics" %}
+
+
+## 4:00--5:30
+
+{% include session-short.html session="posters-ams" %}
+{% include session-short.html session="cultural-exchange" %}
+{% include session-short.html session="explorations-of-sound" %}
+{% include session-short.html session="manuscripts" %}
+{% include session-short.html session="media-transformations" %}
+{% include session-short.html session="modern-figures-history-theory" %}
+{% include session-short.html session="new-histories-latin-american-opera" %}
+{% include session-short.html session="19c-music-new-perspectives" %}
+{% include session-short.html session="objects-and-mediators" %}
+{% include session-short.html session="recognizing-womens-labor" %}
+{% include session-short.html session="who-is-this" %}
+{% include session-short.html session="workshop-access-accessibility" %}

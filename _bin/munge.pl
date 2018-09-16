@@ -3,11 +3,17 @@ use v5.24;
 use warnings;
 use Path::Tiny;
 use Data::Dumper::Concise;
+use Getopt::Long::Descriptive;
 use YAML::XS;
 use Encode;
 
 binmode(STDIN, ':utf8');
 binmode(STDOUT, ':utf8');
+
+my ($opt, $usage) = describe_options(
+  '%c %o <STDIN>',
+  [ 'force|f', "create even if there's already a session with this slug" ],
+);
 
 # This is a dumb program, meant to be called as a vim filter. Highlight some
 # yaml front matter and call this as a filter. It'll dump out the two
@@ -33,9 +39,12 @@ my $given = join '', @lines;
 
 my $struct = Load($given);
 my $slug = $struct->{slug};
+die "no slug" unless $slug;
 
 my $html_path = path("$slug.html");
 my $yaml_path = $SESSION_PATH->child("$slug.yml");
+
+die 'duplicate session' if $yaml_path->exists && ! $opt->force;
 
 my $html = <<EOF;
 ---
