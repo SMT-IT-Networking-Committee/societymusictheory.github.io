@@ -7,9 +7,6 @@ title: Thursday Afternoon Sessions
 
 [View session titles only](index-short)
 
-## 2:15--5:30
-{% include session-short.html session="workplace-harassment" %}
-
 ## 2:15--3:45
 
 {% include session-short.html session="african-american-representations" %}
@@ -24,6 +21,7 @@ title: Thursday Afternoon Sessions
 {% include session-short.html session="rhythm-flow-transcendence" %}
 {% include session-short.html session="subjectivity-time-hearing" %}
 {% include session-short.html session="visualizing-archival-research" %}
+{% include session-short.html session="workplace-harassment" %}
 
 ## 4:00--5:30
 
@@ -38,3 +36,4 @@ title: Thursday Afternoon Sessions
 {% include session-short.html session="rethinking-appropriation" %}
 {% include session-short.html session="sound-materials" %}
 {% include session-short.html session="time-in-opera" %}
+{% include session-short.html session="workplace-harassment" %}

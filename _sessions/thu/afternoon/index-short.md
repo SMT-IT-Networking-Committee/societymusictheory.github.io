@@ -5,12 +5,6 @@ title: Thursday Afternoon Sessions
 
 # Thursday Afternoon Sessions
 
-## 2:15--5:30
-
-<ul>
-{% include session-tiny.html session="workplace-harassment" %}
-</ul>
-
 ## 2:15--3:45
 
 <ul>
@@ -26,6 +20,7 @@ title: Thursday Afternoon Sessions
 {% include session-tiny.html session="rhythm-flow-transcendence" %}
 {% include session-tiny.html session="subjectivity-time-hearing" %}
 {% include session-tiny.html session="visualizing-archival-research" %}
+{% include session-tiny.html session="workplace-harassment" %}
 </ul>
 
 ## 4:00--5:30
@@ -42,4 +37,5 @@ title: Thursday Afternoon Sessions
 {% include session-tiny.html session="rethinking-appropriation" %}
 {% include session-tiny.html session="sound-materials" %}
 {% include session-tiny.html session="time-in-opera" %}
+{% include session-tiny.html session="workplace-harassment" %}
 </ul>

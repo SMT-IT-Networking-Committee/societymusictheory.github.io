@@ -5,5 +5,25 @@ authors:
 title: "Gustav Holst’s <i>Terzetto</i> and Its Maximally Smooth Triad of Keys"
 handout: ''
 abstract: |
-  <p>Abstract goes here</p>
+  <p>This study uses existing ideas on polytonality and neo-Riemannian theory to
+  analyze the smooth “key-leading” relationships within Gustav Holst’s
+  <i>Terzetto</i>, written in 1925 for flute, oboe, and viola (or clarinet).
+  Neo-Riemannian theory states that major and minor triads can voice lead
+  smoothly from one to another and will maintain the [037] trichord structure.
+  Analogously, a triad of keys is maximally smooth when two of the three
+  diatonic collections stay the same, and the third transposes by perfect fifth
+  or perfect fourth. The only triad of keys that can “key lead” to two other
+  triads of keys of the same type with maximally smooth motion is the [014]
+  tri-key combination. This is expected: semitones and perfect fifths are
+  related by the M<sub>7</sub> (multiply-by-7) operation, and [037] and [014] are
+  M<sub>7</sub>-transforms of one another.</p>
+  <p>The two movements of Holst’s <i>Terzetto</i> take full advantage of the
+  potential of this [014] tri-key combination. [014] is the first, the last, and
+  the most common type of tri-key combinations in both movements of the
+  composition, and the motions between adjacent [014] tri-key combinations are
+  often quite smooth, and frequently maximally so. Through modulation of
+  diatonic sets in each of the three separate voices in <i>Terzetto</i>, this
+  “parsimonious key leading” approach is pertinent to the analysis of triple
+  tonality in this composition. This presentation uses a modified <i>Tonnetz</i>
+  to visualize how these triple tonalities unfold over time. </p>
 
