@@ -7,6 +7,10 @@ title: Friday Evening Sessions
 
 [View session titles only](index-short)
 
+## 6:00--7:30
+
+{% include session-short.html session="critical-race-theory-music" %}
+
 ## 8:00--9:30
 
 {% include session-short.html session="twentieth-century-topics" %}
