@@ -5,6 +5,13 @@ title: Saturday Afternoon Sessions
 
 # Saturday Afternoon Sessions
 
+## 12:30--2:00
+
+<ul>
+{% include session-tiny.html session="alt-ac" %}
+{% include session-tiny.html session="more-than-scores" %}
+</ul>
+
 ## 2:15--5:15
 
 <ul>

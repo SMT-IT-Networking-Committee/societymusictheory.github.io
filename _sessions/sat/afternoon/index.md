@@ -7,6 +7,12 @@ title: Saturday Afternoon Sessions
 
 [View session titles only](index-short)
 
+## 12:30--2:00
+
+{% include session-short.html session="alt-ac" %}
+{% include session-short.html session="more-than-scores" %}
+<p>&nbsp;</p>
+
 ## SMT Plenary Session, 2:15--5:15 <span class="room">(Texas AB)</span>
 
 <table class="meetings">
