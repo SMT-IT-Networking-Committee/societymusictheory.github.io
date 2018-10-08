@@ -330,6 +330,10 @@ ul.ig-list {
     }
 }
 
+ul.panelist-info {
+  margin-bottom: 2em;
+}
+
 input#search-box {
     font-family: $base-font-family;
     font-size: 135%;
@@ -344,4 +348,10 @@ div#search-results {
 
 a, a:visited {
     color: lighten($brand-color, 20%);
+}
+
+hr.sep {
+  width: 15em;
+  margin: 2em auto;
+
 }

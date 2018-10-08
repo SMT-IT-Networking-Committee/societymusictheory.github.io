@@ -1,9 +1,32 @@
 ---
 authors:
 - name: William Mason
-  institution: Wheaton College (MA)
+  institution: Wheaton College, Mass.
 title: "Vocal Synthesis and Figural Narratives in Grisey’s Les Chants de l’Amour"
 handout: ''
 abstract: |
-  <p>Abstract goes here</p>
+  <p>My paper examines the genesis, compositional structure, and programmatic
+  narrative of spectral composer Gérard Grisey’s 1984 work <i>Les Chants de
+  l’Amour </i>for 12-voice SATB choir and tape. Statements by Grisey (2008) have
+  evinced an attitude toward sound reminiscent of Pierre Schaeffer’s
+  <i>entendre, </i>an intentional mode of listening that seeks to attend to
+  sound as such, rather than to its material or cultural indices. At first
+  glance, <i>Les Chants de l’Amour </i>sits uneasily in relation to this
+  attitude by virtue of its figurative narrative elements: throughout the piece
+  the tape part takes on the persona of another singer, alternately
+  antagonistic, harmonious, erotic, alien, monstrous. My analysis suggests that
+  the capabilities of Grisey’s synthesis software partly informed these
+  narrative elements.</p>
+  <p>Grisey created the tape component of the thirty-five-minute piece using the
+  CHANT physical modeling synthesis software, developed at IRCAM beginning in
+  1979. Physical modeling marked an important conceptual shift in the interface
+  of digital synthesis: it focused on programming parameters related to the
+  means and materials of producing a sound, rather than designing the resultant
+  waveforms. Knowledge of vocal production and physiology conditioned the
+  variables of the CHANT software, and the CHANT software in turn conditioned a
+  number of strange and imaginative possibilities for what a voice could do. The
+  rhetorical and narrative elements in <i>Les Chants de l’Amour </i>illuminate
+  points of convergence between the corporeal-minded parameters of Grisey’s
+  software and the abstract timbral and formal features idiomatic to spectral
+  music. </p>
 
