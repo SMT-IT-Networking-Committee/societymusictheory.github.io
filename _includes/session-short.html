@@ -33,6 +33,7 @@
 
 </p>
 
+{% unless include.nopapers %}
 <ul class="paper-list">
 
 {% for paper in sess.papers %}
@@ -51,6 +52,6 @@
 {%- if sess.panelists[0].name -%}
     <li>{{ sess.panelists | map: "name" | array_to_sentence_string }}, Panelists</li>
 {%- endif -%}
-
 </ul>
+{% endunless %}
 
