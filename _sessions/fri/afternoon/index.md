@@ -7,6 +7,40 @@ title: Friday Afternoon Sessions
 
 [View session titles only](index-short)
 
+## 12:30--2:00
+
+{% include session-short.html session="music-and-multimedia" %}
+
+<ul>
+  <li>Hearing Borderline Personality Disorder in Crazy Ex-Girlfriend
+    <ul>
+      <li>Joanna Love, “De-coding ‘Crazy’: ‘Popping’ Gendered Stigmas in the Season Three Theme Song”</li>
+      <li>Jessie Fillerup, “‘To Clarify, Yes/No on the Crazy’: Permeable Structures and Mental Health”</li>
+    </ul>
+  </li>
+  <li>Musical Technology on Screen
+    <ul>
+      <li>Sergio Ospina-Romero, “The Immortal (but Silent) Voice: Multimedia Entanglements in Phonography and Filmmaking”</li>
+      <li>Allison Wente (Elon University; SMT), “A Comeback Role: Nostalgia and the Player Piano in TV and Film”</li>
+    </ul>
+  </li>
+  <li>“This is Ceti Alpha V”: Sound as Horror in Star Trek II
+    <ul>
+      <li>Jessica Getman, “Disturbing Sounds: Music and Horror in Science Fiction”</li>
+      <li>Evan Ware, “Scanning the Fantastical Gap: The Tricorder as Diegetic Boundary”</li>
+    </ul>
+  </li>
+  <li>Staging Narratives of Play in Concerts of Video Game Music
+    <ul>
+      <li>William Gibbons, “Rewritable Memory: Game History in Concert”</li>
+      <li>Julianne Grasso, “Reliving Play, Live: Formal Narratives of Symphonic Video Game Music”</li>
+    </ul>
+  </li>
+</ul>
+
+
+{% include session-short.html session="contingent-labor-academy" %}
+
 ## 2:15--5:15
 
 {% include session-short.html session="roots-and-records" %}
