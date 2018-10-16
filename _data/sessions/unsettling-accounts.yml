@@ -7,14 +7,14 @@ chair:
     name: Naomi André
     institution: University of Michigan
 respondent:
-    name: Zak Ozmo
+    name: Žak Ozmo
     institution: L’Avventura London
     title: Organizer
 papers: ~
 panelists:
     - name: Tunde Jegede
-      institution:
-    - name: Berta Joncus 
+      institution: ""
+    - name: Berta Joncus
       institution: Goldsmiths, University of London
-    - name: Michael Veal 
+    - name: Michael Veal
       institution: Yale University

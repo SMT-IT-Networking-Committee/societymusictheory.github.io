@@ -5,5 +5,25 @@ authors:
 title: "Modeling Perception of Isolated Pitch Sets"
 handout: ''
 abstract: |
-  <p>Abstract goes here</p>
+  <p>Though many theoretical measures of similarity rely on shared
+  interval-class content, Tuire Kuusi has found that in experimental conditions,
+  similarity judgements were also guided by a pitch set’s degree of consonance,
+  association with familiar sonorities, chord span, and the distribution of
+  notes in pitch space. However, it remains unclear to what degree each of these
+  properties contributes to the perceptual experience of <i>similarity</i>.
+  Machine learning techniques such as linear regression can be used to create
+  models that describe the relationship between the pitch set attributes
+  identified by Kuusi and perceptual judgments collected experimentally. This
+  presentation reports the results of an experiment in which listeners rated
+  isolated pitch sets along five descriptive dimensions: smooth-rough,
+  stable-volatile, clear-blurred, light-gloomy, and calm-irritable. Regression
+  models were trained to fit values for the attributes identified by Kuusi to
+  the average judgements of listeners. In addition to identifying the relative
+  contribution of a particular feature to a verbal description, the models can
+  also be used to predict values for pitch sets that were not directly tested.
+  In this way, these regression models can be used as a similarity measure
+  constructed from empirical data rather than theoretical intuitions. Cluster
+  analysis of extrapolated data can be used to investigate how pitch sets group
+  together and how well they accord to theories of set classes and set-class
+  families.</p>
 

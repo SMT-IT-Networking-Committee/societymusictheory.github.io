@@ -1,9 +1,39 @@
 ---
 authors:
 - name: David Kant
-  institution: University of California Santa Cruz
+  institution: University of California, Santa Cruz
 title: "Measuring Infinity: Digitizing David Dunn’s <i>Thresholds and Fragile States</i>"
 handout: ''
 abstract: |
-  <p>Abstract goes here</p>
+  <p>Composer David Dunn’s 2010 piece <i>Thresholds and Fragile States</i> is a
+  network of analog circuitry designed to generate an endless and constantly
+  evolving variety of musical sound. Like many electronic works in the American
+  experimental tradition, the music is difficult to analyze because
+  compositional decisions are embedded within layers of circuit design and
+  musical features are explained at the level of individual electrical
+  components. In this paper, I present an analysis of Dunn’s piece using tools
+  from circuit analysis, digital modeling, and dynamical systems theory. </p>
+  <p>Motivated by his experience listening to the patterns of insects on a swamp
+  in the Atchafalaya Basin of Louisiana in addition to his study of cybernetics,
+  Dunn attempts in this piece to mimic, through electronic circuitry, the
+  natural structure of biological systems. In my analysis, I clarify Dunn’s
+  concepts of emergence and autonomy by examining how they are instantiated in
+  circuitry, addressing the compositional decisions involved in network design
+  and the musical implications of those decisions. I discuss the scope of the
+  emergent music and map out the ranges of network parameter settings that
+  produces it. I find that endless variety of constantly evolving music is the
+  result of hysteresis, or time lag, of the vactrol, a circuit component and
+  common “hack” in electronic music. Furthermore, I find that this variety
+  occurs within a small region of carefully tuned network settings that the
+  composer discovered empirically through musical performance.</p>
+  <p>This work is based on a software model of Dunn’s circuitry, as well as
+  Dunn’s published writings, personal and published interviews, score diagrams,
+  schematics, and measurements of Dunn’s circuitry. I draw from systems theory
+  and cybernetics, as well as the work of scholars such as musicologist You
+  Nakai, electronic music historian Joel Chadabe, and historian of cybernetics
+  Andrew Pickering. In this paper I forward an analytic language and tools for
+  describing the kinds of infinity produced by complex and chaotic sound
+  circuitry, which has the potential to shed light on the work of other
+  electronic music composers, such as David Tudor, Bebe and Louis Barron, and
+  members of the Sonic Arts Union.</p>
 
