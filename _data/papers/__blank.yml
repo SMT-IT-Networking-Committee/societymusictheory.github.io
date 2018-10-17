@@ -1,9 +1,7 @@
 ---
 authors:
-- name: blank
+- name: 
   institution: 
 title: ""
 handout: ''
-abstract: |
-  <p>Abstract goes here</p>
-
+abstract: ''

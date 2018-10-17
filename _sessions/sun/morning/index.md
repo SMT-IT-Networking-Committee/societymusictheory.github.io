@@ -10,7 +10,7 @@ title: Sunday Morning Sessions
 ## 9:00--12:15
 
 {% include session-short.html session="diversity-discipline-hip-hop" %}
-{% include session-short.html session="songs-fanny-hensel" %}
+{% include session-short.html session="songs-fanny-hensel" nopapers=1 %}
 <ul class="paper-list">
   <li>Nature and Travel
     <ul>

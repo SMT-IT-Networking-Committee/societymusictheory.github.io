@@ -6,4 +6,14 @@ time: 'Sunday morning, 9:00–12:15'
 chair:
     name: R. Larry Todd
     institution: Duke University
-papers: ~
+papers:
+    - lalonde
+    - burnham
+    - wollenberg
+    - ronyak
+    - youens
+    - osborne
+    - rodgers
+    - krebs
+    - malin
+    - thym
