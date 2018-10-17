@@ -186,9 +186,6 @@ p.title {
     font-weight: bolder;
     margin-bottom: 2em;
     padding-left: 2em;
-    a:visited {
-        color: darken($brand-color, 10%);
-    }
 }
 p.author {
     margin-bottom: .5em;
@@ -213,14 +210,15 @@ span.title {
 }
 
 span.room {
-    color: #999999;
-    font-size: 75%;
+    color: #777;
+    font-size: 85%;
     white-space: nowrap;
     a, a:visited {
-           color: #999999;
+           color: #777;
            text-decoration: underline;
            &:hover {
-               color: #666666;
+               color: #555;
+               text-decoration: none;
            }
     }
 }
@@ -347,7 +345,11 @@ div#search-results {
 }
 
 a, a:visited {
-    color: lighten($brand-color, 20%);
+    color: lighten($brand-color, 10%);
+    text-decoration: underline;
+    &:hover {
+      text-decoration: none;
+    }
 }
 
 hr.sep {
