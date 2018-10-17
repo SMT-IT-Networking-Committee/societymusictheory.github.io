@@ -6,10 +6,6 @@ time: 'Sunday morning, 9:00–12:15'
 chair:
     formatted: Lauron Kehrer (College of William and Mary) and Mitchell Ohriner (University of Denver), Conveners
     formatted_short: Lauron Kehrer and Mitchell Ohriner, Conveners
-respondent:
-    name: Justin Williams
-    institution: University of Bristol
-    title: Introduction
 papers:
     - crooke
     - batterman
