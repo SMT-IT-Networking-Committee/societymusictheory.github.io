@@ -6,6 +6,15 @@
 var SMT = SMT || {};
 SMT.search = {};
 
+SMT.search.paperLookup = {
+{%- for session in site.data.sessions -%}
+  {%- assign sess = session[1] -%}
+  {%- for p in sess.papers -%}
+    {{- p | jsonify -}}:{{- sess.link | jsonify -}},
+  {%- endfor -%}
+{%- endfor -%}
+};
+
 SMT.search.documents = [
 {%- for paper in site.data.papers -%}
   {%- assign p = paper[1] -%}
@@ -16,13 +25,7 @@ SMT.search.documents = [
       {{ p.authors[0].name }}
     {%- endif -%}
   {%- endcapture -%}
-{
-  "title": {{p.title | jsonify }},
-  "abstract": {{p.abstract | strip_html | jsonify }},
-  "authors": {{ auth | jsonify }},
-  "link": {{ p.link | jsonify }},
-  "key": {{ paper[0] | jsonify }}
-},
+{"title":{{p.title | jsonify }},"abstract":{{p.abstract | strip_html | jsonify }},"authors":{{ auth | jsonify }},"link":{{ p.link | jsonify }},"key":{{ paper[0] | jsonify }}},
 {% endfor %}
 ];
 
@@ -69,11 +72,12 @@ $(document).ready(function() {
 
     for (var item in result) {
       var ref = result[item].ref,
-          obj = SMT.search.store[ref];
+          obj = SMT.search.store[ref],
+          sesslink = SMT.search.paperLookup[ref];
 
       var out = '<div class="result">';
       out += '<p>' + obj.authors + " • " + obj.title;
-      out += obj.link ? '<br><a href="' + obj.link + '">Go to paper</a>' : '' ;
+      out += sesslink ? '<br><a href="' + sesslink + '">Go to paper</a>' : '' ;
       out += '</p></div>';
       resultdiv.append(out);
     }
