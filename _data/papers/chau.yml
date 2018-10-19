@@ -3,7 +3,9 @@ authors:
 - name: Dustin Chau
   institution: University of Kansas
 title: "Gustav Holst’s <i>Terzetto</i> and Its Maximally Smooth Triad of Keys"
-handout: ''
+handouts:
+    - desc: Handout
+      path: chau-handout-0002.pdf
 abstract: |
   <p>This study uses existing ideas on polytonality and neo-Riemannian theory to
   analyze the smooth “key-leading” relationships within Gustav Holst’s

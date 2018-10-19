@@ -3,7 +3,9 @@ authors:
 - name: Trevor de Clercq
   institution: Middle Tennessee State University
 title: "The Harmonic-Bass Divorce in Rock"
-handout: ''
+handouts:
+    - desc: Handout
+      path: declercq-handout-0003.pdf
 abstract: |
   <p>Prior authors have identified cases of stratification or independence in
   rock music between the melody and the chordal accompanimental layer (or
