@@ -369,5 +369,14 @@ ul.handouts {
     padding-left: 2em;
     list-style-type: circle;
     margin-bottom: 2em;
+}
 
+table.exhibitors {
+  td:first-child {
+    width: 4.5em;
+  }
+  td {
+    vertical-align: top;
+    padding-bottom: .75em;
+  }
 }
