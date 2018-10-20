@@ -15,5 +15,8 @@ panelists:
       institution: Paris Lodron University Salzburg
     - name: Mathieu Giraud
       institution: University of Lille
+      handouts:
+          - desc: Handout
+            path: giraud-handout-0017.pdf
     - name: David Huron
       institution: Ohio State University

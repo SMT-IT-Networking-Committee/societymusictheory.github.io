@@ -4,6 +4,17 @@
 
 <ul class="panelist-info">
 {% for panelist in sess.panelists %}
-  <li>{{ panelist.name }} ({{ panelist.institution }})</li>
+
+  {%- capture handout -%}
+  {% if panelist.handouts %}
+    <ul>
+      {%- for h in panelist.handouts -%}
+      <li><a href="//societymusictheory.org/files/2018_handouts/{{ h.path }}">{{ h.desc }}</a></li>
+      {%- endfor -%}
+    </ul>
+    {% endif %}
+  {%- endcapture -%}
+
+  <li>{{ panelist.name }} ({{ panelist.institution }}){{ handout }}</li>
 {% endfor %}
 </ul>
