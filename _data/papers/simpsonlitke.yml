@@ -3,7 +3,9 @@ authors:
 - name: Rebecca Simpson-Litke
   institution: University of Manitoba
 title: "In the Heat of the Moment: An Exploration of the Role of Improvisation in Defining Different Styles of Salsa"
-handout: ''
+handouts:
+    - desc: Handout
+      path: rsimpsonlitke.pdf
 abstract: |
   <p>While salsa takes many forms within individual dancing communities, two
   fundamental styles have developed in the US and spread worldwide—“On-1/LA” and

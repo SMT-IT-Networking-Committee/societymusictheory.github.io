@@ -6,7 +6,9 @@ authors:
     - name: Alan Reese
       institution: Cleveland Institute of Music
 title: The Riemannian <i>Klangnetz</i>, the <i>Doppelklang</i>, and Their Applications
-handout: ''
+handouts:
+    - desc: Handout
+      path: reese-handout-0015.pdf
 abstract: |
   <p>Perhaps the most influential adaptation of Riemann’s ideas is the subfield
   of Neo-Riemannian theory summarized by Cohn (2012). However, this subfield,

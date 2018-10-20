@@ -3,7 +3,9 @@ authors:
 - name: Megan L. Lavengood
   institution: George Mason University
 title: "A New Approach to Analysis of Timbre: A Study in Timbre Narratives and Instrumentation in 1980s Pop"
-handout: ''
+handouts:
+    - desc: Handout
+      path: lavengood-handout-0019.pdf
 abstract: |
   <p>I articulate a new methodology for timbre analysis, which situates
   spectrogram analysis within a broad cultural context by taking direct account

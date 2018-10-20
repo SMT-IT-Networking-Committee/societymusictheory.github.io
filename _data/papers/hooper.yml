@@ -3,7 +3,9 @@ authors:
 - name: Jason Hooper
   institution: University of Massachusetts Amherst
 title: "Private Correspondence, Public Influence: Heinrich Schenker in Dialogue with August Halm"
-handout: ''
+handouts:
+    - desc: Handout
+      path: hooper-handout-0006.pdf
 abstract: |
   <p>Heinrich Schenker and August Halm maintained a lively correspondence. They
   debated sonata form, improvisation, and genius in music; argued over the

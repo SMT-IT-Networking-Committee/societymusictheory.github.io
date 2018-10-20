@@ -3,7 +3,9 @@ authors:
 - name: Nicholas Stoia
   institution: Duke University
 title: "The Tour-of-Keys Model and the Prolongational Structure in Sonata-Form Movements by Haydn and Mozart"
-handout: ''
+handouts:
+    - desc: Handout
+      path: stoia-handout-0014.pdf
 abstract: |
   <p>In <i>Classical Form</i>, William Caplin proposes that we enhance our
   understanding of sonata form by recognizing the tour-of-keys model, in which

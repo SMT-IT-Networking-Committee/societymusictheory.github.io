@@ -3,7 +3,9 @@ authors:
 - name: David Geary
   institution: Indiana University
 title: "Analyzing Josquin Canons Through Improvisation"
-handout: ''
+handouts:
+    - desc: Handout
+      path: geary-handout-0007.pdf
 abstract: |
   <p>Despite a renewed interest in early music within the theory community,
   analyzing this repertoire remains a challenge. In short, our methodologies

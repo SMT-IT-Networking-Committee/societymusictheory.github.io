@@ -3,7 +3,9 @@ authors:
 - name: Jessica Wiskus
   institution: Duquesne University
 title: "On the Logic of Parts and Wholes: The Promise of Husserl’s Time-Consciousness for Music Analysis Today"
-handout: ''
+handouts:
+    - desc: Handout
+      path: jwiskus.pdf
 abstract: |
   <p>At the turn of the twentieth century, philosophy as a discipline stood at a
   precipice. A new science—psychology—redefined philosophical questions of

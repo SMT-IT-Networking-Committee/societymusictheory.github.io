@@ -3,7 +3,11 @@ authors:
 - name: Brent Yorgason
   institution: Brigham Young University
 title: "A Transformative Event in Max Steiner’s Fanfare for Warner Brothers"
-handout: ''
+handouts:
+    - desc: Handout
+      path: yorgason-handout-0012.pdf
+    - desc: Appendix
+      path: yorgason-handout-0013.pdf
 abstract: |
   <p>In 1937, Max Steiner created the studio fanfare for Warner Brothers, using
   bold brass arpeggiations and whirling strings to introduce the WB shield. His

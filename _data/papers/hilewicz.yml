@@ -3,7 +3,9 @@ authors:
 - name: Orit Hilewicz
   institution: Eastman School of Music, University of Rochester
 title: "Schoenberg’s Cinematographic Blueprint: A Programmatic Analysis of Begleitungsmusik zu einer Lichtspielscene"
-handout: ''
+handouts:
+    - desc: Handout
+      path: ohilewicz.pdf
 abstract: |
   <p>Schoenberg’s only published music for film—<i>Begleitungsmusik zu einer
   Lichtspielscene </i>(Accompaniment to a Film Scene), op. 34 (1929–30)—provides

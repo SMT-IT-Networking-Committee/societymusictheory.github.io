@@ -3,7 +3,13 @@ authors:
 - name: John Koslovsky
   institution: Conservatorium van Amsterdam / Utrecht University
 title: "Schenkerizing Tristan, Past and Present"
-handout: ''
+handouts:
+    - desc: Commentary
+      path: koslovsky-handout-0008.pdf
+    - desc: Supplement, Part 1
+      path: koslovsky-handout-0009.pdf
+    - desc: Supplement, Part 2
+      path: koslovsky-handout-0010.pdf
 abstract: |
   <p>Richard Wagner’s opera <i>Tristan und Isolde</i> is one of those rare
   musical works that has attracted scholars of virtually every theoretical

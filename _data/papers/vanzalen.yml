@@ -3,7 +3,9 @@ authors:
 - name: Alexis VanZalen
   institution: Eastman School of Music, University of Rochester
 title: "Affect, Variety, and the Rhetoric of Timbre in the Organ Music of Guillaume-Gabriel Nivers"
-handout: ''
+handouts:
+    - desc: Handout
+      path: avanzalen.pdf
 abstract: |
   <p>In sharp contrast with the cultural and political interpretations now
   common in musicological studies of other French baroque repertoire, scholars

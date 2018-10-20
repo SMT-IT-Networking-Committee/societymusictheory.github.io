@@ -3,7 +3,9 @@ authors:
 - name: Kristina Knowles
   institution: Arizona State University
 title: "Theorizing Silence"
-handout: ''
+handouts:
+    - desc: Handout
+      path: knowles-handout-0018.pdf
 abstract: |
   <p>Music theoretic discussion has been surprisingly mute on the topic of
   silence in music. With a few notable exceptions (Lissa 1964; Pearsall 2006;

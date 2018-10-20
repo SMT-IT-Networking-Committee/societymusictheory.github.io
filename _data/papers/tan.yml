@@ -3,7 +3,9 @@ authors:
 - name: Daphne Tan
   institution: University of Toronto
 title: "Viktor Zuckerkandl as Schenker’s Disciple, or Schenker’s Other Americanization"
-handout: ''
+handouts:
+    - desc: Handout
+      path: tan-handout-0011.pdf
 abstract: |
   <p>Viktor Zuckerkandl (1896–1965) is best known for the two-volume <i>Sound
   and Symbol </i>(1956/71)<i>, </i>in which he seeks a philosophy <i>through

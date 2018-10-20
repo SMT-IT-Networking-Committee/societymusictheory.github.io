@@ -3,7 +3,9 @@ authors:
 - name: Bryan J. Parkhurst
   institution: Oberlin College and Conservatory
 title: "The Hegelian Schenker, The Un-Schenkerian Hegel, and How to Be a Dialectician about Music"
-handout: ''
+handouts:
+    - desc: Handout
+      path: parkhurst-handout-0016.pdf
 abstract: |
   <p>Acknowledgment of some sort of Schenker-Hegel connection is common<i>
   </i>in the exegetical literature on Schenker. In this paper, I contend that

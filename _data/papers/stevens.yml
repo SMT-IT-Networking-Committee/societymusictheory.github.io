@@ -3,7 +3,9 @@ authors:
 - name: Alison Stevens
   institution: University of British Columbia
 title: "Motion as Music: Hypermetrical Schemas in 18th-Century Contredanses"
-handout: ''
+handouts:
+    - desc: Handout
+      path: astevens.pdf
 abstract: |
   <p>An important part of the recent growth in scholarship on meter focuses on
   reconstructing eighteenth-century listening practices. Danuta Mirka (2009)

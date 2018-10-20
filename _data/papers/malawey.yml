@@ -3,7 +3,9 @@ authors:
 - name: Victoria Malawey
   institution: Macalester College
 title: "Analyzing the Popular Voice, or Why Covers of Elliott Smith Songs Don’t Work"
-handout: ''
+handouts:
+    - desc: Handout
+      path: vmalawey.pdf
 abstract: |
   <p>Unlike other aspects of musical content—such as harmony, form, melody, and
   rhythm, for which scholars have developed sophisticated analytic

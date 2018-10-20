@@ -3,7 +3,9 @@ authors:
 - name: Miriam Piilonen
   institution: Northwestern University
 title: "‘#musictheory Will Be the Death of Me’: Reflections on Tweeted Complaints about Music Theory"
-handout: ''
+handouts:
+    - desc: Handout
+      path: mpiilonen.pdf
 abstract: |
   <p>In this presentation I examine statements about music theory on Twitter,
   with special interest in the prevalence of complaints. I interpret these

@@ -3,7 +3,9 @@ authors:
 - name: Elizabeth Fox
   institution: University of Toronto
 title: "Deciphering the Arabesque: Disguised Tonal Logic in Chopin’s Piano Concerto in E minor, Op. 11"
-handout: ''
+handouts:
+    - desc: Handout
+      path: fox-handout-0020.pdf
 abstract: |
   <p>The novel tonal scheme in the first movement of Chopin’s Piano Concerto in
   E minor, op. 11 (1830) presents an enigma for the analyst. As is well known,
