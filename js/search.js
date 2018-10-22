@@ -3,7 +3,8 @@
 ---
 
 var SMT = SMT || {};
-SMT.search = {};
+SMT.search = SMT.search || {};
+SMT.search.store = {};
 
 SMT.search.sessions = [
 {%- for session in site.data.sessions -%}
@@ -23,15 +24,6 @@ SMT.search.sessions = [
 {%- endfor -%}
 ];
 
-SMT.search.paperLookup = {
-{%- for session in site.data.sessions -%}
-  {%- assign sess = session[1] -%}
-  {%- for p in sess.papers -%}
-    {{- p | jsonify -}}:{{- sess.link | jsonify -}},
-  {%- endfor -%}
-{%- endfor -%}
-};
-
 SMT.search.documents = [
 {%- for paper in site.data.papers -%}
   {%- assign p = paper[1] -%}
@@ -47,45 +39,27 @@ SMT.search.documents = [
 
 ];
 
-SMT.search.store = {};
+/*
+SMT.search.index = */
 
-SMT.search.index = lunr(function () {
-  this.field('title');
-  this.field('authors');
-  this.field('abstract');
-  this.field('chair');
-  this.field('panelists');
-  this.ref('key');
-
-  var stemBetter = function (builder) {
-    var possessive = /'s?$/;
-    var pipelineFunction = function (token) {
-      if (token.toString().search(possessive) !== -1) {
-        return token.update(function () {
-          return token.toString().replace(posessive, '');
-        });
-      } else if (token.toString() == 'Schenkerian') {
-        return token.update(function() { return "Schenker" });
-      } else {
-        return token;
-      }
-    };
-
-    this.Pipeline.registerFunction(pipelineFunction, 'stemBetter');
-    builder.pipeline.before(lunr.stemmer, pipelineFunction);
-    builder.searchPipeline.before(lunr.stemmer, pipelineFunction);
-  };
-
-  SMT.search.documents.forEach(function (doc) {
-    SMT.search.store[doc.key] = doc;
-    this.add(doc);
-  }, this)
-
-  SMT.search.sessions.forEach(function (doc) {
-    SMT.search.store[doc.key] = doc;
-    this.add(doc);
-  }, this)
+SMT.search.documents.forEach(function (doc) {
+  SMT.search.store[doc.key] = doc;
 });
+
+SMT.search.sessions.forEach(function (doc) {
+  SMT.search.store[doc.key] = doc;
+})
+
+SMT.search.index = lunr.Index.load(SMT.search.serializedIndex);
+
+SMT.search.paperLookup = {
+{%- for session in site.data.sessions -%}
+  {%- assign sess = session[1] -%}
+  {%- for p in sess.papers -%}
+    {{- p | jsonify -}}:{{- sess.link | jsonify -}},
+  {%- endfor -%}
+{%- endfor -%}
+};
 
 $(document).ready(function() {
   $('input#search-box').on('keyup', function () {
@@ -118,3 +92,46 @@ $(document).ready(function() {
 
   $('form#search').on('submit', function () { return false });
 });
+
+// This isn't actually called, but can be called from the console to
+// regenerate the date in index.js. -- michael, 2018-10-22 
+SMT.search._generateIndex = function () {
+  lunr(function () {
+    this.field('title');
+    this.field('authors');
+    this.field('abstract');
+    this.field('chair');
+    this.field('panelists');
+    this.ref('key');
+
+    var stemBetter = function (builder) {
+      var possessive = /'s?$/;
+      var pipelineFunction = function (token) {
+        if (token.toString().search(possessive) !== -1) {
+          return token.update(function () {
+            return token.toString().replace(posessive, '');
+          });
+        } else if (token.toString() == 'Schenkerian') {
+          return token.update(function() { return "Schenker" });
+        } else {
+          return token;
+        }
+      };
+
+      this.Pipeline.registerFunction(pipelineFunction, 'stemBetter');
+      builder.pipeline.before(lunr.stemmer, pipelineFunction);
+      builder.searchPipeline.before(lunr.stemmer, pipelineFunction);
+    };
+
+    SMT.search.documents.forEach(function (doc) {
+      SMT.search.store[doc.key] = doc;
+      this.add(doc);
+    }, this)
+
+    SMT.search.sessions.forEach(function (doc) {
+      SMT.search.store[doc.key] = doc;
+      this.add(doc);
+    }, this)
+  });
+};
+

@@ -1777,7 +1777,8 @@ lunr.TokenSet.Builder.prototype.insert = function (word) {
       commonPrefix = 0
 
   if (word < this.previousWord) {
-    throw new Error ("Out of order word insertion")
+    // throw new Error ("Out of order word insertion")
+    console.log("ignoring out of order word insertion: " + word);
   }
 
   for (var i = 0; i < word.length && i < this.previousWord.length; i++) {
