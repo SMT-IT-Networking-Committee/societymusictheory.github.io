@@ -3,7 +3,9 @@ authors:
 - name: Cecilia Oinas
   institution: University of Music and Performing Arts Graz/Sibelius Academy
 title: "Analysis and performance, une fois de plus: tracing sensitivity, intimacy, and corporeal interaction in György Kurtág’s four-handed works"
-handout: ''
+handouts:
+    - desc: Handout
+      path: oinas-handout-0025.pdf
 abstract: |
   <p>At a concert held in 2012 at <i>Cité de la musique</i> in Paris, the
   composer György Kurtág and his wife Márta play works from <i>Játékok</i>. The
