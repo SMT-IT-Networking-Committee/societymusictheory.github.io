@@ -62,7 +62,7 @@ title: Friday Evening Sessions
 </ul>
 
 {% include session-short.html session="screening-cold-war-music" %}
-{% include session-short.html session="boundaries-of-masculinity" %}
+{% include session-short.html session="new-work-lgbtq-studies" %}
 {% include session-short.html session="women-history-music-theory" nopapers=1 %}
 <ul class="paper-list">
   <li>Round-Table One: “Glyn, Kinkel, Lee, and Newmarch at Work”

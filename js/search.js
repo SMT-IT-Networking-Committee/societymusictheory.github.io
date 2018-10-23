@@ -96,13 +96,15 @@ $(document).ready(function() {
 // This isn't actually called, but can be called from the console to
 // regenerate the date in index.js. -- michael, 2018-10-22 
 SMT.search._generateIndex = function () {
-  lunr(function () {
+  return lunr(function () {
     this.field('title');
     this.field('authors');
     this.field('abstract');
     this.field('chair');
     this.field('panelists');
     this.ref('key');
+
+    console.log('generating index?');
 
     var stemBetter = function (builder) {
       var possessive = /'s?$/;

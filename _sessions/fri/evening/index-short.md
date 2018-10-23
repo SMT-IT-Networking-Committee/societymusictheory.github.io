@@ -26,7 +26,7 @@ title: Friday Evening Sessions
 {% include session-tiny.html session="latin-american-music-theory" %}
 {% include session-tiny.html session="schenkers-traces" %}
 {% include session-tiny.html session="screening-cold-war-music" %}
-{% include session-tiny.html session="boundaries-of-masculinity" %}
+{% include session-tiny.html session="new-work-lgbtq-studies" %}
 </ul>
 
 
