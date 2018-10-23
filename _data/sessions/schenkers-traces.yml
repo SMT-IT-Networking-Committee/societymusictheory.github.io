@@ -4,6 +4,7 @@ society: SMT
 room: Texas A
 time: 'Friday evening, 8:00–11:00'
 link: /sessions/fri/evening/schenkers-traces
+livestream: true
 chair:
     name: Robert W. Wason
     institution: Eastman School of Music, University of Rochester

@@ -3,12 +3,13 @@ slug: active-citizenship
 room: Texas A
 time: 'Friday morning, 9:00–10:30'
 link: /sessions/fri/morning/active-citizenship
+livestream: true
 chair:
-    name: Nancy Rogers 
+    name: Nancy Rogers
     institution: Florida State University
 papers: ~
 panelists:
-    - name: Lynn Brinckmeyer 
+    - name: Lynn Brinckmeyer
       institution: Texas State University
-    - name: Julie Smith 
+    - name: Julie Smith
       institution: Citizens’ Climate Lobby of San Antonio
