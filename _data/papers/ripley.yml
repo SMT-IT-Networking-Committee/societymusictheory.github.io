@@ -3,7 +3,9 @@ authors:
 - name: Angela Ripley
   institution: The College of Wooster
 title: "Mock Trials in the Music Theory Classroom"
-handout: ''
+handouts:
+    - desc: Handout
+      path: ripley-handout-0022.pdf
 abstract: |
   <p>Mock trials can help music theory students analyze compositions whose
   thematic, formal, or tonal ambiguities invite multiple interpretations. I

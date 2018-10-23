@@ -3,7 +3,9 @@ authors:
 - name: Leah Frederick
   institution: Indiana University
 title: "Diatonic Voice-Leading Transformations"
-handout: ''
+handouts:
+    - desc: Handout
+      path: frederick-handout-0024.pdf
 abstract: |
   <p>Recent approaches in mathematical music theory have provided ways to
   describe voice leadings between various kinds of sonorities. Geometric theory

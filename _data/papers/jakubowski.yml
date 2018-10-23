@@ -3,7 +3,9 @@ authors:
 - name: Joseph R. Jakubowski
   institution: Washington University in St. Louis
 title: "Making the Spectral, Corporeal: Embodied Cognition and Expressive Performance in Gérard Grisey’s Prologue (1976)"
-handout: ''
+handouts:
+    - desc: Handout
+      path: jakubowski-handout-0021.pdf
 abstract: |
   <p>Studies of Spectralism tend to prioritize conceptual compositional
   structures while eliding the roles and experiences of performers. Yet one of

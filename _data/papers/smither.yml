@@ -3,7 +3,9 @@ authors:
 - name: Sean R. Smither
   institution: Rutgers University
 title: "Flexible Conceptual Maps: A Schema-Theoretic Approach to the Analysis of Jazz Tunes"
-handout: ''
+handouts:
+    - desc: Handout
+      path: ssmither.pdf
 abstract: |
   <p>How might analysts engage the compositions on which jazz musicians
   improvise? Far from reading a fixed score, jazz musicians rely on what Paul

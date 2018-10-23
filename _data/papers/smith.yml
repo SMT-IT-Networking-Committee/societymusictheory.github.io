@@ -3,7 +3,9 @@ authors:
 - name: Jeremy W. Smith
   institution: University of Minnesota
 title: "The Functions of Continuous Processes in Contemporary Electronic Dance Music"
-handout: ''
+handouts:
+    - desc: Handout
+      path: smith-handout-0023.pdf
 abstract: |
   <p>With electronic technology sound can be controlled more precisely,
   drastically altered within microseconds, or subtly changed over several
