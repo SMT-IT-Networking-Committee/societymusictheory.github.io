@@ -222,6 +222,18 @@ span.room {
            }
     }
 }
+span.room-fullsize {
+    color: #777;
+    white-space: nowrap;
+    a, a:visited {
+           color: #777;
+           text-decoration: underline;
+           &:hover {
+               color: #555;
+               text-decoration: none;
+           }
+    }
+}
 
 h3.index-session-title {
     margin-bottom: 0;
@@ -332,8 +344,13 @@ ul.ig-list {
     li {
         font-size: 110%;
         margin: .4em auto;
-
     }
+}
+
+p.ig-time {
+    margin-top: -0.5em;
+    margin-left: 1.5em;
+    font-style: italic;
 }
 
 ul.panelist-info {
