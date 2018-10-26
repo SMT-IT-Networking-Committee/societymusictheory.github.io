@@ -3,7 +3,9 @@ authors:
 - name: Timothy K. Chenette
   institution:  Utah State University
 title: "What Are the Truly Aural Skills?"
-handout: ''
+handouts:
+    - desc: Slides
+      path: chenette-handout-0026.pdf
 abstract: |
   <p>The current approach to organizing an aural skills class, judging from
   chapter titles of textbooks, is the result of this multiplication problem:

@@ -3,7 +3,9 @@ authors:
 - name: Xieyi (Abby) Zhang
   institution: The Graduate Center, CUNY
 title: "Apparently Imperfect: Apparently Imperfect: On the Analytical Issues of the IAC"
-handout: ''
+handouts:
+    - desc: Handout
+      path: zhang-handout-0028.pdf
 abstract: |
   <p>An imperfect authentic cadence (IAC) is usually stronger than a half
   cadence (HC) but weaker than a perfect authentic cadence (PAC). At times,

@@ -3,7 +3,9 @@ authors:
 - name: Carolyn Carrier-McClimon
   institution: Indiana University
 title: "“Erinnerung,” Grief, and Imaginative Remembrance in Robert Schumann’s <i>Album für die Jugend</i>, Op. 68"
-handout: ''
+handouts:
+    - desc: Handout
+      path: ccarriermcclimon.pdf
 abstract: |
   <p>Throughout the nineteenth century, albums—filled with personal inscriptions
   from family and friends—were a locus of socially constructed memory. In this

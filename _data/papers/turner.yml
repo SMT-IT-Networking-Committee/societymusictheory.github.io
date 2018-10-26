@@ -3,7 +3,9 @@ authors:
 - name: Kristen Turner
   institution: North Carolina State University
 title: "Back to Africa: Images of the Continent in Early Black Musical Theater"
-handout: ''
+handouts:
+    - desc: Handout
+      path: kturner.pdf
 abstract: |
   <p>In musicals, plays, and pageants African American authors told the story of black people in America through popular entertainment designed for integrated audiences. Rather than adhere to white supremacist narratives that reinforced images of subservience and primitivism, black authors and composers found ways to dignify and humanize their characters. Writers used Africa to provide images of an alternative black homeland and as an exotic setting for a clash between cultures.</p>
   <p>I examine four musicals containing references to Africa, written and performed by African Americans. Author William MacClain billed his <i>Before and After the War</i> (1894) as a “spectacular comedy” that told the story of the “Evolution of the Negro . . . from Savage to Congress.” W. E. B. Du Bois’s <i>The Star of Ethiopia</i> (1913) also traces black history from Africa to the parlors of the educated middle class, but casts Ethiopia as the site of strength for African Americans rather than an archaic homeland. <i>In Dahomey</i> (1903) and <i>Abyssinia</i> (1906) use stories of displaced African Americans in Africa to communicate political insights that are couched in comedy. Rather than recounting black history, these shows tell “fish out of water” stories of African Americans returning to an exotic African landscape.</p>
