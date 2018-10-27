@@ -3,7 +3,9 @@ authors:
 - name: Andrew Pau
   institution: Oberlin College and Conservatory
 title: "The Six <i>épigraphes antiques</i> and Debussy’s (Re)compositional Process"
-handout: ''
+handouts:
+    - desc: Handout
+      path: pau-handout-0029.pdf
 abstract: |
   <p>Debussy’s <i>Six épigraphes antiques</i> for piano four hands (1914) is a
   work that has been relatively neglected in the analytical literature. The

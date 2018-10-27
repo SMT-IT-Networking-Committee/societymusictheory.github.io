@@ -3,7 +3,9 @@ authors:
 - name: Daniel Goldberg
   institution: University of Connecticut
 title: "Transformations of Southeast European Dance Meters"
-handout: ''
+handouts:
+    - desc: Slides
+      path: goldberg-handout-0030.pdf
 abstract: |
   <p>Meter in music for numerous dances from southeastern Europe is
   conventionally defined in terms of sequences of beats with two categorically
