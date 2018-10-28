@@ -17,7 +17,14 @@
 {% if p.handouts %}
 <ul class="handouts">
   {% for h in p.handouts %}
-  <li><a href="//societymusictheory.org/files/2018_handouts/{{ h.path }}">{{ h.desc }}</a></li>
+  {%- capture link -%}
+    {%- if h.external -%}
+      {{ h.path }}
+    {%- else -%}
+      //societymusictheory.org/files/2018_handouts/{{ h.path }}
+    {%- endif %}
+  {%- endcapture -%}
+  <li><a href="{{ link }}">{{ h.desc }}</a></li>
   {% endfor %}
 </ul>
 
