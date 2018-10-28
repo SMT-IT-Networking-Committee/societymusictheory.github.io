@@ -3,7 +3,9 @@ authors:
 - name: Erin Bauer
   institution: University of Wisconsin-Whitewater
 title: "The Hybridity of the San Antonio Sound: Cross-Cultural Amalgamations in the Texas-Mexican Accordion Music of Flaco Jiménez, Mingo Saldívar, Esteban Jordan, and Piñata Protest"
-handout: ''
+handouts:
+    - desc: Handout
+      path: bauer-handout-0033.pdf
 abstract: |
   <p>This paper considers some of San Antonio’s most iconic and innovative
   artists who have reinterpreted the music to reflect their own sense of

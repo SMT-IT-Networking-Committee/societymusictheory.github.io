@@ -11,19 +11,22 @@ respondent:
     formatted: Marina Frolova-Walker (University of Cambridge) and Gordon McQuere (Washburn University), Respondents
     formatted_short: Marina Frolova-Walker and Gordon McQuere, Respondents
 panelists:
-    - name: Philip Ewell 
+    - name: Philip Ewell
       institution: Hunter College, CUNY
-    - name: Daniil Zavlunov 
+      handouts:
+          - desc: Bibliography
+            path: pewell.pdf
+    - name: Daniil Zavlunov
       institution: Stetson University
-    - name: Inessa Bazayev 
+    - name: Inessa Bazayev
       institution: Louisiana State University
-    - name: Matthew Honegger 
+    - name: Matthew Honegger
       institution: Princeton University
-    - name: Anicia Timberlake 
+    - name: Anicia Timberlake
       institution: Peabody Conservatory, Johns Hopkins University
-    - name: Olga Panteleeva 
+    - name: Olga Panteleeva
       institution: Princeton University
-    - name: Christopher Segall 
+    - name: Christopher Segall
       institution: University of Cincinnati
-    - name: William Quillen 
+    - name: William Quillen
       institution: Oberlin College and Conservatory

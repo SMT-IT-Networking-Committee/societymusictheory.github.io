@@ -3,7 +3,9 @@ authors:
 - name: Michèle Duguay
   institution: The Graduate Center, CUNY
 title: "Madness, Psychedelia, and Virtual Space in Pink Floyd’s <i>The Piper at the Gates of Dawn</i>"
-handout: ''
+handouts:
+    - desc: Handout
+      path: duguay-handout-0031.pdf
 abstract: |
   <p>From the 1940s to the late 1960s, associations between madness and
   psychedelia—both understood as states of altered consciousness—were common in
