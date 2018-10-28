@@ -191,6 +191,12 @@ p.author {
     margin-bottom: .5em;
 }
 
+p.piece {
+    margin-top: 0;
+    margin-bottom: 2em;
+    padding-left: 2em;
+}
+
 p.abs-title {
     font-weight: bolder;
     text-align: center;
@@ -412,4 +418,11 @@ table.exhibitors {
 img.install {
     width: 25em;
     margin-bottom: 4em;
+}
+
+ul.movement-list, ol.movement-list {
+    margin-top: -2em;
+    margin-bottom: 2em;
+    list-style-type: none;
+    padding-left: 2em;
 }

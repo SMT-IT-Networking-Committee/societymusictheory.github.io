@@ -39,8 +39,12 @@ SMT.search.documents = [
 
 ];
 
-/*
-SMT.search.index = */
+SMT.search.performances = [
+  'brazilian-music-piano-guitar',
+  'art-romantic-castrato',
+  'pushing-against-musical-homonormativity',
+  'piano-music-luigi-perrachio',
+];
 
 SMT.search.documents.forEach(function (doc) {
   SMT.search.store[doc.key] = doc;
@@ -48,6 +52,10 @@ SMT.search.documents.forEach(function (doc) {
 
 SMT.search.sessions.forEach(function (doc) {
   SMT.search.store[doc.key] = doc;
+})
+
+SMT.search.performances.forEach(function (key) {
+  SMT.search.store[key].type = 'performance';
 })
 
 SMT.search.index = lunr.Index.load(SMT.search.serializedIndex);
@@ -69,6 +77,10 @@ $(document).ready(function() {
 
     resultdiv.empty();
 
+    if (query.length === 0) {
+      return;
+    }
+
     for (var item in result) {
       var ref = result[item].ref,
           obj = SMT.search.store[ref],
@@ -80,13 +92,21 @@ $(document).ready(function() {
       if (type === 'paper') {
         out += obj.authors + " • " + obj.title;
         out += sesslink ? '<br><a href="' + sesslink + '">Go to paper</a>' : '' ;
+        out += '</p></div>';
+        resultdiv.append(out);
       } else if (type === 'session') {
         out += '<strong>Session: ' + obj.title + '</strong>';
         out += sesslink ? '<br><a href="' + sesslink + '">Go to session</a>' : '' ;
+        out += '</p></div>';
+        resultdiv.prepend(out);
+      } else if (type === 'performance') {
+        out += '<strong>Performance: ' + obj.title + '</strong>';
+        out += sesslink ? '<br><a href="' + sesslink + '">Go to performance</a>' : '' ;
+        out += '</p></div>';
+        resultdiv.prepend(out);
+      } else {
+        console.warning("unknown result type: " + type);
       }
-
-      out += '</p></div>';
-      resultdiv.append(out);
     }
   });
 
@@ -94,7 +114,7 @@ $(document).ready(function() {
 });
 
 // This isn't actually called, but can be called from the console to
-// regenerate the date in index.js. -- michael, 2018-10-22 
+// regenerate the date in index.js. -- michael, 2018-10-22
 SMT.search._generateIndex = function () {
   return lunr(function () {
     this.field('title');
