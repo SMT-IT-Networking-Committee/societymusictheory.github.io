@@ -2,8 +2,10 @@
 authors:
 - name: Ben Duinker
   institution: McGill University
-title: "Hybrid Tonics in Recent Pop Music"
-handout: ''
+title: "Plateau Loops and Hybrid Tonics in Recent Pop Music"
+handouts:
+    - desc: Handout
+      path: duinker-handout-0039.pdf
 abstract: |
   <p>This paper investigates chord loops built around two major chords and one
   minor chord, all related by step. While many popular songs using these

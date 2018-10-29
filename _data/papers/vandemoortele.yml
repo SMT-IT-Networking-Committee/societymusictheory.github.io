@@ -3,7 +3,9 @@ authors:
 - name: Steven Vande Moortele
   institution: University of Toronto
 title: "Reconfiguring Classical Theories for Romantic Music:  The Case of Schubert’s “Unfinished”"
-handout: ''
+handouts:
+    - desc: Handout
+      path: vande%20moortele-handout-0035.pdf
 abstract: |
   <p>Much of the cadential and phrase-structural organization of the
   first-movement exposition of Schubert’s “Unfinished” Symphony in B minor, D.

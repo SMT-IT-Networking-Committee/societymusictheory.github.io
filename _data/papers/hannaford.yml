@@ -3,7 +3,9 @@ authors:
 - name: Marc Hannaford
   institution: Columbia University
 title: "Affordances and Free Improvisation: An Analytical Framework"
-handout: ''
+handouts:
+    - desc: Handout
+      path: hannaford-handout-0044.pdf
 abstract: |
   <p>For all of the remarkable scholarship on jazz, the subject of interaction
   in collective “free” improvisation remains noticeably under-theorized.

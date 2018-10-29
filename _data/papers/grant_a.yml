@@ -3,7 +3,9 @@ authors:
 - name: Aaron Grant
   institution: Missouri Western State University
 title: "Schubert’s New Forms: Digressionary Passages in Schubert’s Two-Key Expositions"
-handout: ''
+handouts:
+    - desc: Handout
+      path: grant-handout-0045.pdf
 abstract: |
   <p>Donald Francis Tovey once stated that, in Schubert’s three-key expositions,
   “the most obviously wrong digressions . . . [press] towards new forms” (Tovey

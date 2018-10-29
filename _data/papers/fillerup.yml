@@ -3,7 +3,9 @@ authors:
 - name: Jessie Fillerup
   institution: Aarhus University / University of Richmond
 title: "Ravel’s Magic Circle"
-handout: ''
+handouts:
+    - desc: Handout
+      path: fillerup-handout-0038.pdf
 abstract: |
   <p>If Mallarmé’s poems are notorious ciphers, Ravel’s settings of them are
   appropriately cryptic—particularly the third song of his <i>Trois poèmes de

@@ -3,7 +3,9 @@ authors:
 - name: Daniel Bishop
   institution: Indiana University
 title: "Divining the Audiovisual: J. S. Bach in the Science Fiction of Andrei Tarkovsky"
-handout: ''
+handouts:
+    - desc: Handout
+      path: dbishop.pdf
 abstract: |
   <p>Discussions of the role played by the music of J. S. Bach in Soviet
   <i>auteur</i> Andrei Tarkovsky’s films have generally focused on Bach as

@@ -3,7 +3,11 @@ authors:
 - name: Scott Hanenberg
   institution: University of Toronto
 title: "Theorizing Quintuple and Septuple Grooves in Recent Rock Music"
-handout: ''
+handouts:
+    - desc: Handout
+      path: shanenberg-small.pdf
+    - desc: Handout (large print)
+      path: shanenberg-large.pdf
 abstract: |
   <p>Irregular-meter grooves define the sonic palettes of many progressive and
   alternative rock genres and artists. While recent scholarship has demonstrated

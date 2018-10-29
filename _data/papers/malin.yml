@@ -3,5 +3,7 @@ authors:
 - name: Yonatan Malin
   institution: University of Colorado Boulder
 title: "Modulating Couplets in Hensel’s Songs"
-handout: ''
+handouts:
+    - desc: Handout
+      path: malin-handout-0040.pdf
 abstract: ''

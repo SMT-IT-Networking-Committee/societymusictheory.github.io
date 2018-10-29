@@ -3,7 +3,9 @@ authors:
 - name: Gabriel Lubell
   institution: Kenyon College
 title: "The Dark Side of the Moon as an Urban Landscape"
-handout: ''
+handouts:
+    - desc: Handout
+      path: lubell-handout-0037.pdf
 abstract: |
   <p>Pink Floyd’s <i>The Dark Side of the Moon</i> (1973), in its original
   long-playing phonographic format, constitutes a complete and physically fixed
