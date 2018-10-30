@@ -3,7 +3,9 @@ authors:
 - name: Christopher Brody
   institution: University of Louisville
 title: "What Are Solar and Polar Tonality?"
-handout: ''
+handouts:
+    - desc: Handout
+      path: brody-handout-0054.pdf
 abstract: |
   <p>Among the many vital contributions of Leonard Ratner’s 1980 treatise
   <i>Classic Music</i> is his differentiation between <i>solar</i> and

@@ -3,7 +3,9 @@ authors:
 - name: Elizabeth Keathley
   institution: University of North Carolina at Greensboro
 title: "Voicing the Opposition: Lila Downs, <i>El Demagogo</i>, and <i>Balas y Chocolate</i>"
-handout: ''
+handouts:
+    - desc: Handout
+      path: ekeathley.pdf
 abstract: |
   <p>If her appearance in <i>Frida</i> (2002) brought the Mixtec-American
   singer, composer, and anthropologist Lila Downs (b. 1969) to the attention of

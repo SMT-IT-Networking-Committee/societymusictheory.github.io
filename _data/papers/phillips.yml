@@ -3,7 +3,9 @@ authors:
 - name: Reuben Phillips
   institution: Princeton University
 title: "On the Resonance of the Romantic Horn Call in Brahms’s Trio, Op. 40"
-handout: ''
+handouts:
+    - desc: Handout
+      path: rphillips.pdf
 abstract: |
   <p>Among Brahms’s chamber works the Trio for Violin, Natural Horn
   [<i>Waldhorn</i>] and Piano (1865) is celebrated for its unusual scoring and

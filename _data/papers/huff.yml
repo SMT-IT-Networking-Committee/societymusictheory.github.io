@@ -3,7 +3,9 @@ authors:
 - name: Kelly Huff
   institution: Washburn University
 title: "Tomás Luis De Victoria: Businessman and Composer"
-handout: ''
+handouts:
+    - desc: Handout
+      path: khuff.pdf
 abstract: |
   <p>Tomás Luis de Victoria occupied divergent worlds. Most of his formal
   education and career occurred in Rome, while he spent his later years at the

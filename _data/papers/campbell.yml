@@ -3,7 +3,9 @@ authors:
 - name: Evan Campbell
   institution: McGill University
 title: "The Talk of a Madman? Claudio Monteverdi’s Modulations"
-handout: ''
+handouts:
+    - desc: Handout
+      path: campbell-handout-0052.pdf
 abstract: |
   <p>Claudio Monteverdi’s “Nisi Dominus” (<i>Vespro della Beata Vergine</i>,
   1610) concludes with a shocking move from a three-flat system at the beginning

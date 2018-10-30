@@ -3,7 +3,9 @@ authors:
 - name: Nathan John Martin
   institution: University of Michigan
 title: "Schenker and/or Rameau"
-handout: ''
+handouts:
+    - desc: Handout
+      path: martin-handout-0049.pdf
 abstract: |
   <p>In his notorious late screed “Rameau oder Beethoven” (1930), Schenker
   excoriated Rameau for having sown “the seeds of death” in music theory by

@@ -3,7 +3,9 @@ authors:
 - name: Frederick Reece
   institution: University of Miami
 title: "Fritz Kreisler and the Art of Forgery"
-handout: ''
+handouts:
+    - desc: Handout
+      path: reece-handout-0048.pdf
 abstract: |
   <p>On 8 February 1935 the front page of the <i>New York Times</i> ran an
   article that would turn the world of music criticism on its head. Telegramming

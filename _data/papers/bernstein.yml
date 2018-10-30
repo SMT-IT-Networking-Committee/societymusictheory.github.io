@@ -3,7 +3,11 @@ authors:
 - name: Zachary Bernstein
   institution: Eastman School of Music, University of Rochester
 title: "Poetic Form and Psychological Portraiture in Babbitt’s Early Texted Works"
-handout: ''
+handouts:
+    - desc: Handout
+      path: bernstein-handout-0055.pdf
+    - desc: Slides
+      path: bernstein-handout-0056.pdf
 abstract: |
   <p>Neither the contextual logic of serial transformations nor the formalist
   discourse surrounding serial music suggest that serialism is a profitable

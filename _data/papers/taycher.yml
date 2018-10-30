@@ -3,7 +3,9 @@ authors:
 - name: Ryan Taycher
   institution: Indiana University
 title: "<i>Contrapunctus</i> Structure and Elaborative Figurations in the Ars Nova Motet"
-handout: ''
+handouts:
+    - desc: Handout
+      path: taycher-handout-0050.pdf
 abstract: |
   <p>The earliest <i>contrapunctus</i> treatises from the fourteenth century
   teach a compositional process in which one produces a note-against-note

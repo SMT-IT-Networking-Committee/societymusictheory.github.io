@@ -3,7 +3,9 @@ authors:
 - name: James Donaldson
   institution: McGill University
 title: "Reconsidering the Musical Surreal through Poulenc’s Fifth Relations"
-handout: ''
+handouts:
+    - desc: Handout
+      path: donaldson-handout-0053.pdf
 abstract: |
   <p>As “the most profoundly confusing” of all arts, music was dismissed by
   figurehead André Breton as irrelevant to the Surrealist movement. Yet many
