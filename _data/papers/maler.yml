@@ -3,7 +3,9 @@ authors:
 - name: Anabel Maler
   institution: Indiana University
 title: "Rethinking the Cadence: Cadential Content and Function in the Music of Alfred Schnittke"
-handout: ''
+handouts:
+    - desc: Handout
+      path: amaler.pdf
 abstract: |
   <p>Terms borrowed from theories of Classical form appear with surprising
   frequency in analytical forays into post-tonal repertoires. But despite their

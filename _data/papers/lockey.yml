@@ -3,7 +3,9 @@ authors:
 - name: Nicholas Lockey
   institution: The Benjamin School
 title: "Pleasurable Laments: The Siciliana and Feminine Expression in Eighteenth-Century Music"
-handout: ''
+handouts:
+    - desc: Handout
+      path: nlockey.pdf
 abstract: |
   <p>The <i>siciliana</i> emerged as an identifiable character type at the
   crossroads of the seventeenth and eighteenth centuries and went on to become
