@@ -3,7 +3,9 @@ authors:
 - name: Jessica Barnett
   institution: SUNY Fredonia
 title: "Octatonic Serialism in Ginastera’s Piano and Violin Concertos"
-handout: ''
+handouts:
+    - desc: Handout
+      path: barnett-handout-0047.pdf
 abstract: |
   <p>A celebrated if often analytically underrepresented composer, Argentine
   composer Alberto Ginastera garnered international acclaim in the late 1950s at
