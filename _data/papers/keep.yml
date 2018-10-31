@@ -3,7 +3,9 @@ authors:
 - name: David Keep
   institution: Eastman School of Music, University of Rochester
 title: "Failed Musical Memory and Intertextuality in Brahms’s Op. 83 Andante"
-handout: ''
+handouts:
+    - desc: Handout
+      path: dkeep.pdf
 abstract: |
   <p>The Andante from Brahms’s Second Piano Concerto opens with a lavish theme
   played by a solo cello, but over the course of the B-flat major ternary form

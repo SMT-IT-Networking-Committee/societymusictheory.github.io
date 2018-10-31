@@ -3,7 +3,9 @@ authors:
 - name: Emily Wilbourne
   institution: Queens College, CUNY
 title: "Black Singers and Blackface Roles on the Mid-Seventeenth-Century Italian Operatic Stage"
-handout: ''
+handouts:
+    - desc: Handout
+      path: ewilbourne.pdf
 abstract: |
   <p>On 14 October 1662, the opera impresario Vettor Grimani Calergi wrote from
   Venice to Prince Mattias de’ Medici in Florence to discuss the singers for the

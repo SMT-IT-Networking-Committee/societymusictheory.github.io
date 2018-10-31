@@ -3,7 +3,9 @@ authors:
 - name: Thomas Johnson
   institution: Skidmore College
 title: "Description-as-Analysis and Orchestration-as-Form in Feldman’s <i>Coptic Light</i>"
-handout: ''
+handouts:
+    - desc: Handout
+      path: tjohnson.pdf
 abstract: |
   <p>Feldman’s late works, including <i>Coptic Light</i> (1986) remain
   understandably under-explored by music theorists. In particular, aspects of

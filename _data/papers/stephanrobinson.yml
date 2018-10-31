@@ -3,7 +3,9 @@ authors:
 - name: Anna Stephan-Robinson
   institution: West Liberty University
 title: "‘Musicianship’: An Interdisciplinary Course to Prepare First-Year Music Majors for Success"
-handout: ''
+handouts:
+    - desc: Slides
+      path: astephanrobinson.pdf
 abstract: |
   <p>Abstract goes here</p>
 

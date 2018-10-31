@@ -3,7 +3,9 @@ authors:
 - name: Micaela Baranello
   institution: University of Arkansas
 title: "“Old Man Danube”: Emmerich Ka´lma´n’s Broadway Exile, 1941-1945"
-handout: ''
+handouts:
+    - desc: Handout
+      path: mbaranello.pdf
 abstract: |
   <p>For New York audiences of the 1940s, Viennese operetta was passé. For the
   composers and librettists who fled Europe it was a remnant of a lost world—and

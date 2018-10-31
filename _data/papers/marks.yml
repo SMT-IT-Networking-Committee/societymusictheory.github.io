@@ -3,7 +3,9 @@ authors:
 - name: Thomas Marks
   institution: Graduate Center, CUNY
 title: "Singing Repentance in Nuremberg during the Thirty Years War, 1618–1648"
-handout: ''
+handouts:
+    - desc: Handout
+      path: tmarks.pdf
 abstract: |
   <p>The Thirty Years’ War was largely understood by seventeenth-century
   Germans to be the result of God’s anger exacted on a disobedient population.

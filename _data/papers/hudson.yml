@@ -3,7 +3,9 @@ authors:
 - name: Stephen Hudson
   institution: Northwestern University
 title: "The Origins of the Musical Sentence in Baroque Dance Rhythms"
-handout: ''
+handouts:
+    - desc: Handout
+      path: shudson.pdf
 abstract: |
   <p>An unsolved mystery of <i>Formenlehre</i> is that no writer before
   Schoenberg identified the Sentence, despite this structure’s consistent

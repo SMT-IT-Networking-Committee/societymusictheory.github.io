@@ -3,7 +3,9 @@ authors:
 - name: Damian Blättler
   institution: Rice University
 title: "Phrase-Rhythmic Asymmetry and Loss in Ravel”"
-handout: ''
+handouts:
+    - desc: Handout
+      path: blattler-handout-0062.pdf
 abstract: |
   <p>This paper discusses Ravel’s subversion of the conventional pairing of
   stable tonality with relatively symmetrical phrase rhythm and of unstable
