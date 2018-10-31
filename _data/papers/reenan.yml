@@ -3,7 +3,9 @@ authors:
 - name: Sam Reenan
   institution: Eastman School of Music
 title: "The Hybrid Forms of Mahler’s Late Symphonies"
-handout: ''
+handouts:
+    - desc: Slides
+      path: sreenan.pdf
 abstract: |
   <p>The problematic status of sonata form in Mahler’s late symphonies has been
   well documented. Monahan (2015) argues that neither the opening movements of

@@ -3,7 +3,9 @@ authors:
 - name: Eric Elder
   institution: Brandeis University
 title: "Rudolph Reti and Alfred North Whitehead: Parallels in Process"
-handout: ''
+handouts:
+    - desc: Handout
+      path: elder-handout-0057.pd
 abstract: |
   <p>Rudolph Reti’s book, <i>The Thematic Process in Music</i>, has faced harsh
   criticism since its initial release in 1951. Despite its frequent dismissal,

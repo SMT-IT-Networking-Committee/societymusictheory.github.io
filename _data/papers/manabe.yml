@@ -2,8 +2,10 @@
 authors:
 - name: Noriko Manabe
   institution: Temple University
-title: "Rapping to a different beat: Flow, language, and aesthetics in triplet, non-duple, and irregular hip-hop tracks"
-handout: ''
+title: "Rapping to a Different Beat: Flow, Language, and Aesthetics in Triplet, Non-duple, and Irregular Hip-hop Tracks"
+handouts:
+    - desc: Handout
+      path: manabe-handout-0058.pdf
 abstract: |
   <p>Rap is overwhelmingly in 4/4; most rappers imagine a four-beat,
   sixteen-pulse line of verse (Edwards). Nonetheless, rap tracks in 3/4, 12/8,
