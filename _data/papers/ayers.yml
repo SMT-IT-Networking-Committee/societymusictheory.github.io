@@ -3,7 +3,9 @@ authors:
 - name: William R. Ayers
   institution: University of Central Florida
 title: "Gesture and Transformation in Joel Mandelbaum’s Thirty-One-Tone Keyboard Miniatures"
-handout: ''
+handouts:
+    - desc: Handout
+      path: ayers-handout-0060.pdf
 abstract: |
   <p>This paper uses Joel Mandelbaum’s <i>Four Miniatures</i> (1984) for the
   thirty-one-tone archiphone to examine the connection between physical

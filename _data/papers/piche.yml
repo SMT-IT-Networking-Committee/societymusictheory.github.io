@@ -3,7 +3,9 @@ authors:
 - name: Marie-Ève Piché
   institution: McGill University
 title: "The ‘Swedish Sixth’ Chord: Introducing a New Family of Augmented-Sixths"
-handout: ''
+handouts:
+    - desc: Handout
+      path: piché-handout-0059.pdf
 abstract: |
   <p>For more than two hundred years, conventional harmonic theories have
   recognized three types of augmented-sixth chords: Italian, French, and German.

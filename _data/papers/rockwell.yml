@@ -3,7 +3,9 @@ authors:
 - name: Joti Rockwell
   institution: Pomona Colelge
 title: "Listening to Translation in American Roots Music"
-handout: ''
+handouts:
+    - desc: Handout
+      path: rockwell-handout-0061.pdf
 abstract: |
   <p>Music, Claude Lévi-Strauss memorably declared, is “untranslatable.”
   Contemporary authors who have cited him have done little to argue against this
