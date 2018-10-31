@@ -3,7 +3,9 @@ authors:
 - name: Lars Christensen
   institution: University of Minnesota
 title: "Constructing Social and Tonal Order in Northern Song Dynasty Bell Chimes"
-handout: ''
+handouts:
+    - desc: Handout
+      path: lchristensen.pdf
 abstract: |
   <p>Since early times, Chinese musical thought emphasized how harmonious notes
   in ritual music were associated with harmonious relations in the social

@@ -3,7 +3,9 @@ authors:
 - name: Giovanni Zanovello
   institution: Indiana University
 title: "Frottola Schmottola: Rethinking Italian Song ca. 1500"
-handout: ''
+handouts:
+    - desc: Handout
+      path: gzanovello.pdf
 abstract: |
   <p>Musicologists have mostly described late-fifteenth-century Italian song as
   a courtly phenomenon, but the reach of this repertory was much richer and
