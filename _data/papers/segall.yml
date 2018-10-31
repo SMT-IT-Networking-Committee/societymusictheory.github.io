@@ -3,7 +3,9 @@ authors:
 - name: Christopher Segall
   institution: University of Cincinnati
 title: "Form-Functional Modification in Prokofiev’s Variation Movements"
-handout: ''
+handouts:
+    - desc: Handout
+      path: segall-handout-0063.pdf
 abstract: |
   <p>In the study of theme and variations, form has been overlooked, as the
   prevailing view is that variations share form-functional organization with the
