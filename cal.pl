@@ -95,6 +95,12 @@ for my $f ($session_dir->children) {
     my ($eh, $em) = split /:/, $end;
     $eh += 12 if $eh != 12;
     $end = sprintf("%02d%02d00", $eh, $em);
+  } else {
+    my ($sh, $sm) = split /:/, $start;
+    $start = sprintf("%02d%02d00", $sh, $sm);
+
+    my ($eh, $em) = split /:/, $end;
+    $end = sprintf("%02d%02d00", $eh, $em);
   }
 
   my $dtstart = sprintf("DTSTART;TZID=America/Chicago:%sT%s", $days{$day}, $start);
