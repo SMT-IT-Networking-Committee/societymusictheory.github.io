@@ -3,7 +3,9 @@ authors:
 - name: Stephanie Venturino
   institution: Eastman School of Music, University of Rochester
 title: "The Style Incantatoire in André Jolivet’s Solo Flute Works"
-handout: ''
+handouts:
+    - desc: Handout
+      path: venturino-handout-0070.pdf
 abstract: |
   <p>André Jolivet (1905–74) contributed significantly to musical modernism,
   proving particularly influential for Messiaen, Boulez, and their

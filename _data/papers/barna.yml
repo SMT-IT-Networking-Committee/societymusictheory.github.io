@@ -3,7 +3,9 @@ authors:
 - name: Alyssa Barna
   institution: Eastman School of Music, University of Rochester
 title: "Music Theory’s Role in Mainstream Digital Journalism"
-handout: ''
+handouts:
+    - desc: Slides
+      path: abarna.pdf
 abstract: |
   <p>Recently, digital journalists have published many articles that attempt to
   analyze musical works for a general audience. Many of these blog posts and

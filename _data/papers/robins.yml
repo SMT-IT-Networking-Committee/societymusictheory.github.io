@@ -3,7 +3,9 @@ authors:
 - name: Jeremy M. Robins
   institution: Orlando, FL
 title: "Double-Tonic Complexes and Singer Agency in Popular Music"
-handout: ''
+handouts:
+    - desc: Handout
+      path: robins-handout-0068.pdf
 abstract: |
   <p>In his article “Action and Agency Revisited,” Seth Monahan presents a model
   of agency in absolute music, but he also recognizes the limits of his model

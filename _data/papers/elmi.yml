@@ -3,7 +3,9 @@ authors:
 - name: Elizabeth G. Elmi
   institution: Indiana University
 title: "Performing Culture and Community in the Kingdom of Naples: Italian-Texted Songs and Their Sources"
-handout: ''
+handouts:
+    - desc: Handout
+      path: lelmi.pdf
 abstract: |
   <p>This paper explores the cultural and social contexts in which
   Italian-texted song was composed and performed in the Aragonese Kingdom of

@@ -6,7 +6,9 @@ authors:
 - name: Sundar Subramanian
   institution: Ottawa, Ont.
 title: "The Grateful Dead’s ‘Blues for Allah’: Syncretic Composition in Mid-1970s Rock Music"
-handout: ''
+handouts:
+    - desc: Handout
+      path: backstrom-handout-0071.pdf
 abstract: |
   <p>The Grateful Dead’s extended composition “Blues for Allah” is a singular,
   syncretic composition, fusing passages of blues- or folk-derived harmony,

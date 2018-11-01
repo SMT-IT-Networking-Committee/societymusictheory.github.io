@@ -11,6 +11,11 @@ papers: ~
 panelists:
     - name: Lynn Brinckmeyer
       institution: Texas State University
+      handouts:
+          - desc: Slides
+            path: lbrinckmeyer-slides.pdf
+          - desc: Additional Resources
+            path: lbrinckmeyer-resources.pdf
     - name: Julie Smith
       institution: Citizens’ Climate Lobby of San Antonio
       handouts:
