@@ -15,6 +15,6 @@
     {% endif %}
   {%- endcapture -%}
 
-  <li>{{ panelist.name }} ({{ panelist.institution }}){{ handout }}</li>
+  <li>{{ panelist.name }} {% if panelist.institution %}({{ panelist.institution }}){% endif %}{{ handout }}</li>
 {% endfor %}
 </ul>
