@@ -3,7 +3,9 @@ authors:
 - name: Ji Yeon Lee
   institution: University of Houston
 title: "The Arrival 6/4 Chord in Wagner’s <i>Die Walküre</i>: Types and Functions"
-handout: ''
+handouts:
+    - desc: Handout
+      path: lee-handout-0064.pdf
 abstract: |
   <p>Coined by Robert Hatten, the “arrival 6/4” is a cadential 6/4 that resolves
   tonal or thematic instabilities without necessarily proceeding to V(7).
