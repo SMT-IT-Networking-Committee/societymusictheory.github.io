@@ -87,11 +87,18 @@ for my $f ($session_dir->children) {
 
   my ($day, $start, $end) = $time =~ /^(\w+).*?([0-9]{1,2}:[0-9]{2}).*?([0-9]{1,2}:[0-9]{2})/;
 
-  $start =~ s/://g;
-  $end =~ s/://g;
+  if ($time =~ /(afternoon|evening)/n) {
+    my ($sh, $sm) = split /:/, $start;
+    $sh += 12 if $sh != 12;
+    $start = sprintf("%02d%02d00", $sh, $sm);
 
-  my $dtstart = sprintf("DTSTART;TZID=America/Chicago:%sT%s00", $days{$day}, $start);
-  my $dtend =   sprintf("DTEND;TZID=America/Chicago:%sT%s00", $days{$day}, $end);
+    my ($eh, $em) = split /:/, $end;
+    $eh += 12 if $eh != 12;
+    $end = sprintf("%02d%02d00", $eh, $em);
+  }
+
+  my $dtstart = sprintf("DTSTART;TZID=America/Chicago:%sT%s", $days{$day}, $start);
+  my $dtend =   sprintf("DTEND;TZID=America/Chicago:%sT%s", $days{$day}, $end);
 
   my $now = DateTime->now(time_zone => 'UTC');
   my $dtstamp = $now->ymd('') . 'T' . $now->hms('') . 'Z';
@@ -113,5 +120,5 @@ EOF
 
   my $where = compute_time($time);
   my $out = $cal_dir->child("$struct->{slug}.ics");
-  $out->spew($prelude . $vevent);
+  $out->spew_utf8($prelude . $vevent);
 }
