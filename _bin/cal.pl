@@ -110,6 +110,20 @@ for my $f ($session_dir->children) {
   my $dtstamp = $now->ymd('') . 'T' . $now->hms('') . 'Z';
   my $guid = guid_string;
 
+  my $out = $cal_dir->child("$struct->{slug}.ics");
+
+  # reuse dtstamp / guid
+  if ($out->exists) {
+    for my $l ($out->lines) {
+      if (my ($stamp) = $l =~ /^DTSTAMP:(.*?)[\r\n]+$/) {
+        $dtstamp = $stamp;
+      }
+      if (my ($uid) = $l =~ /^UID:(.*?)[\r\n]+$/) {
+        $guid = $uid;
+      }
+    }
+  }
+
   my $title = $struct->{title} . ' - ' . $struct->{room};
   my $vevent = <<EOF;
 BEGIN:VEVENT
@@ -124,7 +138,5 @@ EOF
 
   $vevent =~ s/\n/\r\n/g;
 
-  my $where = compute_time($time);
-  my $out = $cal_dir->child("$struct->{slug}.ics");
   $out->spew_utf8($prelude . $vevent);
 }
