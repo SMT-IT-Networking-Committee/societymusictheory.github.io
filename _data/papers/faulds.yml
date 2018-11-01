@@ -3,7 +3,9 @@ authors:
 - name: Katrina Faulds
   institution: University of Southampton
 title: "Troubling Grace: Performing the Tambourine in Georgian Britain"
-handout: ''
+handouts:
+    - desc: Handout
+      path: kfaulds.pdf
 abstract: |
   <p>Around 1800, Britain saw a small explosion in the publication of music with
   accompaniment for tambourine, complicating existing gender and cultural

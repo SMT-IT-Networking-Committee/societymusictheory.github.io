@@ -3,7 +3,9 @@ authors:
 - name: Jane Hatter
   institution: University of Utah
 title: "Referencing Pedagogy, Celebrating Community: Du Fay’s Musicians’ Motets for Cambrai Cathedral"
-handout: ''
+handouts:
+    - desc: Handout
+      path: jhatter.pdf
 abstract: |
   <p>A plethora of mid-fifteenth-century northern European paintings and musical
   compositions exhibit self-referential features, elements that allude to the

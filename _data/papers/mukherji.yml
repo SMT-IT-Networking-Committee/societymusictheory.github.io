@@ -3,7 +3,9 @@ authors:
 - name: Somangshu Mukherji
   institution: University of Michigan, Ann Arbor
 title: "Bhatkhande, Schenker, Humboldt: An Eternal Rāgamālā"
-handout: ''
+handouts:
+    - desc: Handout
+      path: smukherji.pdf
 abstract: |
   <p>“<i>Rāgamālā</i>” literally means “garland” or “braid” of <i>rāga</i>s.
   Metaphorically, however, it denotes the deeper structural and aesthetic
