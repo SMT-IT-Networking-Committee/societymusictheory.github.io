@@ -3,7 +3,9 @@ authors:
 - name: Chelsey Hamm
   institution: Christopher Newport University
 title: "Representations of the “Female Voice” in Kesha’s <i>Rainbow</i>"
-handout: ''
+handouts:
+    - desc: Handout
+      path: hamm-handout-0067.pdf
 abstract: |
   <p>The style of Kesha’s 2017 album <i>Rainbow</i> starkly contrasts with her
   previous recordings, <i>Animal</i> (2010) and <i>Warrior</i> (2012).

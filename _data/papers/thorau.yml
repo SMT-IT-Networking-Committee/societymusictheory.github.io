@@ -3,7 +3,9 @@ authors:
 - name: Christian Thorau
   institution: Universität Potsdam, Germany
 title: "Music Analysis, Popularized? Recent Technologies of Interactive Scores for Listeners"
-handout: ''
+handouts:
+    - desc: Handout
+      path: cthorau.pdf
 abstract: |
   <p>Music analysis is often considered an exclusively academic pursuit. The
   specific terminologies of each analytical method, expected degree of
