@@ -6,7 +6,9 @@ authors:
 - name: John Peterson
   institution: James Madison University
 title: "Defying Brevity: Expansion beyond the Phrase Level in Musical Theater"
-handout: ''
+handout:
+    - desc: Handout
+      path: jarvis-handout-0075.pdf
 abstract: |
   <p>A revived enthusiasm for issues of form in classical music by scholars such
   as Caplin, Hepokoski & Darcy, and Schmalfeldt, has stimulated a burgeoning
