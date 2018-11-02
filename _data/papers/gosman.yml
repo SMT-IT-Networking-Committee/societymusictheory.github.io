@@ -3,7 +3,9 @@ authors:
 - name: Alan Gosman
   institution: University of Arkansas
 title: "Take It Away: How Shortened and Missing Refrains Energize Rondo Forms"
-handout: ''
+handouts:
+    - desc: Handout
+      path: gosman-handout-0074.pdf
 abstract: |
   <p>Rondo forms are particularly vulnerable to having a theme excessively
   repeated. The more parts that a rondo has, the more susceptible it is to being
