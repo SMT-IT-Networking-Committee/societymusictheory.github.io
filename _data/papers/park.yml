@@ -3,7 +3,9 @@ authors:
 - name: Jinny Park
   institution: Indiana University
 title: "Rhyming Techniques in Korean Hip-Hop"
-handout: ''
+handouts:
+    - desc: Handout
+      path: jpark.pdf
 abstract: |
   <p>In the 2000s, a new wave of rappers came to the Korean hip-hop scene with
   the mission of creating unique rhyming techniques pertinent to Korean language
