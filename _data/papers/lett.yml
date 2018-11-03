@@ -3,7 +3,9 @@ authors:
 - name: Stephen Lett
   institution: University of Michigan
 title: "How to DJ a Psychedelic Trip: Helen L. Bonny’s Lesson from the Drastic"
-handout: ''
+handouts:
+    - desc: Handout
+      path: lett-handout-0077.pdf
 abstract: |
   <p>What might music theory—a mediating and representational discipline—look
   like if it takes as its starting point the immediate, affective moment of
