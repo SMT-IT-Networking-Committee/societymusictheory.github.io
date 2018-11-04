@@ -3,7 +3,11 @@ authors:
 - name: Jennifer Beavers
   institution:  University of Texas at San Antonio
 title: "Ravel’s Sound: Timbre and Orchestration in His Late Works”"
-handout: ''
+handouts:
+    - desc: Examples
+      path: beavers-handout-0079.pdf
+    - desc: Color-coded SPC instruments
+      path: beavers-handout-0080.pdf
 abstract: |
   <p>Analytic work on Ravel’s music has unmasked his ability to discretely
   manipulate formal and harmonic expectations, yet, until recently, his
