@@ -5,13 +5,22 @@ title: Thursday Evening Sessions
 
 # Thursday Evening Sessions
 
+## 8:00--9:00
+
+<ul>
+{% include session-tiny.html session="contrapuntal-mensural-dissonance" %}
+</ul>
+
 ## 8:00--9:30
+
+<ul>
+{% include session-tiny.html session="producing-virtual-spaces" %}
+</ul>
+
 
 ## 8:00--10:00
 
-## 8:00--10:30
-
-## 8:00--11:00
-
-
-## 9:45--11:15
+<ul>
+{% include session-tiny.html session="performance-bodies-cognition-technology" %}
+{% include session-tiny.html session="lewin-least-expect-him" %}
+</ul>

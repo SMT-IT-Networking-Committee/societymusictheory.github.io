@@ -7,12 +7,16 @@ title: Thursday Evening Sessions
 
 [View session titles only](index-short)
 
+## 8:00--9:00
+
+{% include session-short.html session="contrapuntal-mensural-dissonance" %}
+
 ## 8:00--9:30
+
+{% include session-short.html session="producing-virtual-spaces" %}
+
 
 ## 8:00--10:00
 
-## 8:00--10:30
-
-## 8:00--11:00
-
-## 9:45--11:15
+{% include session-short.html session="performance-bodies-cognition-technology" %}
+{% include session-short.html session="lewin-least-expect-him" %}
