@@ -1,0 +1,33 @@
+---
+authors:
+    - name: Brad Gersh 
+      institution: Princeton University
+title: "Listening to Sensory Dissonance Through Time in American Minimalism"
+handout: ''
+abstract: |
+    <p>Recent work by Damian Blättler, Daniel Harrison, and others has drawn
+    attention to the complex, interacting effects of intervals within a chord.
+    A wide dissonance, for example, may seem softer when divided into smaller
+    consonances, and a consonant interval might be challenged by other
+    dissonances to varying degrees. Such vertical effects become prominent
+    when a static sonority is sustained as a drone or changes only gradually,
+    as in some music by Webern, Messiaen, Ligeti, and Reich. A more flexible
+    method to describe the interactions of tones within a static chord would
+    thus be useful.</p>
+    <p>In this paper, I propose one step toward this goal through a revision
+    of William Sethares’s model of sensory dissonance. Sethares’s procedure,
+    which is influenced by Helmholtz, computes a score representing the total
+    strength of dissonant partials in the spectrum of a chord. In a similar
+    manner, we might compute a score of “consonant,” overlapping
+    partial-pairs. The ratio of these scores allows us to compare the relative
+    dissonance of chords of any cardinality, and corrects an artifact, the
+    excessive decline in predicted dissonance as intervals increase in
+    size.</p>
+    <p>Relative dissonance can take a form-building function, as reflected in
+    this ratio. Arvo Pärt’s <i>Fratres</i> shows an arch form with an apex in
+    relative dissonance coinciding with the loudest dynamic; this dissonance
+    pattern may be more perceptible to an auditor than the process that
+    generates it. Likewise, Section I of Reich’s Music for 18 Musicians
+    reaches a rhetorical climax just where relative dissonance reaches a local
+    nadir.</p>
+

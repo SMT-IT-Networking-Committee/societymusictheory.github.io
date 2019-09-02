@@ -1,0 +1,26 @@
+---
+authors:
+    - name: Samuel Howes 
+      institution: McGill University
+title: "Harmonic Syntax in the Canzonas of Frescobaldi"
+handout: ''
+abstract: |
+    <p>Frescobaldi’s canzonas reflect the rapidly evolving harmonic language
+    of the early 17th century and prefigure the formal and textural
+    characteristics of the mid 17th-century instrumental sonata. My paper
+    explores Frescobaldi’s harmonic style in 44 three- and four-part canzonas,
+    all published during the composer’s lifetime (<i>Canzoni</i> (1608), <i>Il
+    primo libro delle canzoni</i> (1628–35), <i>Canzoni da sonare</i> (1634),
+    <i>Fiori musicali</i> (1635), <i>Canzoni franzese</i> (1642)).</p>
+    <p>Harmonic syntax is important in defining musical style, but it is
+    poorly understood in 17th-century music. Previous studies of tonality at
+    the beginning (Powers 1981, 1992, 1998) and end (Barnett 1998, 2002, 2008,
+    2010) of the 17th century do not address harmonic syntax. I argue that
+    Frescobaldi’s canzonas are an important link between the Renaissance and
+    the Baroque, laying the groundwork for common-practice harmony and helping
+    to establish tonalities that appear in the works of later 17th-century
+    composers. I demonstrate that while some of Frescobaldi’s tonalities have
+    a sound of their own, others are highly similar, both in terms of chord
+    histograms (tallies of occurrence) and chord progressions (modeled as
+    Markov chains), forecasting the transpositional relationship between
+    18th-century keys.</p>

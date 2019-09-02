@@ -1,389 +1,152 @@
 scratch document
 
+FRIDAY MORNING SESSION—8:00–9:30
 ---
-title: The Debussy Sound and the Cultural Imagination
-slug: debussy-sound-cultural-imagination
-society: AMS/SMT
-room: Texas D
-time: 'Friday morning, 9:00–12:15'
+title: Poster Session
+slug: poster-session
+room: McKinley
+time: 'Friday morning, 8:00-9:30'
 chair:
-    formatted_short: Gurminder K. Bhogal and Marianne Wheeldon, Conveners
-    formatted: Gurminder K. Bhogal and Marianne Wheeldon, Conveners
-papers: ~
-
-Joint Session in Three Parts, with a Performance Interlude
-
-
----
-title: "Special Session: Active Citizenship"
-slug: active-citizenship
-room: Texas A
-chair:
-    name: Nancy Rogers
-    institution: Florida State University
-papers: ~
-panelists:
-    - name: Lynn Brinckmeyer
-      institution: Texas State University
-    - name: Julie Smith
-      institution: Citizens’ Climate Lobby of San Antonio
-
-
-
----
-title: Bodies and Instruments
-slug: bodies-and-instruments
-society: AMS
-room: Texas E
-chair:
-    name: Ivan Raykoff
-    institution: The New School
+    name: Sara Bakker
+    institution: Utah State University
+    title: Convenor
 papers:
-    - weinsteinreiman
-    - moseley
-    - ford
-
-
----
-title: Composers and Performance Spaces
-slug: composers-performance-spaces
-society: AMS
-room: Texas F
-time: 'Friday morning, 9:00–10:30'
-chair:
-    name: David Bernstein
-    institution: Mills College
-papers:
-    - hannonteal
-    - fox_d
-    - maher
-
-
----
-title: Cross-Currents in Communist Countries
-slug: cross-currents-communist-countries
-society: AMS
-room: Republic B
-time: 'Friday morning, 9:00–10:30'
-chair:
-    name: William Quillen
-    institution: Oberlin College and Conservatory
-papers:
-    - kube
-    - searcy
-    - nesterenko
-
-
----
-title: Inter- and Intra-Cultural Scale Studies
-slug: inter-intra-cultural-scale-studies
-society: SMT
-room: Travis CD
-time: 'Friday morning, 9:00–10:30'
-chair:
-    name: Nancy Yunhwa Rao
-    institution: Rutgers University
-papers:
-    - mukherji
-    - christensen_l
-    - hynes
-
----
-title: Late Haydn
-slug: late-haydn
-society: AMS
-room: Crockett AB
-time: 'Friday morning, 9:00–10:30'
-chair:
-    name: Bruce MacIntyre
-    institution: Brooklyn College, CUNY
-papers:
-    - boisjoli
-    - roussin
-    - clark
-
----
-title: Latin American Cathedrals
-slug: latin-american-cathedrals
-society: AMS
-room: Lone Star A
-time: 'Friday morning, 9:00–10:30'
-chair:
-    name: Carol A. Hess
-    institution: University of California, Davis
-papers:
-    - vera
-    - davies
-    - traylor
-
-
----
-title: Mid-Century Jazz
-slug: mid-century-jazz
-society: AMS
-room: Texas B
-time: 'Friday morning, 9:00–10:30'
-chair:
-    name: Darren Mueller 
-    institution: Eastman School of Music, University of Rochester
-papers:
-    - klotz
-    - crist
-    - coleman
-
-
----
-title: Musical Networks, Medieval and Early Modern
-slug: networks-medieval-early-modern
-society: AMS
-room: Texas C
-time: 'Friday morning, 9:00–10:30'
-chair:
-    name: Evan A. MacCarthy
-    institution: West Virginia University
-papers:
-    - huff
-    - cook
-    - altstatt
-
----
-title: Nineteenth-Century Spaces and Spectacles
-slug: nineteenth-century-spaces-spectacles
-society: AMS
-room: Crockett CD
-time: 'Friday morning, 9:00–10:30'
-chair:
-    name: Matthew Franke
-    institution: Howard University
-papers:
-    - loeffler
-    - vella
-    - lloyd
-
----
-title: Process, Groove, and Backbeat
-slug: process-groove-backbeat
-society: SMT
-room: Lone Star B
-time: 'Friday morning, 9:00–10:30'
-chair:
-    name: Robin Attas
-    institution: Queen’s University
-papers:
+    - howes
+    - murphy
+    - reymore
+    - stephanrobinson
+    - maliniak-greenberg
+    - mccandless
+    - attas
+    - riply
+    - hottle
     - smith
-    - hanenberg
-    - kozak
+    - couryhall
+    - miller-riordan
+    - narum-watkins
+
+
+FRIDAY MORNING SESSION—9:00–10:30
 
 ---
-title: Schubert and Form
-slug: schubert-and-form
-society: SMT
-room: Travis AB
-time: 'Friday morning, 9:00–10:30'
+title: Psychoacoustic Dissonance and Consonance
+slug: psychoacoustic-dissonance
+room: Taft A
+time: 'Friday morning, 9:00-10:30'
 chair:
-    name: René Rusch
-    institution: University of Michigan
+    name: Alfred Cramer
+    institution: Pomona College
 papers:
-    - martinkus
-    - grant_a
-    - vandemoortele
+    - mills
+    - thomson
+    - gersh
 
+"Mutated Octaves" in 20th-Century and Contemporary
+Orchestration
+Joshua W. Mills (University of Florida)
+Unmasking the "Foreign Body": Large-scale Formal Process and Microtonal Language in Georg F. Haas's String Quartet No. 1
+Alexis Millares Thomson (University of Toronto)
+Listening to Sensory Dissonance through Time in American
+Minimalism
+Brad Gersh (Princeton University)
+
+
+COFFEE BREAK (HAYES)
+
+FRIDAY MORNING SESSIONS—9:00–12:15
+
+---
+title: Analyzing the Music of Thomas Adès
+slug: analyzing-ades
+room: Harrison
+chair:
+    name: Yayoi Uno Everett
+    institution: University of Illinois at Chicago
+papers:
+    - moseley
+    - stoecker
+    - bauser
+    - venn
+    - roeder
+    - donaldson
+
+Automatism and Tonal Discombobulation in the Mazurkas of Thomas Adès
+Brian Moseley (SUNY Buffalo)
+Paths, Spirals, and Extraordinary Cycles: The Chaconne in Thom-as Adès’s Violin Concerto
+Philip Stoecker (Hofstra University)
+A World in Constant Motion: Thomas Adès’s In Seven Days
+Amy Bauer (University of California, Irvine)
+How You Speak to Me: Word Setting in Thomas Adès’s
+Powder Her Face (1995)
+Edward Venn (University of Leeds)
+The RICH logic of Thomas Adès’s The Exterminating Angel and The Tempest
+John Roeder (University of British Columbia)
+Living Toys in Adès's Living Toys: Transforming the Post-Tonal Topic
+James Donaldson (McGill University)
 
 
 ---
-title: "Special Session: Gestural Politics of Movement: New Perspectives on Music and Current Social Issues"
-slug: gestural-politics-movement
-room: Texas F
-time: 'Friday morning, 10:45–11:15'
+title: Contemplating and Making the Transition to Academic Administration 
+slug: transition-academic-administration
+room: Taft C
+time: 'Friday morning, 9:00-12:15'
+sponsor: Professional Development Committee
 chair:
-    name: Georgia Cowart
-    institution: Case Western Reserve University
-papers: ~
+    name: Stanley V. Kleppinger 
+    institution: University of Nebraska-Lincoln
 panelists:
-    - name: Mel Y. Chen 
-      institution: University of California, Berkeley
-    - name: Suzanne Cusick 
-      institution: New York University
-    - name: Gavin Lee 
-      institution: Soochow University
+    - name: Sarah Ellis 
+      institution: University of Oklahoma
+    - name: Ryan McClelland 
+      institution: University of Toronto
+    - name: Catherine Nolan 
+      institution: Western University
+    - name: Matthew Shaftel 
+      institution: Ohio University
+    - name: Stanley V. Kleppinger 
+      institution: University of Nebraska–Lincoln
 
 
----
-title: Black Voice
-slug: black-voice
-society: AMS
-room: Texas E
-time: 'Friday morning, 10:45–11:15'
-chair:
-    name: Johann Buis
-    institution: Wheaton College
-papers:
-    - brinegar
-    - musser
-    - buffingtonanderson
-
+FRIDAY MORNING SESSIONS—10:45–12:15
 
 ---
-title: Brahms Reconsidered
-slug: brahms-reconsidered
-society: SMT
-room: Travis AB
-time: 'Friday morning, 10:45–11:15'
+title: Meter, Flow, and Groove in Hip Hop 
+slug: meter-flow-groove
+room: McKinley
+time: 'Friday morning, 10:45-12:15'
 chair:
-    name: Nicole Grimes
-    institution: University of California, Irvine
+    name: Megan Lavengood 
+    institution: George Mason University
 papers:
-    - ito
-    - liu
-    - keep
-
-
----
-title: 'Global Temporalities, Global Pedagogies'
-slug: global-temporalities-pedagogies
-society: SMT
-room: Travis CD
-time: 'Friday morning, 10:45–11:15'
-chair:
-    name: John Roeder
-    institution: University of British Columbia
-papers:
-    - nicely
-    - peiris
-    - bothwell
-
-
----
-title: Jazz Idioms
-slug: jazz-idioms
-society: AMS
-room: Crockett AB
-time: 'Friday morning, 10:45–11:15'
-chair:
-    name: Jeffrey Taylor
-    institution: Brooklyn College, CUNY
-papers:
-    - butterfield
-    - downham
-    - howland
-
-
----
-title: Latin American Voices
-slug: latin-american-voices
-society: AMS
-room: Lone Star A
-time: 'Friday morning, 10:45–11:15'
-chair:
-    name: Walter Clark
-    institution: University of California, Riverside
-papers:
-    - amado_fri
-    - lesliesantana
-    - mcnally
-
-
----
-title: Militarism and Monuments
-slug: militarism-and-monuments
-society: AMS
-room: Crockett CD
-time: 'Friday morning, 10:45–11:15'
-chair:
-    name: Katherine Hambridge
-    institution: Durham University
-papers:
-    - nemeth
-    - buurman
-    - moindrot
-
-
----
-title: New York Soundscapes
-slug: new-york-soundscapes
-society: AMS
-room: Texas B
-time: 'Friday morning, 10:45–11:15'
-chair:
-    name: Jacob A. Cohen
-    institution: Macaulay Honors College, CUNY
-papers:
-    - galloway
-    - rust
-    - zamcheck
-
----
-title: Rethinking Aural Skills Instruction through Cognitive Research
-slug: rethinking-aural-skills-instruction
-society: SMT
-room: Texas A
-time: 'Friday morning, 10:45–11:15'
-sponsor: SMT Pedagogy Interest Group
-chair:
-    name: Stacey Davis
-    institution: University of Texas at San Antonio
-respondent:
-    name: Elizabeth West Marvin
-    institution: Eastman School of Music, University of Rochester
-papers:
-    - chenette
-    - karpinski
-    - gates
-
-
----
-title: Seventeenth-Century France
-slug: seventeenth-century-france
-society: AMS
-room: Presidio B
-time: 'Friday morning, 10:45–11:15'
-chair:
-    name: Antonia L. Banducci
-    institution: University of Denver
-papers:
-    - kauffman
-    - vanorden
-    - bane
-
----
-title: Tonal Multiplicity in Popular Music
-slug: tonal-multiplicity-popular-music
-society: SMT
-room: Lone Star B
-time: 'Friday morning, 10:45–11:15'
-chair:
-    name: Mark Spicer
-    institution: Hunter College / Graduate Center, CUNY
-papers:
-    - declercq
+    - tatar
     - duinker
-    - robins
+    - ohriner
 
+Metric Transformations in Hip-Hop and R&B Sampling Practice
+Jeremy Tatar (McGill University)
+Segmentation and Phrasing in Hip-Hop Flow
+Ben Duinker (McGill University)
+Metric Complexity, Lyric, and Groove in Selected Verses of Eminem
+Mitchell Ohriner (University of Denver)
 
+Wide character in print at /Users/michael/.plenv/versions/5.28.2/lib/perl5/site_perl/5.28.2/Path/Tiny.pm line 1866, <STDIN> line 12.
 ---
-title: Twenty-First-Century Opera
-slug: twenty-first-century-opera
-society: AMS
-room: Republic B
-time: 'Friday morning, 10:45–11:15'
+title: Returning To/In Schubert’s Sonata Forms 
+slug: returning-schubert-sonata
+room: Taft A
+time: 'Friday morning, 10:45-12:15'
 chair:
-    name: Ryan Ebright
-    institution: Bowling Green State University
+    name: Suzannah Clark 
+    institution: Harvard University
 papers:
-    - mcleod
-    - calico
-    - villegasvelez
+    - lai
+    - rusch
+    - grant
 
----
-title: Women Empowered
-slug: women-empowered
-society: AMS
-room: Texas C
-time: 'Friday morning, 10:45–12:15'
-chair:
-    name: Laura Stokes
-    institution: Brown University
-papers:
-    - eaton
-    - caplan
-    - schmid
+Metrical Dissonance and Hypermeter in Schubert's Sonata Forms
+Hei Yeung John Lai (University of British Columbia)
+Diatonic Indeterminacy and Double Returns in Schubert's
+Piano Sonata in B-flat Major, D. 960, i
+René Rusch (University of Michigan)
+Foreshadowing Strategies in Schubert's Three-Key Expositions
+Aaron Grant (Missouri Western State University)
