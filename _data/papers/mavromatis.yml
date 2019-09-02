@@ -1,0 +1,31 @@
+---
+authors:
+    - name: Panayotis Mavromatis 
+      institution: New York University
+title: "Hierarchical Structural Patterns in Improvised Music: Implications for Cognition"
+handout: ''
+abstract: |
+  <p>This paper presents a framework for modeling the structure of improvised
+  music using Hierarchical Markov Models, a natural extension of simple Markov
+  Models (Ames 1989; Mavromatis 2012; White and Quinn 2018). The latter
+  represent musical structure as a dynamic process using graphs with circles
+  representing basic objects (notes, chords, etc.) and arrows specifying their
+  allowed successions. A hierarchy of simple Markov Models represents patterns
+  at different levels of musical structure, showing how notes combine to create
+  melodic formulas; how formulas become building blocks for phrase prototypes;
+  and how phrase prototypes give rise to larger formal units. This approach
+  unifies and refines previous structural analyses of improvisation that use
+  successions of event clusters (Pressing 1988) or generative grammars
+  (Johnson-Laird 1991, 2002). The formalism is illustrated using select examples
+  of formulaic systems from Christian chant (Treitler 1974; Mavromatis 2005),
+  Arabic maqam (abu Shumays 2013), and other world music idioms.</p>
+  <p>This framework has important implications for music cognition. As a model
+  for memory organization in improvisation, it can efficiently represent an
+  expert improviser’s knowledge in long-term memory in a hierarchical and
+  easily-accessible form, thereby reducing working memory load in real-time
+  decision making. Moreover, the framework can address issues surrounding oral
+  tradition in music, such as exactness vs. variability in reconstruction during
+  recall, and the continuum between composition and improvisation. Finally, the
+  present approach can extend the scope of schema theory beyond the galant
+  style, connecting it to mental mechanisms reflected in a broad array of
+  musical styles across the globe.</p>
