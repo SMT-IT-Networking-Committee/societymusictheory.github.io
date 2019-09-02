@@ -572,143 +572,30 @@ In my curriculum, Theory I acts as a gateway course while the other three course
 
 
 SATURDAY MORNING SESSIONS—9:00–10:30
+
 STYLE AND COPYRIGHT (HARRISON)
 Martin Scherzinger (New York University), Chair
-
-Brian Miller (Yale University)
-The Puzzle of Style: On Leonard Meyer's Unlikely Replications
-Strangely enough, the concept of style has rarely received sustained attention from music theorists. While many particular styles have been studied at length, the only major inquiry into the concept itself in recent decades is Leonard Meyer’s <i>Style and Music</i> of 1989. Meyer’s account, describing style as replicated patterning resulting from choices made within some set of constraints, has continued to be cited but has not been further elaborated or challenged in any systematic way. Given the wide range of intellectual developments both contemporary with <i>Style and Music</i> (especially in other disciplines, which Meyer cites widely but not systematically) and more recent (including a variety of “turns” in music scholarship), it is high time to revisit the concept.
-This paper begins that inquiry by considering a class of thought experiments that might be called “style puzzles,” in which some paradoxical or impossible imagined work is probed for insights about style, replication, or related concepts. Meyer himself discusses one famous example, Borges’s “Pierre Menard, Author of the <i>Quixote</i>”—but Meyer’s reading fails to fully grasp the stylistic implications of the story’s central paradox, and thus points symptomatically to a gap in his theory. I situate Meyer alongside readings of this and other style puzzles from art historians, including Arthur Danto and Whitney Davis, whose investigations spur cross-disciplinary difficulties alongside insights into important questions: How are replication and choice manifested and recognized in/as musical style? More broadly, what can and should the notion of style do for the study of music?
-
-
-
-
-Dana DeVlieger (University of Minnesota)
-The Bias of Western Musical Notation in Music Copyright Litigation
-In music copyright law, it has been asserted that music is a quantifiable object and that music analysis is an objective act. However, because musical arguments lack falsifiability, music analysis is instead a subjective, interpretive act. Inherent in interpretive analytical decisions are value judgments about what is worth analyzing and what methods should be used. Because our analysis techniques are rooted in Western art music, these decisions often prioritize melody and harmony. Consequently, these musical features are prioritized by American copyright law. While melody and harmony are considered valuable musical features worthy of copyright protection, musical features that are important to other musical traditions are devalued.
-This paper investigates the ways that different musical features are valued or devalued in music copyright law by suggesting that the continued use of Western musical notation in the courtroom has played a substantial role in perpetuating the prioritization of so-called “primary” musical features and the devaluing of “secondary” ones. In addition to prioritizing certain musical features over others, staff notation can alienate or sway the jury of “lay listeners” often required in music copyright cases.
-The decisions made in music copyright cases contribute to the power dynamics at play in the music industry: deciding who can create what, how something can be created, and who deserves credit for the creation. Since music copyright cases can have a tangible effect on the creation of popular music, it is crucial that we as music scholars interrogate and address the biases inherent in music copyright law.
-
-Katherine M. Leo (Millikin University)
-Deposit Copy or Recording? Sources for Musical-Legal Analysis in Current Federal Copyright Litigation
-Musical similarity in federal copyright lawsuits is analyzed first by expert witnesses, followed by non-expert factfinders, either judges or jurors. Although the legal scope of their assessments is different, both groups must compare tangible copies of the songs at issue: either sheet music filed with the U.S. Copyright Office as a deposit copy; or recordings and transcriptions of them, produced by experts for the purpose of litigation. For music copyrighted prior to the enactment of the 1976 Copyright Act, sheet music served as the primary representation of a song as intellectual property. Although written notation ostensibly promises legal documentation, for music created first on record, deposit copies are often de facto lead sheets that merely outline more complex compositions. If these songs are later implicated in copyright lawsuits, what source should serve as the point of musical-legal comparison: the deposit copy or the recording?
-This question has emerged in three current federal copyright lawsuits: Williams v. Bridgeport Music, over the songs “Blurred Lines” and “Got To Give It Up”; Skidmore v. Led Zeppelin, over the songs “Taurus” and “Stairway to Heaven”; and Griffin v. Sheeran, over the songs “Let’s Get It On” and “Thinking Out Loud.” After a gloss of legislative discrepancies between the 1909 and 1976 Copyright Acts and relevant judicial decision-making processes, this presentation examines court records and compares examples from these cases to model the ontological problematics of musical-legal analysis. In so doing, it highlights the critical, and public, role of musical analysis in federal copyright law.
-
 
 ROTATION, REVOLUTION, AND RUBATO IN OPERA
 (MCKINLEY)
 Deborah Burton (Boston University), Chair
 
-Ji Yeon Lee (University of Houston)
-Rotational Form as a 'Becoming' Process:  An Analysis of the
-"Annunciation of Death" Scene in Wagner's <i>Die Walküre</i>
-The “Annunciation of Death,” a duet in Act 2, scene 4 of Wagner’s <i>Die Walküre</i>, is a dramatic turning point in the Ring Cycle. The warrior goddess Brünnhilde appears to the mortal Siegmund to deliver the chief god’s decree that he shall die in an upcoming battle; however, as Siegmund appeals for mercy for the sake of his sister-lover Sieglinde, Brünnhilde’s resolve weakens, and she decides to defy her orders and save him. Moreover, the sympathy and love she learns through their encounter ultimately motivates Brünnhilde to commit the sacrifice that redeems the world at the end of the Ring Cycle.
-The dramatic importance of this scene has attracted much attention from scholars; significant studies include analyses by Alfred Lorenz (1924), Robert Bailey (1977), Eero Tarasti (2012), and Karol Berger (2016). My paper revolves around the changing dramatic relationship between Brünnhilde and Siegmund over the course of the scene, and its reflection in the musical architecture.
-In my reading, the dramatic narrative is realized in rotational form, with each rotation led by “Siegmund’s Death Song”—a motive usually associated with Siegmund’s downfall. However, instead of treating the motive as a fixed signifier for Siegmund, I explore how the realization of the motive and the resulting progressive momentum in the playing-out of the rotational form reveal a shift between which character exercises control over the narrative. By tracing this narrative dynamic, the rotational form of the duet can be appraised not as a rigid organizational constraint, but as a drama-generating process.
-
-Calvin Peck (Indiana University)
-Dissonance and Political Violence in Two Sappho Operas
-Like most 18th-century operatic renditions of the tale, the dramatic climax of Antoine Reicha’s <i>Sapho </i>(1822) occurs when the title character sacrifices herself by jumping off the Leucadian cliffs. Reicha’s musical setting of the scene is extraordinary by the standards of early 19th-century opera, as it harmonizes a descending chromatic scale with sequential diminished seventh and second-inversion dominant seventh chords. Evidence suggests that this moment may have caught the attention of government censors, and Reicha opined over the musical changes forced upon the opera, particularly by the administrators of the Académie royale de musique, in his unpublished autobiography.
-Reicha’s opera might have been considered suspicious because of its relationship to another Sappho opera by Jean-Paul-Égide Martini that premiered in France in 1794. Martini’s opera is relatively unknown today, but several critics made connections between the two versions. Martini’s <i>Sapho</i> was among the most popular newly-composed works in Paris during the Thermidorian Reaction: its most striking feature is undoubtedly the 12-note chord found in the overture, recast as a 10-note harmony at the moment of sacrifice.
-David Charlton suggests that the libretto of Martini’s version (written by Constance de Salm) may contain hidden criticisms of policies championed by Jacobins during the Reign of Terror. My paper will solidify Charlton’s hypothesis by analyzing how Martini’s hyperdissonant chord functions as a signifier of Revolutionary failure, through examining relationships between the use of dissonance and Revolutionary iconography in the opera, allowing the sheer act of dissonance to be inextricably linked to narrative invocations of authoritarian violence.
-
-John Y. Lawrence (University of Chicago)
-Transacting Musical Time: Where Rhythm Ends and Rubato Begins
-Most studies of expressive timing in classical music analyze performances in conjunction with scores. But many listeners do not access scores. They work from sound alone to ascertain rhythm and rubato simultaneously. Conflict arises between with-score and without-score perspectives whenever rubato is extreme enough that a listener perceives a different rhythm from what is notated. In this paper, I examine instances of this conflict in the verismo opera tradition and the challenges they pose for theories of rhythm perception.
-I first propose five ontological levels at which rhythm manifests: ideal (prototypical norms), notated (what is written), performed (what is notated plus the performer’s rubato), sounding (durations without rhythmic interpretation), and perceived (what is understood by a listener). I then provide multi-level analyses of passages from <i>Cavalleria rusticana</i>, <i>Pagliacci</i>, and <i>Tosca</i>. I suggest that in each case, the perceived rhythm is different from the notated rhythm at even the level of meter and/or hypermeter. I then ask: what might it feel like to be the performer here, what might it feel like to be the scoreless listener, and why might this performing tradition have been established in the first place?
-I conclude by exploring the implications of these examples for rhythm theory as a whole. The hard distinction between rhythm and rubato is undermined when tempo manipulation is aurally indistinguishable from metric manipulation. Instead of defining “expressive timing” as deviation from written note values, I suggest that timing is made expressive by the ascription of agency.
-
 
 SPECULATIVE MAPPINGS (TAFT A)
 David Huron (Ohio State University), Chair
 
-Paul Sherrill (University of Utah)
-Partial Orders of Modal Brightness
-This paper generalizes a familiar fact about the seven diatonic modes: they can be ranked unambiguously in terms of pitch height relative to a fixed tonic. For instance, every pitch of C locrian is lower than or equal to the corresponding scale degree of C phrygian; likewise, phrygian is no higher than aeolian, and so on. To use a metaphorical mapping common in jazz chord-scale pedagogy, locrian is therefore the “darkest” of the diatonic modes and lydian the “brightest.” This paper generalizes that phenomenon to the modes of arbitrary scales. Most scales do not admit a simple linear ordering in terms of brightness. Instead, most scales exhibit a partial order in which some modes are neither brighter nor darker than others. This partial order offers a way of characterizing a scale’s internal construction at a productive level of generality.
-After motivating the concept of brightness with analyses of passages from Mozart’s <i>Don Giovanni</i> and two works by Saint-Saëns, the paper explores several concepts and useful results for modelling modal brightness. These include two different partial orders of brightness, a description of the geometry underlying scales’ varying structures, and a pair of constants that characterize different scales. (Perhaps surprisingly, the natural definition of evenness is not a useful characterization, as scales representing any structure can be made arbitrarily even.) The theory provides a framework that draws together geometric, algebraic, and combinatoric models of musical scales, offering a generalization of concepts like “well formedness” to all scales.
-
-Michael Clarke, Frédéric Dufeu, & Keitaro Takahashi
-(University of Huddersfield, England)
-Using Interactive Software to Enhance Mapping of Complex
-Multi-dimensional and Dynamic Musical Relationships
-Analytical charts and diagrams have traditionally been printed on paper and as such have been fixed and static. The two-dimensional page is also limited in the amount of information that can be presented clearly. However, musical structures are, more often than not, very complex, with multiple interrelations which evolve dynamically.
-This presentation will examine ways in which software can help facilitate analytical representations that better reflect this complexity and multi-dimensionality of dynamically transforming interrelations. Examples will be presented from previously completed analyses and current work on the IRiMaS project (‘Interactive Research in Music as Sound,’ funded for five years, 2017–22, by a European Research Council Advanced Grant) will also be discussed and illustrated. An aim of this project is to extend such analytical techniques to a broader repertoire and facilitate their wider use. Our analyses to date were produced as completed packages with the participation of expert programmers. One aspect of IRiMaS involves developing tools for use by non-technical music researchers, enabling them to adopt a similar analytical approach, creating their own extensible interactive analyses independently of specialist technical support. These tools are also being developed so as to encourage use with a much broader range of musics, including non-Western music, aural/oral traditions, improvisation, and spectral music. Interactive aural software offers new possibilities for analysts, with the opportunity to enhance the way analysis is presented, and it also potentially changes the way analysts and their readers work.
-
-
-
-
-
-James Sullivan (Michigan State University)
-Extending the Parallel Multiple-Analysis Processor:
-Perceived Meter in Post-Tonal Music
-The extent to which meter is perceived in rhythmically irregular post-tonal music has been a matter of speculation and investigation for several decades and is still not entirely agreed upon. Some early acknowledgements of the problem (Lester 1986; Lewin 1987), as well as more fully developed theories (Lerdhal and Jackendoff 1983; Roeder 1994; Hasty 1997), privilege perceived periodicity over the notated meter. At the same time, strict periodicity has been called into question by theories incorporating non-isochronous meters (London 2012), motive-driven aperiodic meter (Horlacher 1995), and other irregular metric structures (Kramer 1988; Leong 2011).
-I approach the issue from the perspective of local regularity: if meter, isochronous or otherwise, is perceived in rhythmically irregular post-tonal music, it must arise from an attempt to entrain to regularity at the moment-to-moment level. Mirka’s (2009) parallel multiple-analysis processor is especially suited to account for such real-time, predictive metric processing. I extend her model to account for (1) standard non-isochronous meters, (2) fluctuating sensations of meter in more deeply irregular music, (3) meter in multiple perceptual streams, and (4) music that systematically subverts metric processing. I situate the discussion in passages by Babbitt, Barber, Carter, Feldman, Henze, and Webern, in which perceived meter is tied to structural and expressive aspects of pitch, form, and text. I also discuss the relationship between my theoretical generalizations and work on temporal thresholds (London 2012), metrical reinterpretation (Temperley 2008), metrical dissonance (Krebs 1999), selective attention (Jackendoff 1987), and modular perception (Temperley 1995).
-
 SATURDAY MORNING SESSIONS—9:00–12:15
-EMPIRICAL APPROACHES TO
-BLACK-ATLANTIC GROOVE (TAFT C)
-<i>Sponsored by the 2019 Program Committee
-Presentations and Discussion
-</i> Richard Cohn (Yale University), Chair
-Mitchell Ohriner (University of Denver), Respondent
 
-Fernando Benadon (American University)
-On the Fluidity of Afro-Cuban Meter
-Using data from ensemble drumming performances recorded by Andrew McGraw in Santiago de Cuba, I show how fluid metric complexes emerge from the superposition of distinct interweaving patterns. Factors shaping this fluidity include not only the characteristic non-simultaneities of African diasporic music but also the metric disposition (binary- or ternary-leaning) of the individual layers as well as their degree of adherence to strict cyclical repetition. In addition to these temporal dimensions, we will consider the amplitude contours of the cycled patterns, thereby expanding our view of meter as something richer and more nuanced than a discrete stacking of on-and-off dots. We will examine performances that differ in instrumentation, number of players, and core timeline in order to highlight commonalities while keeping check on the risks of overgeneralization. The presentation will also touch on pragmatic questions of methodology concerning data representation and manipulation in the study of rhythm.
-
-Anne Danielsen (University of Oslo)
-Glitched and Warped: Shaping the “Beat Bin” in
-Contemporary African-American Popular Music
-Rhythm and groove are at the heart of many African-American musical traditions. In this paper, I present examples of contemporary African-American popular music that have been produced through unorthodox application of the digital audio workstation, focusing on the ways in which creative use of technology has changed how music sounds. As part of this, I discuss how sound processing is used to manipulate the “width” of beats and change the perceived timing of rhythmic events.
-
-Peter Vuust (Danish Royal Academy of Music and Aarhus University)
-Groove on the Brain: Predictive Brain Processes
-Underlying the Experience of Musical Rhythm
-Musical rhythm has a remarkable capacity to move our minds and bodies. I describe how the theory of predictive coding (PC) can be used as a framework for understanding how rhythm and rhythmic complexity are processed in the brain. This theory posits a hierarchical organization of brain responses reflecting fundamental, survival-related mechanisms associated with predicting future events. Musical rhythm exploits the brain’s general principles of prediction and that the pleasure and desire for sensorimotor synchronization from musical rhythm could be a result of such mechanisms.
-Exemplified by the music of Miles Davis, I here review empirical studies of the neural and behavioral effects of syncopation, polyrhythm and groove, and propose how these studies can be seen as special cases of the PC theory.
-
+EMPIRICAL APPROACHES TO BLACK-ATLANTIC GROOVE (TAFT C)
 
 SATURDAY MORNING SESSIONS—10:45–12:15
 THE JOY OF FORM AND THE FANTASY OF THEORY
 (HARRISON)
 Nathan Martin (University of Michigan), Chair
 
-August A. Sheehy (Stony Brook University)
-The Form of Fantasy and the Fantasy of Form
-in the Writings of A. B. Marx
-Adolph Bernhard Marx (1799–1866) did not mince words about the “goal of the whole <i>Formenlehre</i>”: “in it and with it, and through it,” he wrote, “we become free.” Contrary to received wisdom, what Marx called the “last steps to freedom” are not taken in sonata form. Rather, they happen in “fantasy,” which, he wrote, “can follow no predetermined path or have a predetermined form, because it is indeed just the giving up of such a determined form.” Marx’s fantasy thus conforms to Seth Brodsky’s psychoanalytic reading of musical fantasy as a constitutive gap, a “code of no code, an executive order suspending order, a masterful unmastery.” Fantasy is the form with no form.
-And yet, Marx cites specific, determinate examples of fantasy. Pieces by Mozart and Beethoven become opportunities to leverage a discourse in which, as Brodsky observes, “‘freedom’ becomes [the] urtext, a mortified signifier it is now tasked with revivifying and filling out.” In short, Marx turns the musical form of fantasy into a fantasy about musical form, a fantasy in Freud’s sense: a “fulfillment of a wish, a correction of an unsatisfying reality” that represses “distressing ideas…[that] threaten happiness or self-esteem.” These distressing ideas, I argue, originated in Marx’s Jewish heritage and were experienced through the politics of German-Jewish assimilation. His fantasy, manifested in a working-through of musical forms, thus reveals the political stakes of <i>Formenlehre</i> at the moment of its historical articulation.
-
-Bryan Stevens (University of North Texas)
-Theorizing Sonata from the Margins:
-Manuel Blasco de Nebra's <i>Seis Sonatas</i> (1780) in Context
-Recent developments in <i>Formenlehre</i> have provided new insight into classical form (Caplin 1998; Hepokoski and Darcy 2006); however, such scholarship has tended to privilege Viennese classicism in its codification of ideal formal types and norms. For this reason, an uncritical application of such methods obscures rather than elucidates conventional practice when applied to works in parallel traditions. The occasional music-theoretic approaches to Spanish keyboard music (Powell 1980; Sutcliffe 2014; Igoa Mateos 2014) of composers such as Vicente Rodríguez (1690–1760), Joaquín Oxinaga (1719–89), Sebastian Albero (1722–57), Félix Máximo López (1742–1821), Narciso Casanovas (1747–99), Manuel Blasco de Nebra (1750–83), and Joaquin Montero (1764–1815) have not accounted for the possibility of a<i> Formelehre</i> tradition parallel to that of Viennese classicism. This paper takes Blasco de Nebra’s <i>Seis sonatas para clave y fuerte-piano</i> (1780) as a point of departure in order to demonstrate how classical norms may be reexamined and reevaluated to account for such a collection in its own historical context. Retheorizing both thematic construction as well as sonata structure from the perspective of these Spanish sonatas provides better insight into these works than the presuming of some ideal (Austro-Germanic) sonata form. In this paper, I will outline the general formal features of Blasco de Nebra’s keyboard sonatas and provide examples of earlier and contemporary works in order to demonstrate how these same features—often atypical for the Viennese composers—are normative for the keyboard sonata in this region.
-
-L. Poundie Burstein (Hunter College and The Graduate Center, CUNY)
-The Joy of <i>Sextabsätze</i>:
-The Deceptive Cadence and Other Such Slippery Events
-Is a V–VI deceptive cadence truly a “cadence”? Many argue that it is not, claiming that a V–VI motion merely delays the arrival of an ensuing authentic cadence. Yet even within pieces composed during the 18th-century, some phrases do indeed conclude with a V–VI progression, with ramifications that deeply affect the work’s narrative structure. The concepts of Heinrich Christoph Koch provide avenues for thinking about these and other such unsettled phrase endings in a manner that is far more fluid than what is typical of modern theoretical approaches and in ways that can inform both analysis and performance.
-
 
 VOICES (MCKINLEY)
 Andrew Chung (University of North Texas), Chair
-
-Robert Komaniecki (Appalachian State University)
-Vocal Pitch in Rap Music
-When analyzing rap music, vocal pitch is likely not the first parameter one considers. Indeed, one of the defining aspects of the rap genre is its tendency to eschew the precisely-pitched vocals heard in nearly all other popular music. However, there are countless examples of rap tracks in which MCs are consciously pitching their vocals using a variety of techniques, emphasizing pitch in a way that paradoxically seems at odds with one of the very defining characteristics of rap music.
-In this presentation, I contend that pitch plays an important role in the structure and delivery of rap flows. I demonstrate the ways in which rappers manipulate pitch to create a structural parameter that can operate independently from or in tandem with rhythm and rhyme. Furthermore, I argue that pitched vocals take a wider array of forms in rap music than in other genres of popular music, ranging from carefully-pitched singing of modern rap flows to the imprecise and exaggerated declamatory features of speech that distinguished rap from other genres during its formative years. I assert that all rap flows can be classified as using pitch in one of five different ways, with each technique carrying its own unique set of analytical implications.
-
-Martin Blessinger (Texas Christian University) &
-Christopher Endrinal (Florida Gulf Coast University)
-The "Ahhs" Have It:
-Wordless Melismas and the Ineffable in Popular Music
-In his 2010 <i>Popular Music</i> article, songwriter Pete Astor defends the discursive and emotive primacy of lyrics: “There is for me a greater value to those compositions with lyrics, a sense that the material that contains the greatest level of emotional commitment is always that where words are employed…” On the other hand, Johan Fornäs argues that “the text/music dichotomy is an illusion. They are not each other’s Other.” This raises a tantalizing question: What of music that is performed by the human voice, yet nonverbal?
-This presentation explores such music, specifically how extended passages of nonverbal singing in popular music—“wordless melismas” (WMs)—help the voice transcend the expressive limits of the verbal and assume the apparently ineffable qualities of the instrumental. WMs are monosyllabic passages found in their own musically distinct section, usually bridges or concluding sections. Songs may have recurring or multiple different WMs. Additionally, WMs are not background elements, nor are they repeated (and often nonsensical) syllables like “na na” or “sha-la-la.” From these criteria, we have extrapolated four functions WMs fulfill within a song’s form and narrative, the details and examples of which we expound upon in greater detail in the presentation: introductory (“Welcome to the Jungle,” Guns N’ Roses), conclusive (“Criminal,” Fiona Apple), transformative (“You Oughta Know,” Alanis Morissette), and climactic (“With Or Without You,” U2). In each of these cases, the voice occupies a previously unexplored border region between the vocal and the instrumental, the verbal and the ineffable.
-
-Anna Fulton (Grand Valley State University)
-To Be the Music:
-Mimetic Engagement with Caroline Shaw's <i>Partita for 8 Voices</i>
-The program note to Caroline Shaw’s Pulitzer-prize-winning <i>Partita for 8 Voices</i> (2012) includes an unusual instruction: prompted by uproarious reaction at its premiere to an “explosive” D-major reprise in the final movement, listeners are encouraged to “holler or clap any time you feel like it.” These and other embodied reactions to the piece are a kind of mimetic engagement  (Cox 2011; 2016). The <i>Partita</i>’s invitation to mimetic engagement is made particularly strong by its unusual vocal techniques. Shaw plays with the “edges” of the voice, weaving into the music a physicality that Western classical vocal technique often diminishes. Mimetic engagement can manifest as identification with a performer (Heidemann 2016), but with multiple voices, Shaw’s <i>Partita</i> lacks this focal point. Instead, mimetic engagement informs the perceived relationship between performative action and “the music itself.” In this analysis I draw both from Cox and from Eric Clarke’s notion of a musical “virtual world” (Clarke 2005), understanding “the music” as a separable energy or plane of existence, rather than equivalent to performative action. I present two possible relationships between music and performance: performance <i>unveiling</i> the music, and music and performer mutually <i>striving </i>for each other. I focus primarily on the second movement ("Sarabande") for examples of each, and conclude with an exploration of the D-major reprise of "Passacaglia," which combines elements of both relationships.
 
 
 
@@ -716,36 +603,6 @@ The program note to Caroline Shaw’s Pulitzer-prize-winning <i>Partita for 8 Vo
 
 YOUTUBE AND PARTICIPATORY MUSIC MAKING (TAFT A)
 Alyssa Barna (University of Minnesota), Chair
-
-Evan Ware (Central Michigan University)
-Reinterpretation as Cultural Practice:
-Sketches for a Cover Song Continuum
-The website SecondHandSongs counts nearly 300,000 covers from any linguistic or cultural origin. By their own admission, this is likely a vast underestimation. If this points to anything, it is that cover songs are an unquestionably important medium of cultural expression in popular music around the globe. Yet, outside of analyses focused on individual original-cover pairings, scholarship has paid little attention to the overall cultural practice of covering.
-In this paper, I suggest a possible way forward by advancing a theory that sees originals as “strategies,” or institutional forces, which artists use, adapt, and resist through the individual creative decisions—or tactics—made in the creation new versions. These decisions can be thought to lie on a continuum where similarity (isomorphism) and difference (metamorphism) are plotted against each other. Thus, they are construed as co-productive aspects of interpretation; a tactic that will always result in both likeness and contrast, albeit in differing proportions. By understanding these proportions in each tactic across the whole cover, specific observations about how the artist’s interpretation of the song can be advanced. The Eagles of Death Metal’s version of “Save A Prayer” (2015), originally by Duran Duran (1982), serves as a case study. By examining pronunciation, production, lyrics, performance, genre, register, harmony, counterpoint, and timbre, I argue that the cover band’s interpretation is deliberately resistant to the original in order to create new meanings more in line with their identity.
-
-
-
-
-
-
-William O’Hara (Gettysburg College)
-The <i>Techné</i> of YouTube Performance: Musical Structure, Extended Techniques, and Custom Instruments in Solo Pop Covers
-They begin with a note, a chord, the tap of a button, or the triggering of a loop: through progressively layered textures, samples, and extended performance techniques, solo cover songs on YouTube often construct themselves piece by piece before the viewer’s eyes and ears. Combining virtuosity and novelty in a package ready-made for viral online popularity, this recent and rapidly growing internet phenomenon draws together traditions old and new, from the “one-man band” of the 19th century, to the experimental live looping of 1980s performance art, to contemporary electronic music. This presentation examines three recent popular YouTube videos in order to study the ways in which amateur musicians craft such arrangements through a combination of creativity and music-analytical understanding.
-Building on a number of recent studies that examine the affordances and restrictions of writing and performing music on various instruments, I explore how these YouTube performers use theoretical and instrumental expertise to convey complex textures through a minimal collection of musical materials. In each case, the instruments themselves are arranged, modified, or even created in order to make these performances possible. The videos often incorporate looped or layered elements, arranged to take advantage of a song’s harmonic or rhythmic structures; and they frequently feature customized, self-created, or otherwise unconventional instrumentation. Through their sparse, economic construction, these intricate arrangements are each the end product of a careful analysis of each song, and they have much to teach us about the harmonic, melodic, and rhythmic structures of popular music.
-
-Julianne Grasso (University of Chicago)
-Like, Comment, and Subscribe:
-Amateur Music Theory as Participatory Culture
-Public-facing music theory is a topic gaining steam among academic music theorists, particularly given the digital networks in which such discourse can thrive. Indeed, much public music theory is disseminated online, over social networks that blur the formal and informal. At the nexus of these blurred lines is the increasingly popular arena of educational social media channels, many of which feature music analysis of narrative screen media.
-This paper focuses on online content that is advertised as a “music theory” approach to understanding media, in which amateur analysts position themselves not as authority figures but as fellow lovers and fans of the media they analyze. Following Kiri Miller’s (2012) ethnography of amateur-to-amateur online pedagogues or “A2A,” I argue that this particular practice shows evidence of an emerging participatory culture of music fans that includes amateur analysts alongside other kinds of musicians and enthusiasts.
-In exploring responses to this online content, this paper also considers the discursive role of music theory in valuating popular musics as worthy of analysis for their structural complexity; music theory operates as a methodology of legitimization that uncovers the “secrets” of the music as well as the musical values of its fans. I further consider the unmarked politics of identity in this sphere, reflecting on how and why these videos are overwhelmingly produced by young white men. Examining who participates in this emergent participatory practice can shed light on why, how, and for whom music theory and analysis exists and persists.
-
-
-
-
-
-
-
 
 SATURDAY AFTERNOON SESSION—4:00–5:30
 2019 SMT PLENARY: REFRAMING MUSIC THEORY

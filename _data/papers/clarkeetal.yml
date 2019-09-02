@@ -1,0 +1,36 @@
+---
+authors:
+    - formatted: Michael Clarke, Frédéric Dufeu, and Keitaro Takahashi (University of Huddersfield, England)
+    - name: Michael Clarke
+      institution: University of Huddersfield, England
+    - name: Frédéric Dufeu
+      institution: University of Huddersfield, England
+    - name: Keitaro Takahashi 
+      institution: University of Huddersfield, England
+title: "Using Interactive Software to Enhance Mapping of Complex Multi-dimensional and Dynamic Musical Relationships"
+handout: ''
+abstract: |
+    <p>Analytical charts and diagrams have traditionally been printed on paper
+    and as such have been fixed and static. The two-dimensional page is also
+    limited in the amount of information that can be presented clearly.
+    However, musical structures are, more often than not, very complex, with
+    multiple interrelations which evolve dynamically.</p>
+    <p>This presentation will examine ways in which software can help
+    facilitate analytical representations that better reflect this complexity
+    and multi-dimensionality of dynamically transforming interrelations.
+    Examples will be presented from previously completed analyses and current
+    work on the IRiMaS project (‘Interactive Research in Music as Sound,’
+    funded for five years, 2017–22, by a European Research Council Advanced
+    Grant) will also be discussed and illustrated. An aim of this project is
+    to extend such analytical techniques to a broader repertoire and
+    facilitate their wider use. Our analyses to date were produced as
+    completed packages with the participation of expert programmers. One
+    aspect of IRiMaS involves developing tools for use by non-technical music
+    researchers, enabling them to adopt a similar analytical approach,
+    creating their own extensible interactive analyses independently of
+    specialist technical support. These tools are also being developed so as
+    to encourage use with a much broader range of musics, including
+    non-Western music, aural/oral traditions, improvisation, and spectral
+    music. Interactive aural software offers new possibilities for analysts,
+    with the opportunity to enhance the way analysis is presented, and it also
+    potentially changes the way analysts and their readers work.</p>
