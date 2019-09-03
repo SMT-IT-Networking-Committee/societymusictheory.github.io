@@ -39,23 +39,12 @@ SMT.search.documents = [
 
 ];
 
-SMT.search.performances = [
-  'brazilian-music-piano-guitar',
-  'art-romantic-castrato',
-  'pushing-against-musical-homonormativity',
-  'piano-music-luigi-perrachio',
-];
-
 SMT.search.documents.forEach(function (doc) {
   SMT.search.store[doc.key] = doc;
 });
 
 SMT.search.sessions.forEach(function (doc) {
   SMT.search.store[doc.key] = doc;
-})
-
-SMT.search.performances.forEach(function (key) {
-  SMT.search.store[key].type = 'performance';
 })
 
 SMT.search.index = lunr.Index.load(SMT.search.serializedIndex);
@@ -97,11 +86,6 @@ $(document).ready(function() {
       } else if (type === 'session') {
         out += '<strong>Session: ' + obj.title + '</strong>';
         out += sesslink ? '<br><a href="' + sesslink + '">Go to session</a>' : '' ;
-        out += '</p></div>';
-        resultdiv.prepend(out);
-      } else if (type === 'performance') {
-        out += '<strong>Performance: ' + obj.title + '</strong>';
-        out += sesslink ? '<br><a href="' + sesslink + '">Go to performance</a>' : '' ;
         out += '</p></div>';
         resultdiv.prepend(out);
       } else {
