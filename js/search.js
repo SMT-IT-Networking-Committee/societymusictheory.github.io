@@ -138,6 +138,6 @@ SMT.search._generateIndex = function () {
       SMT.search.store[doc.key] = doc;
       this.add(doc);
     }, this)
-  });
+  }).toJSON();
 };
 
