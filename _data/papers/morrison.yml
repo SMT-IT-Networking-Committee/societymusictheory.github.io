@@ -1,37 +1,30 @@
 ---
 authors:
-- name: Matthew D. Morrison
-  institution: New York University
-title: "Whose (Performance) Property? Blacksound as Public Domain"
+    - name: Landon Morrison 
+      institution: McGill University
+title: "Encoding Post-Spectral Thought: Kaija Saariaho’s Early Electronic Works at IRCAM, 1982–87"
 handout: ''
 abstract: |
-  <p>Beginning with the International Copyright Act of 1891 through the first
-  revision of the US federal Copyright Act in 1909, this paper will consider how
-  ideas of intellectual property developed in the nineteenth century did not
-  acknowledge the creative and cultural productions of African Americans in the
-  making of the popular music industry. Through the concept of
-  <i>Blacksound</i>, I will explore how the embodiment of the sounds produced in
-  blackface throughout the nineteenth century informed the construction of
-  racial identities and continued to resonate throughout formation of the
-  <i>music industrial complex</i>. Specifically, I will consider how the sounds
-  developed by mostly white male performers in early blackface performance—based
-  on both “imagined” and real sounds of African Americans—continued to resonate
-  and shift throughout popular music history, even after the disappearance of
-  the blackface mask and gradual inclusion of non-white men and women on the
-  popular stage during the Jim Crow era.</p>
-  <p>A central case of study will be the popular tune “Ta Ra Ra Boom De
-  Ay”—first published in 1891 and eventually claimed in a UK court case to
-  belong to the “public domain.” The song originated with famed African American
-  entertainer, Ma Ma Lou, in a late-nineteenth-century St. Louis sporting house
-  and serves as an example of how the sounds and performance practices of black
-  musicians moved from regional to commercial popularity without afforded rights
-  and royalties. To complement the analysis of this non-recorded performance, I
-  will provide an analysis of selected blackface 1890s publications by the
-  Witmark & Sons publishing house, one of the most influential architects of the
-  early popular music industry. As this paper will show, these cases set the
-  stage—through performance, copyright laws, and the racialization of
-  Intellectual (Performance) Property—for how Tin Pan Alley musicians, along
-  with mechanical and music performing rights organizations, used Blacksound as
-  the basis of popular music, as it shaped the sounds of records, radio, film,
-  and other emerging technologies of popular entertainment.</p>
-
+    <p>This presentation will examine the musical impact of computer programs
+    developed in the eighties at the Parisian Institut de Recherche et
+    Coordination Acoustique/Musique (IRCAM), tracing their influence on
+    post-spectral composition through an analysis of Kaija Saariaho’s early
+    electronic works: <i>Vers le blanc </i>(1982, tape), <i>Jardin secret I</i> /
+    <I>II</I> (1984–86, tape alone/ harpsichord and tape), and <I>IO</I> (1987,
+    large ensemble with tape and live electronics). These works mark Saariaho's
+    entry into computer-based music, as well as her stylistic turn toward French
+    spectralism, offering a unique perspective on the composer’s initial
+    development of techniques that have since been acknowledged as hallmarks of
+    her mature style. Detailed analyses illuminate three key aspects of Saariaho’s
+    compositional approach, including her use of interpolation systems to create
+    continuous processes of transformation, her organization of individual musical
+    parameters into multidimensional networks, and her construction of timbres
+    based on the analysis of acoustic phenomena. Drawing on extensive archival
+    documentation, I show how these techniques arise from the affordances of
+    contemporaneous IRCAM technologies (CHANT, FORMES, and IANA), which Saariaho
+    used to progressively formalize her musical thought within the crystalline
+    confines of a customized program dubbed “transkaija.” Through an excavation of
+    the underlying code for this program, this paper reconstructs musical
+    processes that lie at the heart of the aforementioned works, revealing the
+    extent to which technological mediation contributed to Saariaho’s early
+    development as a post-spectral composer.</p>

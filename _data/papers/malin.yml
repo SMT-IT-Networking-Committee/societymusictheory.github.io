@@ -1,9 +1,30 @@
 ---
 authors:
-- name: Yonatan Malin
-  institution: University of Colorado Boulder
-title: "Modulating Couplets in Hensel’s Songs"
-handouts:
-    - desc: Handout
-      path: malin-handout-0040.pdf
-abstract: ''
+    - name: Yonatan Malin 
+      institution: University of Colorado Boulder
+title: "Listening to Klezmer Music with Schema Theory"
+handout: ''
+abstract: |
+    <p>This paper makes an initial foray into the analysis of klezmer music
+    via schema theory. I explore two schemas drawn from a corpus of 254
+    instrumental melodies collected in the 1920s and ’30s by the Soviet Jewish
+    ethnomusicologist Moshe Beregovski. The first schema is a 7^  –^  5–^3
+    pattern that I call “coming-back-to-earth.” It typically occurs as a
+    “second thing”—either in the second section of a small form or in the
+    second part of a section, leading to a cadence. Audio examples include a
+    1937 recording by the Soviet State Ensemble of Jewish Folk Music and
+    tracks from <i>Bessarabian Symphony</i> (Joel Rubin and Joshua Horowitz
+    1994) and <i>Jews with Horns</i> (The Klezmatics 1994). The second schema
+    is a distinctive modal coloring with ♭5^   in minor, and raised-6^   when
+    6^   is present. I refer to this as the “tashlach move” from the piece
+    <i>Fun Tashlach</i> recorded by Naftule Brandwein. The tashlach move
+    typically occurs at the end of a section or piece and derives from the
+    Turkish makam <i>karciğar</i>. I document the tashlach move in
+    Beregovski’s instrumental corpus and in the <i>Dybbuk Shers</i>, composed
+    by Alicia Svigals and recorded by Itzhak Perlman with Svigals and the
+    Klezmatics (<i>In the Fiddler’s House</i> 1995). The methodology is
+    aligned with schema theory three ways: (1) it focuses on surface-level
+    patterning that combines form and function; (2) it develops empirically,
+    from the ground up; and (3) it presents an archaeology of listening for a
+    distant musical culture (Gjerdingen 2007; Gjerdingen and Bourne 2015;
+    Byros 2012).</p>

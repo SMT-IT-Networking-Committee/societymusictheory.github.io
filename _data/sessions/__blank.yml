@@ -1,0 +1,11 @@
+title: title
+slug: slug
+room: room
+time: 'Thursday afternoon, 2:15–3:45'
+link: /sessions/thu/afternoon/slug
+link: /sessions/thu/afternoon/slug
+chair:
+    name: name
+    institution: inst
+papers:
+    - ~

@@ -1,33 +1,31 @@
 ---
 authors:
-- name: Eamonn Bell
-  institution: Columbia University
-title: "“A Viennese May Breeze”: Twelve-tone theory and the machine"
+    - name: Matthew Bell 
+      institution: Tallahassee, FL
+title: "Choreographic Revelations: “Dance Music,”According to Two Historical
+Dance Theorists"
 handout: ''
 abstract: |
-    <p>In his publication “Die Grenze der Halbtonwelt” (1925), the composer Fritz
-    Heinrich Klein introduced his readers to a twelve-tone series containing every
-    possible interval between its successive notes, believing this series to be
-    the only such example. In the following decades, the question of the
-    all-interval twelve-tone series would capture the interest of mathematicians
-    and musicians alike as it became apparent that no simple formula could
-    generate an exhaustive list of all-interval series.</p>
-    <p>I report on the preparation of accurate catalogs of the all-interval
-    twelve-tone series with the assistance of digital computers between 1959 and
-    1965. The work of Stefan Bauer-Mengelberg and Melvin Ferentz (1965) reports an
-    exhaustive catalog; their achievement is perhaps the most well-known such
-    solution in the English-speaking musical world. By the time of its
-    publication, however, it postdated the complete catalogs of André Riotte (ca.
-    1963) in Italy and, together, Hanns Jelinek and Heinz Zemanek (1959) in
-    Vienna. I focus on the collaboration between Jelinek, an Austrian composer,
-    and his compatriot computer engineer, Zemanek. They prepared the first
-    complete catalog in 1959 with the help of <i>Mailüfterl</i>, the first fully
-    transistorized computer built in Europe.</p>
-    <p>Later public reflections by Zemanek, Krenek, and Riotte articulate a
-    conception of music composition as a species of computational information
-    processing. A complete history of these music-theoretical catalogs, although
-    it straddles the onset of the apparently transformative age of computing,
-    reveals the relations between this burgeoning computational attitude toward
-    music and older ideas about twentieth-century music theory, composition, and
-    mathematics.</p>
-
+    <p>When it plays a role in musical analysis at all, dance often serves as
+    an imaginary enhancement of a primarily musical experience. For instance,
+    topical analysis interprets “dance” topoi as sonic cues that invoke the
+    memory or specter of courtly dance to expressively animate instrumental or
+    vocal music. Even some choreo-musical analyses tend to portray dance as a
+    commentary or “visualization” of the score—an auxiliary to the music
+    itself. But what would musicians and audiences learn if we were to turn
+    this perspective on its head?</p>
+    <p>In this talk, I consult the treatises of two influential dance
+    theorists—Carlo Blasis (1797–1878) and Fyodor Lopukhov (1886–1973)—to
+    reposition the analysis of dance and its musical accompaniment through a
+    primarily choreographic lens. While roughly a century separates the two
+    authors, both discuss “classical” ballet technique and choreography in
+    terms that may seem at once familiar and unsettling to musicians. Through
+    examples of standard ballet class exercises and excerpts from
+    <i>Giselle</i>, <i>La Bayadère</i>, and <i>Sleeping Beauty</i>, I
+    highlight instances in which Blasis and Lopukhov have appropriated musical
+    concepts and nomenclature (e.g. "adagio," "petit allegro," and even
+    "sonata form") to delineate strictly choreographic elements and processes.
+    As a foil to established analytical methods, where music recalls or
+    contains imagined dances, these two dance theorists offer an appealing
+    counterpoint: that choreographed dance contains—and dictates—imagined
+    “music.”</p>

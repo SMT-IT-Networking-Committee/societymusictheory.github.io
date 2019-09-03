@@ -1,0 +1,41 @@
+---
+authors:
+    - name: Sarah Louden 
+      institution: New York University Steinhardt
+title: "A Neurocognitive Approach to Modeling Cross-Sensory Perception in
+Music and Multimedia"
+handout: ''
+abstract: |
+    <p><i>Crossmodal associations</i> are nonarbitrary relationships that the
+    brain draws between features or dimensions of different sensory modes.
+    Examples include audio-visual associations such as loudness-brightness and
+    pitch-height. The brain also recognizes <i>intramodal associations</i>
+    between features of the same sensory mode, such as pitch-tempo and
+    brightness-angularity. Modal associations have become an important topic
+    in cognitive neuroscience and psychology because of the significant
+    influence they have on perception and the broad implications for this
+    research outside of those fields. In music, these associations offer a
+    means for describing analytical relationships between both musical and
+    multimedia parameters. However, because of the specific nature of these
+    studies, which often focus on only one parameter in a single context, it
+    is difficult even for interdisciplinary researchers familiar with this
+    work to navigate and apply modal associations in a broader way to
+    analysis.</p>
+    <p>This paper synthesizes relevant research from the cognitive literature
+    and presents a tool for modeling multiple crossmodal and intramodal
+    relationships within a single metric space. I begin by presenting an
+    interactive online resource created for analysts to reference modal
+    associations by parameter and find other known relationships. Based on
+    shared features and transitive and reciprocal relationships, I argue that
+    these associations can be broadly sorted into three categories or
+    dimensions, and modeled using an analytical tool I’ve created called the
+    Crossmodal and Intramodal Association (CIA) Model. I close by discussing
+    some of the implications of congruent and incongruent associations and
+    potential applications to analysis, composition, and performance.</p>
+    <p>These affordances suggest further connections with phenomenological and
+    cognitive theories of multistability (Idhe 2012, Karpinski 2012). By
+    examining relationships between melodies in terms of these multistable
+    possibilities, I offer a more sensitive account of the contour relations
+    listeners may perceive within the music, providing a better understanding
+    of Reich’s minimalist process.</p>
+

@@ -1,0 +1,33 @@
+---
+authors:
+    - formatted: Jessica Narum and Andrew Watkins (Baldwin Wallace University)
+    - name: Jessica Narum
+      institution: Baldwin Wallace University
+    - name: Andrew Watkins 
+      institution: Baldwin Wallace University
+title: "Musical Topics in Mozart’s Piano Sonatas: A Data Science Approach"
+handout: ''
+abstract: |
+    <p>Extending from the work of Ratner, Agawu, and Monelle, recent
+    scholarship in topic theory has set to more clearly define the musical
+    elements that create a topic. Contributions from Rumph and Frymoyer
+    provide ways of considering the constituent elements of a topic
+    (<i>figurae</i>) both in isolation and in relation to one another. The
+    resulting lists of <i>figurae</i> not only aid analysts in understanding
+    topics but also suggest that these features could be identified in a
+    machine-learning context. In this interactive poster session, we will show
+    the promising results of our first forays into computational analysis of
+    musical topics. Specifically, our findings demonstrate applications of
+    data science methods that have implications for both further analytical
+    inquiry and the dissemination of research concerning musical topics.</p>
+    <p>Our data science approach included the steps of data gathering and
+    cleaning, exploratory visualization and analysis, and predictive modeling.
+    After completing an analysis of the topoi in Mozart’s piano sonatas by
+    measure, we combined humdrum formatted versions of the scores and the
+    music21 music analysis software library to extract a wealth of features
+    about each analytical segment. In addition, we have used early data
+    visualizations to help identify areas for further exploration; these
+    visualization tools suggest new ways of considering the presentation of
+    information about topics in general, as well as the topics within Mozart’s
+    piano sonatas specifically. Finally, we have begun to use the extracted
+    data to develop predictive models of topics within the sonatas.</p>

@@ -1,35 +1,36 @@
 ---
 authors:
-- name: Angela Ripley
-  institution: The College of Wooster
-title: "Mock Trials in the Music Theory Classroom"
-handouts:
-    - desc: Handout
-      path: ripley-handout-0022.pdf
+    - name: Angela Ripley 
+      institution: College of Wooster
+title: "Post-Tonal Postcards: Synthesizing Analysis and Reflection through Prose Writing"
+handout: ''
 abstract: |
-  <p>Mock trials can help music theory students analyze compositions whose
-  thematic, formal, or tonal ambiguities invite multiple interpretations. I
-  outline the structure of a music theory mock trial, present three sample
-  cases, and discuss student responses and pedagogical benefits of using mock
-  trials in the music theory classroom.</p>
-  <p>Music theory mock trials consist of four phases: investigation, evidence,
-  verdict, and discussion. During the investigation phase, students work
-  together in small groups to analyze a composition and gather musical evidence
-  for the trial. In the evidence phase, students adopt the roles of witness,
-  lawyer, court reporter, bailiff, and juror. Students demonstrate high levels
-  of engagement as they present evidence supporting their conflicting analyses
-  and question each other. Student jurors then deliberate and render a verdict
-  in favor of one of the analyses presented during the evidence phase. A
-  concluding discussion explores what students have learned and how the mock
-  trial may have influenced their analyses.</p>
-  <p>Music theory mock trials work well with a wide variety of analytical topics
-  and repertoires, as demonstrated by three sample cases. In these cases,
-  students investigate motivic material in Bach’s Invention in B-flat Major (BWV
-  785), confront cadential ambiguity in Schumann’s “Aus meinen Thränen
-  spriessen” (<i>Dichterliebe</i>, no. 2), and join the scholarly debate
-  surrounding Wagner’s enigmatic <i>Tristan</i> chord. By analyzing compositions
-  via music theory mock trials, students learn to identify and articulate
-  musical features to support their analyses, consider diverse music-analytical
-  perspectives, and deepen critical-thinking skills while engaging their peers
-  in a spirited, but respectful, dialogue.</p>
+    <p>When first encountering post-tonal music, students discover repertoire
+    that differs aesthetically from music they have previously studied and
+    requires new analytical tools. To help students approach this repertoire
+    with open minds, I frame my undergraduate post-tonal theory course as a
+    virtual study-abroad experience with “postcard” assignments that
+    synthesize analysis and reflection through prose writing. Each postcard
+    includes a 300- to 500-word essay (message) and a single page of annotated
+    musical examples (picture).</p>
+    <p>In their postcards, students analyze complete compositions through the
+    lenses of specific themes. For example, students discuss pentatonic
+    collections and pitch centricity (Debussy, “La fille aux cheveux de lin”),
+    explain how imitation and z-cells provide unity and contrast (Bartók,
+    “Chromatic Invention 1”), explore relationships among pitch-class sets
+    (Webern, Op. 7, No. 3), and select their own repertoire to illustrate the
+    course concepts they find most important. The underlying theoretical
+    framework for these assignments comes from Self-Determination Theory,
+    which includes intrinsic and extrinsic motivation as well as humans’ basic
+    psychological need for autonomy, competence, and relatedness.</p>
+    <p>Students respond positively to the postcard assignments, developing
+    creative titles as captions and sometimes formatting their assignments to
+    look like real postcards. By addressing their postcards to different
+    recipients (peer, novice, expert, and future self), students learn to
+    communicate effectively in diverse rhetorical contexts. Additional
+    pedagogical benefits include greater independence in music analysis and
+    increased confidence in writing about music. With insightful analytical
+    comments and language tailored to their intended recipients, the postcards
+    become souvenirs of learning from students’ exploration of post-tonal
+    music.</p>
 

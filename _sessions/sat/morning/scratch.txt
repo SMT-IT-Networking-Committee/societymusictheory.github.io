@@ -1,403 +1,164 @@
-scratch document
-
-
-
 
 ---
-title: 'Minimizing Implicit Bias to Improve Campus Climate: Developing Inclusive Classrooms and Faculty Search Processes'
-slug: minimizing-implicit-bias
-society: SMT
-sponsor: SMT Committee on the Status of Women
-room: Texas A
-time: 'Saturday morning, 9:00–12:15'
+title: Style and Copyright 
+slug: style-and-copyright
+room: Harrison
+time: 'Saturday morning, 9:00-10:30'
 chair:
-    name: Judy Lochhead
-    institution: Stony Brook University
-    title: Chair of the CSW
-
-
-15-minute break
-
-Part II: Roundtable: 
-Anaar Desai-Stephens (Eastman School of Music, University of Rochester)
-Bonnie Gordon (University of Virginia)
-Marianne Kielian-Gilbert (Indiana University)
-Jan Miyake (Oberlin College and Conservatory)
-
----
-title: Poster Session
-slug: posters-smt
-society: SMT
-room: Lone Star CDEF
-time: 'Saturday morning, 9:00–12:15'
-chair:
-    name: Ciro Scotto
-    institution: Ohio University
+    name: Martin Scherzinger 
+    institution: New York University
 papers:
-    - bakker
-    - bell
-    - jeter
-    - nguyen
-    - ripley
-    - schuler
-
-
-
-
----
-title: At the Eighteenth-Century Keyboard
-slug: 18c-keyboard
-society: AMS
-room: Crockett AB
-time: 'Saturday morning, 9:00–10:30'
-chair:
-    name: Bertil Van Boer
-    institution: Western Washington University
-papers:
-    - goetjen
-    - aschauer
-    - fort
-
----
-title: Brazil
-slug: brazil
-society: AMS
-room: Texas D
-time: 'Saturday morning, 9:00–10:30'
-chair:
-    name: Kariann Goldschmitt
-    institution: Wellesley College
-papers:
-    - dossantos
-    - stover
-    - marquinedafonseca
-
----
-title: The Economics of Creativity
-slug: economics-of-creativity
-society: AMS
-room: Republic B
-time: 'Saturday morning, 9:00–10:30'
-chair:
-    name: William Weber
-    institution: California State University, Long Beach
-papers:
+    - miller
+    - devlieger
     - leo
-    - zima
-    - banerji
+
+The Puzzle of Style: On Leonard Meyer's Unlikely Replications
+Brian Miller (Yale University)  
+The Bias of Western Musical Notation in Music Copyright Litiga-tion
+Dana DeVlieger (University of Minnesota)
+Deposit Copy or Recording? Sources for Musical-Legal Analysis in Current Federal Copyright Litigation
+Katherine M. Leo (Millikin University)
 
 ---
-title: Electronic Studios
-slug: electronic-studios
-society: AMS
-room: Lone Star A
-time: 'Saturday morning, 9:00–10:30'
+title: Rotation, Revolution, and Rubato in Opera 
+slug: rotation-revolution-rubato
+room: McKinley
+time: 'Saturday morning, 9:00-10:30'
 chair:
-    name: Sabine Feisst
-    institution: Arizona State University
+    name: Deborah Burton 
+    institution: Boston University
 papers:
-    - derrico
-    - heying
-    - kant
+    - lee_j
+    - peck
+    - lawrence
+
+Rotational Form as a 'Becoming' Process:  An Analysis of the 
+"Annunciation of Death" Scene in Wagner's Die Walküre
+Ji Yeon Lee (University of Houston)
+Dissonance and Political Violence in Two Sappho Operas
+Calvin Peck (Indiana University)
+Transacting Musical Time: Where Rhythm Ends and Rubato Be-gins
+John Y. Lawrence (University of Chicago)
 
 ---
-title: 'Jazz I: Improvisation and Intertextuality'
-slug: jazz-improvisation-intertextuality
-society: SMT
-room: Travis AB
-time: 'Saturday morning, 9:00–10:30'
+title: Speculative Mappings 
+slug: speculative-mappings
+room: Taft A
+time: 'Saturday morning, 9:00-10:30'
 chair:
-    name: Benjamin Givan
-    institution: Skidmore College
+    name: David Huron 
+    institution: Ohio State University
 papers:
-    - hayes
-    - baker
-    - hannaford
+    - sherrill
+    - clarkeetal
+    - sullivan
+
+Partial Orders of Modal Brightness
+Paul Sherrill (University of Utah)
+Using Interactive Software to Enhance Mapping of Complex 
+Multi-dimensional and Dynamic Musical Relationships
+Michael Clarke, Frédéric Dufeu, & Keitaro Takahashi 
+(University of Huddersfield, England)
+Extending the Parallel Multiple-Analysis Processor: Perceived Me-ter in Post-Tonal Music
+James Sullivan (Michigan State University)
 
 
----
-title: Media Consumption
-slug: media-consumption
-society: AMS
-room: Crockett CD
-time: 'Saturday morning, 9:00–10:30'
-chair:
-    name: Christina Baade
-    institution: McMaster University
-papers:
-    - love
-    - harper
-    - klaess
+COFFEE BREAK (HAYES) 
 
+SATURDAY MORNING SESSION—9:00–12:15 
 
 ---
-title: 'Panel: Music, War, and Trauma in the Long Nineteenth Century'
-slug: music-war-trauma
-society: AMS
-room: Texas B
-time: 'Saturday morning, 9:00–10:30'
+title: Empirical Approaches to Black-Atlantic Groove
+slug: black-atlantic-groove
+room: Taft C
+time: 'Saturday morning, 9:00-12:15'
+sponsor: 2019 Program Comittee
 chair:
-    name: Erin Johnson-Williams
-    institution: Durham University
+    name: Richard Cohn
+    institution: Yale University
 respondent:
-    name: Michelle Meinhart
-    institution: Trinity Laban Conservatoire of Music and Dance
-    title: Organizer
-papers: ~
-panelists:
-    - name: Erin Brooks 
-      institution: SUNY Potsdam
-    - name: Sarah Gerk 
-      institution: Binghamton University
-    - name: Elizabeth Morgan 
-      institution: St. Joseph’s University
-    - name: Jillian Rogers 
-      institution: University College Cork
-
-
----
-title: Negotiating Early-Modern Religious Identity
-slug: negotiating-religious-identity
-society: AMS
-room: Texas C
-time: 'Saturday morning, 9:00–10:30'
-chair:
-    name: Molly Breckling
-    institution: University of West Georgia
+    name: Mitchell Ohriner
+    institution: University of Denver
 papers:
-    - heminger
-    - stauff
-    - marks
+    - benadon
+    - danielsn
+    - vuust
+
+On the Fluidity of Afro-Cuban Meter
+Fernando Benadon (American University)
+Glitched and Warped: Shaping the “Beat Bin” in Contemporary 
+African-American Popular Music
+Anne Danielsen (University of Oslo)
+Groove on the Brain: Predictive Brain Processes Underlying the 
+Experience of Musical Rhythm
+Peter Vuust (Danish Royal Academy of Music and Aarhus Universi-ty)
+
+
+SATURDAY MORNING SESSIONS—10:45–12:15 
 
 ---
-title: New Outlooks on Concertos and Rondos
-slug: outlooks-concertos-rondos
-society: SMT
-room: Lone Star B
-time: 'Saturday morning, 9:00–10:30'
+title: The Joy of Form and the Fantasy of Theory 
+slug: joy-of-form
+room: Harrison
+time: 'Saturday morning, 10:45-12:15'
 chair:
-    name: Graham Hunt
-    institution: University of Texas at Arlington
-papers:
-    - aziz
-    - fox_e
-    - gosman
-
----
-title: Operatic Timbres
-slug: operatic-timbres
-society: AMS
-room: Texas E
-time: 'Saturday morning, 9:00–10:30'
-chair:
-    name: Emily Richmond Pollock
-    institution: Massachusetts Institute of Technology
-papers:
-    - peritz
-    - lochard
-    - livingston
-
-
----
-title: Program, Schema, and Topic in Film
-slug: program-schema-topic-film
-society: SMT
-room: Travis CD
-time: 'Saturday morning, 9:00–10:30'
-chair:
-    name: Frank Lehman
-    institution: Tufts University
-papers:
-    - hilewicz
-    - bourne
-    - rahn
-
-
----
-title: Representing Women
-slug: representing-women
-society: AMS
-room: Texas F
-time: 'Saturday morning, 9:00–10:30'
-chair:
-    name: Monica Hershberger
-    institution: SUNY Geneseo
-papers:
-    - pribyl
-    - gunst
-    - edgar
-
----
-title: Constructing Sovereignty
-slug: constructing-sovereignty
-society: AMS
-room: Texas B
-time: 'Saturday morning, 10:45–12:15'
-chair:
-    name: Annegret Fauser
-    institution: University of North Carolina at Chapel Hill
-papers:
-    - walker
-    - stoll
-    - onstot
-
----
-title: Embodiment
-slug: embodiment
-society: AMS
-room: Lone Star A
-time: 'Saturday morning, 10:45–12:15'
-chair:
-    name: Davinia Caddy
-    institution: University of Auckland
-papers:
-    - vanrij
-    - kapusta
-    - slominski
-
----
-title: Hip Hop
-slug: hip-hop
-society: AMS
-room: Texas E
-time: 'Saturday morning, 10:45–12:15'
-chair:
-    name: Lauron Kehrer
-    institution: College of William and Mary
-papers:
-    - katz
-    - nickell
-    - peterson
-
----
-title: 'Jazz II: Schemas, Scales, and Formulas'
-slug: jazz-schemas
-society: SMT
-room: Travis AB
-time: 'Saturday morning, 10:45–12:15'
-chair:
-    name: Janna Saslaw
-    institution: Loyola University New Orleans
-papers:
-    - smither
-    - salley
-    - selinsky
-
-
----
-title: 'Modernism in Herrmann’s Film Music: Vertigo as Case Study'
-slug: hermann-vertigo
-society: SMT
-room: Lone Star B
-time: 'Saturday morning, 10:45–12:15'
-chair:
-    name: Janet Bourne
-    institution: University of California, Santa Barbara
-papers:
-    - lofthouse
-    - richards
-    - reale
-    - mcdonald
-    - murphy_s
-
-Charity Lofthouse (), “
-Mark Richards (Toronto, ON), “
-Steven Reale (Youngstown State University), “
-Matthew McDonald (Northeastern University), “
-Scott Murphy (University of Kansas), “
-
-
----
-title: Music and Disaster, Natural and Human
-slug: music-and-disaster
-society: AMS
-room: Crockett CD
-time: 'Saturday morning, 10:45–12:15'
-chair:
-    name: James Grymes
-    institution: University of North Carolina at Charlotte
-papers:
-    - hall
-    - eyerly
-    - oliva
-
-
----
-title: Nineteenth-Century French Opera
-slug: 19c-french-opera
-society: AMS
-room: Texas D
-time: 'Saturday morning, 10:45–12:15'
-chair:
-    name: Karen Henson
-    institution: Queens College / Graduate Center, CUNY
-papers:
-    - forshaw
-    - olin
-    - kopchickspencer
-
-
----
-title: 'Theorizing Eighteenth-Century Music: Origins, Myths, and Countercurrents'
-slug: theorizing-18c-music
-society: SMT
-room: Travis CD
-time: 'Saturday morning, 10:45–12:15'
-chair:
-    name: Danuta Mirka
-    institution: Northwestern University
-papers:
-    - hudson
-    - brody
-    - stoia
-
----
-title: Timbre Analysis
-slug: timbre-analysis
-society: AMS
-room: Crockett AB
-time: 'Saturday morning, 10:45–12:15'
-chair:
-    name: Jonathan De Souza
-    institution: Western University
-papers:
-    - vanzalen
-    - zeller
-    - lubarsky
-
----
-title: 'Panel: Unsettling Accounts: Slave Histories, Transatlantic Musical Culture, and Research through Practice'
-slug: unsettling-accounts
-society: AMS
-room: Texas F
-time: 'Saturday morning, 10:45–12:15'
-chair:
-    name: Naomi André
+    name: Nathan Martin 
     institution: University of Michigan
-respondent:
-    name: Zak Ozmo
-    institution: L’Avventura London
-    title: Organizer
-papers: ~
-panelists:
-    - name: Tunde Jegede
-      institution:
-    - name: Berta Joncus 
-      institution: Goldsmiths, University of London
-    - name: Michael Veal 
-      institution: Yale University
+papers:
+    - sheehy
+    - stevens
+    - burstein
 
+The Form of Fantasy and the Fantasy of Form in the Writings of 
+A. B. Marx
+August A. Sheehy (Stony Brook University)
+Theorizing Sonata from the Margins: Manuel Blasco de Nebra's Seis Sonatas (1780) in Context
+Bryan Stevens (University of North Texas)
+The Joy of Sextabsätze: The Deceptive Cadence and Other Such 
+Slippery Events
+L. Poundie Burstein (Hunter College and The Graduate Center, CUNY) 
 
 ---
-title: Voice and Vocality in Medieval Occitanian Song
-slug: medieval-occitanian-song
-society: AMS
-room: Texas C
-time: 'Saturday morning, 10:45–12:15'
+title: Voices 
+slug: voices
+room: McKinley
+time: 'Saturday morning, 10:45-12:15'
 chair:
-    name: Mary Channan Caldwell
-    institution: University of Pennsylvania
+    name: Andrew Chung 
+    institution: University of North Texas
 papers:
-    - golden
-    - levitsky
-    - galvez
+    - komaniecki
+    - blessinger
+    - fulton
+
+Vocal Pitch in Rap Music
+Robert Komaniecki (Appalachian State University)
+The "Ahhs" Have It: Wordless Melismas and the Ineffable in 
+Popular Music
+Martin Blessinger (Texas Christian University) &
+Christopher Endrinal (Florida Gulf Coast University)
+To Be the Music: Mimetic Engagement with Caroline Shaw's Parti-ta for 8 Voices
+Anna Fulton (Grand Valley State University)
+
+---
+title: YouTube and Participatory Music Making 
+slug: youtube-participatory-music-making
+room: Taft A
+time: 'Saturday morning, 10:45-12:15'
+chair:
+    name: Alyssa Barna 
+    institution: University of Minnesota
+papers:
+    - ware
+    - ohara
+    - grasso
+
+Reinterpretation As Cultural Practice: Sketches for a Cover Song 
+Continuum
+Evan Ware (Central Michigan University)
+The Techné of YouTube Performance: Musical Structure, Extend-ed Techniques, and Custom Instruments in Solo Pop Covers
+William O’Hara (Gettysburg College)
+Like, Comment, and Subscribe: Amateur Music Theory as 
+Participatory Culture
+Julianne Grasso (University of Chicago)
+

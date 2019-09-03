@@ -1,33 +1,32 @@
 ---
 authors:
-- name: Brian Miller
-  institution: Yale University
-title: "Algorithmic Agents, Musical Objects, and Mediated Styles: Reframing Computational Music Theory"
+    - name: Brian Miller 
+      institution: Yale University
+title: "The Puzzle of Style: On Leonard Meyer's Unlikely Replications"
 handout: ''
 abstract: |
-  <p>One of the core concerns of computational music theory is the statistical
-  modeling of large corpora, often drawing on tools from computational
-  linguistics, and often with the aim of modeling human cognition. Such
-  data-driven work relies on an increasingly sophisticated set of algorithmic
-  tools, including techniques drawn from machine learning. Meanwhile, in
-  disciplinary contexts ranging from anthropology to science and technology
-  studies, an emerging critical discourse on “big data” and machine learning
-  suggests that we resist the notion of algorithms as neutral tools operating on
-  neutral data and instead consider the ways they function as agents and
-  mediators, derivative of human agency but with their own potentially
-  counterintuitive efficacies and interpretive capacities. Bringing this
-  perspective to bear on computational music theory, we might ask: what kinds of
-  agencies emerge from our music-analytical algorithms? And how do algorithms
-  mediate our relation to music, and vice versa?</p>
-  <p>To broach this line of inquiry, I meet the computational linguistic tools
-  of musical corpus studies with linguistic anthropologist Paul Kockelman’s
-  Peircean account of algorithmic semiotics, which highlights the unintuitive
-  ways that algorithms attend to musical objects, along with the means by which
-  algorithmic interpretants both constitute and constrain musical knowledge.
-  After introducing the broader theoretical argument and then examining a
-  relatively simple algorithm in technical and semiotic detail, I consider some
-  recent machine-learning approaches to harmonic function, which highlight not
-  only questions of algorithmic agency but also problems related to the
-  identification, theorization, and replication of musical style more
-  generally.</p>
+    <p>Strangely enough, the concept of style has rarely received sustained
+    attention from music theorists. While many particular styles have been
+    studied at length, the only major inquiry into the concept itself in
+    recent decades is Leonard Meyer’s <i>Style and Music</i> of 1989. Meyer’s
+    account, describing style as replicated patterning resulting from choices
+    made within some set of constraints, has continued to be cited but has not
+    been further elaborated or challenged in any systematic way. Given the
+    wide range of intellectual developments both contemporary with <i>Style
+    and Music</i> (especially in other disciplines, which Meyer cites widely
+    but not systematically) and more recent (including a variety of “turns” in
+    music scholarship), it is high time to revisit the concept.</p>
+    <p>This paper begins that inquiry by considering a class of thought
+    experiments that might be called “style puzzles,” in which some
+    paradoxical or impossible imagined work is probed for insights about
+    style, replication, or related concepts. Meyer himself discusses one
+    famous example, Borges’s “Pierre Menard, Author of the <i>Quixote</i>”—but
+    Meyer’s reading fails to fully grasp the stylistic implications of the
+    story’s central paradox, and thus points symptomatically to a gap in his
+    theory. I situate Meyer alongside readings of this and other style puzzles
+    from art historians, including Arthur Danto and Whitney Davis, whose
+    investigations spur cross-disciplinary difficulties alongside insights
+    into important questions: How are replication and choice manifested and
+    recognized in/as musical style? More broadly, what can and should the
+    notion of style do for the study of music?</p>
 

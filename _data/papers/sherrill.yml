@@ -1,0 +1,31 @@
+---
+authors:
+    - name: Paul Sherrill 
+      institution: University of Utah
+title: "Partial Orders of Modal Brightness"
+handout: ''
+abstract: |
+    <p>This paper generalizes a familiar fact about the seven diatonic modes:
+    they can be ranked unambiguously in terms of pitch height relative to a
+    fixed tonic. For instance, every pitch of C locrian is lower than or equal
+    to the corresponding scale degree of C phrygian; likewise, phrygian is no
+    higher than aeolian, and so on. To use a metaphorical mapping common in
+    jazz chord-scale pedagogy, locrian is therefore the “darkest” of the
+    diatonic modes and lydian the “brightest.” This paper generalizes that
+    phenomenon to the modes of arbitrary scales. Most scales do not admit a
+    simple linear ordering in terms of brightness. Instead, most scales
+    exhibit a partial order in which some modes are neither brighter nor
+    darker than others. This partial order offers a way of characterizing a
+    scale’s internal construction at a productive level of generality.</p>
+    <p>After motivating the concept of brightness with analyses of passages
+    from Mozart’s <i>Don Giovanni</i> and two works by Saint-Saëns, the paper
+    explores several concepts and useful results for modelling modal
+    brightness. These include two different partial orders of brightness, a
+    description of the geometry underlying scales’ varying structures, and a
+    pair of constants that characterize different scales. (Perhaps
+    surprisingly, the natural definition of evenness is not a useful
+    characterization, as scales representing any structure can be made
+    arbitrarily even.) The theory provides a framework that draws together
+    geometric, algebraic, and combinatoric models of musical scales, offering
+    a generalization of concepts like “well formedness” to all scales.</p>
+

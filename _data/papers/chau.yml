@@ -1,31 +1,30 @@
 ---
 authors:
-- name: Dustin Chau
-  institution: University of Kansas
-title: "Gustav Holst’s <i>Terzetto</i> and Its Maximally Smooth Triad of Keys"
-handouts:
-    - desc: Handout
-      path: chau-handout-0002.pdf
+    - name: Dustin Chau
+      institution: University of Kansas
+title: "A Cascading Canon System and Its Uncanny Design in Holst's \"Lovely Venus\""
+handout: ''
 abstract: |
-  <p>This study uses existing ideas on polytonality and neo-Riemannian theory to
-  analyze the smooth “key-leading” relationships within Gustav Holst’s
-  <i>Terzetto</i>, written in 1925 for flute, oboe, and viola (or clarinet).
-  Neo-Riemannian theory states that major and minor triads can voice lead
-  smoothly from one to another and will maintain the [037] trichord structure.
-  Analogously, a triad of keys is maximally smooth when two of the three
-  diatonic collections stay the same, and the third transposes by perfect fifth
-  or perfect fourth. The only triad of keys that can “key lead” to two other
-  triads of keys of the same type with maximally smooth motion is the [014]
-  tri-key combination. This is expected: semitones and perfect fifths are
-  related by the M<sub>7</sub> (multiply-by-7) operation, and [037] and [014] are
-  M<sub>7</sub>-transforms of one another.</p>
-  <p>The two movements of Holst’s <i>Terzetto</i> take full advantage of the
-  potential of this [014] tri-key combination. [014] is the first, the last, and
-  the most common type of tri-key combinations in both movements of the
-  composition, and the motions between adjacent [014] tri-key combinations are
-  often quite smooth, and frequently maximally so. Through modulation of
-  diatonic sets in each of the three separate voices in <i>Terzetto</i>, this
-  “parsimonious key leading” approach is pertinent to the analysis of triple
-  tonality in this composition. This presentation uses a modified <i>Tonnetz</i>
-  to visualize how these triple tonalities unfold over time. </p>
-
+  <p>During his brief post at Harvard University, Gustav Holst (1874–1934) began
+  indulging in a cappella canons. Upon his return to England in 1932, he
+  finished setting his Eight Canons for Equal Voices to some of Helen Waddell’s
+  translations of<i></i>. “Lovely Venus”—dedicated to his Harvard colleague
+  Wallace Woodworth and the Radcliffe Choral Society—is unique in this
+  collection not only for its construction as an “à 3” stacked canon, but
+  additionally for its voices entering at consecutive intervals of descending
+  major thirds. This study draws connections among ideas from post-tonal canon
+  systems and the extended common practice to codify the interdependence between
+  melodic intervals and their generated harmonies, and the macroharmonic
+  byproduct that results from such a union.</p>
+  <p>Another feature of these canons is that each voice is assigned individual
+  key signatures. While his friends implored him to publish these pieces absent
+  of any key, Holst believed that they were character-defining features for each
+  of these canons. The analytical method applied to a reduction of “Lovely
+  Venus” reveals a background structure that navigates through a large portion
+  of the hyper-hexatonic system while exhausting a particular cardinal region
+  via maximally-smooth voice leading. The notated triple-key combination between
+  each voice symbolizes this hexatonic region and the uncanny system that
+  inherently results from its restrictions. A foreground-level macroharmonic
+  analysis reveals a larger symmetrical set, atypical to associate with this
+  composer’s repertoire, that deepens our understanding of Holst’s harmonic
+  language during his late compositional phase.</p>

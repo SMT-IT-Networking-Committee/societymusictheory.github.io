@@ -1,32 +1,32 @@
 ---
 authors:
-- name: Tiffany Nicely
-  institution: University at Buffalo (SUNY)
-title: "Specifically Generic Accompaniments: Clump Vectors in Guinean Malinke Dance Drumming"
+    - name: Tiffany Nicely 
+      institution: University at Buffalo (SUNY
+title: "Many Malinke Meters: Analytical Applications of Meter Theory to Dance
+Drumming of Guinea"
 handout: ''
 abstract: |
-  <p>Guinean Malinke dance drumming incorporates three types of musical parts
-  within a polyrhythmic fabric of four to ten simultaneous patterns: a
-  background of multi-use supporting accompaniments, a middleground of
-  melo-rhythmic themes specific to each piece, and a foreground of licks and
-  improvised passages in dialogue with the dancers and unique to each
-  performance. All parts are contextualized by multiple isochronous and
-  non-isochronous temporal layers, including a steady tactus embodied in the
-  dancers’ feet, at least one layer of tactus subdivisions, and a timeline. This
-  analysis examines the ways in which background stock accompaniments played on
-  bells, <i>kenkenis </i>(small stick drums), and djembes shape the musical
-  landscape by providing a context of specific musical relationships. </p>
-  <p>My analysis is based on two fundamental aspects of this genre: that
-  rhythmic motives have quantifiable shape and direction relative to the
-  multiple temporal layers that contextualize them, and that this momentum often
-  simultaneously inhabits different envelopes relative to different layers,
-  creating musical complexity and depth. I focus on “clumps”: pairs of attacks
-  moving at the fastest increments of the texture, analyzing each clump via a
-  three-digit vector reflecting the relative “to-ness,” “from-ness,” and
-  “neutral-ness” of each clump relative to all context layers. This paper first
-  analyzes the “potential” clump vectors of thirteen stock accompaniments by
-  calculating their vectors to all possible temporal context layer types used in
-  the genre. Specific orchestrations of six to seven accompaniments combined by
-  professional Guinean Malinke drummers are then analyzed to explore their
-  specific exploitation of clump vectors.</p>
+    <p>According to Justin London’s <i>many meters hypothesis</i>, meters are
+    “highly context-specific patterns of temporal expectation that govern our
+    attention to, as well as performance of, rhythmic sequences” (London 2012,
+    8), where each meter is “a coordinated set of periodic temporal cycles of
+    sensorimotor attention” (91). By aligning London’s concept of temporal
+    cycles with Gerhard Kubik’s four African “basic, cross-culturally valid
+    reference levels with regard to timing: … elementary pulsation[s], …
+    reference beat[s], … cycle[s]” (Kubik 2010, 31), and “time-line patterns”
+    (57), this paper seeks to establish an analytical procedure to quantify
+    the many meters used in Guinean Malinke dance drumming.</p>
+    <p>Guinean Malinke dance drumming is performed by an eight-to-ten-part
+    polyrhythmic percussion ensemble. The music is constructed of cycles of
+    multiple repeating patterns of varying lengths. While many accompaniments
+    are multi-use, each piece utilizes an identity pattern in the form of an
+    eight- to sixteen-beat melo-rhythmic conversation between two of the
+    drums. This paper analyzes a corpus of 76 pieces as taught and published
+    by former national ballet drummers to establish the many meters at work in
+    Malinke dance drumming. I then demonstrate the ways in which the identity
+    pattern and accompaniments of each piece may be expressed as contours of
+    varying strength and weakness relative to its multiple specific, both
+    isochronous and non-isochronous (timeline), metric layers. A
+    quantification of these overlapping shapes allows a view of the depth and
+    complexity of this music.</p>
 

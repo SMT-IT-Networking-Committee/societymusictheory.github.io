@@ -1,14 +1,12 @@
-title: "History of Theory: Politics, Practicalities and Speculation"
-slug:  history-of-theory
-society: SMT
-layout: session
-time: 'Thursday afternoon, 2:15–3:45'
-link: /sessions/thu/afternoon/history-of-theory
-room: Travis CD
+title: History of Theory and the Pre-History of Music 
+slug: history-of-theory
+room: Harrison
+time: 'Friday afternoon, 4:00–5:30'
+link: /sessions/fri/afternoon/history-of-theory
 chair:
-    name: Caleb Mutch
-    institution: Indiana University
+    name: David Cohen 
+    institution: Max Planck Institute for Empirical Aesthetics
 papers:
-    - fitzgibbon
     - klopfenstein
-    - sabetrohani
+    - broverlubovsky
+    - piilonen

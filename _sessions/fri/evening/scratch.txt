@@ -1,195 +1,97 @@
 scratch document
 
-FRIDAY EVENING SESSION—8:00–9:30
-
-
 ---
-title: 'Twentieth-Century Topics: Structure, Surrealism, Silence'
-slug: twentieth-century-topics
-society: SMT
-room: (Travis AB
+title: Expansive Forms in Pop and Progressive Rock
+slug: expansive-forms-pop
+room: Harrison
 time: 'Friday evening, 8:00–9:30'
 chair:
-    name: C. Catherine Losada
-    institution: College-Conservatory of Music, University of Cincinnati
+    name: John Covach
+    institution: Eastman School of Music
 papers:
-    - donaldson_j
-    - barnett_j
-    - knowles
+    - nobile
+    - tan
+    - biamonte-klorman
 
-
----
-title: The Politics of Soviet Musicology and Music Theory
-slug: politics-soviet-musicology
-society: AMS/SMT
-room: Texas E
-time: 'Friday evening, 8:00–10:00'
-chair:
-    name: Katya Ermolaeva
-    institution: Princeton University
-respondent:
-    formatted: Marina Frolova-Walker (University of Cambridge) and Gordon McQuere (Washburn University), Respondents
-    formatted_short: Marina Frolova-Walker and Gordon McQuere, Respondents
-panelists:
-    - name: Philip Ewell
-      institution: Hunter College, CUNY
-    - name: Daniil Zavlunov
-      institution: Stetson University
-    - name: Inessa Bazayev
-      institution: Louisiana State University
-    - name: Matthew Honegger
-      institution: Princeton University
-    - name: Anicia Timberlake
-      institution: Peabody Conservatory, Johns Hopkins University
-    - name: Olga Panteleeva
-      institution: Princeton University
-    - name: Christopher Segall
-      institution: University of Cincinnati
-    - name: William Quillen
-      institution: Oberlin College and Conservatory
-
+Anti-Telos Choruses in Recent Pop
+Drew Nobile (University of Oregon)
+"...a jolly good time": Understanding Groove in Progressive Rock
+Ivan Tan (Brown University)
+Extended Final Phrases in Popular Songs
+Nicole Biamonte & Edward Klorman (McGill University)
 
 ---
-title: '<i>Porgy and Bess</i> Against the Grain: New Approaches to a Confounding American Opera'
-slug: porgy-and-bess
-society: AMS/SMT
-room: Texas C
+title: Recontextualizing Meter
+slug: recontextualizing-meter
+room: McKinley
 time: 'Friday evening, 8:00–10:00'
 chair:
-    name: Mark Clague
+    name: Roger Mathew Grant
+    institution: Wesleyan University
+papers:
+    - cohn
+    - mitchell
+    - nicely
+    - bilidas
+
+Damaged Cargo: Concerning the Unfortunate Voyage of
+Classical Poetic Theory to the Land of the Modern Music-Theory Textbook
+Richard Cohn (Yale University)
+On Metrical Structure and Cueing Systems in Monroe's "Muleskinner Blues"
+Nathaniel Mitchell (Princeton University)
+Many Malinke Meters: Analytical Applications of Meter
+Theory to Dance Drumming of Guinea
+Tiffany Nicely (University at Buffalo (SUNY)
+An Investigation of Metrical Dissonance in Tap Dance
+Improvisation
+Stefanie Bilidas (The University of Texas at Austin)
+
+---
+title: Topic and Prototype in Haydn and Mozart
+slug: topic-prototype-hadyn-mozart
+room: Taft A
+time: 'Friday evening, 8:00–9:00'
+chair:
+    name: Danuta Mirka
+    institution: Northwestern University
+papers:
+    - smith_e
+    - sanchezkisielewska
+
+Middleground Prototypes for Mozart's First-Movement Concerto Forms
+Eron Smith (Eastman School of Music)
+The Hymn as a Musical Topic in Haydn's Symphonies:
+Stylistic Sources and Expressive Trajectories
+Olga Sánchez-Kisielewska (University of Chicago)
+
+---
+title: "Corralling the Chorale: Moving Away from SATB Writing in the Undergraduate Music Theory Curriculum"
+slug: coralling-the-chorale
+room: Taft C
+time: 'Friday evening, 8:00–9:30'
+chair:
+    name: William van Geest
     institution: University of Michigan
+respondent:
+    name: Jennifer Snodgrass
+    institution: Appalachian State University
 papers:
-    - west
-    - greenturner
-    - arthur
-    - leson
+    - vangeest
+    - burns
+    - smucker
+    - pukinskis
+    - ohara-chorale
+    - pierson
 
-
-FRIDAY EVENING SESSIONS—8:00–11:00
-
-
----
-title: Digital Scholarship in Music and Dance
-slug: digital-scholarship-music-dance
-society: AMS
-sponsor: AMS Music and Dance Study Group
-room: Texas F
-time: 'Friday evening, 8:00–11:00'
-chair:
-    name: David Day
-    institution: Brigham Young University
-    title: Moderator
-papers:
-    - schroedter
-    - decker
-    - fruhauf
-
-
----
-title: Interactive Demo and Poster Session
-slug: interactive-demos-posters
-society: AMS
-sponsor: AMS Ludomusicology Study Group
-room: Texas D
-time: 'Friday evening, 8:00–11:00'
-chair:
-    formatted: ''
-    formatted_short: ''
-papers:
-    - kinne
-    - cook_demo
-    - burke_k
-    - tramte
-    - lucas
-    - thompson
-
-
----
-title: Latin American Music and Music Theory
-slug: latin-american-music-theory
-society: SMT
-sponsor: SMT Committee on Diversity
-room: Travis CD
-time: 'Friday evening, 8:00–11:00'
-chair:
-    name: J. Daniel Jenkins
-    institution: University of South Carolina
-
-
-
----
-title: Schenker’s Traces and the History of Music Theory
-slug: schenkers-traces
-society: SMT
-room: Texas A
-time: 'Friday evening, 8:00–11:00'
-chair:
-    name: Robert W. Wason
-    institution: Eastman School of Music, University of Rochester
-
-
-
----
-title: Screening Cold War Music on Film
-slug: screening-cold-war-music
-society: AMS
-sponsor: AMS Cold War and Music Study Group
-room: Crockett CD
-time: 'Friday evening, 8:00–11:00'
-chair:
-    name: Kevin Bartig
-    institution: Michigan State University
-papers: ~
-panelists:
-    - name: Philip Gentry 
-      institution: University of Delaware
-    - name: Eduardo Herrera 
-      institution: Rutgers University
-    - name: Chérie Rivers Ndaliko 
-      institution: University of North Carolina at Chapel Hill
-
----
-title: 'Testing the Boundaries of Masculinity: New Work in LGBTQ Studies'
-slug: boundaries-of-masculinity
-society: AMS
-sponsor: AMS LGBTQ Study Group
-room: Texas B
-time: 'Friday evening, 8:00–11:00'
-chair:
-    name: Heather Hadlock
-    institution: Stanford University
-papers:
-    - mccarthy
-    - nelson
-    - irizarry
-    - tyson
-
-
-Women in the History of Music Theory: Two Round-Table Discussions (Crockett AB)
-time: 'Friday evening, 8:00–11:00'
-Sponsored by the AMS History of Theory Study Group
-Elina G. Hamilton (Boston Conservatory) and Karen Cook (University of Hartford), Chairs
-Round-Table One: “Glyn, Kinkel, Lee, and Newmarch at Work”
-Rachel Lumsden (Florida State University), “Who gets to write music theory? Margaret Glyn’s The Rhythmic Conception of Music (1907): A Case Study of Gender, Class, and Authorship”
-Daniel Walden (Harvard University), “Johanna Kinkel (1810–58): Microtonalism and Mother’s Milk”
-Kristin Franseen (McGill University), “Between ‘Excessive Counterpoint’ and ‘Emotional Mysticism’: Form and Musical Meaning for Vernon Lee and Rosa Newmarch”
-Round-Table Two: “Where Credit Is Due”
-Nancy Yunhwa Rao (Rutgers University), “Crawford: A Theorist of American Ultramodern Music”
-August Sheehy (Stony Brook University), “Hidden Lines and Binary Forms: Women’s Labor in the History of Music Theory”
-Michael Scott Cuthbert (Massachusetts Institute of Technology), “‘For the Use of Sister Laudomina’: Nuns and the Transmission of Vernacular Music Theory in Fifteenth-Century Italy”
-
-
-
----
-title: Modality and Arabesque in the Early Twentieth Century
-slug: modality-arabesque-20c
-society: SMT
-room: Travis AB
-time: 'Friday evening, 9:45–11:15'
-chair:
-    name: Jeremy Day-O’Connell
-    institution: Skidmore College
-papers:
-    - sailor
-    - venturino
-    - lam
+The Chorale in American Music Theory: A Corpus Study of Lead-ing Textbooks
+William van Geest (University of Michigan)
+Resolving Chords to Resolve Anxieties: Pressures around Teaching the Chorale
+Chelsea Burns (The University of Texas at Austin)
+Administering Pedagogy: Navigating the Institutional Impacts of a Changing Theory Curriculum
+Peter Smucker (Stetson University)
+Repurposing the Chorale in the Theory Classroom
+Katherine Pukinskis (Harvard University)
+Teaching Undergraduate Voice-Leading with Neo-Riemannian Techniques
+William O'Hara (Gettysburg College)
+Building an Undergraduate Curriculum without SATB Writing
+Marcelle Pierson (University of Pittsburgh)

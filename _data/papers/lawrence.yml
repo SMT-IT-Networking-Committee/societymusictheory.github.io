@@ -1,32 +1,33 @@
 ---
 authors:
-- name: John Y. Lawrence
-  institution: University of Chicago
-title: "Grasping Colors: How We Use Timbre"
+    - name: John Y. Lawrence 
+      institution: University of Chicago
+title: "Transacting Musical Time: Where Rhythm Ends and Rubato Begins"
 handout: ''
 abstract: |
-  <p>Currently, music theory does not have a standard apparatus for analyzing
-  the complex relationship between notated orchestration, performed sound, and
-  listener perception—most general studies of orchestration focus instead on
-  developments in compositional, cultural, or technological practice. My paper’s
-  goal is therefore to construct a two-stage theory of timbre’s effects: first
-  addressing how performers produce timbres from orchestral scoring, and then
-  addressing how listeners produce meaning from the performed timbres.</p>
-  <p>Adapting ideas from affordance theory, I suggest that humans <i>use
-  </i>music just as we use physical objects to perform tasks. Performers act
-  both as users (of scores) and designers (of performances), while listeners act
-  as users (of the performances). What sort of use each human actor chooses
-  depends on the affordances<i> </i>of the object.</p>
-  <p>In the theoretical first half of the paper, I build a taxonomy of timbre’s
-  affordances for listeners. I illustrate these with an excerpt from Fauré’s
-  <i>Requiem</i>, contrasting the orchestration in the Rutter and Nectoux
-  editions. In the analytical second half, I compare three different recordings
-  of a passage from Schubert’s “Great C Major” Symphony to demonstrate: first,
-  how performers use the same scoring to generate radically different sound
-  structures; second, how each of these performances affords different
-  metaphorical conceptualizations of the resultant sound structures. </p>
-  <p>I conclude by suggesting that we should reorient the study of orchestration
-  away from merely examining the arrangement of notes on the page, to
-  considering how human agents (performers and listeners) interact with these
-  notes to produce sounds and meanings. </p>
+    <p>Most studies of expressive timing in classical music analyze
+    performances in conjunction with scores. But many listeners do not access
+    scores. They work from sound alone to ascertain rhythm and rubato
+    simultaneously. Conflict arises between with-score and without-score
+    perspectives whenever rubato is extreme enough that a listener perceives a
+    different rhythm from what is notated. In this paper, I examine instances
+    of this conflict in the verismo opera tradition and the challenges they
+    pose for theories of rhythm perception.</p>
+    <p>I first propose five ontological levels at which rhythm manifests:
+    ideal (prototypical norms), notated (what is written), performed (what is
+    notated plus the performer’s rubato), sounding (durations without rhythmic
+    interpretation), and perceived (what is understood by a listener). I then
+    provide multi-level analyses of passages from <i>Cavalleria rusticana</i>,
+    <i>Pagliacci</i>, and <i>Tosca</i>. I suggest that in each case, the
+    perceived rhythm is different from the notated rhythm at even the level of
+    meter and/or hypermeter. I then ask: what might it feel like to be the
+    performer here, what might it feel like to be the scoreless listener, and
+    why might this performing tradition have been established in the first
+    place?</p>
+    <p>I conclude by exploring the implications of these examples for rhythm
+    theory as a whole. The hard distinction between rhythm and rubato is
+    undermined when tempo manipulation is aurally indistinguishable from
+    metric manipulation. Instead of defining “expressive timing” as deviation
+    from written note values, I suggest that timing is made expressive by the
+    ascription of agency.</p>
 
