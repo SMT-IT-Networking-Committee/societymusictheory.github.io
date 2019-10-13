@@ -1,9 +1,13 @@
 ---
 authors:
-    - name: Alan Reese 
+    - name: Alan Reese
       institution: Cleveland Institute of Music
 title: "Freudian Narcissism and Lewinian Loops: Analytical Reflections on Szymanowski's \"Narcissus\""
-handout: ''
+handouts:
+    - path: reese-handout-0008.pdf
+      desc: Handout
+    - path: reese-handout-0009.pdf
+      desc: Slides
 abstract: |
     <p>Despite Szymanowski’s declaration that the <i>Myths</i> (1915) for violin
     and piano were not “dramas” (Wightman 1999, 144), several scholars—including

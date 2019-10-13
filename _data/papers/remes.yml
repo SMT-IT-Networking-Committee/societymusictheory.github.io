@@ -4,7 +4,9 @@ authors:
       institution: Hochschule Lucerne - Music, Switzerland
 title: "Four Steps Toward Parnassus: Johann David Heinichen's Method of
 Keyboard Improvisation as a Model of Baroque Compositional Pedagogy"
-handout: ''
+handouts:
+    - path: 'remes.pdf'
+      desc: Handout
 abstract: |
     <p>Johann David Heinichen’s treatise, <i>Der General-Bass in der
     Composition</i> (Dresden, 1728), is the most comprehensive study of

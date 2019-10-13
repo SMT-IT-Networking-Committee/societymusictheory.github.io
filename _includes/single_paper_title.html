@@ -7,14 +7,9 @@
     {{ p.authors[0].name }} ({{ p.authors[0].institution }})
   {%- endif -%}
 {%- endcapture -%}
-{%- capture handout -%}
-  {%- if p.handout != '' || ! p.handout.nil? -%}
-  &emsp; <a alt="handout" href="//societymusictheory.org/files/2017_handouts/{{ p.handout }}"><i class="fa fa-file" alt="handout"></i></a>
-  {%- endif -%}
-{%- endcapture -%}
 <p class="author">{{ auth }}</p>
 <p class="title">{{ p.title }}</p>
-{% if p.handouts %}
+{% if p.handouts.size > 0 %}
 <ul class="handouts">
   {% for h in p.handouts %}
   {%- capture link -%}
