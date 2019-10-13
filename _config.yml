@@ -10,5 +10,12 @@ collections:
   sessions:
     output: true
 
+# keep junk off the web
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - CNAME
+    - README.md
+
 # Build settings
 markdown: kramdown
