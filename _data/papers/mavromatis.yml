@@ -3,7 +3,7 @@ authors:
     - name: Panayotis Mavromatis 
       institution: New York University
 title: "Hierarchical Structural Patterns in Improvised Music: Implications for Cognition"
-handout: ''
+handouts: []
 abstract: |
   <p>This paper presents a framework for modeling the structure of improvised
   music using Hierarchical Markov Models, a natural extension of simple Markov
