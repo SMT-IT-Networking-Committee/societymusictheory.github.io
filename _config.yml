@@ -6,9 +6,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "guide.societymusictheory.org" # the base hostname & protocol for your site
 encoding: utf-8
 twitter_username: SMT_musictheory
-collections:
-  sessions:
-    output: true
 
 # keep junk off the web
 exclude:
