@@ -379,7 +379,7 @@ div#search-results {
 }
 
 a, a:visited {
-    color: lighten($brand-color, 10%);
+    color: $link-color;
     text-decoration: underline;
     &:hover {
       text-decoration: none;
