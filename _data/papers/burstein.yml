@@ -4,7 +4,9 @@ authors:
       institution: Hunter College and The Graduate Center, CUNY
 title: "The Joy of <i>Sextabsätze</i>: The Deceptive Cadence and Other Such
 Slippery Events"
-handouts: []
+handouts:
+    - path: burstein-handout-0010.pdf
+      desc: Examples
 abstract: |
     <p>Is a V–VI deceptive cadence truly a “cadence”? Many argue that it is
     not, claiming that a V–VI motion merely delays the arrival of an ensuing

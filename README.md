@@ -145,7 +145,7 @@ want in there.
 The other important files here are the ones for the actual sesions. Here's an
 example of one of those:
 
-```
+```markdown
 ---
 title: "Cross-Modal Perception in Multimedia and Virtual Reality"
 slug: cross-modal-perception
