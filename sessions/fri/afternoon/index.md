@@ -7,7 +7,7 @@ title: Friday Afternoon Sessions
 
 [View session titles only](index-short)
 
-## 2:15--5:15
+## 2:15--5:30
 
 {% include session-short.html session="diversity-theory-pedagogy" %}
 
