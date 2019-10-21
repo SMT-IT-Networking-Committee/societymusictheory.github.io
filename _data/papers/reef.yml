@@ -3,7 +3,9 @@ authors:
     - name: John S. Reef 
       institution: Nazareth College
 title: "Tracing Form and <i>Fortspinnung</i> through a Compositional Pattern in Some Works by J. S. Bach"
-handouts: []
+handouts:
+    - path: 'reef-handout.pdf'
+      desc: Handout
 abstract: |
     <p>This paper identifies a compositional pattern in the music of J. S. Bach
     and demonstrates its operation in several fugal or imitative works, noting two

@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Brad Osborn 
+    - name: Brad Osborn
       institution: University of Kansas
 title: "Formal Functions and Rotations in Top-40 EDM"
-handouts: []
+handouts:
+    - path: 'osborn-handout-0015.pdf'
+      desc: Handout
 abstract: |
     <p>Publications on form in popular music have assumed the formal sections
     germane to pop-rock (especially verse, prechorus, and chorus) to be the formal

@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Eron Smith 
+    - name: Eron Smith
       institution: Eastman School of Music
 title: "Middleground Prototypes for Mozart's First-Movement Concerto Forms"
-handouts: []
+handouts:
+    - path: 'smith-e-handout.pdf'
+      desc: Handout
 abstract: |
     <p>Tonal theorists have neglected the concerto compared to most other
     formal genres. In this paper, I present exposition prototypes for Mozart’s
@@ -22,8 +24,8 @@ abstract: |
     analysis of K. 488.</p>
     <p>However, the challenge of Kopfton contradiction arises in the
     combination of descending from 3^   in P and from 5^   in S. Rather than
-    dismissing this possibility, I suggest a middleground “hybrid descent” (5
-    ^  –4    ^  –3^  —3^  –2^  –1^  ) that can be interpreted from either
+    dismissing this possibility, I suggest a middleground “hybrid descent”
+    (5^–4^–3^—3^–2^–1^) that can be interpreted from either
     Kopfton according to context, using K. 447 as an example. The hybrid
     allows for a nuanced interpretation of concerto movements with dialogue
     between  3^   and 5^  , providing a solution to one of many analytical

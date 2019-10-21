@@ -3,7 +3,9 @@ authors:
     - name: Noah Kahrs 
       institution: Eastman School of Music
 title: "Process and Projection in Abrahamsen's <i>Schnee</i>"
-handouts: []
+handouts:
+    - path: 'kahrs-handout.pdf'
+      desc: Handout
 abstract: |
     <p>Hans Abrahamsen’s S<i>chnee</i> has become one of the few classic works
     of the early 21st century. Yet despite its similarity to American

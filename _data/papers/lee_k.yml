@@ -1,10 +1,11 @@
 ---
 authors:
-    - name: Kelvin H. F. Lee 
+    - name: Kelvin H. F. Lee
       institution: Durham University
-title: "Being, Becoming, and <i>Dasein</i>: Two-Dimensionality and
-Form-Functional Regressionin Richard Strauss's <i>Eine Alpensinfonie</i>"
-handouts: []
+title: "Being, Becoming, and <i>Dasein</i>: Two-Dimensionality and Form-Functional Regressionin Richard Strauss's <i>Eine Alpensinfonie</i>"
+handouts:
+    - path: 'lee-handout-0017.pdf'
+      desc: Handout
 abstract: |
     <p>Finessing Janet Schmalfeldt’s (2011) dialectical formulation of
     “becoming” (captured by ⇒), Nathan Martin and Steven Vande Moortele (2014)
