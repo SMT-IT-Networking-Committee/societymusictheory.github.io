@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Yonatan Malin 
+    - name: Yonatan Malin
       institution: University of Colorado Boulder
 title: "Listening to Klezmer Music with Schema Theory"
-handouts: []
+handouts:
+    - desc: Handout
+      path: malin-handout-0019.pdf
 abstract: |
     <p>This paper makes an initial foray into the analysis of klezmer music
     via schema theory. I explore two schemas drawn from a corpus of 254

@@ -6,7 +6,9 @@ authors:
     - name: David Sears
       institution: Texas Tech University
 title: "Rock Slides and Other Uncommon Progressions in Popular Music Harmony"
-handouts: []
+handouts:
+    - desc: Handout
+      path: forrest-sears.pdf
 abstract: |
     <p>Several studies have identified the most common harmonic progressions in
     popular music using either qualitative or quantitative methods (Stephenson

@@ -1,10 +1,11 @@
 ---
 authors:
-    - name: John Roeder 
+    - name: John Roeder
       institution: University of British Columbia
-title: "The RICH logic of Thomas Adès’s <i>The Exterminating Angel</i> and
-<i>The Tempest</i>"
-handouts: []
+title: "The RICH logic of Thomas Adès’s <i>The Exterminating Angel</i> and <i>The Tempest</i>"
+handouts:
+    - desc: Handout
+      path: roeder-handout-0024.pdf
 abstract: |
     <p>Thomas Adès described the composition of his operas <i>The Tempest</i>
     (2003) and <i>The Exterminating Angel</i> (2016) as the “organic,

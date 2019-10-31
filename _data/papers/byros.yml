@@ -1,10 +1,11 @@
 ---
 authors:
-    - name: Vasili Byros 
+    - name: Vasili Byros
       institution: Northwestern University
-title: "Beethoven Contra Partimento: Creativity, Aesthetics, and the <i>schöne
-Künste</i> in a Realization of BWV 908"
-handouts: []
+title: "Beethoven Contra Partimento: Creativity, Aesthetics, and the <i>schöne Künste</i> in a Realization of BWV 908"
+handouts:
+    - desc: Handout
+      path: byros-handout-0025.pdf
 abstract: |
     <p>The international “new theory” (Sanguinetti 2014) formed of schemata
     and partimenti has painted a powerful picture of musical creativity in the
