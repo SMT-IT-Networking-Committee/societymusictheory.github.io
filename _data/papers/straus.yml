@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Joseph Straus 
+    - name: Joseph Straus
       institution: The Graduate Center, CUNY
 title: "Music Theory’s Therapeutic Imperative and the Tyranny of the Normal"
-handouts: []
+handouts:
+    - desc: Slides
+      path: straus.pdf
 abstract: |
     <p>Traditional music theory rationalizes abnormal musical elements (like
     dissonant or chromatic tones or formal anomalies) with respect to normal

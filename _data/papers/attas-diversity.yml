@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Robin Attas 
+    - name: Robin Attas
       institution: Queen’s University
 title: "Working with Diverse Student Populations in the Classroom"
-handouts: []
+handouts:
+    - desc: Resources
+      path: attas-handout-0027.pdf
 abstract: |
     <p>Music theory instructors may feel compelled to consider diversity in
     the classroom for personal reasons or because of departmental or
