@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Mitchell Ohriner 
+    - name: Mitchell Ohriner
       institution: University of Denver
 title: "Metric Complexity, Lyric, and Groove in Selected Verses of Eminem"
-handouts: []
+handouts:
+    - desc: Handout
+      path: ohriner-handout-0030.pdf
 abstract: |
     <p>This presentation reframes the concept of groove in the rapping voice
     and introduces the concept of the groove class. Following Cohn’s

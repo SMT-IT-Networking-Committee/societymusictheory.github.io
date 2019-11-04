@@ -1,10 +1,12 @@
 ---
 authors:
-    - name: William van Geest 
+    - name: William van Geest
       institution: University of Michigan
 title: "The Chorale in American Music Theory: A Corpus Study of Leading
 Textbooks"
-handouts: []
+handouts:
+    - desc: Handout
+      path: van-geest-handout-0028.pdf
 abstract: |
     <p>While music theorists widely acknowledge the chorale’s privileged
     position in American music theory, very little scholarship critically
