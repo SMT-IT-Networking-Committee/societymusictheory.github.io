@@ -3,8 +3,9 @@ slug: form-motive-pop-film-music
 room: Taft C
 time: 'Thursday afternoon, 4:00-5:30'
 link: /sessions/thu/afternoon/form-motive-pop-film-music
+livestream: true
 chair:
-    name: Lori Burns 
+    name: Lori Burns
     institution: University of Ottawa
 papers:
     - osborn

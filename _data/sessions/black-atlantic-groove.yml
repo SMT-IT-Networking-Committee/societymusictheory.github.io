@@ -4,6 +4,7 @@ room: Taft C
 time: 'Saturday morning, 9:00-12:15'
 link: /sessions/sat/morning/black-atlantic-groove
 sponsor: 2019 Program Comittee
+livestream: true
 chair:
     name: Richard Cohn
     institution: Yale University
