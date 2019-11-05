@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Rachel Short 
+    - name: Rachel Short
       institution: Shenandoah Conservatory
 title: "\"A-Five, Six, Seven, Eight!\": Musical Counting and Dance Hemiolas in Musical Theatre Tap Dance Breaks"
-handouts: []
+handouts:
+    - desc: Handout
+      path: short-handout-0035.pdf
 abstract: |
     <p>“A-five, six, seven, eight!” Those four numbers in the opening of <i>A
     Chorus Line</i> (1976) often announce the beginning of musical theatre

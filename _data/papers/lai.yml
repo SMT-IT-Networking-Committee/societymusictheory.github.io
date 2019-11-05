@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Hei Yeung John Lai 
+    - name: Hei Yeung John Lai
       institution: University of British Columbia
 title: "Metrical Dissonance and Hypermeter in Schubert's Sonata Forms"
-handouts: []
+handouts:
+    - desc: Handout
+      path: lai-handout-0033.pdf
 abstract: |
     <p>This paper explores a particular kind of interaction between metrical
     dissonance and phrase rhythm in Schubert’s sonata forms. By integrating

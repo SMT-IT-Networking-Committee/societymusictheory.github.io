@@ -1,9 +1,13 @@
 ---
 authors:
-    - name: Angela Ripley 
+    - name: Angela Ripley
       institution: College of Wooster
 title: "Post-Tonal Postcards: Synthesizing Analysis and Reflection through Prose Writing"
-handouts: []
+handouts:
+    - desc: Poster
+      path: ripley-handout-0034.pdf
+    - desc: Handout
+      path: ripley-handout-0035.pdf
 abstract: |
     <p>When first encountering post-tonal music, students discover repertoire
     that differs aesthetically from music they have previously studied and
