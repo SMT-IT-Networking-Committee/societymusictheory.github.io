@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Stefanie Bilidas 
+    - name: Stefanie Bilidas
       institution: The University of Texas at Austin
 title: "An Investigation of Metrical Dissonance in Tap Dance Improvisation"
-handouts: []
+handouts:
+    - desc: Handout
+      path: bilidas-handout-0047.pdf
 abstract: |
     <p>A “cutting contest” is a public challenge between two skilled tap
     dancers, who alternate increasingly elaborate rhythmic sequences,

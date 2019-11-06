@@ -3,7 +3,9 @@ authors:
     - name: Andrew Goldman
       institution: Western University
 title: "Beyond the Continuum: Towards a Typology of Improvisatory Processes"
-handouts: []
+handouts:
+    - desc: Full paper
+      path: goldman-handout-0044.pdf
 abstract: |
   <p>One way to resolve the paradox of improvisation’s simultaneous freedom and
   constraint is to posit a continuum connecting the polar extremes of

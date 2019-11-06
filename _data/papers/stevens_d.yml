@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Daniel B. Stevens 
+    - name: Daniel B. Stevens
       institution: University of Delaware
 title: "The Predominant V4/2"
-handouts: []
+handouts:
+    - desc: Handout
+      path: stevens_d.pdf
 abstract: |
     <p>At its midpoint, J.S. Bach’s Prelude from the Suite for Solo Violoncello in
     G Major finds itself in crisis. The C2 of the exhilarating V4/2 chord in m. 22
@@ -26,4 +28,4 @@ abstract: |
     resolution; (4) use with inverted cadential 6/4 chords; (5) use of register
     and temporal lengthening to create rhetorical emphasis; and (6) its
     anticipatory quality and cadential proximity, which override the chord’s
-    common voice-leading tendencies.</p> 
+    common voice-leading tendencies.</p>

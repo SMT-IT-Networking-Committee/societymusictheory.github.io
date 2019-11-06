@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Christopher Douthitt 
+    - name: Christopher Douthitt
       institution: Princeton University
 title: "Scott Walker's Avant-Garde Idiom and the Composition of Perceptual Space"
-handouts: []
+handouts:
+    - desc: Handout
+      path: douthitt.pdf
 abstract: |
     <p>Scott Walker, who died this past March, was a former teen idol who later
     adopted a strange and, some would say, disturbing avant-garde idiom. His songs

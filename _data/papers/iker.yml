@@ -1,10 +1,11 @@
 ---
 authors:
-    - name: Sarah Iker 
+    - name: Sarah Iker
       institution: Massachusetts Institute of Technology
-title: "Tartar Sauce and Travesty: Deformations of Galant Schemata in
-Stravinsky's Neoclassicism"
-handouts: []
+title: "Tartar Sauce and Travesty: Deformations of Galant Schemata in Stravinsky's Neoclassicism"
+handouts:
+    - desc: Handout
+      path: iker.pdf
 abstract: |
     <p>When listeners experience Igor Stravinsky’s neoclassical works, they
     often report hearing familiar tonal archetypes alongside modernist,

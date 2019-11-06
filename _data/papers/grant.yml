@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Aaron Grant 
+    - name: Aaron Grant
       institution: Missouri Western State University
 title: "Foreshadowing Strategies in Schubert's Three-Key Expositions"
-handouts: []
+handouts:
+    - desc: Handout
+      path: grant-handout-0051.pdf
 abstract: |
     <p>Few of Schubert’s evocative compositional moments have attracted more
     attention than the G-flat trill at the start of the D. 960. The trill

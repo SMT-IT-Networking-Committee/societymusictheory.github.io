@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Kevin R. Burke 
+    - name: Kevin R. Burke
       institution: Florida Institute of Technology
 title: "Genesis Does What Nintendon't: Sound Chips and Composer Culture in the 16-Bit Era"
-handouts: []
+handouts:
+    - desc: Handout
+      path: burke.pdf
 abstract: |
     <p>Sega’s slogan “Genesis Does What Nintendon’t” banked on a modern, cool
     image that painted the Nintendo Entertainment System (NES) as childish and
@@ -33,4 +35,4 @@ abstract: |
     distribution, are more suggestive of conventions that would become prevalent
     in modern game composition. The sound design of the Sega Genesis therefore
     sheds as much light into early game music composition as it does on practices
-    to follow.</p> 
+    to follow.</p>

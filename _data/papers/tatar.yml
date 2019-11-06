@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Jeremy Tatar 
+    - name: Jeremy Tatar
       institution: McGill University
 title: "Metric Transformations in Hip-Hop and R&B Sampling Practice"
-handouts: []
+handouts:
+    - desc: Handout
+      path: tatar.pdf
 abstract: |
     <p>This paper explores the possibilities of metric transformation when one
     song samples material from another. Most commonly associated with hip-hop
