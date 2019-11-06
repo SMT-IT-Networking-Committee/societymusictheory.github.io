@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Kristen Wallentinsen 
+    - name: Kristen Wallentinsen
       institution: Rutgers University
 title: "\"Repeat and Repeat Again\": A Reexamination of Fuzzy Contour in Steve Reich's <i>The Desert Music</i>"
-handouts: []
+handouts:
+    - desc: Handout
+      path: wallentinsen-handout-0043.pdf
 abstract: |
     <p>Steve Reich’s <i>The Desert Music</i> employs a key aspect of Reich’s
     compositional philosophy: melodic phasing. The phasing process places the

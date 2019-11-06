@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Drew Nobile 
+    - name: Drew Nobile
       institution: University of Oregon
 title: "Anti-Telos Choruses in Recent Pop"
-handouts: []
+handouts:
+    - desc: Handout
+      path: nobile-handout-0039.pdf
 abstract: |
     <p>Reports of the chorus’s death have been increasing in pop-critical
     circles. Indeed, after decades of “don’t bore us, get to the chorus,” many

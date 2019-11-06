@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Robert Komaniecki 
+    - name: Robert Komaniecki
       institution: Appalachian State University
 title: "Vocal Pitch in Rap Music"
-handouts: []
+handouts:
+    - desc: Handout
+      path: komaniecki-handout-0037.pdf
 abstract: |
     <p>When analyzing rap music, vocal pitch is likely not the first parameter
     one considers. Indeed, one of the defining aspects of the rap genre is its

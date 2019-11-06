@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Damian Blättler 
+    - name: Damian Blättler
       institution: Rice University
 title: "Competing Musical Processes in Parisian Modernist Sonata Forms"
-handouts: []
+handouts:
+    - desc: Handout
+      path: blattler-handout-0042.pdf
 abstract: |
     <p>The first movements of Milhaud’s Sonata for Flute, Oboe, Clarinet and
     Piano, Ravel’s Sonata for Violin and Piano, and Martinů’s Sextet for Winds

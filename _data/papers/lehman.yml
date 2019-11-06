@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Frank Lehman 
+    - name: Frank Lehman
       institution: Tufts University
 title: "Thematic Transformation & the Limits of Leitmotivic Analysis in Hollywood Film Franchises"
-handouts: []
+handouts:
+    - desc: Handout
+      path: lehman-handout-0041.pdf
 abstract: |
     <p>Can a film score host true thematic transformation, even when the medium's
     musical canvases are short compared to those of art music? Certainly, many
@@ -31,4 +33,4 @@ abstract: |
     bears hallmarks of all four transformational pathways. Throughout this
     presentation, I examine and critique the impulses behind leitmotivic analysis,
     which so easily contorts itself into cryptographic extravagance—not always, I
-    conclude, such a bad thing.</p> 
+    conclude, such a bad thing.</p>
