@@ -1,10 +1,12 @@
 ---
 authors:
-    - name: René Rusch 
+    - name: René Rusch
       institution: University of Michigan
 title: "Diatonic Indeterminacy and Double Returns in Schubert's Piano Sonata
 in B-flat Major, D. 960, i"
-handouts: []
+handouts:
+    - desc: Handout
+      path: rusch-handout-0063.pdf
 abstract: |
     <p>This paper explores how form and cadential closure can affect our
     perception of musical passages that cross an enharmonic seam, particularly

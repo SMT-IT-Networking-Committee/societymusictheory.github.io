@@ -1,10 +1,12 @@
 ---
 authors:
-    - name: Olivia Lucas 
+    - name: Olivia Lucas
       institution: Louisiana State University
 title: "The Analytical Lightshow: Concert Lighting as Analysis in Extreme
 Metal Live Performance"
-handouts: []
+handouts:
+    - desc: Slides
+      path: lucas.pdf
 abstract: |
     <p>Lightshows at contemporary rock concerts generally create an immersive,
     multi-sensory experience. Their most sophisticated variants, however,
