@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Richard Cohn 
+    - name: Richard Cohn
       institution: Yale University
 title: "Damaged Cargo: Concerning the Unfortunate Voyage of Classical Poetic Theory to the Land of the Modern Music-Theory Textbook"
-handouts: []
+handouts:
+    - desc: Handout
+      path: cohn.pdf
 abstract: |
     <p>Music theory textbooks share a consensus definition of meter, which is
     directly appropriated from the late 18th century. I identify several
