@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Joshua W. Mills 
+    - name: Joshua W. Mills
       institution: University of Florida
 title: "\"Mutated Octaves\" in 20th-Century and Contemporary Orchestration"
-handouts: []
+handouts:
+    - desc: Handout
+      path: mills-handout-0064.pdf
 abstract: |
     <p>As harmonic practice expanded beyond the sonorities of common-practice
     tonality, the range of textures and colors available to orchestral
