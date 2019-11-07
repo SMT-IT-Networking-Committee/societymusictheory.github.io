@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Samuel Howes 
+    - name: Samuel Howes
       institution: McGill University
 title: "Harmonic Syntax in the Canzonas of Frescobaldi"
-handouts: []
+handouts:
+    - desc: Poster
+      path: howes-handout-0058.pdf
 abstract: |
     <p>Frescobaldi’s canzonas reflect the rapidly evolving harmonic language
     of the early 17th century and prefigure the formal and textural

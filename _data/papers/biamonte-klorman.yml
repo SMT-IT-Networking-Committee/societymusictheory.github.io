@@ -3,10 +3,12 @@ authors:
     - formatted: Nicole Biamonte and Edward Klorman (McGill University)
     - name: Nicole Biamonte
       institution: McGill University
-    - name: Edward Klorman 
+    - name: Edward Klorman
       institution: McGill University
 title: "Extended Final Phrases in Popular Songs"
-handouts: []
+handouts:
+    - desc: Slides
+      path: biamonte-handout-0053.pdf
 abstract: |
     <p>As analysts and listeners, we place special importance on closure at
     the ends of tonal works. There are many theoretical and analytical

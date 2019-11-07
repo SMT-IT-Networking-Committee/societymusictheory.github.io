@@ -3,7 +3,11 @@ authors:
     - name: Antares Boyle
       institution: Portland State University
 title: "Variable Ostinati and Hidden Cycles: Complex Grooves in Music by Craig Taborn and Kris Davis"
-handouts: []
+handouts:
+    - desc: Handout
+      path: boyle-handout-0054.pdf
+    - desc: Slides
+      path: boyle-handout-0055.pdf
 abstract: |
   <p>In music scholarship, “groove-based” is often used as a synonym for popular
   music, in which the “groove” is a fixed accompanimental pattern repeated

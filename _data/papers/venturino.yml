@@ -3,7 +3,9 @@ authors:
     - name: Stephanie Venturino
       institution: Eastman School of Music
 title: "Beyond the Rhine: Harmonic Dualism in Vincent d'Indy's <i>Cours de composition musicale</i>"
-handouts: []
+handouts:
+    - desc: Handout
+      path: venturino-handout-0061.pdf
 abstract: |
   <p>One of the most prominent Parisian musicians of his era, Vincent d’Indy
   (1851–1931) made important contributions to composition, pedagogy, and
