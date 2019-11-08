@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Brian Miller 
+    - name: Brian Miller
       institution: Yale University
 title: "The Puzzle of Style: On Leonard Meyer's Unlikely Replications"
-handouts: []
+handouts:
+    - desc: Slides
+      path: miller.pdf
 abstract: |
     <p>Strangely enough, the concept of style has rarely received sustained
     attention from music theorists. While many particular styles have been
