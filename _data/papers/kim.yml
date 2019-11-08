@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Catrina Kim 
+    - name: Catrina Kim
       institution: Oberlin Conservatory of Music
 title: "Fragments and Frames in the Early Romantic Era"
-handouts: []
+handouts:
+    - desc: Handout
+      path: kim-handout-0067.pdf
 abstract: |
     <p>Goehr (2015) contends that the work-concept wholly transformed the
     prelude, so that “the practice of preparatory preluding became the art of
