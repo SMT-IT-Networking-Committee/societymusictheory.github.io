@@ -4,8 +4,10 @@ authors:
       institution: Eastman School of Music
 title: "Middleground Prototypes for Mozart's First-Movement Concerto Forms"
 handouts:
-    - path: 'smith-e-handout.pdf'
-      desc: Handout
+    - desc: Handout
+      path: smith-e.pdf
+    - desc: Bibliography
+      path: smith-e-bib.pdf
 abstract: |
     <p>Tonal theorists have neglected the concerto compared to most other
     formal genres. In this paper, I present exposition prototypes for Mozart’s
