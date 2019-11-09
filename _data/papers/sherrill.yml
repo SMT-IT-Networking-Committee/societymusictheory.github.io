@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Paul Sherrill 
+    - name: Paul Sherrill
       institution: University of Utah
 title: "Partial Orders of Modal Brightness"
-handouts: []
+handouts:
+    - desc: Handout
+      path: sherrill-handout-0072.pdf
 abstract: |
     <p>This paper generalizes a familiar fact about the seven diatonic modes:
     they can be ranked unambiguously in terms of pitch height relative to a
