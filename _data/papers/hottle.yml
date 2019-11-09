@@ -1,10 +1,11 @@
 ---
 authors:
-    - name: Rachel Hottle 
+    - name: Rachel Hottle
       institution: McGill University
-title: "Influence of Bluegrass and Radiohead on Metric Complexity in Punch
-Brothers"
-handouts: []
+title: "Influence of Bluegrass and Radiohead on Metric Complexity in Punch Brothers"
+handouts:
+    - desc: Poster
+      path: hottle.pdf
 abstract: |
     <p>Punch Brothers is a progressive bluegrass ensemble whose work defies
     genre categorization, invoking styles as disparate as country, rock, and
