@@ -1,10 +1,14 @@
 ---
 authors:
-    - name: Yayoi Uno Everett 
+    - name: Yayoi Uno Everett
       institution: University of Illinois at Chicago
 title: "From Exoticism to Interculturalism: Counterframing the East-West
 Binary"
-handouts: []
+handouts:
+    - desc: Slides
+      path: everett-handout-0073.pdf
+    - desc: Bibliography
+      path: everett-handout-0074.pdf
 abstract: |
     <p>In this presentation, I address the need to expand the musical
     repertory for analysis beyond the Western canon, as well as to develop
