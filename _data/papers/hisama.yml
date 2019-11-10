@@ -1,9 +1,13 @@
 ---
 authors:
-    - name: Ellie M. Hisama 
+    - name: Ellie M. Hisama
       institution: Columbia University
 title: "Getting to Count"
-handouts: []
+handouts:
+    - desc: Bibliography (PDF)
+      path: hisama-bib.pdf
+    - desc: Bibliography (Word)
+      path: hisama-bib.docx
 abstract: |
     <p>In comparison with AMS and SEM, SMT remains a starkly male-identified
     society. According to the SMT’s 2018 annual report on demographics of its
