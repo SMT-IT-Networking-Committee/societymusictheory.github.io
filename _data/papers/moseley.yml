@@ -1,9 +1,11 @@
 ---
 authors:
-    - name: Brian Moseley 
+    - name: Brian Moseley
       institution: SUNY Buffalo
 title: "Automatism and Tonal Discombobulation in the Mazurkas of Thomas Adès"
-handouts: []
+handouts:
+    - desc: Handout
+      path: moseley.pdf
 abstract: |
     <p>Thomas Adès often suffuses his music with transformations of music past
     and present. His penchant for producing discombobulated representations of
