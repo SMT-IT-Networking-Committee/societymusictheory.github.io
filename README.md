@@ -16,7 +16,7 @@ Great. You're already a hero in my book. You will need a few things:
 1. Some knowledge of HTML and CSS. (There is a very small amount of JavaScript
    here, but it's all very straightforward and probably you won't need to
    think about it too much.)
-1. A rudimentary understanding of [git](https://git-scm.com/). Git is a
+1. A basic understanding of [git](https://git-scm.com/). Git is a
    version control system, and we use it to manage the source for
    the website. A search for "introduction to git" turns up plenty of
    resources.
