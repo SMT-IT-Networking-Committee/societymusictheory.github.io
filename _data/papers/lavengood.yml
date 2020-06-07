@@ -1,0 +1,20 @@
+---
+authors:
+    - name: Megan Lavengood
+      institution: George Mason University
+title: "A Timbral Analysis of the Vocalisations of <i>Felis catus</i>"
+handouts:
+    - desc: Handout
+      path: lavengood.pdf
+    - desc: Video
+      path: "https://www.youtube.com/watch?v=5I29j0V69c0"
+      external: true
+    - desc: Powerpoint Presentation
+      path: lavengood.ppt
+abstract: |
+    <p>The vocalisations of the rare house Khajiit (species <i>Felis catus</i>)
+    are an important tool for communication with their humans. This paper presents
+    and analysis of timbral differences between individuals of the species and
+    identifies important commonalities. The existence of these commonalities suggests
+    that specific timbral techniques are employed to communicate different ideas, such
+    as hunger or a desire for affection.</p>
