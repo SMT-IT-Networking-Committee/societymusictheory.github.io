@@ -176,3 +176,114 @@ just HTML files, so just include whatever you need.
 By far the most important directory here is `_data` (which I'll type without the
 leading underscore because Markdown gets confused). It has two subdirectories:
 one for sessions, one for papers.
+
+### Session data
+
+Here's a session, picked more-or-less at random, demonstrating most of the
+things:
+
+```
+title: Empirical Approaches to Black-Atlantic Groove
+slug: black-atlantic-groove
+room: Taft C
+time: 'Saturday morning, 9:00-12:15'
+link: /sessions/sat/morning/black-atlantic-groove
+sponsor: 2019 Program Comittee
+livestream: true
+chair:
+    name: Richard Cohn
+    institution: Yale University
+respondent:
+    name: Mitchell Ohriner
+    institution: University of Denver
+papers:
+    - benadon
+    - danielsen
+    - vuust
+panelists:
+    - name: Ariel Alvarado
+      institution: Spelman College
+    - name: Donovan Polk
+      institution: Morehouse College
+```
+
+This is all [YAML](https://learnxinyminutes.com/docs/yaml/): it's basically
+keys and values. Here's what's what:
+
+- title: the title (duh)
+- slug: this is the [slug](https://en.wikipedia.org/wiki/Clean_URL#Slug),
+  which is used in the URL, and also in the templates (like in
+  `{% include session-short.html session="diversity-theory-pedagogy" %}`). It
+  must not have any spaces.
+- room, time, link (all self-explanatory)
+- sponsor: optional; if it's there, we output some additional material in the
+  templates
+- livestream: optional: if there, we include a link to the live stream (this
+  will probably be different in an all-virtual world)
+- chair: this is a complex one, in that it has subkeys (name, institution),
+  which should be self-explanatory. You can also include a `title` here, in
+  case the session chair is called something other than "Chair". If there's
+  something totally weird, you can also included a `formatted` key, which will
+  just be output directly
+- respondent (optional): this is just like the chair key, but for respondent
+- papers: a list of author names belonging to this session. (Well, these
+  aren't strictly _names_, but instead entries in `data.papers`, so if you
+  have a paper given jointly by Andrew and Megan, this might actually be
+  `gades-lavengood` or whatever.)
+- panelists (optional, maybe instead of papers, maybe in addition to): if this
+  is included, it's used to generate the list of panelists. (Each has a name
+  and institution.)
+
+### Paper data
+
+```
+---
+authors:
+    - name: Megan Lavengood
+      institution: George Mason University
+title: "A Timbral Analysis of the Vocalisations of <i>Felis catus</i>"
+handouts:
+    - desc: Handout
+      path: lavengood.pdf
+    - desc: Video
+      path: "https://www.youtube.com/watch?v=5I29j0V69c0"
+      external: true
+    - desc: Powerpoint Presentation
+      path: lavengood.ppt
+abstract: |
+    <p>The vocalisations of the rare house Khajiit (species <i>Felis catus</i>)
+    are an important tool for communication with their humans. This paper presents
+    and analysis of timbral differences between individuals of the species and
+    identifies important commonalities. The existence of these commonalities suggests
+    that specific timbral techniques are employed to communicate different ideas, such
+    as hunger or a desire for affection.</p>
+```
+
+This should also be mostly self explanatory. `handouts` is optional, but if
+it's there, it's a list where each element has a path (relative to the
+handouts directory where they're uploaded) and a description (`desc`).
+
+The most important thing to keep in mind here is the formatting of the
+abstract. This is in YAML's "literal block" syntax, which is that there's an
+initial pipe (`|`), then everything underneath is indented. It's very
+important that there are no blank lines between paragraphs here (or things get
+confused), and that everything underneath is indented the same amount
+(usually, four spaces).
+
+## Templates
+
+Most of the actual HTML is formatted by stuff in the `_includes` directory.
+These are all [Jekyll templates](https://jekyllrb.com/docs/liquid/), with a
+bunch of logic so that things mostly look ok. I _think_ that over the last
+handful of years I've tweaked these enough so that they're pretty generic, and
+probably you won't need to think about them much. They're kind of hairy to
+look at, because there's a bunch of weird if/else logic, but you might need to
+tweak them to update the links to the handouts or something. Holler if you
+want/need a hand.
+
+## Other
+
+There's a perl program to generate calendar data. I wrote it for myself, and
+while you could probably figure out how to run it, you can also just contact
+me (michael@mcclimon.org) and it'll take me five minutes to tweak it and
+generated all the calendar files.
