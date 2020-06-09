@@ -1,6 +1,7 @@
 {% assign sess = site.data.sessions[page.slug] %}
 
-<p class="sessionInfo"><span class="room"><a href="/maps">{{ sess.room }}</a></span> • {{ sess.time }}</p>
+<p class="sessionInfo"><span class="room"><a href="/maps">{{ sess.room }}</a></span> • {{ sess.time }} • <span class="calendar-link"><a href="/ics/{{ sess.slug }}.ics">Add this session to your calendar</a></p>
+</p>
 <h1>{{ sess.title }}</h1>
 {% if sess.sponsor %}
 <h3 class="sponsor">Sponsored by the {{ sess.sponsor }}</h3>
@@ -41,4 +42,8 @@
 </p>
 {%- endif -%}
 
-<p class="calendar-link"><a href="/ics/{{ sess.slug }}.ics">Add this session to your calendar</a></p>
+<!--<p class="calendar-link"><a href="/ics/{{ sess.slug }}.ics">Add this session to your calendar</a></p>-->
+
+<p class="livestream">This session's Zoom discussion will take place at 11:00am EDT. Attendees can join by clicking <a href="
+ https://buffalo.zoom.us/j/91149138237?pwd=N1VyZE0wUFhiVkxxTzBrL04xdjE0UT09">this link</a>.<p>
+<p class="livestream">An asynchronous discussion is taking placing place on Slack at <a href="https://smt2020intern-k863069.slack.com/archives/C0153EJJZ5H">this link</a>.</p>
