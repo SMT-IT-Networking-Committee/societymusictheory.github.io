@@ -3,12 +3,12 @@ authors:
     - name: Andrew Gades
       institution: The College of Idaho
 title: "Assessing Music Theory: A Rubric-based Approach to Evaluating the Utility of Music Theory for the Undergraduate Student"
+video:
+    - desc: Google Drive
+      path: "https://drive.google.com/file/d/19U0JVbTJqOXi299I78TsIjEQDk5wSB6B/preview"
 handouts:
     - desc: Handout
       path: https://twitter.com/ass_deans
-      external: true
-    - desc: Video
-      path: "https://www.youtube.com/watch?v=6mysEnar8zI"
       external: true
     - desc: Powerpoint Presentation
       path: gades.ppt
