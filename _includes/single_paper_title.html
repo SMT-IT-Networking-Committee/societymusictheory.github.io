@@ -12,9 +12,9 @@
 
 {% if p.video.size > 0 %}
 <p class="video">
-  {% for h in p.video %}
+  {% for v in p.video %}
   {%- capture embedlink -%}
-    {{ h.path }}
+    {{ v.path }}
   {%- endcapture -%}
     <iframe src="{{ embedlink }}" width="640" height="480" allowfullscreen>&nbsp</iframe>
   </p>
