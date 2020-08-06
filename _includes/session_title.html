@@ -1,6 +1,6 @@
 {% assign sess = site.data.sessions[page.slug] %}
 
-<p class="sessionInfo"><span class="room"><a href="{{sess.playlist}}">Presentation Playlist</a></span> • {{ sess.time }} • <span class="calendar-link"><a href="/ics/{{ sess.slug }}.ics">Add this session to your calendar</a></p>
+<p class="sessionInfo"><span class="room"><a href="{{sess.playlist}}" target="_blank">Presentation Playlist</a></span> • {{ sess.time }} • <span class="calendar-link"><a href="/ics/{{ sess.slug }}.ics">Add this session to your calendar</a></p>
 </p>
 <h1>{{ sess.title }}</h1>
 {% if sess.sponsor %}
