@@ -184,11 +184,14 @@ p.society {
 p.title {
     margin-top: 0;
     font-weight: bolder;
-    margin-bottom: 2em;
+    font-size: 110%;
+    margin-bottom: 1em;
     padding-left: 2em;
 }
 p.author {
-    margin-top: 2em;
+    margin-top: 1.5em;
+    font-weight: 600;
+    font-size: 125%;
     margin-bottom: .5em;
 }
 
@@ -246,6 +249,10 @@ h3.index-session-title {
     margin-bottom: 0;
 }
 
+h3.playlist {
+    margin-top: -0.25em;
+    padding-left: 2em;
+}
 p.index-chair {
     font-size: 100%;
     margin-left: 1em;
@@ -255,7 +262,8 @@ p.index-chair {
 p.chair {
     font-size: 115%;
     margin-top: -0.5em;
-    margin-bottom: 2em;
+    margin-bottom: 0.5em;
+    padding-left: 2em;
 }
 
 p.livestream {
@@ -404,10 +412,8 @@ blockquote {
 }
 
 ul.handouts {
-    margin-top: 1.5em;
-    padding-left: 2em;
-    list-style-type: circle;
-    margin-bottom: 2em;
+    padding-left: 0.5em;
+    margin-bottom: 1em;
 }
 
 table.exhibitors {
@@ -436,4 +442,35 @@ p.calendar-link {
     margin-top: -2em;
     margin-bottom: 2em;
     font-size: 90%;
+}
+
+div.video {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+div.video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+details.root {
+    padding-left: 2em;
+}
+
+details.schedule {
+    padding-left: 1em;
+    font-size: 125%;
+}
+
+summary {
+    cursor: pointer;
+}
+
+summary::-webkit-details-marker {
+    font-size: 80%;
 }
