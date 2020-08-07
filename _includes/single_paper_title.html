@@ -8,28 +8,28 @@
     {{ p.authors[0].name }} ({{ p.authors[0].institution }})
   {%- endif -%}
 {%- endcapture -%}
-<p class="author"><b>{{ auth }}</b></p>
-<p>{{ p.title }}</p>
+<p class="author">{{ auth }}</p>
+<p class="title">{{ p.title }}</p>
 
-<details><summary>Abstract</summary>
+<details class="root"><summary>Abstract</summary>
 {{ p.abstract }}
 </details>
 
 {% if p.video.size > 0 %}
-<details><summary>Presentation Video</summary>
-<p class="video">
+<details class="root"><summary>Presentation Video</summary>
+<div class="video">
   {% for v in p.video %}
   {%- capture embedlink -%}
     {{ v.path }}
   {%- endcapture -%}
     <iframe src="{{ embedlink }}" width="400" height="300" allowfullscreen>&nbsp</iframe>
-  </p>
+  </div>
   {% endfor %}
 </details>
 {% endif %}
 
 {% if p.handouts.size > 0 %}
-<details><summary>Handouts</summary>
+<details class="root"><summary>Handouts</summary>
 <ul class="handouts">
   {% for h in p.handouts %}
   {%- capture link -%}
