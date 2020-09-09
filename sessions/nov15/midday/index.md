@@ -1,24 +1,40 @@
 ---
 layout: default
-title: Saturday Morning Sessions
+title: Sunday Midday, Nov. 15
 ---
 
-# Saturday Morning Sessions
+# Sunday Midday, Nov. 15
 
 [View session titles only](index-short)
 
-## 9:00--12:15
+## Paper Sessions
 
-{% include session-short.html session="black-atlantic-groove" %}
+###11:30–1:00 CST
+{% include session-short.html session="using-open-educational-resources" %}
 
-## 9:00--10:30
 
-{% include session-short.html session="style-and-copyright" %}
-{% include session-short.html session="rotation-revolution-rubato" %}
-{% include session-short.html session="speculative-mappings" %}
+### 12:00–1:00 CST
+{% include session-short.html session="joni-mitchell" %}
+{% include session-short.html session="reconsidering-schenker-and-hierarchy" %}
 
-## 10:45--12:15
 
-{% include session-short.html session="joy-of-form" %}
-{% include session-short.html session="voices" %}
-{% include session-short.html session="youtube-participatory-music-making" %}
+### 1:00–2:00 CST
+{% include session-short.html session="postwar-transformations-of-the-american-common-stock" %}
+{% include session-short.html session="clara-and-robert-schumann" %}
+{% include session-short.html session="ethics-in-peer-review" %}
+
+
+
+## Poster Sessions
+
+### 12:00–1:00 CST
+{% include session-short.html session="chinese-music-theory" %}
+
+### 1:00–2:00 CST
+{% include session-short.html session="chinese-music-theory" %}
+
+
+## Interest Group Meetings
+
+### 1:00–2:00 CST
+{% include session-short.html session="music-informatics-ig" %}

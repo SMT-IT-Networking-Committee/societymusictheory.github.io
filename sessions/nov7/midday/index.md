@@ -1,24 +1,35 @@
 ---
 layout: default
-title: Saturday Morning Sessions
+title: Saturday Morning, Nov. 7
 ---
 
-# Saturday Morning Sessions
+# Saturday Midday, Nov. 7
 
 [View session titles only](index-short)
 
-## 9:00--12:15
+## Paper Sessions
 
-{% include session-short.html session="black-atlantic-groove" %}
+### 12:00–1:00 CST
+{% include session-short.html session="contrapuntal-innovations" %}
+{% include session-short.html session="gesture-and-transformation" %}
 
-## 9:00--10:30
 
-{% include session-short.html session="style-and-copyright" %}
-{% include session-short.html session="rotation-revolution-rubato" %}
-{% include session-short.html session="speculative-mappings" %}
+### 1:00–2:00 CST
+{% include session-short.html session="on-rotational-form" %}
+{% include session-short.html session="musical-experience-in-time-and-space" %}
 
-## 10:45--12:15
 
-{% include session-short.html session="joy-of-form" %}
-{% include session-short.html session="voices" %}
-{% include session-short.html session="youtube-participatory-music-making" %}
+
+## Poster Sessions
+
+### 12:00–1:00 CST
+{% include session-short.html session="form-poster" %}
+
+
+## Interest Group Meetings
+
+### 12:00–1:00 CST
+{% include session-short.html session="music-cognition-ig" %}
+
+### 1:00–2:00 CST
+{% include session-short.html session="russian-music-theory-ig" %}

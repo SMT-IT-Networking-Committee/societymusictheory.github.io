@@ -1,24 +1,38 @@
 ---
 layout: default
-title: Saturday Morning Sessions
+title: Saturday Morning, Nov. 14
 ---
 
-# Saturday Morning Sessions
+# Saturday Morning, Nov. 14
 
 [View session titles only](index-short)
 
-## 9:00--12:15
+## Paper Sessions
 
-{% include session-short.html session="black-atlantic-groove" %}
+### 10:00–11:00 CST
+{% include session-short.html session="tempo-rhythm-grove-in-metal" %}
+{% include session-short.html session="brahms-and-beethoven" %}
 
-## 9:00--10:30
 
-{% include session-short.html session="style-and-copyright" %}
-{% include session-short.html session="rotation-revolution-rubato" %}
-{% include session-short.html session="speculative-mappings" %}
+### 11:00-12:00 CST
+{% include session-short.html session="unsettling-encounters" %}
+{% include session-short.html session="scripts-schemas-prototypes" %}
 
-## 10:45--12:15
 
-{% include session-short.html session="joy-of-form" %}
-{% include session-short.html session="voices" %}
-{% include session-short.html session="youtube-participatory-music-making" %}
+
+## Poster Sessions
+
+### 10:00–11:00 CST
+{% include session-short.html session="pedagogy-and-cognition-poster" %}
+
+
+## Interest Group Meetings
+
+### 10:00–11:00 CST
+{% include session-short.html session="queer-resource-group" %}
+
+### 11:00–12:00 CST
+{% include session-short.html session="popular-music-ig" %}
+{% include session-short.html session="music-and-disability-ig" %}
+
+

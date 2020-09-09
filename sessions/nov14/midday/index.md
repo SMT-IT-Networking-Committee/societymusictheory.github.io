@@ -1,24 +1,33 @@
 ---
 layout: default
-title: Saturday Morning Sessions
+title: Saturday Midday, Nov. 14
 ---
 
-# Saturday Morning Sessions
+# Saturday Midday, Nov. 14
 
 [View session titles only](index-short)
 
-## 9:00--12:15
+## Paper Sessions
 
-{% include session-short.html session="black-atlantic-groove" %}
+### 12:00–1:00 CST
+{% include session-short.html session="gesture-the-mimetic-hypothesis-musical-feels" %}
+{% include session-short.html session="sonata-problems" %}
 
-## 9:00--10:30
 
-{% include session-short.html session="style-and-copyright" %}
-{% include session-short.html session="rotation-revolution-rubato" %}
-{% include session-short.html session="speculative-mappings" %}
+### 1:00–2:00 CST
+{% include session-short.html session="analyzing-recordings" %}
+{% include session-short.html session="redefining-drama" %}
+{% include session-short.html session="who-is-allowed-to-be-a-genius" %}
 
-## 10:45--12:15
 
-{% include session-short.html session="joy-of-form" %}
-{% include session-short.html session="voices" %}
-{% include session-short.html session="youtube-participatory-music-making" %}
+
+## Poster Sessions
+
+### 12:00–1:00 CST
+{% include session-short.html session="popular-and-video-game-music-poster" %}
+
+
+## Interest Group Meetings
+
+### 12:00–1:00 CST
+{% include session-short.html session="music-and-psychoanalysis-ig" %}

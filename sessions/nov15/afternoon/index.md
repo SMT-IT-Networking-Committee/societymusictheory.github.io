@@ -1,24 +1,19 @@
 ---
 layout: default
-title: Saturday Morning Sessions
+title: Sunday Afternoon, Nov. 15
 ---
 
-# Saturday Morning Sessions
+# Sunday Afternoon, Nov. 15
 
 [View session titles only](index-short)
 
-## 9:00--12:15
+## SMT Business Meeting
 
-{% include session-short.html session="black-atlantic-groove" %}
+### 2:30–3:00 CST
+{% include session-short.html session="smt-business-meeting" %}
 
-## 9:00--10:30
 
-{% include session-short.html session="style-and-copyright" %}
-{% include session-short.html session="rotation-revolution-rubato" %}
-{% include session-short.html session="speculative-mappings" %}
+## SMT Awards Presentation
 
-## 10:45--12:15
-
-{% include session-short.html session="joy-of-form" %}
-{% include session-short.html session="voices" %}
-{% include session-short.html session="youtube-participatory-music-making" %}
+### 3:00–4:00 CST
+{% include session-short.html session="awards" %}

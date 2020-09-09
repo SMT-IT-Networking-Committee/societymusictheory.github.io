@@ -1,24 +1,30 @@
 ---
 layout: default
-title: Saturday Morning Sessions
+title: Sunday Midday, Nov. 8
 ---
 
-# Saturday Morning Sessions
+# Sunday Midday, Nov. 8
 
 [View session titles only](index-short)
 
-## 9:00--12:15
+## Paper Sessions
 
-{% include session-short.html session="black-atlantic-groove" %}
+### 12:00–1:00 CST
+{% include session-short.html session="gender-disability-politics-popular-music" %}
+{% include session-short.html session="voice-leading-spaces-and-transformation" %}
 
-## 9:00--10:30
+### 1:00–2:00 CST
+{% include session-short.html session="period-and-cyclic-form-in-the-nineteenth-century" %}
+{% include session-short.html session="rethinking-what-counts-in-serial-music" %}
 
-{% include session-short.html session="style-and-copyright" %}
-{% include session-short.html session="rotation-revolution-rubato" %}
-{% include session-short.html session="speculative-mappings" %}
 
-## 10:45--12:15
+## Interest Group Meetings
 
-{% include session-short.html session="joy-of-form" %}
-{% include session-short.html session="voices" %}
-{% include session-short.html session="youtube-participatory-music-making" %}
+### 12:00–1:00 CST
+{% include session-short.html session="jazz-ig" %}
+{% include session-short.html session="autographs-ig" %}
+
+
+### 1:00–2:00 CST
+{% include session-short.html session="dance-and-movement-ig" %}
+{% include session-short.html session="history-of-theory-ig" %}

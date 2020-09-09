@@ -1,24 +1,22 @@
 ---
 layout: default
-title: Saturday Morning Sessions
+title: Sunday Afternoon, Nov. 8
 ---
 
-# Saturday Morning Sessions
+# Sunday Afternoon, Nov. 8
 
 [View session titles only](index-short)
 
-## 9:00--12:15
+## Paper Sessions
 
-{% include session-short.html session="black-atlantic-groove" %}
+### 2:00–3:00 CST
+{% include session-short.html session="theorists-talk-sex-in-musicals" %}
+{% include session-short.html session="new-perspectives-on-referents-in-analyses-of-improvisation" %}
+{% include session-short.html session="stories-from-the-frontlines" %}
 
-## 9:00--10:30
 
-{% include session-short.html session="style-and-copyright" %}
-{% include session-short.html session="rotation-revolution-rubato" %}
-{% include session-short.html session="speculative-mappings" %}
+## Interest Group Meetings
 
-## 10:45--12:15
+### 2:00–3:00 CST
+{% include session-short.html session="music-and-philosophy-ig" %}
 
-{% include session-short.html session="joy-of-form" %}
-{% include session-short.html session="voices" %}
-{% include session-short.html session="youtube-participatory-music-making" %}

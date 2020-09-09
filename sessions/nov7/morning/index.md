@@ -1,24 +1,34 @@
 ---
 layout: default
-title: Saturday Morning Sessions
+title: Saturday Morning, Nov. 7
 ---
 
-# Saturday Morning Sessions
+# Saturday Morning, Nov. 7
 
 [View session titles only](index-short)
 
-## 9:00--12:15
+## Paper Sessions
 
-{% include session-short.html session="black-atlantic-groove" %}
+### 10:00–11:00 CST
+{% include session-short.html session="chinese-music-theory" %}
+{% include session-short.html session="forces-energy-balance" %}
 
-## 9:00--10:30
+### 11:00-12:00 CST
+{% include session-short.html session="fraught-intersections" %}
+{% include session-short.html session="mahler" %}
 
-{% include session-short.html session="style-and-copyright" %}
-{% include session-short.html session="rotation-revolution-rubato" %}
-{% include session-short.html session="speculative-mappings" %}
 
-## 10:45--12:15
+## Poster Sessions
 
-{% include session-short.html session="joy-of-form" %}
-{% include session-short.html session="voices" %}
-{% include session-short.html session="youtube-participatory-music-making" %}
+### 10:00–11:00 CST
+{% include session-short.html session="meter-and-time" %}
+
+
+## Interest Group Meetings
+### 10:00–11:00 CST
+{% include session-short.html session="work-family-ig" %}
+
+### 11:00-12:00 CST
+{% include session-short.html session="early-music-ig" %}
+{% include session-short.html session="post-1945-ig" %}
+

@@ -1,24 +1,33 @@
 ---
 layout: default
-title: Saturday Morning Sessions
+title: Saturday Morning, Nov. 8
 ---
 
-# Saturday Morning Sessions
+# Sunday Morning, Nov. 8
 
 [View session titles only](index-short)
 
-## 9:00--12:15
+## Paper Sessions
 
-{% include session-short.html session="black-atlantic-groove" %}
+### 10:00–11:00 CST
+{% include session-short.html session="microrhythm-and-displacement" %}
+{% include session-short.html session="history-of-theory" %}
 
-## 9:00--10:30
+### 11:00-12:00 CST
+{% include session-short.html session="salvatore-sciarrinos-novel-forms" %}
+{% include session-short.html session="schubert-and-chopin" %}
 
-{% include session-short.html session="style-and-copyright" %}
-{% include session-short.html session="rotation-revolution-rubato" %}
-{% include session-short.html session="speculative-mappings" %}
 
-## 10:45--12:15
+## Poster Sessions
 
-{% include session-short.html session="joy-of-form" %}
-{% include session-short.html session="voices" %}
-{% include session-short.html session="youtube-participatory-music-making" %}
+### 10:00–11:00 CST
+{% include session-short.html session="transformational-and-serial-techniques-poster" %}
+
+### 11:00-12:00 CST
+{% include session-short.html session="schemas-frames-paradigms-poster" %}
+
+
+## Interest Group Meetings
+
+### 10:00–12:00 CST
+{% include session-short.html session="analysis-of-world-music-ig" %}
