@@ -1,14 +1,13 @@
 title: "Brahms and Beethoven"
 slug: brahms-and-beethoven
-room: The Red Room
-time: 'Friday morning, 9:30-12:15'
-link: /sessions/fri/morning/virtual-demo
+room: The Blue Room
+time: 'Saturday morning, November 14, 10–10:50 CST'
+link: /sessions/nov14/morning/brahms-and-beethoven
 playlist: https://vimeo.com/showcase/7422029
 chair:
-    name: Patricia Hall
-    institution: University of Michigan
+    name: Frank Samarotto
+    institution: Indiana University Bloomington
 papers:
-    - moseley
-    - lavengood
-    - gades
-    - motazedian
+    - liu
+    - okina
+    - posen

@@ -1,14 +1,15 @@
 title: "Form Poster Session"
 slug: form-poster
-room: The Red Room
-time: 'Friday morning, 9:30-12:15'
-link: /sessions/fri/morning/virtual-demo
+room: The Green Room
+time: 'Saturday midday, November 7, 12–12:50 CST'
+link: /sessions/nov7/midday/form-poster
 playlist: https://vimeo.com/showcase/7422029
 chair:
-    name: Patricia Hall
-    institution: University of Michigan
+    name: Catrina S. Kim
+    institution: University of North Carolina at Greensboro
 papers:
-    - moseley
-    - lavengood
-    - gades
-    - motazedian
+    - baker
+    - burstein
+    - cutler-bivens
+    - siu
+    - stevens

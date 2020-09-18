@@ -1,14 +1,13 @@
 title: "Contrapuntal Innovations"
 slug: contrapuntal-innovations
 room: The Red Room
-time: 'Friday morning, 9:30-12:15'
-link: /sessions/fri/morning/virtual-demo
+time: 'Saturday midday, November 7, 12–12:50 CST'
+link: /sessions/nov7/midday/contrapuntal-innovations
 playlist: https://vimeo.com/showcase/7422029
 chair:
-    name: Patricia Hall
-    institution: University of Michigan
+    name: Christoph Neidhöfer
+    institution: McGill University
 papers:
-    - moseley
-    - lavengood
-    - gades
-    - motazedian
+    - taycher
+    - campbell
+    - jonker

@@ -1,14 +1,13 @@
 title: "History of Theory"
 slug: history-of-theory
 room: The Red Room
-time: 'Friday morning, 9:30-12:15'
+time: 'Sunday morning, November 8, 10-10:50 CST'
 link: /sessions/fri/morning/virtual-demo
 playlist: https://vimeo.com/showcase/7422029
 chair:
-    name: Patricia Hall
-    institution: University of Michigan
+    name: Maryam A. Moshaver
+    institution: University of Alberta
 papers:
-    - moseley
-    - lavengood
-    - gades
-    - motazedian
+    - orourke
+    - cohen
+    - raz
