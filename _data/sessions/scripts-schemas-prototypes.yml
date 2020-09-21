@@ -2,13 +2,12 @@ title: "Scripts, Schemas, and Prototypes"
 slug: scripts-schemas-prototypes
 room: The Red Room
 time: 'Saturday morning, November 14, 11–11:50 CST'
-link: /sessions/fri/morning/virtual-demo
+link: /sessions/nov14/morning/scripts-schemas-prototypes
 playlist: https://vimeo.com/showcase/7422029
 chair:
-    name: Patricia Hall
+    name: Lawrence Zbikowski
     institution: University of Michigan
 papers:
-    - moseley
-    - lavengood
-    - gades
-    - motazedian
+    - ashley
+    - boyle
+    - mitchell
