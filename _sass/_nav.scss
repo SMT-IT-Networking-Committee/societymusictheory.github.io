@@ -15,6 +15,7 @@ $color-stack:
 $b-height: 40px; //Height (and width) of the burger menu
 $b-margin-top: 8px; //Burger menu margin (distance from top)
 $b-margin-left: 30px; //Burger menu margin (distance from left)
+$b-margin-right: 30px; //Menu distance from right
 $b-border-width: 2px; //Width of the borders and 'buns'
 $b-bun-width: 25px; //Width of the 'buns'
 $b-bun-height: $b-border-width; //Height of the 'buns'
@@ -24,7 +25,7 @@ $b-trans-speed: .4s; //Transition speed settings
 $b-transition: all $b-trans-speed ease; //Transitions
 
 $b-font-size: 24px; //Font size of brand and links
-$b-font-family: "Gill Sans", Helvetica-Neue, Helvetica, Arial, sans-serif; //Font family of the brand and links
+$b-font-family: $base-font-family; //Font family of the brand and links
 $b-font-weight: 400; //Font weight of brand and links
 $b-txt-pad: 30px; //Left padding on both brand and links
 
@@ -208,6 +209,7 @@ body {
 .b-container {
   height: $b-height;
   left: $b-margin-left;
+  right: $b-margin-right;
   position: absolute;
   top: $b-margin-top;
 
