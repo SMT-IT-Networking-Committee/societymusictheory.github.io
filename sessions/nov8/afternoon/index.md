@@ -5,7 +5,7 @@ title: Sunday Afternoon, Nov. 8
 
 # Sunday Afternoon, Nov. 8
 
-[View session titles only](index-short)
+Click the  <i class="fas fa-video"></i>  icon to go directly to the session's Zoom discussion, or click its title to read more information.
 
 ## Paper Sessions
 
