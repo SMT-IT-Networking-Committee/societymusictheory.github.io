@@ -1,0 +1,19 @@
+---
+authors:
+    - name: Greg Hartmann
+      institution: The Graduate Center, CUNY
+title: "Parsimony in Microtonal Music"
+video:
+    - desc:
+      path: ""
+handouts:
+    - desc:
+      path:
+    - desc:
+      path: ""
+      external:
+abstract: |
+    <p>Parsimonious voice leading has been well studied for tonal music, but the existing literature defines parsimony in a way that severely limits its application to pitch-class spaces with a cardinality larger than 12. Instead of conceiving of parsimony as a minimal number of the smallest step in a given cardinality, we can consider allowing the equivalent of one standard whole step of voice leading motion (up to <span class="math inline">1/6</span> of an octave or <span class="math inline"><em>c</em>/6</span> steps in any cardinality <span class="math inline"><em>c</em></span>.) This prevents the motion from becoming imperceptibly small at higher cardinalities and allows for parsimonious trichords analogous to (037) in cardinalities that are not a multiple of three.</p>
+    <p><strong>Following Straus’s (2005) similarity measure for set-classes, I also construct a concept of fuzzy set-classes. This allows the comparison of set-classes in higher cardinalities with familiar set-classes (where</strong><span class="math inline"> <em>c</em> = 12)</span> <strong>and allows the analyst to emphasize the similarity of two sets that may not belong to the same set-class.</strong></p>
+    <p>The expanded application of these existing tools to this new repertoire not only allows us to more fully understand the voice leading structures in microtonal pieces, but also reveals parallels between techniques of microtonal composition and the more well-studied techniques of tonal composition. For instance, I demonstrate that it uncovers operations in microtonal music analogous to the familiar Neo-Riemannian P, L, and R operations. Overall, I show that an extension in the definition of parsimony reveals structures in microtonal music analogous to structures in tonal music.</p>
+---

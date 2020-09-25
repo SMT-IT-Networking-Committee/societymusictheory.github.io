@@ -10,11 +10,10 @@ title: Saturday Afternoon, Nov. 7
 ## Paper Sessions
 
 ### 2:00–3:00 CST
-<div class="grid container" markdown="1">
-	<div class="grid item" markdown="1">{% include session-short.html session="analysis-of-music-for-dancing" %}</div>
-	<div class="grid item" markdown="1">{% include session-short.html session="rediscovering-opera" %}</div>
-	<div class="grid item" markdown="1">{% include session-short.html session="karpinskis-aural-skills-acquisition" %}</div>
-</div>
+{% include session-short.html session="analysis-of-music-for-dancing" %}
+{% include session-short.html session="rediscovering-opera" %}
+{% include session-short.html session="karpinskis-aural-skills-acquisition" %}
+
 
 ### 3:00–4:00 CST
 {% include session-short.html session="chinese-music-theory" %}

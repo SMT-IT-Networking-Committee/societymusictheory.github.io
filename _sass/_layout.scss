@@ -92,6 +92,50 @@
 }
 
 
+/**
+* Front Page Icon Bar
+*/
+
+#icon-bar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem 0;
+    padding: 0.5rem 0;
+    background: $brand-color;
+    font: $header-font-family;
+    font-size: $base-font-size * 1.25;
+}
+
+#icon-bar a {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    font-weight: regular;
+}
+
+#icon-bar a:hover, #icon-station a:focus {
+	color: #FBB03B;
+}
+#icon-bar a:hover i, #icon-station a:focus i {
+	stroke: #FBB03B;
+}
+
+
+.button {
+    border-radius: 2rem;
+    color: #fff;
+    font-weight: 700;
+    white-space: nowrap;
+    display: inline-block;
+    width: auto;
+    padding: .75rem 1rem;
+    transition: background-color .2s;
+}
+
+
+
 
 /**
  * Page content
@@ -148,6 +192,11 @@
 
 #paper-sessions,#poster-sessions,#interest-group-meetings {
 	border-top: 2px solid #eee;
+}
+
+.chair {
+	padding-bottom: $spacing-unit;
+	border-bottom: 2px solid #eee;
 }
 
 details {

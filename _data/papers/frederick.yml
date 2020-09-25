@@ -1,0 +1,18 @@
+---
+authors:
+    - name: Leah Frederick
+      institution: Oberlin College &amp; Conservatory
+title: "Generic (Mod-7) Approaches to Chromatic Voice Leading"
+video:
+    - desc:
+      path: ""
+handouts:
+    - desc:
+      path:
+    - desc:
+      path: ""
+      external:
+abstract: |
+    <p>Recent extensions to Clough’s (1979) diatonic set theory have adapted mathematical approaches to capture voice leading in mod-7 space. Although often used to describe diatonic progressions, these transformational and geometric systems are constructed from <em>generic pitch space</em>, meaning that each element in these spaces represents an entire equivalence class containing a letter name with <em>any</em> accidental attached. Any generic voice-leading structure can be interpreted as a chromatic progression by inflecting each generic chord with a different scalar collection; thus, chromatic voice leading is understood as two concurrent levels of voice leadings: one at the level of the generic structure and another at the level of the underlying scale.</p>
+    <p>This paper combines existing transformational and geometric tools for describing voice leadings between generic chords (Frederick 2018, 2019) with analogous approaches to scales (Hook 2008, 2011; Tymoczko 2004, 2011) to provide a new perspective on chromatic voice leading informed by diatonic set theory. Unlike the mod-12 neo-Riemannian approach, this mod-7 conception of chromatic voice leading can efficiently describe both functional and non-functional chromatic relationships, as well as differentiate between enharmonically equivalent spellings of chromatic chords. This paper introduces the <em>chromatic voice-leading transformation group</em>, which acts on the infinite set of closed-position triads belonging to any diatonic collection. This system acts only on complete closed-position triads and diatonic collections; however, it is possible to capture similar information about the voice leading in progressions with non-triadic chords and non-diatonic scales using geometric techniques for both chords and scales.</p>
+---

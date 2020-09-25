@@ -1,0 +1,23 @@
+---
+authors:
+    - name: Tom Johnson
+      institution: Skidmore College
+    - name: Megan Lavengood
+      institution: George Mason University
+    - name: Evan Williams
+      institution: Georgetown University
+title: "Tracing Music Theory’s (un)Shifting Frames: A Natural Language Processing Approach "
+video:
+    - desc:
+      path: ""
+handouts:
+    - desc:
+      path:
+    - desc:
+      path: ""
+      external:
+abstract: |
+    <p>“What is music theory today?” The question is especially pertinent as SMT enters the 2020s. Major universities have de-emphasized theory coursework and national music societies have called for foundational curricular changes, all while decades-worth of music theory publications celebrate, admonish, or simply note the accelerating centrifugation of SMT’s orbit.</p>
+    <p>To gauge professional music theory’s evolution, this project applies natural processing (NLP) techniques to the entire corpus of <em>Music Theory Online</em> articles in order to investigate changes and constants of music theory’s ideologies. We employ basic n-gram analysis, bag-of-words models, and word embeddings to analyze music theory’s texts. For this poster, we focus on two main trends. First, we demonstrate the well-known broadening of music theory’s focus. In particular, we show the diversification of repertoires and techniques by tracing their increased usage across articles appearing in <em>MTO</em>. Second, despite indices of progress, we find clear evidence of pernicious inequities especially when it comes to gender.</p>
+    <p>As a professional field in North America, music theory’s decade was capped by two self-reflective moments: the landmark, critical SMT plenary session, and the public reaffirmation of values through a widely circulated open letter. Each grappled with the field’s apparently sturdy ideologies and their inextricable link to the demographic homogeneity of the current field and of its foundational practitioners. In this poster, we lay out a methodology for interrogating these forces and proffer ideas for remedying them.</p>
+---

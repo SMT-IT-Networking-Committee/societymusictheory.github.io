@@ -9,7 +9,7 @@ title: Sunday Midday, Nov. 15
 
 ## Paper Sessions
 
-###11:30–1:00 CST
+### 11:30–1:00 CST
 {% include session-short.html session="using-open-educational-resources" %}
 
 

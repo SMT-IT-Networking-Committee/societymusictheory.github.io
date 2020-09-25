@@ -1,0 +1,17 @@
+---
+authors:
+    - name: Jordan Lenchitz
+      institution: Florida State University
+title: "Spectral Fission in Barbershop Harmony"
+video:
+    - desc:
+      path: ""
+handouts:
+    - desc:
+      path:
+    - desc:
+      path: ""
+      external:
+abstract: |
+    <p>Why do barbershop chords “ring”? I argue that the best barbershop quartets produce “ringing” chords due to spectral fission, which I define as the perception of timbral upper partials as discrete pitches when they have enough amplitude to be separably audible and are prominent in their regions of the frequency spectrum. I apply two complementary computational models to recordings by two championship quartets—Vocal Spectrum and Ringmasters—to demonstrate how their “ringing” chords fulfill both the amplitude and prominence requirements of spectral fission and to highlight the relationships between chord spacing, intervallic content, and pitch perception. The first of these is a vowel-neutral predictive model of vocal timbre that identifies probable frequencies of maximal spectral overlap due to formant tuning and vertical just intonation. The second is an original digital signal processing script based on a rivalry model of spectral prominence that recursively compares amplitudes across frequencies using the Discrete Fourier Transform, yielding frequencies that represent candidates for spectral fission. Correspondences between my timbral model’s predictions and my script’s candidate frequencies provide an explanation for our aural experience of barbershop’s “ringing” chords. Ultimately, understanding the distinctive qualities of these chords—both as acoustical signals and as auditory percepts—has practical implications for composers and arrangers of this style and offers a new avenue of inquiry into other a cappella vocal repertoires.</p>
+---
