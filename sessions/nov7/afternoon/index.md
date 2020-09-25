@@ -5,7 +5,7 @@ title: Saturday Afternoon, Nov. 7
 
 # Saturday Afternoon, Nov. 7
 
-[View session titles only](index-short)
+Click the triangle to see session details, or go directly to the Zoom discussion by clicking the <i class="fas fa-video"></i> icon.
 
 ## Paper Sessions
 
@@ -13,17 +13,6 @@ title: Saturday Afternoon, Nov. 7
 {% include session-short.html session="analysis-of-music-for-dancing" %}
 {% include session-short.html session="rediscovering-opera" %}
 {% include session-short.html session="karpinskis-aural-skills-acquisition" %}
-
-
-### 3:00–4:00 CST
-{% include session-short.html session="chinese-music-theory" %}
-
-
-## Poster Sessions
-
-### 2:00–3:00 CST
-{% include session-short.html session="chinese-music-theory" %}
-
 
 ## Interest Group Meetings
 

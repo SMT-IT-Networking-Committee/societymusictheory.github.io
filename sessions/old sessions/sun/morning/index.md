@@ -5,7 +5,7 @@ title: Sunday Morning Sessions
 
 # Sunday Morning Sessions
 
-[View session titles only](index-short)
+Click the triangle to see session details, or go directly to the Zoom discussion by clicking the <i class="fas fa-video"></i> icon.
 
 ## 9:00--10:30
 

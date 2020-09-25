@@ -5,7 +5,7 @@ title: Saturday Midday, Nov. 14
 
 # Saturday Midday, Nov. 14
 
-[View session titles only](index-short)
+Click the triangle to see session details, or go directly to the Zoom discussion by clicking the <i class="fas fa-video"></i> icon.
 
 ## Paper Sessions
 
