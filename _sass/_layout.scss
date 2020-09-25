@@ -265,13 +265,14 @@ p.society {
     display: none;
 }
 
-p.title {
+p.author {
     margin-top: 0;
     font-weight: bolder;
     font-size: 110%;
     margin-bottom: 0;
+    padding-left: 1em
 }
-p.author {
+p.title {
     margin-top: 1.5em;
     font-weight: 600;
     font-size: 125%;
