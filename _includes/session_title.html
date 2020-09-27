@@ -1,6 +1,6 @@
 {% assign sess = site.data.sessions[page.slug] %}
 
-<p class="sessionInfo"> {{ sess.time }} • <span class="calendar-link"><a href="/ics/{{ sess.slug }}.ics">Add this session to your calendar</a></p>
+<p class="sessionInfo"> {{ sess.time }}
 </p>
 <h1>{{ sess.title }}</h1>
 {% if sess.sponsor %}
@@ -42,7 +42,13 @@
 </p>
 {%- endif -%}
 
-<p class="playlist">You can watch all of this session's video material at the <a href="{{sess.playlist}}" target="_blank">session playlist,</a> or click the triangles below to reveal each presentation's accompanying materials.</p>
+<h3 class="session-buttons">
+	<p class="calendar"><a href="/ics/{{ sess.slug }}.ics">Add this session to your calendar</a></p>
+	<p class="zoom"><a href="{{sess.zoom}}" target="_blank"><i class="fas fa-video"></i> Zoom </a></p>
+	<p class="playlist"><a href="{{sess.playlist}}" target="_blank"><i class="fab fa-vimeo"></i> Vimeo</a></p>
+	<p class="slack"><a href="{{sess.slack}}" target="_blank"><i class="fab fa-slack"></i> Slack </a></p>
+</h3>
+
 <!--{% if sess.playlist %}
 <p>A playlist of all presentations in this session is available at <a href="{{ sess.playlist }}" target="_blank">this link</a>.</p>
 {% endif %}-->

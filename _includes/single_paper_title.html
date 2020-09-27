@@ -11,6 +11,13 @@
 <p class="title">{{ p.title }}</p>
 <p class="author">{{ auth }}</p>
 
+
+{% if p.bio.size > 0 %}
+<details class="root"><summary>Bio</summary>
+{{ p.bio }}
+</details>
+{% endif %}
+
 <details class="root"><summary>Abstract</summary>
 {{ p.abstract }}
 </details>
