@@ -1,16 +1,21 @@
+---
 title: "SMT Plenary Session"
 slug: plenary
 room: The Red Room
 time: 'Saturday afternoon, November 14, 2:30–4 CST'
-link: /sessions/fri/morning/virtual-demo
+link: /sessions/nov14/afternoon/plenary
 playlist: https://vimeo.com/showcase/7422029
 slack:
 zoom:
 chair:
-    name: Patricia Hall
+    name: Marion A. Guck
     institution: University of Michigan
 papers:
-    - moseley
-    - lavengood
-    - gades
-    - motazedian
+    - kielian-gilbert
+    - kozak
+    - leong
+    - maus
+abstract: |
+    <p>In our plenary session, we address embodiment in relation to music, thought, and experience. Expanding recent work on embodied cognition, performance studies, and disability studies, and topics such as gesture, instruments, and materiality, our speakers today take on actual bodily experiences of individuals. Our presentations situate embodiment in multiple dimensions, engaging in and with music and exploring society and identity; musical temporality; perspectives from analysis, performance, and dance; and disciplinary definition. In doing so, they show some of the paths open to music theory through exploration of our embodied musical practices and experiences.</p>
+    <p>Mariusz Kozak considers musical temporality as an enactment of patterns that extend and intensify one’s everyday physical engagement with the world, implicating moving bodies in music analysis. Marianne Kielian-Gilbert suggests that Music Theory can expand to encompass social/relational and identity practices by taking a materialist and performative approach to processes of musical embodiment, considering two performances by Nina Simone of “Little Girl Blue” in light of these ideas to draw attention to ways of dramatizing affective and corporeal experience. Fred Everett Maus addresses the conceptual path taken by modern professional music theory and a different path that might have been taken had ideas of embodiment-oriented music-thinkers, Alexandra Pierce, Pauline Oliveros, and Helen Bonny, been recognized as contributions to professional theoretical thought. Through vignettes of embodied musical experiences, Daphne Leong asks about visual bias, physical actions, and musical structure from the perspectives of analyst, performer, and choreographer.</p>
+---

@@ -49,6 +49,12 @@
 	<p class="slack"><a href="{{sess.slack}}" target="_blank"><i class="fab fa-slack"></i> Slack </a></p>
 </h3>
 
+{%- if sess.abstract -%}
+	 {{ sess.abstract }}
+{%- endif -%}
+
+
+
 <!--{% if sess.playlist %}
 <p>A playlist of all presentations in this session is available at <a href="{{ sess.playlist }}" target="_blank">this link</a>.</p>
 {% endif %}-->

@@ -3,7 +3,7 @@ layout: default
 title: Sunday Afternoon, Nov. 15
 ---
 
-# Sunday Afternoon, Nov. 15
+# Sunday Afternoon, November 15
 
 Click the triangle to see session details, or go directly to the Zoom discussion by clicking the <i class="fas fa-video"></i> icon.
 
