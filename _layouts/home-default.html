@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+  <script src="{{ site.baseurl }}/js/zepto.min.js"></script>
+  <script src="{{ site.baseurl }}/js/linkRooms.js" async></script>
+    {% include header.html %}
+  <script src="{{ site.baseurl }}/js/nav.js" async></script>
+
+    <div class="page-content">
+      <div class="home-wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
