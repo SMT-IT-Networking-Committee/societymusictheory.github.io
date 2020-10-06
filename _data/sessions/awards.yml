@@ -4,6 +4,8 @@ room: The Red Room
 time: 'Sunday midday, November 15, 3–4:00 CST'
 link: /sessions/fri/morning/virtual-demo
 playlist: https://vimeo.com/showcase/7422029
+slack:
+zoom:
 chair:
     name: Patricia Hall
     institution: University of Michigan
