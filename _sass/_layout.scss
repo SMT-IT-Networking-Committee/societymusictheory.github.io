@@ -485,7 +485,7 @@ div#search-results {
 
 a, a:visited {
     color: $link-color;
-    text-decoration: underline;
+    text-decoration: none;
     &:hover {
       text-decoration: none;
     }
@@ -570,6 +570,10 @@ details.root > p {
 	margin-top: -0.5em;
     margin-bottom: 0.5em;
     border-bottom: 2px solid #eee;
+}
+
+h3.session-buttons {
+    text-decoration: none;
 }
 
 
