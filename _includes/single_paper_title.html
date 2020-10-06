@@ -12,7 +12,7 @@
 <p class="author">{{ auth }}</p>
 
 
-{% if p.bio.size > 0 %}
+{% if p.bio -%}
 <details class="root"><summary>Bio</summary>
 {{ p.bio }}
 </details>
