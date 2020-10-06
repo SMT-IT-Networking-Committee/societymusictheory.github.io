@@ -43,10 +43,10 @@
 {%- endif -%}
 
 <h3 class="session-buttons">
-	<p class="calendar"><a href="/ics/{{ sess.slug }}.ics">Add this session to your calendar</a></p>
+	<p class="calendar"><a href="/ics/{{ sess.slug }}.ics"><i class="fas fa-calendar-alt"></i> Add this session to your calendar</a></p>
 	<p class="zoom"><a href="{{sess.zoom}}" target="_blank"><i class="fas fa-video"></i> Zoom </a></p>
-	<p class="playlist"><a href="{{sess.playlist}}" target="_blank"><i class="fab fa-vimeo"></i> Vimeo</a></p>
 	<p class="slack"><a href="{{sess.slack}}" target="_blank"><i class="fab fa-slack"></i> Slack </a></p>
+	<p class="playlist"><a href="{{sess.playlist}}" target="_blank"><i class="fab fa-vimeo"></i> Vimeo</a></p>
 </h3>
 
 {%- if sess.abstract -%}

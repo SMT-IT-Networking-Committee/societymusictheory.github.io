@@ -211,7 +211,7 @@ body {
   left: $b-margin-left;
   right: $b-margin-right;
   position: absolute;
-  top: $b-margin-top;
+  top: $b-margin-top*2;
 
   &:hover:not(.open) {
     .bun-top,

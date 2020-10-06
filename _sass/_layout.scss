@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    min-height: 56px;
+    min-height: 80px;
     border-bottom: 1px solid $brand-color-dark;
 
     // Positioning context for the mobile navigation icon
@@ -200,7 +200,6 @@
 
 .chair {
 	padding-bottom: $spacing-unit;
-	border-bottom: 2px solid #eee;
 }
 
 details {
@@ -569,7 +568,10 @@ details.root > p {
 	justify-content: space-between;
 	margin-top: -0.5em;
     margin-bottom: 0.5em;
-    border-bottom: 2px solid #eee;
+    border: 2px solid $brand-color;
+    padding-left: $spacing-unit;
+    padding-right: $spacing-unit;
+    border-radius: 15px;
 }
 
 h3.session-buttons {
