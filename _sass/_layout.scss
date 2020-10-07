@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    min-height: 80px;
+    min-height: 150px;
     border-bottom: 1px solid $brand-color-dark;
 
     // Positioning context for the mobile navigation icon
@@ -14,8 +14,10 @@
     font-size: 26px;
     line-height: 56px;
     letter-spacing: -1px;
+    margin-top: 41px;
     margin-bottom: 0;
     float: left;
+    margin-left: $spacing-unit*4;
 
     &,
     &:visited {
@@ -169,11 +171,15 @@ details {
   
 .schedule {
 	flex-basis: 40%; 
-	padding-left: 3em;
+	padding-left: 1em;
+	padding-right: 0em;
+
 	}
 	
 .home {
 	flex-basis: 60%;
+	padding-left: 1em;
+	padding-right: 1em;
 }
 
 
@@ -303,16 +309,24 @@ h3.index-session-title {
     margin-bottom: 0;
 }
 
-p.playlist, p.zoom, p.slack{
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    text-decoration: none;
+h3.session-buttons {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+	margin-top: -0.5em;
+	margin-bottom: 1em;
+    border: 2px solid $brand-color;
+    padding-left: $spacing-unit;
+    padding-right: $spacing-unit;
+    border-radius: 15px;
 }
 
-p.calendar {
-    width: 350px;
-    font-size: $base-font-size;
-}
+
+span.playlist, span.zoom, span.slack, span.calendar{
+    flex-basis: 20%;
+    font-family: $base-font-family;
+    font-size: $base-font-size;  	
+  }
 
 p.index-chair {
     font-size: 100%;
@@ -520,7 +534,7 @@ div.video iframe {
 }
 
 details.root {
-    padding-left: 2em;
+    padding-left: 1em;
 }
 
 details.root > p {
@@ -531,18 +545,6 @@ details.root > p {
 .session-explanation {
 	padding-top: $spacing-unit/2;
 	font-size: $small-font-size;
-}
-
-.session-buttons {
-	display: flex;
-	flex-flow: row wrap;
-	justify-content: space-between;
-	margin-top: -0.5em;
-    margin-bottom: 0.5em;
-    border: 2px solid $brand-color;
-    padding-left: $spacing-unit;
-    padding-right: $spacing-unit;
-    border-radius: 15px;
 }
 
 h3.session-buttons {

@@ -1,6 +1,6 @@
 $color-stack:
   (group: primary, id: normal, color: $brand-color),
-  (group: complement, id: normal, color: #fff);
+  (group: complement, id: normal, color: #000000);
 
 @function color($group, $shade:normal, $transparency:1) {
   @each $color in $color-stack {
@@ -13,7 +13,7 @@ $color-stack:
 }
 
 $b-height: 40px; //Height (and width) of the burger menu
-$b-margin-top: 8px; //Burger menu margin (distance from top)
+$b-margin-top: 27.5px; //Burger menu margin (distance from top)
 $b-margin-left: 30px; //Burger menu margin (distance from left)
 $b-margin-right: 30px; //Menu distance from right
 $b-border-width: 2px; //Width of the borders and 'buns'
