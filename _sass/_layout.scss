@@ -293,11 +293,12 @@ p.author {
     font-weight: bolder;
     font-size: 110%;
     margin-bottom: 0;
-    padding-left: 1em
+    padding-left: 1em;
+    border-left: 1px solid black;
 }
 p.title {
     margin-top: 1.5em;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 125%;
     margin-bottom: .5em;
 }
@@ -578,6 +579,7 @@ div.video iframe {
 
 details.root {
     padding-left: 1em;
+    border-left: 1px solid black;
 }
 
 details.root > p {
@@ -606,6 +608,7 @@ details.schedule {
 
 summary {
     cursor: pointer;
+    
 }
 
 summary::-webkit-details-marker {
