@@ -1,6 +1,6 @@
 $color-stack:
   (group: primary, id: normal, color: $brand-color),
-  (group: complement, id: normal, color: #000000);
+  (group: complement, id: normal, color: white);
 
 @function color($group, $shade:normal, $transparency:1) {
   @each $color in $color-stack {
@@ -149,8 +149,8 @@ body {
 }
 
 .b-menu {
-  background: color(primary);
-  border: color(primary) solid $b-border-width;
+  background: color(complement);
+  border: color(complement) solid $b-border-width;
   border-radius: $b-border-radius;
   cursor: pointer;
   display: inline-block;
@@ -169,7 +169,7 @@ body {
 }
 
 .b-bun {
-  background: color(complement);
+  background: color(primary);
   position: relative;
   transition: $b-transition;
 

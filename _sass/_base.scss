@@ -160,6 +160,8 @@ pre {
 .wrapper {
     max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
     max-width:         calc(800px - (#{$spacing-unit} * 2));
+    
+    margin-top: 100px;
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -187,6 +189,7 @@ pre {
      
     margin-right: auto;
     margin-left: auto;
+    margin-top: 100px;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
     @extend %clearfix;
