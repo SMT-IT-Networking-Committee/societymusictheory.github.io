@@ -13,10 +13,10 @@ $color-stack:
 }
 
 $b-height: 40px; //Height (and width) of the burger menu
-$b-margin-top: 27.5px; //Burger menu margin (distance from top)
+$b-margin-top: 15px; //Burger menu margin (distance from top)
 $b-margin-left: 30px; //Burger menu margin (distance from left)
 $b-margin-right: 30px; //Menu distance from right
-$b-border-width: 2px; //Width of the borders and 'buns'
+$b-border-width: 3px; //Width of the borders and 'buns'
 $b-bun-width: 25px; //Width of the 'buns'
 $b-bun-height: $b-border-width; //Height of the 'buns'
 $b-border-radius: 50%; //Change the border radius of the menu
