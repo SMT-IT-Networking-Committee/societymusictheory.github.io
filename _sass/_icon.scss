@@ -1,0 +1,29 @@
+
+.icon-bar {
+    width: 90%;
+    background-color: $background-color;
+    overflow: auto;
+    display: flex;
+    border-radius: 17px;
+    border: 1px solid $grey-color;
+}
+
+.icon-bar a {
+    flex-basis: 25%;
+    text-align: center;
+    padding: 12px 4px;
+    transition: all 0.3s ease;
+    color: $brand-color;
+    font-size: $base-font-size;
+    background-color: $background-color;
+    border-radius: 25px;
+    margin: 0px 4px;
+}
+
+.icon-bar a:hover {
+    color: $complementary-color;
+}
+
+.active {
+    background-color: #4CAF50;
+}

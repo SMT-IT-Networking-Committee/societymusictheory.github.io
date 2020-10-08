@@ -42,12 +42,15 @@
 </p>
 {%- endif -%}
 
-<h3 class="session-buttons" style="margin-bottom:1em;">
-	<span class="calendar"><a href="/ics/{{ sess.slug }}.ics"><i class="fas fa-calendar-alt"></i> Add this session to your calendar</a></span>
-	<span class="zoom"><a href="{{sess.zoom}}" target="_blank"><i class="fas fa-video"></i> Zoom Discussion </a></span>
-	<span class="slack"><a href="{{sess.slack}}" target="_blank"><i class="fab fa-slack"></i> Slack Discussion </a></span>
-	<span class="playlist"><a href="{{sess.playlist}}" target="_blank"><i class="fab fa-vimeo"></i> Session Playlist</a></span>
-</h3>
+
+<div class="icon-bar">
+  	<a href="/ics/{{ sess.slug }}.ics"><i class="fas fa-calendar-alt"></i><br>Add this to your calendar</a> 
+    <a href="{{sess.zoom}}"><i class="fab fa-vimeo"></i><br>Zoom Discussion</a> 
+  	<a href="{{sess.playlist}}"><i class="fas fa-video"></i><br>Session playlist</a> 
+  	<a href="{{sess.slack}}"><i class="fab fa-slack"></i><br>Slack Discussion</a>
+</div>
+
+
 
 {%- if sess.abstract -%}
 	 {{ sess.abstract }}

@@ -190,14 +190,14 @@ pre {
     margin-right: auto;
     margin-left: auto;
     margin-top: 100px;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    padding-right: 0px;
+    padding-left: 0px;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
         max-width: 90%;
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
+        padding-right: 0px;
+        padding-left: 0px;
     }
 }
 
