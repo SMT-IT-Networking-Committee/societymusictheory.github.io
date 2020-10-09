@@ -26,3 +26,5 @@ title: Friday Afternoon Sessions
 {% include session-tiny.html session="cross-modal-perception" %}
 {% include session-tiny.html session="forms-fragments-deformation" %}
 </ul>
+
+

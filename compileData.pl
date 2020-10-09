@@ -44,8 +44,8 @@ sub process_index {
 
     while (<$fh>) {
         # keep track of the current session times
-        if (/^## /) {
-            ($time) = /^## .*, (.*?)$/;
+        if (/^### /) {
+            ($time) = /^### .*, (.*?)$/;
         }
 
         if (/^- /) {
@@ -75,10 +75,10 @@ sub prettySession {
     my ($day, $block) = $dir =~ m|_sessions/(\w{3})/(.*)|;
 
     my %days = (
-        fri => "Friday",
-        thu => "Thursday",
-        sat => "Saturday",
-        sun => "Sunday",
+        nov7 => "November 7",
+        nov8 => "November 8",
+        nov14 => "November 14",
+        nov15 => "November 15",
     );
 
     return $days{$day} . " " . (ucfirst($block));
