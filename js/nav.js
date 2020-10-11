@@ -1,14 +1,34 @@
-'use strict';
-
 (function() {
-  var body = document.body;
-  var burgerMenu = document.getElementsByClassName('b-menu')[0];
-  var burgerContain = document.getElementsByClassName('b-container')[0];
-  var burgerNav = document.getElementsByClassName('b-nav')[0];
 
-  burgerMenu.addEventListener('click', function toggleClasses() {
-    [body, burgerContain, burgerNav].forEach(function (el) {
-      el.classList.toggle('open');
-    });
-  }, false);
-})();
+  // Definition of caller element
+  var getTriggerElement = function(el) {
+    var isCollapse = el.getAttribute('data-collapse');
+    if (isCollapse !== null) {
+      return el;
+    } else {
+      var isParentCollapse = el.parentNode.getAttribute('data-collapse');
+      return (isParentCollapse !== null) ? el.parentNode : undefined;
+    }
+  };
+
+  // A handler for click on toggle button
+  var collapseClickHandler = function(event) {
+    var triggerEl = getTriggerElement(event.target);
+    // If trigger element does not exist
+    if (triggerEl === undefined) {
+      event.preventDefault();
+      return false;
+    }
+
+    // If the target element exists
+    var targetEl = document.querySelector(triggerEl.getAttribute('data-target'));
+    if (targetEl) {
+      triggerEl.classList.toggle('-active');
+      targetEl.classList.toggle('-on');
+    }
+  };
+
+  // Delegated event
+  document.addEventListener('click', collapseClickHandler, false);
+
+})(document, window);

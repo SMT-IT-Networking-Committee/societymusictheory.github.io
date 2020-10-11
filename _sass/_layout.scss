@@ -9,7 +9,7 @@ header.site-header {
 
 
 div.site-header {
-    min-height: 100px;
+    min-height: 64px;
     border-bottom: 7px solid $complementary-color;
 
     // Positioning context for the mobile navigation icon
@@ -23,11 +23,8 @@ div.site-header {
     line-height: 56px;
     letter-spacing: -1px;
     color: $brand-color;
-    margin-top: 25px;
-    margin-bottom: 0;
     float: left;
-    margin-left: $spacing-unit*4;
-    
+    margin-left: $spacing-unit;    
     @include media-query($on-laptop) {
         display: none;
         max-width: 90%;
@@ -42,10 +39,7 @@ div.site-header {
     line-height: 56px;
     letter-spacing: -1px;
     color: $brand-color;
-    margin-top: 25px;
-    margin-bottom: 0;
     float: left;
-    margin-left: $spacing-unit*4;
     display: none;
         
     @include media-query($on-palm) {

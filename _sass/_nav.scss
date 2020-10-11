@@ -1,249 +1,148 @@
-$color-stack:
-  (group: primary, id: normal, color: $brand-color),
-  (group: complement, id: normal, color: white);
+// Scaffolding
+*, *:before, *:after { box-sizing: border-box; }
+a { text-decoration: none; transition: all 0.3s linear 0s; }
 
-@function color($group, $shade:normal, $transparency:1) {
-  @each $color in $color-stack {
-    $c-group: map-get($color, group);
-    $c-shade: map-get($color, id);
-    @if($group == map-get($color, group) and $shade == map-get($color, id)){
-      @return rgba(map-get($color, color), $transparency);
+.area {
+  display: flex; flex-flow: row wrap; align-items: stretch; margin-left: auto; margin-right: auto;
+  @media (min-width: 768px) { width: 750px; }
+  @media (min-width: 992px) { width: 970px; }
+  @media (min-width: 1200px) { width: 1400px; }
+}
+
+// Navigation component
+// ----------
+
+// Variables
+$navbar-height:              64px;
+$navbar-background:          $background-color;
+$navbar-border:              $grey-color-light;
+
+$navbar-collapse-breakpoint: 768px;
+
+$navbar-item-font-size:      $base-font-size;
+$navbar-item-border-width:   4px;
+$navbar-item-color:          $brand-color;
+$navbar-item-active-color:   $brand-color;
+$navbar-item-border:         transparent;
+$navbar-item-active-border:  $complementary-color;
+
+// Component skeleton
+.navbar-component {
+  background-color: $navbar-background;
+  
+  & > .navbar {
+    justify-content: space-between;
+  }
+}
+
+// Component
+.navbar {
+  // Brand
+  & > .brand {
+    display: block;
+    font-size: 16px;
+    color: #777;
+    margin: round $spacing-unit;
+  }
+  
+  // Toggle button
+  & > .toggle {
+    border: 0;
+    background-color: transparent;
+    outline: none;
+    border: 0;
+    display: inline-block;
+    background-color: transparent;
+    background-image: none;
+    vertical-align: middle;
+    text-align: center;
+    white-space: nowrap;
+    cursor: pointer;
+    touch-action: manipulation;
+    user-select: none;
+    padding: round(($navbar-height - 20) / 2);
+    
+     @media (min-width: $navbar-collapse-breakpoint) {
+       display: none;
+     }
+  }
+  
+  & > .toggle > .icon {
+    position: relative;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    
+    &,
+    &:before,
+    &:after {
+      display: block;
+      width: 24px;
+      height: 3px;
+      transition: background-color 0.3s linear, transform 0.3s linear;
+      background-color: #555555;
+    }
+    
+    &:before, &:after { position: absolute; content: ""; }
+    &:before { top: -8px; }
+    &:after { top: 8px; }
+  }
+  
+  & > .toggle.-active > .icon {
+    background-color: transparent;
+    
+    &:before { transform: translateY(8px) rotate(45deg); }
+    &:after { transform: translateY(-8px) rotate(-45deg); }
+  }
+  
+  // List of items
+  & > .list {
+    display: none;
+    flex-flow: row nowrap;
+    align-items: center;
+    white-space: nowrap;
+    
+    @media (min-width: $navbar-collapse-breakpoint) {
+      display: flex;
+    }
+    
+    @media (max-width: $navbar-collapse-breakpoint) {
+      position: fixed;
+      top: $navbar-height;
+      left: 0;
+      width: 100%;
+      overflow-y: hidden;
+      overflow-x: auto;
+      border-top: 1px solid $navbar-border;
+      background-color: $navbar-background;
+    }
+    
+    &.-on {
+      display: flex;
     }
   }
-}
-
-$b-height: 40px; //Height (and width) of the burger menu
-$b-margin-top: 15px; //Burger menu margin (distance from top)
-$b-margin-left: 30px; //Burger menu margin (distance from left)
-$b-margin-right: 30px; //Menu distance from right
-$b-border-width: 3px; //Width of the borders and 'buns'
-$b-bun-width: 25px; //Width of the 'buns'
-$b-bun-height: $b-border-width; //Height of the 'buns'
-$b-border-radius: 50%; //Change the border radius of the menu
-
-$b-trans-speed: .4s; //Transition speed settings
-$b-transition: all $b-trans-speed ease; //Transitions
-
-$b-font-size: 24px; //Font size of brand and links
-$b-font-family: $base-font-family; //Font family of the brand and links
-$b-font-weight: 400; //Font weight of brand and links
-$b-txt-pad: 30px; //Left padding on both brand and links
-
-$b-line-height: ($b-height / 2 - ($b-font-size / 2.8)); //Vertically centers brand to menu
-$b-txt-pad-top: ($b-margin-top + $b-height + $b-txt-pad); //Top margin for first link element
-$b-bun-width-half: ($b-bun-width / 2); //Half bun width used for calculation
-$b-pad-left: ($b-height / 2 - $b-bun-width-half - 2); //Horizontally centers bun in menu
-$b-pad-top: ($b-height / 2 - $b-bun-width-half); //Vertically centers bun in menu
-
-@keyframes slideInLeft {
-  0% {
-    transform: translate3d(-250px, 0, 0);
-    visibility: visible;
+  
+  & > .list > .item {
+    display: block;
+    flex-shrink: 0;
+    height: $navbar-height;
+    line-height: $navbar-height;
+    padding-left: round(($navbar-height - 20) / 2);
+    padding-right: round(($navbar-height - 20) / 2);
+    text-transform: none;
+    color: $navbar-item-color;
+    font-size: $navbar-item-font-size;
   }
-
-  100% {
-    transform: translate3d(0, 0, 0);
-  }
-}
-
-@keyframes slideOutLeft {
-  0% {
-    transform: translate3d(0, 0, 0);
-  }
-
-  100% {
-    transform: translate3d(-250px, 0, 0);
-    visibility: hidden;
-  }
-}
-
-* {
-  box-sizing: border-box;
-}
-
-body {
-  &:after {
-    background: color(primary);
-    content: '';
-    height: 100%;
-    left: 0;
-    opacity: 0;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
-    top: 0;
-    visibility: hidden;
-    transition: $b-transition;
-    width: 100%;
-  }
-
-  &.open {
-    overflow: hidden;
-  }
-
-  &.open:after {
-    opacity: 1;
-    visibility: visible;
-  }
-}
-
-.b-nav-main {
-  position: relative;
-  right:0;
-}
-
-.b-nav {
-  position: absolute;
-  z-index: 11;
-
-  &:not(.open) {
-    visibility: hidden;
-  }
-
-  li {
-    color: color(complement);
-    list-style-type: none;
-    padding: 10px;
-    text-align: left;
-    transform: translateX(-250px);
-  }
-
-  li:not(.open) {
-    animation-duration: $b-trans-speed;
-    animation-fill-mode: both;
-    animation-name: slideOutLeft;
-  }
-
-  li:first-child {
-    padding-top: $b-txt-pad-top;
-  }
-
-  &.open {
-    visibility: visible;
-
-    li {
-      animation-duration: $b-trans-speed;
-      animation-fill-mode: both;
-      animation-name: slideInLeft;
-    }
-  }
-}
-
-.b-link {
-  background: transparent;
-  border-left: color(complement, normal, 0) solid $b-border-width;
-  color: white !important; //color(complement);
-  font-family: $b-font-family;
-  font-size: $b-font-size;
-  font-weight: $b-font-weight;
-  margin-left: $b-margin-left;
-  text-decoration: none;
-  transition: $b-transition;
-  width: auto;
-
-  &:hover,
-  &--active {
-    border-left: color(complement) solid $b-border-width;
-    padding-left: $b-txt-pad;
-  }
-}
-
-.b-menu {
-  background: color(complement);
-  border: color(complement) solid $b-border-width;
-  border-radius: $b-border-radius;
-  cursor: pointer;
-  display: inline-block;
-  height: $b-height;
-  padding-left: $b-pad-left;
-  padding-top: $b-pad-top;
-  position: relative;
-  transition: $b-transition;
-  user-select: none;
-  width: $b-height;
-  z-index: 12;
-
-  &:hover {
-    border: color(complement) solid $b-border-width;
-  }
-}
-
-.b-bun {
-  background: color(primary);
-  position: relative;
-  transition: $b-transition;
-
-  &--top {
-    height: $b-bun-height;
-    top: 0;
-    width: $b-bun-width;
-  }
-
-  &--mid {
-    height: $b-bun-height;
-    top: 8px;
-    width: $b-bun-width;
-  }
-
-  &--bottom {
-    height: $b-bun-height;
-    top: 16px;
-    width: $b-bun-width;
-  }
-}
-
-.b-brand {
-  color: white !important; // color(primary);
-  font-family: $b-font-family;
-  font-size: $b-font-size;
-  font-weight: $b-font-weight;
-  margin-left: $b-txt-pad;
-  position: relative;
-  align: right;
-  text-decoration: none;
-  top: -$b-line-height;
-  // transition: $b-transition;
-  z-index: 13;
-}
-
-.b-container {
-  height: $b-height;
-  left: $b-margin-left;
-  right: $b-margin-right;
-  position: absolute;
-  top: $b-margin-top*2;
-
-  &:hover:not(.open) {
-    .bun-top,
-    .bun-mid,
-    .bun-bottom {
-      background: color(primary);
-    }
-  }
-
-  &.open {
-    .b-main {
-      border: color(complement) solid $b-border-width;
-    }
-
-    .b-bun--top {
-      background: color(complement);
-      top: 9px;
-      transform: rotate(45deg);
-    }
-
-    .b-bun--mid {
-      opacity: 0;
-    }
-
-    .b-bun--bottom {
-      background: color(complement);
-      top: 5px;
-      transform: rotate(-45deg);
-    }
-
-    .b-brand {
-      color: color(complement);
+    
+  & > .list > .item.-link {
+    line-height: $navbar-height + $navbar-item-border-width;
+    color: $navbar-item-color;
+    border-bottom: $navbar-item-border-width solid $navbar-item-border;
+    
+    &.-active,
+    &:hover,
+    &:focus {
+      color: $navbar-item-active-color;
+      border-bottom-color: $navbar-item-active-border;
     }
   }
 }
