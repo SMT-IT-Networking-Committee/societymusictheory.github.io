@@ -15,7 +15,7 @@
   var collapseClickHandler = function(event) {
     var triggerEl = getTriggerElement(event.target);
     // If trigger element does not exist
-    if (triggerEl === undefined) {
+    if (triggerEl ==! null) {
       event.preventDefault();
       return false;
     }
