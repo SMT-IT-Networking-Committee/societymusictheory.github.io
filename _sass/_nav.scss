@@ -111,7 +111,7 @@ $navbar-item-active-border:  $complementary-color;
       width: 100%;
       overflow-y: hidden;
       overflow-x: auto;
-      border-top: 1px solid $navbar-border;
+      border-top: 7px solid $navbar-item-active-border;
       background-color: $navbar-background;
     }
     
@@ -125,8 +125,8 @@ $navbar-item-active-border:  $complementary-color;
     flex-shrink: 0;
     height: $navbar-height;
     line-height: $navbar-height;
-    padding-left: round(($navbar-height - 20) / 2);
     padding-right: round(($navbar-height - 20) / 2);
+    margin-left: $spacing-unit;
     text-transform: none;
     color: $navbar-item-color;
     font-size: $navbar-item-font-size;

@@ -1,0 +1,17 @@
+title: SMT Plenary Session
+slug: plenary-session
+room: ''
+time: 'Saturday afternoon, 2:15-5:15'
+link: /sessions/sat/afternoon/plenary-session
+livestream: true
+slack:
+zoom:
+chair:
+    name: Elizabeth Marvin
+    institution: Eastman School of Music
+    title: Moderator
+papers:
+    - ewell
+    - everett
+    - straus
+    - hisama
