@@ -8,9 +8,15 @@ playlist: https://vimeo.com/showcase/7422029
 slack:
 zoom:
 chair:
-    name: Patricia Hall
-    institution: University of Michigan
+    name: Judith Lochhead
+    institution: Stonybrook University
+respondant:
+    name: Laura Emmery
+    institution: Emory University
+    title: Moderator 
 papers:
+    - palfy
+    - luong-meyers
     - komatovic
     - lofthouse
     - shand

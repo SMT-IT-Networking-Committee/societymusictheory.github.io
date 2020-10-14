@@ -4,14 +4,18 @@ authors:
       institution: Florida State University
 title: "Mapping Schnittke’s Sequences in Bonded Uniform Triadic Transformation Spaces"
 video:
-    - desc:
-      path: ""
+    - desc: 
+      path: 
 handouts:
-    - desc:
-      path:
-    - desc:
-      path: ""
-      external:
+    - desc: 
+      path: 
+      external: 
+    - desc: 
+      path: 
+      external: 
+    - desc: 
+      path: 
+      external:
 abstract: |
     <p>Uniform Triadic Transformations (UTTs [Hook 2002]) may be used to generate three-dimensional voice-leading spaces that accommodate Alfred Schnittke’s triadic language when tonal and twelve-tone systems fall short. Recent explorations of Schnittke’s triadic music include Segall’s PSM voice-leading spaces (2017) and Honarmand’s aggregate and quasi-aggregate completion (2019). I propose that the compound transformation PRP used in Honarmand’s analysis of Schnittke’s Piano Sonata no. 1 is not necessary since each of these motions can be understood as a single application of the UTT 〈−,3,2〉. In this study, I consider triadic passages from the first and third movements of Schnittke’s Piano Sonata no. 1 that employ the UTT 〈−,3,2〉. While the UTT 〈−,3,2〉 is the <em>primary</em> measure of voice-leading proximity in these passages, I propose <em>secondary</em> measures of distance based on common tone retention and parsimonious voice leading. For the sake of this study, harmonies adhering to the secondary parameters of voice-leading are limited to P, L, R, S, L', and R' (Morris, 1998). Through its union with Neo-Riemannian operations, UTT 〈−,3,2〉 space gains three-dimensional shape as every-other triad in the sequence “bonds” to a partner that is related by a secondary voice-leading measure. This bonding reveals a secondary UTT that can also be observed in a tile of the bonded-UTT space, constructed through the intersection of primary and secondary UTTs at 90<sup>o</sup> angles. These spaces are ideal for mapping Schnittke’s harmonic progressions as they allow for “slippage” within a primary sequential pattern to closely related substitute harmonies belonging to the secondary UTT.</p>
 ---

@@ -4,14 +4,18 @@ authors:
       institution: Indiana University Bloomington
 title: "Schubert, Schoenberg, and Some Extensions to Cohn’s Sum-Class System"
 video:
-    - desc:
-      path: ""
+    - desc: 
+      path: 
 handouts:
-    - desc:
-      path:
-    - desc:
-      path: ""
-      external:
+    - desc: 
+      path: 
+      external: 
+    - desc: 
+      path: 
+      external: 
+    - desc: 
+      path: 
+      external:
 abstract: |
     <p>In this poster, I propose a generalized transformational system for studying voice leading within a single set class. Such a system not only provides ready-made transformational machinery for a variety of repertoires and analytical contexts, but also reveals similarities in the voice-leading possibilities within different set classes. While there exist transformations designed to act on large families of set classes (Straus 2011; Fiore and Satyendra 2005, among others), no studies to date have considered the relationship of these transformations to voice-leading efficiency or integrated them into a larger, generalizable transformational system. As I show in this poster, Richard Cohn’s (1998) “sum-class” system—originally designed for consonant triads—provides a framework for just such a system.</p>
     <p>I begin by reviewing the basics of Cohn’s sum-class system through an analysis of a passage from Schubert’s G-minor violin sonata and then show how this system can be modified to accommodate other set classes. I then use this generalized sum-class system to observe the ways in which voice leading in passages from Schoenberg’s <em>Pierrot lunaire</em> and <em>Das Buch der hängenden Gärten</em> is similar to that seen in the Schubert excerpt. Finally, I conclude with a brief survey of my expanded sum-class system as manifest in other pitch structures. This not only suggests that the possibilities of within-set-class voice leading are quite similar for sets of the same cardinality, but also reveals that sum-class systems for some set classes are strongly related to familiar conceptual structures like the circle of fifths.</p>

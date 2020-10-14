@@ -6,14 +6,18 @@ authors:
       institution: Eastman School of Music      
 title: "Chord Spacing and Quality: Lessons from Timbre Research"
 video:
-    - desc:
-      path: ""
+    - desc: 
+      path: 
 handouts:
-    - desc:
-      path:
-    - desc:
-      path: ""
-      external:
+    - desc: 
+      path: 
+      external: 
+    - desc: 
+      path: 
+      external: 
+    - desc: 
+      path: 
+      external:
 abstract: |
     <p>In describing the opening of Debussy’s <em>La Cathédrale engloutie</em> as “an open fifth,” one strips the chord of its distinct character; although octave equivalence may seem innocuous, listeners often notice spacing more than PC content. To quantify this seemingly intangible quality, this paper extends the Discrete Fourier Transform (DFT) theory of chord quality from PCsets to Psets. The DFT has several common musical uses. Applied to audio, it identifies pitches, but a second DFT can be applied to this spectrum, yielding the “cepstrum” engineers use to describe timbre. In music theory, the DFT measures interval content in PCsets. This paper’s model, the pitch-DFT (P-DFT) lies between these approaches, considering note data without octave equivalence. By identifying regularities in P-space, the P-DFT analyzes quality in terms of chord spacing.</p>
     <p>This paper has two primary sections: (1) introduction to the DFT and contextualization of its uses in both music theory and engineering; and (2) an analytical vignette of <em>La Cathédrale engloutie</em>, demonstrating that an approach using the P-DFT may more closely resemble our perceptual experience. In taking up Hasegawa’s (2019) call to “bring concepts from the world of timbre to the study of harmony,” this example shows that even basic tonal sonorities can be productively analyzed with methodologies used most often in other domains. By fusing music theory’s PCset analysis and timbre research’s cepstral methods, the P-DFT succeeds in examining chord spacing, which lies between pitch-class and timbre.</p>

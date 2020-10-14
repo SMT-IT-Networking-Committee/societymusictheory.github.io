@@ -4,14 +4,18 @@ authors:
       institution: Cornell University / Universität des Saarlandes
 title: "Computational Methods for Augmented Anthologies"
 video:
-    - desc:
-      path: ""
+    - desc: 
+      path: 
 handouts:
-    - desc:
-      path:
-    - desc:
-      path: ""
-      external:
+    - desc: 
+      path: 
+      external: 
+    - desc: 
+      path: 
+      external: 
+    - desc: 
+      path: 
+      external:
 abstract: |
     <p>We have striven to make <em>OMT2</em> a flexible resource, such that teachers and learners in diverse contexts can extract, re-combine, and adapt the constituent parts according to their needs. This modular approach has natural parallels in the computational world’s commitment to “soft-coding”: working with small parts that can be checked, re-ordered, and re-purposed in myriad ways. This session sets out computational methods for “soft-coding” music theoretic ideas and analyses such that they can be retrieved from a database or score directly for pedagogical uses.</p>
     <p>We focus here on the example of harmonic analysis. Musicians have produced harmonic analyses manually for hundreds of years and formalized languages like “figured Roman numerals” for organizing and disseminating their ideas. It is a small step from the establishment of such a language to the definition of a formal, computational standard and from there to flexible re-purposing. This session focuses on automatic retrieval from human analyses for producing large anthologies of examples (thus combining traditional human-curation with digital-age scale) and for making more data-driven and verifiable statements about “general” practice in a particular repertoire context.</p>

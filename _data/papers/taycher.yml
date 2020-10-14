@@ -4,14 +4,18 @@ authors:
       institution: Chicago, IL
 title: "What’s New in the Ars nova?"
 video:
-    - desc:
-      path: ""
+    - desc: 
+      path: 
 handouts:
-    - desc:
-      path:
-    - desc:
-      path: ""
-      external:
+    - desc: 
+      path: 
+      external: 
+    - desc: 
+      path: 
+      external: 
+    - desc: 
+      path: 
+      external:
 abstract: |
     <p>When discussing the innovations of the <em>Ars nova</em>, scholars have focused primarily on the rhythmic novelties of the new mensural system in the fourteenth century. While this is indeed a pivotal development in Western music history, the new rhythmic possibilities alone do not sufficiently account for the stylistic changes that distinguish the <em>Ars nova</em> from the preceding <em>Ars antiqua</em>. In my paper, I first will trace the role and status of the <em>tempus</em> in thirteenth- and fourteenth-century mensural theories, highlighting the shift from an additive/Augustinian conception of musical time to a divisional conception predicated on Aristotle’s <em>Physics</em>. Then I argue that as a consequence of this shift, the way in which musicians conceived of elaborating an underlying tonal structure changed significantly. In the musical examples of thirteenth-century treatises, such as the <em>Tractatus de discantu</em> (CoussemakerS, i, Anon.2) and the Vatican Organum Treatise, the elaborations are interpolated between structural sonorities, facilitating the traversal from one to the next through the additive arrangement of ornamental melodic figures. However, in fourteenth-century <em>contrapunctus</em> treatise examples, such as in <em>De diminutione contrapuncti</em> and Petrus dictus Palma Ociosa’s <em>Compendium de discantu mensurabili</em>, the note-against-note foundation “may be divided” into diminished counterpoint, first with basic elaborations and then with further ornamentation to produce florid discant. In this sense, the elaboration is understood as being derived from and an outgrowth of the structural note, to which it leads back (“<em>reducuntur</em>”), and <em>contrapunctus</em> thus serves as an ontological foundation for the ornamented tonal edifice built upon it.</p>
 ---

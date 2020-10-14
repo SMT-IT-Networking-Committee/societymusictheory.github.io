@@ -4,14 +4,18 @@ authors:
       institution: The Graduate Center, CUNY
 title: "The Acoustic Properties of Tanya Tagaq’s Vocal Sounds as Situated on Timbral Continua "
 video:
-    - desc:
-      path: ""
+    - desc: 
+      path: 
 handouts:
-    - desc:
-      path:
-    - desc:
-      path: ""
-      external:
+    - desc: 
+      path: 
+      external: 
+    - desc: 
+      path: 
+      external: 
+    - desc: 
+      path: 
+      external:
 abstract: |
     <p>Tanya Tagaq is an experimental vocalist originally from Cambridge Bay, Nunavut, who regularly employs Inuit <em>katajjaq</em> (throat singing), as well as screams, moans, cries and whispers. Tagaq describes <em>katajjaq</em> sounds in two ways: (1) by inhalation or exhalation, and (2) as a low, deep growl or a high, pure pitch. Her description focuses on sound qualities, indicating an importance of timbre in her music. In contrast to the oppositional way that Tagaq categorizes these sounds and the timbral opposition charts of Cogan (1984), this paper suggests that the acoustic properties of Tanya Tagaq’s vocal sounds are best situated on a continua of relative values for various acoustic properties, allowing for a more in-depth comparison of the sounds.</p>
     <p>Computer-assisted acoustic measurements show noticeable differences between all sounds used by Tagaq. First, I analyze recordings of Tagaq’s solo singing with Sonic Visualiser plugins for <em>RMS energy</em> (loudness), <em>periodicity</em> (noisiness), and <em>spectral centroid</em> (brightness). From this data, I establish the central tendency values for Tagaq’s sounds using descriptive statistical analysis. Based on this analysis, I construct continua of the acoustic properties of these sounds—a continuum of loudness, of noisiness, and of brightness. These continua provide a nuanced way of describing the subtle, but important, differences between Tagaq’s sounds. This exploratory method of analyzing the acoustic properties of musical sounds is not only useful for Tagaq’s vocal style but could also be applied to any other music using “extended” techniques where timbre plays a significant role.</p>

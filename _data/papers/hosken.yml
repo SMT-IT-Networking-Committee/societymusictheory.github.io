@@ -4,14 +4,18 @@ authors:
       institution: Northwestern University
 title: "Metric Feel and Form in “Superstition”: Analyzing Stevie Wonder’s Beat “Pockets”"
 video:
-    - desc:
-      path: ""
+    - desc: 
+      path: 
 handouts:
-    - desc:
-      path:
-    - desc:
-      path: ""
-      external:
+    - desc: 
+      path: 
+      external: 
+    - desc: 
+      path: 
+      external: 
+    - desc: 
+      path: 
+      external:
 abstract: |
     <p>Stevie Wonder’s “Superstition” has become a stalwart of the groove-experience research literature, but the fine details of the performance remain underanalyzed. Previous investigations touch upon metric factors, though are mostly confined to the song’s Introduction. This paper analyzes the construction of the metrical beat throughout Stevie Wonder’s “Superstition” utilizing a theory of “pockets” of time that vary in size and shape to understand the effect of performed meter on the perceived intensity of sections.</p>
     <p>According to my theory of pockets, which builds on Danielsen’s “beat bins” (2006, 2010, 2018), beats are spans of time during which an onset may be heard as being part of “the beat.” These spans are shaped so events falling at different points in the span are more or less likely to be categorized as being the beat, contra the in/out categorization of beats-as-instantaneous-points. Formalizing this concept using probabilistic distributions over the beat-spans, I explore the <em>qualitative</em> effects of these extended beats and consider how the “tight” or “loose” construction of the beat can enhance the “feel” of a section. I argue that changes in the shape of the pocket can influence our experience of musical form, illustrating this by analyzing form and timing in “Superstition” using Music Information Retrieval techniques and exploring the consequences of different pocket sizes and shapes for the track’s “feel.” Overall, this paper reframes questions of microtiming towards appreciating the subtle ways performers shape musical time in terms that capture the qualitative listener experience.</p>
