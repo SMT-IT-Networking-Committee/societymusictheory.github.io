@@ -1,16 +1,17 @@
-title: "Ethics in Peer Review"
+title: "Role and Ethics in Peer Review"
 slug: ethics-in-peer-review
-room: The Red Room
+room: The Green Room
 time: 'Friday morning, 9:30-12:15'
-link: /sessions/fri/morning/virtual-demo
+link: /sessions/fri/morning/ethics-in-peer-review
 playlist: https://vimeo.com/showcase/7422029
 slack:
 zoom:
+sponsor: the Professional Development Committee
 chair:
-    name: Patricia Hall
-    institution: University of Michigan
+    name: Nicole Biamonte
+    institution: McGill University
+    title: Chair and Moderator
 papers:
-    - moseley
-    - lavengood
-    - gades
-    - motazedian
+    - iverson
+    - segall
+    - straus

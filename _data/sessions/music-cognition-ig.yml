@@ -1,16 +1,13 @@
 title: "Music Cognition Interest Group"
 slug: music-cognition-ig
-room: The Red Room
+room: The Orange Room
 time: 'Saturday midday, November 7, 12–12:50 CST'
-link: /sessions/fri/morning/virtual-demo
+link: /sessions/nov7/midday/music-cognition-ig
 playlist: https://vimeo.com/showcase/7422029
 slack:
 zoom:
 chair:
-    name: Patricia Hall
-    institution: University of Michigan
+    name: Janet Bourne
+    institution: University of California Santa Barbara
 papers:
-    - moseley
-    - lavengood
-    - gades
-    - motazedian
+    - 
