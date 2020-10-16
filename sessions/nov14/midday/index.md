@@ -15,6 +15,9 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="popular-and-video-game-music-poster" %}
 {% include session-short.html session="music-and-psychoanalysis-ig" %}
 
+### 12:00–1:30 CST
+{% include session-short.html session="fostering-decoloniality" %}
+
 
 ### 1:00–2:00 CST
 {% include session-short.html session="analyzing-recordings" %}

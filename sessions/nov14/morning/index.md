@@ -15,6 +15,10 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="pedagogy-and-cognition-poster" %}
 {% include session-short.html session="queer-resource-group" %}
 
+### 10:00–11:30 CST
+{% include session-short.html session="black-lives-matter-in-music" %}
+
+
 
 ### 11:00-12:00 CST
 {% include session-short.html session="unsettling-encounters" %}

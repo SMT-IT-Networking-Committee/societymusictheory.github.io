@@ -140,8 +140,7 @@ $navbar-item-active-border:  $complementary-color;
     &.-active,
     &:hover,
     &:focus {
-      color: $navbar-item-active-color;
-      border-bottom-color: $navbar-item-active-border;
+      color: $complementary-color;
     }
   }
 }

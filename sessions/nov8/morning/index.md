@@ -20,3 +20,7 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="salvatore-sciarrinos-novel-forms" %}
 {% include session-short.html session="schubert-and-chopin" %}
 {% include session-short.html session="schemas-frames-paradigms-poster" %}
+
+### 11:00-12:30 CST
+{% include session-short.html session="histories-of-music-pedagogy" %}
+

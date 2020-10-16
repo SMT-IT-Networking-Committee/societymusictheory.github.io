@@ -15,6 +15,8 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="jazz-ig" %}
 {% include session-short.html session="autographs-ig" %}
 
+### 12:00–1:30 CST
+{% include session-short.html session="committee-on-race-and-ethnicity-travel-grant-luncheon" %}
 
 ### 1:00–2:00 CST
 {% include session-short.html session="period-and-cyclic-form-in-the-nineteenth-century" %}

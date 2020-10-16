@@ -15,3 +15,5 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="stories-from-the-frontlines" %}
 {% include session-short.html session="music-and-philosophy-ig" %}
 
+### 3:00–4:00 CST
+{% include session-short.html session="brown-bag-luncheon" %}
