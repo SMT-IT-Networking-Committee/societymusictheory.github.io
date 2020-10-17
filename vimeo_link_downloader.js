@@ -5,12 +5,6 @@ let client = new Vimeo("1592e1ea553f98ec81946ea2e14292ea42f1f77e", "fJjncOcHv5Pt
 
 client.request({
   method: 'GET',
-  path: '/tutorial'
-}, function (error, body, status_code, headers) {
-  if (error) {
-    console.log(error);
-  }
-
-  console.log(body);
+  path: '/users/124701555/videos?fields=uri,name'
 })
 

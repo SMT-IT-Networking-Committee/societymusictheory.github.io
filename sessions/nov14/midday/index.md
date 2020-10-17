@@ -3,11 +3,11 @@ layout: default
 title: Saturday Midday, Nov. 14
 ---
 
-# Saturday Midday, November 14
+# Saturday, November 14, 12:00–3:00 CST
 
 Click the triangle to see session details, or go directly to the Zoom discussion by clicking the <i class="fas fa-video"></i> icon.
 
-## Sessions and Meetings
+## Sessions, Meetings, and Events
 
 ### 12:00–1:00 CST
 {% include session-short.html session="gesture-the-mimetic-hypothesis-musical-feels" %}
@@ -23,3 +23,8 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="analyzing-recordings" %}
 {% include session-short.html session="redefining-drama" %}
 {% include session-short.html session="who-is-allowed-to-be-a-genius" %}
+
+## SMT Plenary Session
+
+### 2:00–3:00 CST
+{% include session-short.html session="plenary" %}

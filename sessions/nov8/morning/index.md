@@ -3,11 +3,14 @@ layout: default
 title: Saturday Morning, Nov. 8
 ---
 
-# Sunday Morning, November 8
+# Sunday, November 8, 9:00–12:00 CST
 
 Click the triangle to see session details, or go directly to the Zoom discussion by clicking the <i class="fas fa-video"></i> icon.
 
-## Paper Sessions
+## Sessions, Meetings, and Events
+
+### 9–9:45 CST
+<p class="non-session"><a href="">Morning Meditation</a></p>
 
 ### 10:00–11:00 CST
 {% include session-short.html session="microrhythm-and-displacement" %}
