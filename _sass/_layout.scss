@@ -24,7 +24,7 @@ div.site-header {
     letter-spacing: -1px;
     color: $brand-color;
     float: left;
-    margin-left: $spacing-unit;    
+    margin-left: $spacing-unit*2;    
     @include media-query($on-laptop) {
         display: none;
         max-width: 90%;
@@ -57,12 +57,18 @@ div.site-header {
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding: $spacing-unit/2 0;
 }
 
 .footer-heading {
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
+}
+
+.site-footer .wrapper{
+	max-width: 80%;
+	text-align: center;
+	margin-left: auto;
 }
 
 .contact-list,
@@ -118,6 +124,8 @@ div.site-header {
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
 }
+
+
 
 
 /**
@@ -197,7 +205,7 @@ details {
   
 .schedule {
 	flex-basis: 40%; 
-	padding-left: 1em;
+	padding-left: $spacing-unit*4;
 	padding-right: 0em;
 	
 	    @include media-query($on-palm) {
@@ -294,9 +302,8 @@ p.author {
     margin-top: 0;
     font-weight: bolder;
     font-size: 110%;
-    margin-bottom: 0;
-    padding-left: 1em;
-    border-left: 1px solid black;
+    font-style: italic;
+    margin-bottom: $spacing-unit;
 }
 p.title {
     margin-top: 1.5em;
@@ -451,8 +458,7 @@ span.nobr {
 
 img#smt-logo {
     height: 36px;
-    margin-bottom: 7px;
-    padding-right: 7px;
+    margin-bottom: $spacing-unit;
 }
 
 img#ams-logo {
@@ -581,7 +587,7 @@ div.video iframe {
 
 details.root {
     padding-left: 1em;
-    border-left: 1px solid black;
+    border-left: 3px solid $complementary-color;
 }
 
 details.root > p {

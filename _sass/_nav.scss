@@ -100,6 +100,7 @@ $navbar-item-active-border:  $complementary-color;
     align-items: center;
     white-space: nowrap;
     margin-left: $spacing-unit;
+    margin-right: $spacing-unit*2;
     
     @media (min-width: $navbar-collapse-breakpoint) {
       display: flex;
