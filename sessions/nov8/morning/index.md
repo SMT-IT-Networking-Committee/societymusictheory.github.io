@@ -9,7 +9,7 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 
 ## Sessions, Meetings, and Events
 
-### 9–9:45 CST
+### 9:00–9:45 CST
 <p class="non-session"><a href="">Morning Meditation</a></p>
 
 ### 10:00–11:00 CST

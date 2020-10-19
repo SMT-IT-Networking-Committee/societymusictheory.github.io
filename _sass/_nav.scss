@@ -99,6 +99,7 @@ $navbar-item-active-border:  $complementary-color;
     flex-flow: row nowrap;
     align-items: center;
     white-space: nowrap;
+    margin-left: $spacing-unit;
     
     @media (min-width: $navbar-collapse-breakpoint) {
       display: flex;
@@ -125,8 +126,7 @@ $navbar-item-active-border:  $complementary-color;
     flex-shrink: 1;
     height: $navbar-height;
     line-height: $navbar-height;
-    padding-right: round(($navbar-height - 20) / 2);
-    margin-left: $spacing-unit;
+    padding-right: round(($navbar-height - 10) / 2);
     text-transform: none;
     color: $navbar-item-color;
     font-size: $navbar-item-font-size;
