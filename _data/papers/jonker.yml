@@ -7,14 +7,14 @@ video:
     - desc: 
       path: 
 handouts:
-    - desc: 
-      path: 
+    - desc: Script
+      path: Jonker_Script.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Slides
+      path: Jonker_Presentation_Slides.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Handout
+      path: Jonker_Handout.pdf
       external:
 abstract: |
     <p>Dissonant counterpoint, a compositional technique used by “ultra-modernist” composers in America during the 1920s and 1930s, is designed to exclude tonal references through a rigorous process of “dissonation.” A treatise co-authored by Charles Seeger and Ruth Crawford outlines the precepts of dissonant counterpoint, whose ultimate goal was for polyphonic voices to “sound apart,” or be independent, to create “heterophony” (Seeger 1994 [1930]).</p>

@@ -7,15 +7,9 @@ video:
     - desc: 
       path: 
 handouts:
-    - desc: 
-      path: 
+    - desc: Handout
+      path: hartmann_handout.pdf
       external: 
-    - desc: 
-      path: 
-      external: 
-    - desc: 
-      path: 
-      external:
 abstract: |
     <p>Parsimonious voice leading has been well studied for tonal music, but the existing literature defines parsimony in a way that severely limits its application to pitch-class spaces with a cardinality larger than 12. Instead of conceiving of parsimony as a minimal number of the smallest step in a given cardinality, we can consider allowing the equivalent of one standard whole step of voice leading motion (up to <span class="math inline">1/6</span> of an octave or <span class="math inline"><em>c</em>/6</span> steps in any cardinality <span class="math inline"><em>c</em></span>.) This prevents the motion from becoming imperceptibly small at higher cardinalities and allows for parsimonious trichords analogous to (037) in cardinalities that are not a multiple of three.</p>
     <p><strong>Following Straus’s (2005) similarity measure for set-classes, I also construct a concept of fuzzy set-classes. This allows the comparison of set-classes in higher cardinalities with familiar set-classes (where</strong><span class="math inline"> <em>c</em> = 12)</span> <strong>and allows the analyst to emphasize the similarity of two sets that may not belong to the same set-class.</strong></p>

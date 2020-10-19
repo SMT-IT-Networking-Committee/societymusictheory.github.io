@@ -7,14 +7,14 @@ video:
     - desc: 
       path: 
 handouts:
-    - desc: 
-      path: 
+    - desc: Script
+      path: Martin_script.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Slides
+      path: Martin_slides
       external: 
-    - desc: 
-      path: 
+    - desc: Handout
+      path: Martin_Handout.pdf
       external:
 abstract: |
     <p>Many theorists have investigated how composers express tonal archetypes using expansions (e.g., internal repetition or interpolation) and contractions (e.g., omission or elision). However, the matter is seldom approached from the perspective of text-setting. How do composers use these techniques to highlight ideas, imagery, or atmosphere in texted music?</p>

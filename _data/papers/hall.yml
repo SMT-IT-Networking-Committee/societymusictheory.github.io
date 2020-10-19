@@ -7,15 +7,12 @@ video:
     - desc: 
       path: 
 handouts:
-    - desc: 
-      path: 
+    - desc: Paper
+      path: Hall_Paper.docx
       external: 
-    - desc: 
-      path: 
+    - desc: Slides
+      path: Hall_Slides.docx
       external: 
-    - desc: 
-      path: 
-      external:
 abstract: |
     <p>In this essay, I describe some of the challenges of being “first-gen” before the concept existed, as well as navigating academia as a single parent. My preparation for graduate school in music theory was also unusual, in that I had an undergraduate degree in psychology and was taking undergraduate courses in music theory while in graduate school. I emphasize the importance of mentors in this somewhat precarious environment.</p> 
 ---

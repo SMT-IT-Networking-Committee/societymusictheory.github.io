@@ -7,11 +7,11 @@ video:
     - desc: 
       path: 
 handouts:
-    - desc: 
-      path: 
+    - desc: Script
+      path: McKee_slides
       external: 
-    - desc: 
-      path: 
+    - desc: Slides
+      path: McKee_slides.pdf
       external: 
     - desc: 
       path: 

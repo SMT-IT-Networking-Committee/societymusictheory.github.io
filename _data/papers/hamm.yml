@@ -7,15 +7,9 @@ video:
     - desc: 
       path: 
 handouts:
-    - desc: 
-      path: 
+    - desc: Script
+      path: Hamm_Script.pdf
       external: 
-    - desc: 
-      path: 
-      external: 
-    - desc: 
-      path: 
-      external:
 abstract: |
     <p>Secondary school AP Music Theory instructors face a myriad of challenges. AP Music Theory courses are often overpopulated, grading intensive, and are sometimes occupied by students who have little fluency in music notation. Additionally, such courses are occasionally allotted little or no funding, leaving instructors to grapple with the ethics of illegally photocopying a desk copy of a textbook, or forcing teachers to pay for textbooks creatively, via parent-led non-profit organizations and even with their own personal funds. Although many collegiate institutions choose not to award non-elective credit for AP Music Theory exam results, these courses remain an important tool in developing successful college music students both academically and artistically.</p>
     <p>This lightning talk focuses on many of the unique challenges that AP Music Theory instructors are likely to face and gives an overview of how <em>Open Music Theory</em>’s twenty music fundamentals chapters address these needs. Namely, <em>OMT2</em> addresses instructors’ needs via workbook assignments, interdisciplinary content, and an interactive online format. <em>OMT2</em>’s music fundamentals assignments are designed with simple and clear directions, and are meant to read at a high-school reading level. These assignments are frequently interdisciplinary in nature, helping students forge content and skills connections across various subjects. <em>OMT2</em> also exploits the interactive potential of clickable webpages. Similarly, multiple short videos designed for high-school and early-college-level students appear throughout the fundamentals chapters. Finally, <em>OMT2</em> makes extensive use of hyperlinks to open-access resources and assignments.</p>

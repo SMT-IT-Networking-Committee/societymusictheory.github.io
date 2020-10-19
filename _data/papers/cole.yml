@@ -7,14 +7,14 @@ video:
     - desc: 
       path: 
 handouts:
-    - desc: 
-      path: 
+    - desc: Handout
+      path: Cole_handout.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Script
+      path: Cole_script.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Slides
+      path: Cole_slides.pdf
       external:
 abstract: |
     <p>Despite recent sociological, technological, and composer-specific scholarship on the twentieth-century musical avant-garde (Piekut 2014; Iverson 2018; Cline 2016), analytical tools available for engaging with aleatory and improvisatory musics remain under-established. In this paper, I present an analytical approach that accounts for the listening and performing body, applying a gestural analysis to piano works by Cecil Taylor and Morton Feldman. My approach considers the intersections between instrumental affordances (Windsor 2017; De Souza 2017), pianistic gestural conventions (a concept I develop), and listener subjectivity (Cumming 2000), while addressing layers of mediation in performance and reception. I take a personal, “mimetic” listening experience (Cox 2016) as the basis for investigating a broader question: How might a body-oriented analysis shed light on potential approaches to this repertoire?</p>

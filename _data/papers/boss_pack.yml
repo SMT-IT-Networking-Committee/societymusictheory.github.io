@@ -10,7 +10,7 @@ video:
       path: "https://vimeo.com/user124701555/review/467569305/d32fb80c5c"
 handouts:
     - desc: Script
-      path: "https://www.dropbox.com/s/mg5bo2zm49vf9a1/Boss_Script.pdf?dl=0"
+      path: Boss_Script.pdf
     - desc:
       path: ""
       external:

@@ -7,15 +7,27 @@ video:
     - desc: 
       path: 
 handouts:
-    - desc: 
-      path: 
+    - desc: Script
+      path: Walls_script.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Slides
+      path: Walls_slides.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Audio 1
+      path: Walls_audio1.wav
       external:
+    - desc: Audio 2
+      path: Walls_audio2.wav
+      external: 
+    - desc: Audio 3
+      path: Walls_audio3.wav
+      external: 
+    - desc: Audio 4
+      path: Walls_audio4.wav
+      external:
+    - desc: Audio 5
+      path: Walls_audio5.wav
+      external: 
 abstract: |
     <p>In this paper, I expand upon the terminology surrounding David Lawton’s concept of “double cycle”—a recurrent tonal structure within an opera that suggests a parallel between two parts of the narrative. A “global double cycle,” as I call it, is a parallel between the structure of the first act and that of the opera as a whole. A background structure in the first act that grows to embody the entire composition serves as an eloquent representation of fate, which the pre-Socratic philosopher Heraclitus defined as the necessary conclusion brought about by a person’s character. Consequently, nineteenth-century operas dealing with fate sometimes feature a character-building phase (the opening act) that structurally mirrors the culmination (the work as a whole). This compositional technique takes its cues from the wider world of literature, in which the presence of fate is often alluded to through a beginning-ending parallelism—for instance, a thematic connection between the first and last sentences of a novel. After illustrating what a global double cycle looks like—using <em>Les Troyens</em> (1858) by Hector Berlioz as an example—I will consider the semiotic capabilities of a would-be global double cycle that fails to materialize. A “<em>damaged</em>-global double cycle”—my proposed term for a cycle with a marked flaw—can serve as a representation of averted fate, as it does in <em>La Esmeralda</em> (1836) by Louise Bertin.</p>
 ---

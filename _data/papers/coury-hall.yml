@@ -7,15 +7,9 @@ video:
     - desc: 
       path: 
 handouts:
-    - desc: 
-      path: 
+    - desc: Poster
+      path: Coury-Hall_poster.pdf
       external: 
-    - desc: 
-      path: 
-      external: 
-    - desc: 
-      path: 
-      external:
 abstract: |
     <p>In this poster, we consider the unique mathematical transformation of pitches that preserves stability in the 7-tone scale systems identified by Hungarian music theorist Lajos Bárdos (1963). This transformation is referred to by several names in the literature including the popular term Negative Harmony and has its modern roots in Ernst Levy’s flawed work <em>A Theory of Harmony</em>. Although Levy’s work has dubious status among music theorists, his concept of Negative Harmony has continued to capture the imagination of composers and improvisers (most recently in jazz with Herbie Hancock and Jacob Collier as popular promoters of the idea). We show that this concept, a modern extension of Oettingen and Riemann’s concept of harmonic duality, which Riemann later notoriously reworked, can be used to construct the melodic Major/minor duality in the Bárdos collection of 7-tone scales, which includes the diatonic collection among other scales. Although a trailblazing theorist on this topic, Bárdos did not recognize the full mathematical and musical properties of this group and its structure-preserving properties. This poster seeks to fill a gap in the literature in the theory of these structures. We will show that the resulting melodic dualism (Cohn 2012) derived from a mathematical treatment of the transformation, in contrast with the harmonic dualism, and the technique’s efficient voice-leading (Tymoczko 2011) with respect to verticalization and horizontalization (Yust 2018) warrants further investigation by music theorists, especially in the context of the Bárdos Collection, and deserves a rigorous treatment in mathematical music theory.</p>
 ---

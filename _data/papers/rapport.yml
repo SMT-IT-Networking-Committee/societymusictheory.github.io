@@ -7,13 +7,19 @@ video:
     - desc: 
       path: 
 handouts:
-    - desc: 
+    - desc: Script
+      path: Rapport_script.pdf
+      external: 
+    - desc: Audio 1.mp3
       path: 
       external: 
-    - desc: 
+    - desc: Audio 2.mp3
+      path: 
+      external:
+    - desc: Audio 3.mp3
       path: 
       external: 
-    - desc: 
+    - desc: Audio 4.mp3
       path: 
       external:
 abstract: |

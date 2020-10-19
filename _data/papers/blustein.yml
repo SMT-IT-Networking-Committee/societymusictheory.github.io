@@ -6,16 +6,20 @@ title: "Torch Song Ternaries: Broadway Medleys as Reinterpretation"
 video:
     - desc: 
       path: 
-handouts:
-    - desc: 
-      path: 
+handouts: 
+    - desc: Audio File 1
+      path: Blustein_audio1.mp3
       external: 
-    - desc: 
-      path: 
+    - desc: Audio File 2
+      path: Blustein_audio2.mp3
       external: 
-    - desc: 
-      path: 
+    - desc: Script
+      path: Blustein_Script.pdf
       external:
+    - desc: Slides
+      path: Blustein_slides.pdf
+      external:
+      
 abstract: |
     <p>Music-analytical studies of songs from book musicals are generally work-centric. Such approaches prioritize musical meaning and interpretation through the dramatic context of a libretto, paralleling the critical valuation of the “integrated” musical. But musical theatre entertainment is considerably more varied than sitting down in a theatre for a live performance of a dramatic work. And for a canon that upholds stereotypes as much as it subverts them, performances that surpass the bounds established by mid-twentieth-century texts offer sites of potent and imaginative reengagement.</p>
     <p>In this paper I examine one such category of performances, using Dorothy Loudon’s “Losing My Mind/You Could Drive a Person Crazy” as a case study. Loudon’s medley turns Stephen Sondheim’s pastiche of Tin Pan Alley pathos in <em>Follies </em>on its head by switching back and forth with a solo rendition of an Andrews Sisters-style trio about a flaky beau in <em>Company</em>. A close reading of musical form shows how her performance lampoons patriarchal conceptions of hysteria<em> </em>in both songs, reframing an explicitly sincere and sentimental lyric with surprise and irony.</p>

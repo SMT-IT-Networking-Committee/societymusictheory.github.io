@@ -7,14 +7,20 @@ video:
     - desc: 
       path: 
 handouts:
-    - desc: 
-      path: 
+    - desc: Script
+      path: Mueller_script.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Slides
+      path: Mueller_slides.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Definitions
+      path: Mueller_Terms and definitions.pdf
+      external: 
+    - desc: Score
+      path: Mueller_score.pdf
+      external: 
+    - desc: Bibliography
+      path: Mueller_bibliography.pdf
       external:
 abstract: |
     <p>In light of the assertion that “narrative comprehension closely correlates with an understanding of the spatial organization of the storyworld” (Alber 2016), scholars in contemporary literary theory consider narrative space to be a vital component of narrativity. While studies in music and narrative have focused extensively on the features of plot, action, agency, narration, and temporality (e.g. Almén 2008; Cone 1974; Hatten 1991, 2018; Maus 1991; Newcomb 1992; Klein 2004), the construct of narrative space has yet to be comprehensively theorized.</p>

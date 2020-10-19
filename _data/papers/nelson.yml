@@ -7,14 +7,14 @@ video:
     - desc: 
       path: 
 handouts:
-    - desc: 
-      path: 
+    - desc: Script
+      path: Nelson_script.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Script and Slides
+      path: Nelson_scriptandslides.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Slides
+      path: Nelson_Slides.pdf
       external:
 abstract: |
     <p>As graduate students, we’ve chosen a long and difficult path to stable employment in academia, but we should not accept living in poverty along the way. Unfortunately, issues of diversity and inclusion continue to underlie our compliance with this narrative of suffering for one’s career. Through the lens of class inequality, common tropes about low wages and starvation can be seen to strike a painful chord for many students—especially those disproportionately affected by the financial strain of higher education.</p>

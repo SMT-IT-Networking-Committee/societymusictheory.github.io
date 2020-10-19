@@ -7,11 +7,11 @@ video:
     - desc: 
       path: 
 handouts:
-    - desc: 
-      path: 
+    - desc: Script
+      path: Taycher_script.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Slides
+      path: Taycher_slides.pdf
       external: 
     - desc: 
       path: 

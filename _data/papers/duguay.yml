@@ -7,15 +7,30 @@ video:
     - desc: 
       path: 
 handouts:
-    - desc: 
-      path: 
+    - desc: Script
+      path: Duguay_script.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Audio File 1
+      path: Duguay_Audio File 1.wav
       external: 
-    - desc: 
-      path: 
+    - desc: Audio File 2
+      path: Duguay_Audio File 2.wav
+      external: 
+    - desc: Audio File 3
+      path: Duguay_Audio File 3.wav
       external:
+    - desc: Audio File 4
+      path: Duguay_Audio File 4.wav
+      external: 
+    - desc: Audio File 5
+      path: Duguay_Audio File 5.wav
+      external: 
+    - desc: Audio File 6
+      path: Duguay_Audio File 6.wav
+      external:
+    - desc: Audio File 7
+      path: Duguay_Audio File 7.wav
+      external:    
 abstract: |
     <p>This paper establishes a methodology for analyzing virtual space—the sense of physical space evoked in a recording via reverberation, stereo placement, and other sonic parameters. More specifically, I analyze vocal placement—the apparent location of a voice within this virtual space. While these sonic features are a central concern for both mixing engineers and listeners, they are seldom analyzed. Existing music-theoretical approaches to the analysis of virtual space rely primarily on the analyst’s subjective perception (Moore &amp; Dockwray 2010; Camilleri 2010; Vad 2017; Zinser 2019). To complement these studies, I provide an empirical method using digital sound-processing tools to precisely locate recorded sound sources in virtual space. Through an analysis of the 2008–18 <em>Billboard</em> Year-end charts, I show how commercially successful songs frequently juxtapose wide and reverberant women’s voices with narrow and centered men’s voices. I argue that these contrasting vocal representations sonically construct a gender binary that is rarely challenged in the popular music industry, exemplifying one of the ways in which gender stereotypes are reinforced through the technological mediation of the voice. </p>
 ---

@@ -7,14 +7,14 @@ video:
     - desc: 
       path: 
 handouts:
-    - desc: 
-      path: 
+    - desc: Handout
+      path: Brody_handout.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Script
+      path: Brody_script.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Slides
+      path: Brody_slides.pdf
       external:
 abstract: |
     <p>As nineteenth- and twentieth-century composers adapted the late-eighteenth-century sonata model, they were at pains to solve two related “problems,” or points of aesthetic unsatisfactoriness that (their music suggests) they discerned in earlier works. The <em>first-movement problem</em> is the sense that the main structural–narrative interest is frequently dissipated too early—around the beginning of the recapitulation. The <em>multimovement problem</em> is the sense that, since first movements are usually the longest, weightiest, most complicated, and most goal-directed movements in a three- or four-movement work, the entire multimovement structure begins with its most interesting material and leaves less to look forward to later. Concepts from Susanne Langer’s <em>Feeling and Form</em> clarify what is at stake: while eighteenth-century works often emphasize <em>comic rhythms</em> (circular, ritualistic, impersonal, exteriorized), later music steadily shifts toward <em>tragic rhythms</em> (teleological, individualized, personal) in both first-movement and multimovement form.</p>

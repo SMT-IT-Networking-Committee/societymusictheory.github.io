@@ -7,14 +7,14 @@ video:
     - desc: 
       path: 
 handouts:
-    - desc: 
-      path: 
+    - desc: Paper
+      path: smith_paper.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Handout
+      path: smith_handout.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Bibliography
+      path: smith_bibliography.pdf
       external:
 abstract: |
     <p>Scholars have shown increasing interest in applying the methodologies of Caplin and Hepokoski and Darcy to nineteenth-century form. These efforts often proceed under the assumption that classical norms continued to influence romantic practice, even in the face of nineteenth-century innovations. Vande Moortele terms this approach “negative” in the sense that it interprets what <em>does</em> occur in romantic form in relation to classical constructs. He contrasts this methodology with an as-of-yet-unrealized “positive” theory that would derive its concepts directly from nineteenth-century music.</p>
