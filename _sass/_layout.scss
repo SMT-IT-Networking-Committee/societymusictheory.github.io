@@ -592,7 +592,12 @@ details.root {
 
 details.root > p {
 	padding-top: $spacing-unit/2;
-	font-size: $small-font-size;
+	font-size: $base-font-size;
+	text-align: justify;  
+	-webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
 }
 
 .session-explanation {
@@ -616,6 +621,7 @@ details.schedule {
 
 summary {
     cursor: pointer;
+    font-weight: 500;
     
 }
 
