@@ -5,6 +5,23 @@ let client = new Vimeo("1592e1ea553f98ec81946ea2e14292ea42f1f77e", "fJjncOcHv5Pt
 
 client.request({
   method: 'GET',
-  path: '/users/124701555/videos?fields=uri,name'
-})
+  path: '/users/124701555/videos',
+  query: {
+    page: 2,
+    per_page: 100,
+    fields: 'name, uri' 
+  }
+}, function (error, body, status_code, headers) {
+  if (error) {
+    console.log('error');
+    console.log(error);
+  } else {
+    console.log('body');
+    console.log(body);
+  }
 
+  console.log('status code');
+  console.log(status_code);
+  console.log('headers');
+  console.log(headers);
+});
