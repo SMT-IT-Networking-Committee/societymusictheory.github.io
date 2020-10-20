@@ -1,6 +1,10 @@
 {% assign sess = site.data.sessions[page.slug] %}
 
-<p class="sessionInfo"> {{ sess.time }}
+<div class="sessionInfo">
+<p class="sessionInfo"> {{ sess.time }}</p>
+<p><a href="/ics/{{ sess.slug }}.ics"><i class="fas fa-calendar-alt"></i>Add this to your calendar</a></p>
+</div>
+
 </p>
 <h1>{{ sess.title }}</h1>
 {% if sess.sponsor %}
@@ -44,7 +48,6 @@
 
 
 <div class="icon-bar">
-  	<a href="/ics/{{ sess.slug }}.ics"><i class="fas fa-calendar-alt"></i><br>Add this to your calendar</a> 
   	<a href="{{sess.playlist}}"><i class="fab fa-vimeo"></i><br>Session playlist</a> 
     <a href="{{sess.zoom}}"><i class="fas fa-video"></i><br>Synchronous Discussion on Zoom</a> 
   	<a href="{{sess.slack}}"><i class="fab fa-slack"></i><br>Asynchronous Discussion on Slack</a>

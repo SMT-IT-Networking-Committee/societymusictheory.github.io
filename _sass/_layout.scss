@@ -11,9 +11,8 @@ header.site-header {
 div.site-header {
     min-height: 64px;
     border-bottom: 7px solid $complementary-color;
-
-    // Positioning context for the mobile navigation icon
-    position: relative;
+    position: fixed;
+    width: 100%;
     background: no-repeat white;
 }
 
@@ -132,7 +131,15 @@ div.site-header {
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: $spacing-unit +64px 0;
+	
+	@media only screen and (max-width: 1285px){
+        	padding: $spacing-unit + 128px 0;
+        }
+        
+    @media only screen and (max-width: 767px){
+        	padding: $spacing-unit + 64px 0;
+        }
 	
 	h2 {
         margin-bottom: 0;
@@ -142,6 +149,7 @@ div.site-header {
         @include media-query($on-laptop) {
             font-size: 20px;
         }
+
     }
 	
 	
@@ -384,11 +392,20 @@ h3.session-buttons {
 }
 
 
+
+
+
 span.playlist, span.zoom, span.slack, span.calendar{
     flex-basis: 20%;
     font-family: $base-font-family;
     font-size: $base-font-size;  	
   }
+  
+i.fas, i.fab {
+	padding-left: .25em;
+	padding-right: .25em;
+}
+  
 
 p.index-chair {
     font-size: 100%;
@@ -473,7 +490,13 @@ img#ams-logo {
     margin-right: 15px;
 }
 
+div.sessionInfo{
+	display: flex;
+}
+
+
 p.sessionInfo {
+    flex-basis: 50%;
     margin-top: 0;
     margin-bottom: 0;
     span.room {

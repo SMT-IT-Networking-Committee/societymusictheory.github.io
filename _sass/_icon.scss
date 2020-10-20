@@ -1,22 +1,23 @@
 
 .icon-bar {
     width: 100%;
+    margin-left: auto;
+    margin-right: auto;
     background-color: $background-color;
     overflow: auto;
     display: flex;
+    justify-content: space-between;
     border-radius: 27px;
-    border: 2px solid $brand-color;
 }
 
 .icon-bar a {
-    flex-basis: 25%;
     text-align: center;
-    padding: 12px 4px;
+    padding: 12px 12px;
     transition: all 0.3s ease;
-    color: $brand-color;
+    color: $background-color;
     font-size: $base-font-size;
-    background-color: $background-color;
-    border-radius: 15px;
+    background-color: $brand-color;
+	border-radius:28px;
     margin: 0px 4px;
 }
 
@@ -27,3 +28,6 @@
 .active {
     background-color: #4CAF50;
 }
+
+
+
