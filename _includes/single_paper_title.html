@@ -1,16 +1,19 @@
 {% assign sess = site.data.sessions[page.slug] %}
 {% assign p = site.data.papers[include.paper] %}
 
-{%- capture auth -%}
-  {%- if p.authors[0].formatted -%}
-    {{ p.authors[0].formatted }}
-  {%- else -%}
-    {{ p.authors[0].name }} ({{ p.authors[0].institution }})
-  {%- endif -%}
-{%- endcapture -%}
-<p class="title">{{ p.title }}</p>
-<p class="author">{{ auth }}</p>
 
+<p class="title">{{ p.title }}</p>
+<div>
+	{% for a in p.authors %}
+	{%- capture auth -%}
+		{{ a.name }} ({{ a.institution }})
+	{%- endcapture -%}
+	{%- capture insti -%}
+		{{ a.insti }}
+	{%- endcapture -%}
+<p class="author">{{ auth }}</p>
+	{% endfor %}
+</div>	
 
 {% if p.bio -%}
 <details class="root"><summary>Bio</summary>

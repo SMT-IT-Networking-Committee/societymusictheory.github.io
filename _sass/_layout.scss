@@ -305,6 +305,11 @@ p.author {
     font-style: italic;
     margin-bottom: $spacing-unit;
 }
+
+p.author + p.author {
+	margin-top: -$spacing-unit;
+}
+
 p.title {
     margin-top: 1.5em;
     font-weight: 500;
