@@ -308,11 +308,40 @@ p.society {
 
 p.author {
     margin-top: 0;
-    font-weight: bolder;
+    font-weight: normal;
+    font-size: 110%;
+    font-style: italic;
+    margin-bottom: $spacing-unit;
+    padding-left: $spacing-unit;
+}
+
+details > summary > p.author {
+    margin-top: 0;
+    font-weight: normal;
     font-size: 110%;
     font-style: italic;
     margin-bottom: $spacing-unit;
 }
+
+details > summary.author::-webkit-details-marker {
+  display: none;
+}
+
+summary.author:before {
+  content: "+"; 
+  color: $brand-color; 
+  float: left; 
+  font-size: 110%; 
+  font-weight: bold; 
+  margin: 0 10px 0 0; 
+  padding: 0; 
+  text-align: center; 
+  width: 20px;
+}
+details[open] summary.author:before {
+  content: "-";
+}
+
 
 p.author + p.author {
 	margin-top: -$spacing-unit;

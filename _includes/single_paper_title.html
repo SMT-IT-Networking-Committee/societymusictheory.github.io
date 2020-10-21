@@ -11,15 +11,18 @@
 	{%- capture insti -%}
 		{{ a.insti }}
 	{%- endcapture -%}
-<p class="author">{{ auth }}</p>
+	{%if a.bio %}
+		{%- capture bio -%}
+			{{ a.bio }}
+		{%- endcapture -%}
+		<details><summary class="author"><p class="author">{{ auth }}</p>
+		</summary>{{ bio }}</details>
+	{%- else -%}
+		<p class="author">{{ auth }}</p>
+	{% endif %}
 	{% endfor %}
 </div>	
 
-{% if p.bio -%}
-<details class="root"><summary>Bio</summary>
-{{ p.bio }}
-</details>
-{% endif %}
 
 <details class="root"><summary>Abstract</summary>
 {{ p.abstract }}
