@@ -3,7 +3,7 @@ layout: default
 title: Saturday Afternoon, Nov. 14
 ---
 
-# Saturday, November 14, 3:00–6:00 CST 
+# Saturday, November 14, 3:00–4:50 CST 
 
 Click the triangle to see session details, or go directly to the Zoom discussion by clicking the <i class="fas fa-video"></i> icon.
 

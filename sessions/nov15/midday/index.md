@@ -3,7 +3,7 @@ layout: default
 title: Sunday Midday, Nov. 15
 ---
 
-# Sunday, Nov. 15, 11:30–3:00 CST
+# Sunday, Nov. 15, 11:30–3:15 CST
 
 Click the triangle to see session details, or go directly to the Zoom discussion by clicking the <i class="fas fa-video"></i> icon.
 
@@ -13,7 +13,7 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="using-open-educational-resources" %}
 
 
-### 12:00–1:00 CST
+### 12:00–12:50 CST
 {% include session-short.html session="joni-mitchell" %}
 {% include session-short.html session="reconsidering-schenker-and-hierarchy" %}
 {% include session-short.html session="chinese-music-theory" %}
@@ -33,3 +33,8 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 
 ### 2:30–3:00 CST
 {% include session-short.html session="smt-business-meeting" %}
+
+## SMT Awards Presentation
+
+### 3:00–3:15 CST
+{% include session-short.html session="awards" %}

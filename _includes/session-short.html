@@ -3,7 +3,9 @@
 <div class="session-contents"><details>
   <summary><a href="{{ sess.link }}">{{ sess.title }}</a>
    {% if sess.society %}<span class="society">({{ sess.society }})</span>{% endif %}
-  <span class="room">({{ sess.room }})</span>
+   {% if sess.room == "AMS Platform" %}
+      <span class="room">(AMS Platform)</span>
+   {% endif %}
    {% if sess.zoom %}<span><a href="{{ sess.zoom }}"><i class="fas fa-video"></i></a></span>{% endif %}
   </summary>
 <p class="index-chair">

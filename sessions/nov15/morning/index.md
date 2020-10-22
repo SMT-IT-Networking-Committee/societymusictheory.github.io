@@ -18,6 +18,8 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="apropos-wagner-and-strauss" %}
 {% include session-short.html session="provincializing-music-theory" %}
 {% include session-short.html session="mathematics-of-music-ig" %}
+{% include session-short.html session="joni-mitchell" %}
+
 
 
 ### 11:00-12:00 CST

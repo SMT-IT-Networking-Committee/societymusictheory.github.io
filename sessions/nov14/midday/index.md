@@ -9,7 +9,7 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 
 ## Sessions, Meetings, and Events
 
-### 12:00–1:00 CST
+### 12:00–12:50 CST
 {% include session-short.html session="gesture-the-mimetic-hypothesis-musical-feels" %}
 {% include session-short.html session="sonata-problems" %}
 {% include session-short.html session="popular-and-video-game-music-poster" %}
@@ -19,12 +19,12 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="fostering-decoloniality" %}
 
 
-### 1:00–2:00 CST
+### 1:00–1:50 CST
 {% include session-short.html session="analyzing-recordings" %}
 {% include session-short.html session="redefining-drama" %}
 {% include session-short.html session="who-is-allowed-to-be-a-genius" %}
 
 ## SMT Plenary Session
 
-### 2:00–3:00 CST
+### 2:30–4:00 CST
 {% include session-short.html session="plenary" %}
