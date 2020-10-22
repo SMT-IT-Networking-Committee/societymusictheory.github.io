@@ -6,16 +6,6 @@ title: "Complicating the Modal Paradigm with the Music of William Byrd"
 video:
     - desc: 
       path: "468617155"
-handouts:
-    - desc: 
-      path: 
-      external: 
-    - desc: 
-      path: 
-      external: 
-    - desc: 
-      path: 
-      external:
 abstract: |
     <p>This project develops a historically grounded model of pitch structure in the music of William Byrd, drawing on sixteenth-century music theory, recent research on sixteenth-century pitch frameworks, and analysis of computational data. The poster presents a subset of this data to argue for a model of tonal structure in Byrd’s music rooted not in modality, but rather in solmization. I extracted key profiles from a digital corpus of Byrd’s vocal and keyboard music, then performed cluster analyses to identify pieces with similar pitch content.</p>
     <p>Many compositions cluster into mode-like groups. Byrd writes in two forms of minor resembling the Dorian and Aeolian collections. Pieces with a flat signature and D keynote appear in both groups, suggesting that signature and keynote are not consistently reliable indicators of pitch content. Instead, these paradigms differ because of flexibility built into English solmization. A scale ascending from D (D-E-F-G-A, or <em>la</em>-<em>mi</em>-<em>fa</em>-<em>sol</em>-<em>la</em>) may continue to either B@ (<em>fa</em>) or BĚ (<em>mi</em>). Apparently modal clusters do not necessarily imply pre-compositional modal planning; we might instead understand modality as an emergent property of other characteristics of sixteenth-century pitch structure.</p>

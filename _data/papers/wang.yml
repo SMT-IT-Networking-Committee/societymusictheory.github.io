@@ -4,17 +4,26 @@ authors:
       institution: Harvard University
 title: "The Cultural Binds of Tonal Function"
 video:
-    - desc: 
-      path: 
+    - desc: Example 1 of 4
+      path: "470650110"
+    - desc: Example 2 of 4
+      path: "470650071"
+    - desc: Example 3 of 4
+      path: "470650130"
+    - desc: Example 4 of 4
+      path: "470650046"
 handouts:
-    - desc: 
-      path: 
+    - desc: Script
+      path: Yu Wang_script.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Audio 1
+      path: YuWang_audio1.wav
+      external:
+    - desc: Audio 2
+      path: YuWang_Audio2.wav
       external: 
-    - desc: 
-      path: 
+    - desc: Audio 3
+      path: YuWang_audio3.mp3
       external:
 abstract: |
     <p>Analysis of culturally unfamiliar music, or “world music,” is a burgeoning subdiscipline whose maturation brings a fresh tangle of methodological problems into the purview of North American music theory. How can we analyze world musics in a culturally resonant and ethical manner, and how do we theorize musical experiences that appear to contradict our own acquired intuitions? Taking as a case study tonal function in a Chinese theatrical tradition called <em>huangmei</em> opera, I draw on ethnographer Dwight Conquergood’s framework of dialogical performance and ethnomusicologist Judith Becker’s notion of <em>habitus of listening</em> to propose a model of analysis underpinned by fieldwork and two-way inquiry.</p>

@@ -7,11 +7,9 @@ video:
     - desc: 
       path: ""
 handouts:
-    - desc: 
-      path: 
-    - desc: 
-      path: ""
-      external: 
-abstract: |
-    
+    - desc: Script
+      path: Pedersen_Script.pdf
+    - desc: Pedersen_Slides
+      path: Pedersen_Slides.pdf
+
 
