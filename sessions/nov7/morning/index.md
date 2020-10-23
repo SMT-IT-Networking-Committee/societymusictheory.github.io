@@ -10,8 +10,6 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 ## 9:00–9:45 CST
 <p class="non-session"><a href="">Morning Meditation</a><span class="room"> (AMS Platform)</span></p>
 
-
-
 ## 10:00–10:50 CST
 {% include session-short.html session="chinese-music-theory" %}
 {% include session-short.html session="forces-energy-balance" %}
