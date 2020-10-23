@@ -1,3 +1,4 @@
+---
 title: "Dance and Movement Interest Group"
 slug: dance-and-movement-ig
 room: The Orange Room
@@ -7,8 +8,10 @@ playlist: https://vimeo.com/showcase/7422029
 slack:
 zoom:
 chair:
-    name: Rachel Short and Matthew Bell
-    title: co-chairs
+    name:
+    title:
+    formatted: Rachel Short and Matthew Bell, co-chairs
 abstract: |
-    <pThe dance/movement interest group (DMIG) will have a panel discussion on using technology in dance/movement research, as well as other IG business.</p>
-    <p> For more info, visit the group's <a href="https://societymusictheory.org/interest-groups/dance_and_movement">SMT page</a> or find them on the <a href="https://hcommons.org/groups/smt-dance-and-movement-interest-group/">Humanities Commons.</a></p>
+    <p>The dance/movement interest group (DMIG) will have a panel discussion on using technology in dance/movement research, as well as other IG business.</p>
+    <p>For more info, visit the group's <a href="https://societymusictheory.org/interest-groups/dance_and_movement">SMT page</a> or find them on the <a href="https://hcommons.org/groups/smt-dance-and-movement-interest-group/">Humanities Commons.</a></p> 
+---

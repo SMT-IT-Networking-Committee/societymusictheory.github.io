@@ -1,13 +1,26 @@
+---
 title: "Workshop – Histories of Music Theory Pedagogy: Techniques, Institutions, Epistemologies"
 slug: 
 room: AMS Platform
 time: 'Sunday, November 8, 11:00–12:30 CST'
-link: 
+link: /sessions/nov8/morning/histories-of-music-pedagogy
 slack:
 zoom:
-chair:
-    name: 
-    institution: 
-    title: 
-papers:
-    - 
+panelists:
+    - name: Lindsay Wright
+      institution: The University of Chicago
+    - name: Benjamin Steege
+      institution: Columbia University 
+    - name: Fanny Gribenski
+      institution: Max Planck Institute for the History of Science
+    - name: Emily Dolan
+      institution: Brown University 
+    - name: Anicia Timberlake
+    - name: Michael Weinstein-Reiman
+    - name: Joshua Navon
+      institution: Columbia University      
+abstract: |
+    <p>In recent years, musicologists have turned to music education as an object of historical study, illustrated by an uptick in dissertations, conferences, and articles addressing pedagogical topics. Inspired in part by contemporary efforts to rethink the curricular organization of music departments, an interest in the historical roots of our pedagogical present has opened up rich arenas of investigation that have thus far received little scholarly attention.</p>
+    <p>As historians of science have long recognized, pedagogy is essential to the production and circulation of skill and knowledge, and therefore to generating and sustaining expert communities. In this regard, music is no exception. Music pedagogy, like the musical practices that it makes possible, is subject to considerable historical and geographical variation. From this perspective, analyzing music pedagogy can help explain not only the reproduction of musical knowledge and practice, but also how novel modes of musicking, thinking, and feeling come into being. We suggest that analyzing pedagogical cultures will spur musicologists to expand the purview of music-historical inquiry and to rethink established disciplinary problematics. These include the emergence of <em>Werktreue</em> as the dominant paradigm of musical performance during the late nineteenth century, discourses of the musical mind and body, and relationships among ideology, canon formation, and musical institutions. Relatedly, music education has functioned as a critical point of contact between musical practice and other ideological, epistemological, and technical formations, such as the human sciences and state-led projects of public reform.</p>
+    <p>Comprised of six position papers, this workshop takes stock of these developments, considering the potential conceptual, historiographical, and empirical problematics that this newfound interest in the history of music education may generate. Focusing on Chopin and Liszt, Michael Weinstein-Reiman examines the nineteenth-century piano étude in light of changing conceptualizations of touch and virtuosity, theorizing the genre as an artistic mediation of physiological and spiritualist notions of musical training. Fanny Gribenski analyzes the Paris Conservatory as a laboratory of our sonic modernity, focusing on how the institution promoted new acoustical standards during the midnineteenth century that continue to shape global soundscapes to this day. Joshua Navon discusses shifting modes of assessing human musicality in German music conservatories in the late nineteenth and early twentieth century. Beginning by suggesting that most modern music pedagogies are classic forms of what Bernard Stiegler has called psychopower, Benjamin Steege questions the necessity of this status by turning to the case of early Dalcroze instructor Gustav Güldenstein, whose early career demonstrated an unusually critical stance toward psychological knowledge during the Weimar Republic. Taking up a tension at the core of James M. Trotter's 1878 treatise <em>Music and Some Highly Musical People</em> regarding the racialized nature of musicality, Lindsay Wright examines the historical relationship between music education, whiteness, and discourses of citizenship in the United States. Finally, examining body-based music pedagogies in the German Democratic Republic, Anicia Timberlake shows how abstract ideals such as “socialism” took on emotional, experiential meaning, and proposes a link between mature political citizenship and the process of learning to be musical.</p>
+---

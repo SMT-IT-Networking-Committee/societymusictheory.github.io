@@ -3,6 +3,9 @@ authors:
     - name: Lauren Hartburg
       institution: Florida State University
 title: "Mapping Schnittke’s Sequences in Bonded Uniform Triadic Transformation Spaces"
+Video:
+    desc:
+    path: "470763695"
 handouts:
     - desc: Script
       path: Hartburg_script.pdf

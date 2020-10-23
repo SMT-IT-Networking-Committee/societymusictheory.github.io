@@ -315,7 +315,7 @@ p.author {
     font-weight: normal;
     font-size: 110%;
     font-style: italic;
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit / 2;
     padding-left: $spacing-unit;
 }
 
@@ -374,6 +374,8 @@ p.abs-author {
 }
 
 span.title {
+
+	font-weight: 500;
     &:before {
         content: "\201C";
     }
@@ -443,7 +445,9 @@ i.fas, i.fab {
 p.index-chair {
     font-size: 100%;
     margin-left: 1em;
+    margin-top: 0.5em;
     margin-bottom: 0.5em;
+    font-style: italic;
 }
 
 p.chair {

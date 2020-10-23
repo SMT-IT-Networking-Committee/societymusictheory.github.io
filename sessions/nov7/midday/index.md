@@ -27,4 +27,5 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="improvisation-ig" %}
 
 ## 2:30–4:00 CST
-<p class="non-session"><a href="">Welcome Break and Coffee Reception</a></p>
+<p class="non-session"><a href="">Welcome Break and Coffee Reception</a><span class="room">(AMS Platform)</span>
+</p>

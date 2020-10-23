@@ -13,6 +13,7 @@
 <i>Sponsored by the {{ sess.sponsor }}</i><br>
 {%- endif -%}
 
+{% if sess.chair.size >0 %}
 {%- if sess.chair.formatted_short -%}
   {{ sess.chair.formatted_short }}
 {%- else -%}
@@ -23,6 +24,9 @@
     Chair
   {%- endif -%}
 {%- endif -%}
+{%- endif -%}
+
+
 {%- if sess.respondent -%}
   {%- if sess.respondent.formatted_short -%}
     ; {{ sess.respondent.formatted_short }}
@@ -46,15 +50,14 @@
 
 {% for paper in sess.papers %}
   {% assign p = site.data.papers[paper] %}
-
   {%- capture auth -%}
     {%- if p.authors[0].formatted -%}
       {{ p.authors | slice: 1,99 | map: "name" | array_to_sentence_string }}
     {%- else -%}
-      {{ p.authors[0].name }}
+        {{ p.authors | map: "name" | array_to_sentence_string }}
     {%- endif -%}
   {%- endcapture -%}
-  <li>{{ auth }}, <span class="title">{{ p.title }}</span></li>
+  <li style="font-weight: 500;">{{ auth }}, <span class="title">{{ p.title }}</span></li>
 {% endfor %}
 
 {%- if sess.panelists[0].name -%}

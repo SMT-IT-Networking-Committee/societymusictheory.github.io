@@ -24,9 +24,11 @@
 </div>	
 
 
+{% if p.abstract.size > 0 %}
 <details class="root"><summary>Abstract</summary>
 {{ p.abstract }}
 </details>
+{% endif %}
 
 {% if p.video.size > 0 %}
 <details class="root"><summary>Presentation Video</summary>

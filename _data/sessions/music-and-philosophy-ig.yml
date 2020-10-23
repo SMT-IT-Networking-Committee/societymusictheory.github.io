@@ -7,7 +7,8 @@ playlist: https://vimeo.com/showcase/7422029
 slack:
 zoom:
 chair:
-    name: Avinoam Foonberg, Bryan Parkhurst, and Lee Cannon-Brown
-    institution: co-chairs
+    name: 
+    formatted: Avinoam Foonberg, Bryan Parkhurst, and Lee Cannon-Brown, co-chairs
 papers:
-    - 
+    - chung
+    - bauer2

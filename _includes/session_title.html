@@ -11,6 +11,7 @@
 <h3 class="sponsor">Sponsored by the {{ sess.sponsor }}</h3>
 {% endif %}
 
+{% if sess.chair.size >0 %}
 {%- capture chair -%}
   {%- if sess.chair.formatted -%}
     {{ sess.chair.formatted }}
@@ -19,12 +20,14 @@
     {%- if sess.chair.title -%}
       {{ sess.chair.title }}
     {%- else -%}
-      Chair
+      <em>Chair</em>
     {%- endif -%}
   {%- endif -%}
 {%- endcapture -%}
-
+{%- endif -%}
 <p class="chair">{{ chair }}
+
+
 {%- if sess.respondent -%}
 <br />
   {%- if sess.respondent.formatted -%}
@@ -34,10 +37,21 @@
     {%- if sess.respondent.title -%}
       {{ sess.respondent.title }}
     {%- else -%}
-      Respondent
+      <em>Respondent</em>
     {%- endif -%}
   {%- endif -%}
 {%- endif -%}
+
+{%- if sess.panelists[0].name -%}
+  <br />
+{{ sess.panelists | map: "name" | array_to_sentence_string }}, <em>Panelists</em>
+{%- endif -%}
+
+{%- if sess.other -%}
+  <br />
+{{ sess.other.formatted }}
+{%- endif -%}
+
 </p>
 
 {%- if sess.livestream -%}
