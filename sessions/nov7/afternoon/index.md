@@ -13,10 +13,11 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 ## 3:00–5:00 CST
 <p class="non-session"><a href="">Exhibit Hall Open Hours</a><span class="room">(AMS Platform)</span></p>
 
-## 4:30–5:30 CST
-<p class="non-session"><a href="">SMT Executive Board Meet and Great</a><span class="room"> (Remo)</span></p>
-
 ## 3:30–5:30 CST
 {% include session-short.html session="graduate-student-workshop-gawboy" %}
 {% include session-short.html session="graduate-student-workshop-murphy" %}
+
+## 4:30–5:30 CST
+<p class="non-session"><a href="">SMT Executive Board Meet and Great</a><span class="room"> (Remo)</span></p>
+
 
