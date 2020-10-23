@@ -348,7 +348,7 @@ details[open] summary.author:before {
 
 
 p.author + p.author {
-	margin-top: -$spacing-unit;
+	margin-top: -$spacing-unit / 2;
 }
 
 p.title {
