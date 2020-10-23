@@ -7,14 +7,13 @@ slack:
 zoom:
 sponsor: the AMS Cold War and Music Study Group and the SMT Post-1945 Music Analysis Interest Group
 chair:
-    name: 
-    title: 
-    formatted: Martha Sprigge (University of California, Santa Barbara) and Laura Emmery (Emory University), Co-Chairs
+    name: Martha Sprigge and Laura Emmery
+    institution: 
+    title: Co-Chairs
 respondent:
     formatted: Gabrielle Cornish (University of Miami) and Jennifer Iverson (University of Chicago), Respondents
 papers:
     - herrera
     - torres-rivera
-    - sprigge
     - adams
     - gourley
