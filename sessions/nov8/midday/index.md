@@ -17,7 +17,6 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 <p class="non-session"><a href="">Committee on Race and Ethnicity Travel Grant Luncheon</a><span class="room"> (Remo)</span>
 </p>
 
-
 ## 1:00–1:50 CST
 {% include session-short.html session="period-and-cyclic-form-in-the-nineteenth-century" %}
 {% include session-short.html session="rethinking-what-counts-in-serial-music" %}

@@ -16,7 +16,6 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 ## 12:00–1:30 CST
 {% include session-short.html session="fostering-decoloniality" %}
 
-
 ## 1:00–1:50 CST
 {% include session-short.html session="analyzing-recordings" %}
 {% include session-short.html session="redefining-drama" %}
