@@ -10,8 +10,8 @@ SMT.search.sessions = [
 {%- for session in site.data.sessions -%}
   {%- assign sess = session[1] -%}
   {%- capture chair -%}
-    {%- if sess.chair.formatted_short -%}
-      {{ sess.chair.formatted_short }}
+    {%- if sess.chair.formatted -%}
+      {{ sess.chair.formatted }}
     {%- else -%}
       {{ sess.chair.name }}
     {%- endif -%}

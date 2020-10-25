@@ -113,7 +113,6 @@ $navbar-item-active-border:  $complementary-color;
       width: 100%;
       overflow-y: hidden;
       overflow-x: auto;
-      border-top: 7px solid $navbar-item-active-border;
       background-color: $navbar-background;
     }
     
@@ -124,6 +123,7 @@ $navbar-item-active-border:  $complementary-color;
   
   & > .list > .item {
     display: block;
+    flex-basis: 10px;
     flex-shrink: 1;
     height: $navbar-height;
     line-height: $navbar-height;

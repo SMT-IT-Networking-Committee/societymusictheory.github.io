@@ -37,9 +37,9 @@
   {%- capture embedlink -%}
     {{ v.path }}
   {%- endcapture -%}
-    <iframe src="https://player.vimeo.com/video/{{ embedlink }}" width="400" height="300" allowfullscreen>&nbsp</iframe>
-  </div>
+    <div>{{v. desc}} <iframe src="https://player.vimeo.com/video/{{ embedlink }}" width="400" height="300" allowfullscreen>&nbsp</iframe></div>
   {% endfor %}
+  </div>
 </details>
 {% endif %}
 
