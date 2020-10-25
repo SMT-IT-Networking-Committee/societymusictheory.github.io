@@ -7,8 +7,8 @@ client.request({
   method: 'GET',
   path: '/users/124701555/videos',
   query: {
-    page: 2,
-    per_page: 100,
+    page: 1,
+    per_page: 200,
     fields: 'name, uri' 
   }
 }, function (error, body, status_code, headers) {

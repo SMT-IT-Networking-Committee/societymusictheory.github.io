@@ -3,6 +3,9 @@ authors:
     - name: Garrett Michaelsen
       institution: University of Massachusetts Lowell
 title: "Being Self-Referential"
+video:
+    - desc: 
+      path: "470617479"
 handouts:
     - desc: Handout
       path: Michaelsen_handout.pdf

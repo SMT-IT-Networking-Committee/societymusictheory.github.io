@@ -3,6 +3,9 @@ authors:
     - name: Richard J. Plotkin
       institution: BMI Musical Theatre Workshop
 title: "Unraveling Uncertainty in Sondheim’s Ladies"
+video:
+    - desc: 
+      path: "470997160"
 handouts:
     - desc: Examples
       path: Plotkin_examples.pdf

@@ -3,6 +3,9 @@ authors:
     - name: Timothy Chenette
       institution: Utah State University
 title: "Gary Karpinski’s Aural Skills Acquisition: Listening Skills"
+video:
+    - desc: 
+      path: "470604462"
 handouts:
     - desc: Bibliography
       path: Chenette_bibliography.pdf
