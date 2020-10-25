@@ -79,13 +79,12 @@ $(document).ready(function() {
       var out = '<div class="result"><p>';
 
       if (type === 'paper') {
-        out += obj.authors + " • " + obj.title;
-        out += sesslink ? '<br><a href="' + sesslink + '">Go to paper</a>' : '' ;
+        out += sesslink ? '<div><span class="author">' + obj.authors + '</span></div>' + '<div><a style="font-weight:500;" href="' + sesslink + '">' + obj.title + '</a></div>' : '' ;
         out += '</p></div>';
         resultdiv.append(out);
       } else if (type === 'session') {
-        out += '<strong>Session: ' + obj.title + '</strong>';
-        out += sesslink ? '<br><a href="' + sesslink + '">Go to session</a>' : '' ;
+        
+        out += sesslink ? '<div><span class="author">' + obj.chair + ', <em>Chair</em></span></div>' + '<div><a style="font-weight:500;" href="' + sesslink + '">Session: ' + obj.title + '</a></div>' : '' ;
         out += '</p></div>';
         resultdiv.prepend(out);
       } else {

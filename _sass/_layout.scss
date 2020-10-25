@@ -319,6 +319,14 @@ p.author {
     padding-left: $spacing-unit;
 }
 
+span.author {
+    margin-top: 0;
+    font-weight: 500;
+    font-size: $small-font-size;
+    margin-bottom: $spacing-unit / 2;
+}
+
+
 details > summary > p.author {
     margin-top: 0;
     font-weight: normal;
@@ -356,6 +364,13 @@ p.title {
     font-weight: 500;
     font-size: 125%;
     margin-bottom: .5em;
+}
+
+span.title {
+    margin-top: 0;
+    font-weight: normal;
+    font-size: $small-font-size;
+    margin-bottom: $spacing-unit / 2;
 }
 
 p.piece {
