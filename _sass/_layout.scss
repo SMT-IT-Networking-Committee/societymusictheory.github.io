@@ -252,6 +252,16 @@ p.session-abstract {
 	padding-top: $spacing-unit;
 }
 
+.breadcrumbs {
+	font-size: $small-font-size;
+	margin-bottom: $spacing-unit;
+}
+
+.breadcrumbs > parentpage {
+	font-size: $small-font-size;
+	margin-bottom: $spacing-unit;
+}
+
 
 /**
  * Posts
@@ -429,27 +439,8 @@ h3.index-session-title {
     margin-bottom: 0;
 }
 
-h3.session-buttons {
-	display: flex;
-	flex-flow: row wrap;
-	justify-content: space-between;
-	margin-top: -0.5em;
-	margin-bottom: 1em;
-    border: 2px solid $brand-color;
-    padding-left: $spacing-unit;
-    padding-right: $spacing-unit;
-    border-radius: 15px;
-}
 
 
-
-
-
-span.playlist, span.zoom, span.slack, span.calendar{
-    flex-basis: 20%;
-    font-family: $base-font-family;
-    font-size: $base-font-size;  	
-  }
   
 i.fas, i.fab {
 	padding-left: .25em;
@@ -544,6 +535,13 @@ img#ams-logo {
 
 div.sessionInfo{
 	display: flex;
+	justify-content: space-between;
+	margin-bottom: 0;
+}
+
+div.sessionInfo > p{
+	display: flex;
+	margin-bottom: 0;
 }
 
 

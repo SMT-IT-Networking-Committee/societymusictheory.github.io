@@ -1,10 +1,11 @@
 ---
+sessiontype: Interest Group
 title: "Jazz Interest Group"
 slug: jazz-ig
 room: The Orange Room
 time: 'Sunday midday, November 8, 12-12:50 CST'
 link: /sessions/nov8/midday/jazz-ig
-playlist: https://vimeo.com/showcase/7422029
+playlist:
 slack:
 zoom:
 chair:

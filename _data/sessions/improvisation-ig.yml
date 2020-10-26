@@ -1,9 +1,10 @@
+sessiontype: Interest Group
 title: "Interest Group on Improvisation"
 slug: improvisation-ig
 room: The Orange Room
 time: 'Saturday afternoon, November 7, 2–2:50 CST'
 link: /sessions/nov7/afternoon/improvisation-ig
-playlist: https://vimeo.com/showcase/7422029
+playlist:
 slack:
 zoom:
 chair:

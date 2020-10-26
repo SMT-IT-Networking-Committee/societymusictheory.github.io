@@ -4,8 +4,6 @@
 <p class="sessionInfo"> {{ sess.time }}</p>
 <p><a href="/ics/{{ sess.slug }}.ics"><i class="fas fa-calendar-alt"></i>Add this to your calendar</a></p>
 </div>
-
-</p>
 <h1>{{ sess.title }}</h1>
 {% if sess.sponsor %}
 <h3 class="sponsor">Sponsored by the {{ sess.sponsor }}</h3>
@@ -61,11 +59,31 @@
 {%- endif -%}
 
 
+{%- if sess.sessiontype == "Interest Group" -%}
 <div class="icon-bar">
+  	{%- if sess.playlist.size >0 -%}
   	<a href="{{sess.playlist}}">Session playlist</a> 
-    <a href="{{sess.zoom}}">Synchronous Discussion on Zoom</a> 
+  	{%- endif -%}
+    <a href="{{sess.zoom}}">Interest Group Meeting on Zoom</a> 
+  	<a href="{{sess.slack}}">Interest Group Discussion on Slack</a>
+</div>
+{%- elsif sess.sessiontype == "AMS Platform" -%}
+<div class="icon-bar">
+    <a href="{{sess.zoom}}">Session Contents and Discussion at AMS</a> 
   	<a href="{{sess.slack}}">Asynchronous Discussion on Slack</a>
 </div>
+{%- else -%}
+<div class="icon-bar">
+	{%- if sess.playlist.size >0 -%}
+  	<a href="{{sess.playlist}}">Session playlist</a> 
+  	{%- endif -%}    
+  	<a href="{{sess.zoom}}">Synchronous Discussion on Zoom</a> 
+  	<a href="{{sess.slack}}">Asynchronous Discussion on Slack</a>
+</div>
+{%- endif -%}
+
+
+
 
 
 

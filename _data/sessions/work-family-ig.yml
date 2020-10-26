@@ -1,10 +1,11 @@
 ---
+sessiontype: Interest Group
 title: "Work and Family Interest Group"
 slug: work-family-ig
 room: The Orange Room
 time: 'Saturday morning, November 7, 10–10:50 CST'
 link: /sessions/nov7/morning/work-family-ig
-playlist: https://vimeo.com/showcase/7422029
+playlist:
 slack:
 zoom:
 chair:

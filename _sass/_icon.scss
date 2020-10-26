@@ -6,17 +6,21 @@
     background-color: $background-color;
     overflow: auto;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     border-radius: 27px;
 }
 
 .icon-bar a {
-    display: inline-block;
+    display: flex;
+	justify-content: center; 
+	align-items: center; 
     text-align: center;
+    height: 65px;
+    width: 200px;
 	padding:0.3em 1.2em;
     transition: all 0.3s ease;
     color: $background-color;
-    font-size: $base-font-size;
+    font-size: $small-font-size;
     background-color: $brand-color;
 	border:0.16em $brand-color;
 	border-radius:2em;

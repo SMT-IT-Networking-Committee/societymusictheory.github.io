@@ -1,10 +1,11 @@
 ---
+sessiontype: Interest Group
 title: "Music Cognition Interest Group"
 slug: music-cognition-ig
 room: The Orange Room
 time: 'Saturday midday, November 7, 12–12:50 CST'
 link: /sessions/nov7/midday/music-cognition-ig
-playlist: https://vimeo.com/showcase/7422029
+playlist:
 slack:
 zoom:
 chair:

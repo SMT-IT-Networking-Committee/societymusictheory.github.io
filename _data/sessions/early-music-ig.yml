@@ -1,9 +1,10 @@
+sessiontype: Interest Group
 title: "Early Music Analysis Group"
 slug: early-music-ig
 room: The Orange Room
 time: 'Saturday morning, November 7, 11–11:50 CST'
 link: /sessions/nov7/morning/early-music-ig
-playlist: https://vimeo.com/showcase/7422029
+playlist:
 slack:
 zoom:
 chair:

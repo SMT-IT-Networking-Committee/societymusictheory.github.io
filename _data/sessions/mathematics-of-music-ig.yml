@@ -1,10 +1,11 @@
 ---
+sessiontype: Interest Group
 title: "Mathematics of Music Interest Group"
 slug: mathematics-of-music-ig
 room: The Orange Room
 time: 'Sunday morning, November 15, 10–10:50 CST'
 link: /sessions/nov15/morning/mathematics-of-music-ig
-playlist: https://vimeo.com/showcase/7422029
+playlist:
 slack:
 zoom:
 chair:

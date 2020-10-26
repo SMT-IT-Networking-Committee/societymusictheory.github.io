@@ -1,9 +1,10 @@
+sessiontype: Interest Group
 title: "Music and Disabilty Interest Group "
 slug: music-and-disability-ig
 room: The Orange Room
 time: 'Saturday morning, November 14, 11:00–11:50'
 link: /sessions/nov14/morning/music-and-disability-ig
-playlist: https://vimeo.com/showcase/7422029
+playlist:
 slack:
 zoom:
 chair:

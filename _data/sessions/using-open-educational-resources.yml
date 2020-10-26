@@ -4,7 +4,7 @@ slug: using-open-educational-resources
 room: The Red Room
 time: 'Sunday morning, November 15, 11:30–12:45 CST'
 link: /sessions/nov15/morning/using-open-educational-resources
-playlist: https://vimeo.com/showcase/7422029
+playlist:
 slack:
 zoom:
 chair:
@@ -12,6 +12,7 @@ chair:
     institution: The University of Lethbridge
     title: Chair and Discussant
 papers:
+    - hughes
     - gullings
     - hamm
     - lavengood
