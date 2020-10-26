@@ -14,6 +14,7 @@ respondent:
     name: Robert Hasegawa
     institution: McGill University
 papers:
+    - hasegawa
     - utz
     - boyle
     - li
