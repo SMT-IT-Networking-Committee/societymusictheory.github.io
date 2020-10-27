@@ -5,7 +5,7 @@ title: Conference Schedule
 
 <h1>SMT Virtual Conference Schedule</h1>
 
-Click the triangle to see an overview of that day's events.
+Click a triangle to see that day's events.
 
 <details>
 
@@ -138,7 +138,7 @@ Sunday, November 8
 </details>
 <details>
 <summary>
-Saturday , November 14
+Saturday, November 14
 </summary>
 
 <h2>9:00–9:45 CST</h2>

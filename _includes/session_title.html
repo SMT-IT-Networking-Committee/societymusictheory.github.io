@@ -68,20 +68,20 @@
   	<a href="{{sess.playlist}}">Session playlist</a> 
   	{%- endif -%}
     <a href="{{sess.zoom}}">Interest Group Meeting on Zoom</a> 
-  	<a href="{{sess.slack}}">Interest Group Discussion on Slack</a>
+  	<a href="{{sess.slack}}">Discuss Before, During, and After on Slack</a>
 </div>
 {%- elsif sess.sessiontype == "AMS Platform" -%}
 <div class="icon-bar">
     <a href="{{sess.zoom}}">Session Contents and Discussion at AMS</a> 
-  	<a href="{{sess.slack}}">Asynchronous Discussion on Slack</a>
+  	<a href="{{sess.slack}}">Discuss Before, During, and After on Slack</a>
 </div>
 {%- else -%}
 <div class="icon-bar">
 	{%- if sess.playlist.size >0 -%}
   	<a href="{{sess.playlist}}">Session playlist</a> 
   	{%- endif -%}    
-  	<a href="{{sess.zoom}}">Synchronous Discussion on Zoom</a> 
-  	<a href="{{sess.slack}}">Asynchronous Discussion on Slack</a>
+  	<a href="{{sess.zoom}}">Go to the Session Discussion on Zoom</a> 
+  	<a href="{{sess.slack}}">Discuss Before, During, and After on Slack</a>
 </div>
 {%- endif -%}
 

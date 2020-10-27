@@ -130,7 +130,7 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="mediating-the-cold-war" %}
 
 <br>
-# Saturday , November 14
+# Saturday, November 14
 
 ## 9:00–9:45 CST
 <p class="non-session"><a href="">Morning Meditation</a><span class="room">(AMS Platform)</span>

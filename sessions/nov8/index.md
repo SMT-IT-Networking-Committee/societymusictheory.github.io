@@ -2,6 +2,7 @@
 layout: default
 title: Saturday, Nov. 8
 ---
+{% include breadcrumbs.html %}
 
 # Sunday, November 8
 
