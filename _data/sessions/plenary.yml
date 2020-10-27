@@ -5,8 +5,8 @@ room: The Red Room
 time: 'Saturday afternoon, November 14, 2:30–4 CST'
 link: /sessions/nov14/afternoon/plenary
 playlist:
-slack: ""
-zoom: ""
+slack: https://smt-2020.slack.com/archives/C01CD3UQ7U2
+zoom: 
 chair:
     name: Marion A. Guck
     institution: University of Michigan

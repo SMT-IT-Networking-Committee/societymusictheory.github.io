@@ -5,7 +5,7 @@ room: The Orange Room
 time: 'Saturday midday, November 7, 1–1:50 CST'
 link: /sessions/nov7/midday/russian-music-theory-ig
 playlist:
-slack:
+slack: https://smt-2020.slack.com/archives/C01CJUWLTQU
 zoom:
 chair:
     name: Ellen Bakulina

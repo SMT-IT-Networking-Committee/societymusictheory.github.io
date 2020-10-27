@@ -4,7 +4,7 @@ room: The Red Room
 time: 'Sunday morning, November 15, 11–11:50 CST'
 link: /sessions/nov15/morning/balanchine
 playlist:
-slack:
+slack: https://smt-2020.slack.com/archives/C01BYBK2NUX
 zoom:
 chair:
     name: Maeve Sterbenz

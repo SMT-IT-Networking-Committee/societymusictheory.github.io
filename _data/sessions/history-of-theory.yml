@@ -4,7 +4,7 @@ room: The Red Room
 time: 'Sunday morning, November 8, 10-10:50 CST'
 link: /sessions/nov8/morning/history-of-theory
 playlist:
-slack:
+slack: https://smt-2020.slack.com/archives/C01CRDCH4GZ
 zoom:
 chair:
     name: Maryam A. Moshaver

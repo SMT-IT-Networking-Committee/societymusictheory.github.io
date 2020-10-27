@@ -4,7 +4,7 @@ room: The Red Room
 time: 'Sunday midday, November 15, 12–12:50 CST'
 link: /sessions/nov15/midday/reconsidering-schenker-and-hierarchy
 playlist:
-slack:
+slack: https://smt-2020.slack.com/archives/C01CK8PC7DJ
 zoom:
 chair:
     name: Jason Hooper

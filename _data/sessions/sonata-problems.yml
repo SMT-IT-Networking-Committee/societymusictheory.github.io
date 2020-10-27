@@ -4,7 +4,7 @@ room: The Red Room
 time: 'Saturday midday, November 14, 12–12:50 CST'
 link: /sessions/nov14/midday/sonata-problems
 playlist:
-slack:
+slack: https://smt-2020.slack.com/archives/C01CK8J2W04
 zoom:
 chair:
     name: Carissa Reddick

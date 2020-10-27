@@ -4,7 +4,7 @@ room: The Red Room
 time: 'Sunday morning, November 15, 10–10:50 CST'
 link: /sessions/nov15/morning/timbre
 playlist:
-slack:
+slack: https://smt-2020.slack.com/archives/C01C6BU4KNJ
 zoom:
 chair:
     name: John Y. Lawrence

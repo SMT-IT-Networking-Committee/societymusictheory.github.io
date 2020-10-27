@@ -5,7 +5,7 @@ room: The Orange Room
 time: 'Saturday midday, November 14, 12–12:50 CST'
 link: /sessions/nov14/midday/music-and-psychoanalysis-ig
 playlist:
-slack:
+slack: https://smt-2020.slack.com/archives/C01CK8JLP1S
 zoom:
 chair:
     name: Dylan Principi

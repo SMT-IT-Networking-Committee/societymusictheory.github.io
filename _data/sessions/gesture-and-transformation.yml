@@ -4,7 +4,7 @@ room: The Blue Room
 time: 'Saturday midday, November 7, 12–12:50 CST'
 link: /sessions/nov7/midday/gesture-and-transformation
 playlist:
-slack:
+slack: https://smt-2020.slack.com/archives/C01C9MHC2A1
 zoom:
 chair:
     name: Edward Klorman
