@@ -4,8 +4,8 @@ room: The Red Room
 time: 'Saturday morning, November 7, 11–11:50 CST'
 link: /sessions/nov7/morning/mahler
 playlist:
-slack:
-zoom: https://smt-2020.slack.com/archives/C01C62JSYFQ
+slack: https://smt-2020.slack.com/archives/C01C62JSYFQ
+zoom:
 chair:
     name: Seth Monahan
     institution: Yale School of Music

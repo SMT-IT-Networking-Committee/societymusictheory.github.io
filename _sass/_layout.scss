@@ -692,6 +692,12 @@ p.index-chair, ul.paper-list {
 	font-size: $small-font-size;
 }
 
+ul.paper-list {
+	border-left: 3px solid #ffb433;
+	padding-left: $spacing-unit;
+
+}
+
 details.schedule {
     padding-left: 1em;
     font-size: 125%;
@@ -701,6 +707,10 @@ summary {
     cursor: pointer;
     font-weight: 500;
     
+}
+
+summary span {
+	pointer-events: none;
 }
 
 summary::-webkit-details-marker {
