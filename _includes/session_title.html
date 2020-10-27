@@ -1,5 +1,8 @@
 {% assign sess = site.data.sessions[page.slug] %}
 
+
+{% include breadcrumbs.html %}
+
 <div class="sessionInfo">
 <p class="sessionInfo"> {{ sess.time }}</p>
 <p><a href="/ics/{{ sess.slug }}.ics"><i class="fas fa-calendar-alt"></i>Add this to your calendar</a></p>
