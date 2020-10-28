@@ -12,7 +12,7 @@ chair:
     institution: McGill University
     title: Chair and Moderator   
 papers:
+    - straus2
     - iverson
     - segall2
-    - straus2
     - biamonte2

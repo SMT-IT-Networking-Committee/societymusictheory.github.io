@@ -10,10 +10,11 @@ slack: https://smt-2020.slack.com/archives/C01D2UPKRT2
 zoom:
 chair:
     name: Mike Hall
-    formatted: Mike Hall, chair; Jason Yust, co-chair
+    formatted: Mike Hall, Chair; Jason Yust, Vice-Chair
 papers: 
     - hartburg2
     - chiu-kars2
+    - kiple2
 abstract: |
     <h2>Agenda for Mathematics of Music Analysis Interest Group Meeting - 2020</h2>
     <h3>Welcome and Introduction</h3>
