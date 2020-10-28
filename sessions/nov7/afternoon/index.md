@@ -17,6 +17,6 @@ title: Saturday Afternoon, Nov. 7
 {% include session-short.html session="graduate-student-workshop-murphy" %}
 
 ## 4:30–5:30 CST
-<p class="non-session"><a href="">SMT Executive Board Meet and Great</a><span class="room">(Remo)</span></p>
+<p class="non-session"><a href="">SMT Executive Board Meet and Greet</a><span class="room">(Remo)</span></p>
 
 
