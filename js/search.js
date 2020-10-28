@@ -83,7 +83,6 @@ $(document).ready(function() {
         out += '</p></div>';
         resultdiv.append(out);
       } else if (type === 'session') {
-        
         out += sesslink ? '<div><span class="author">' + obj.chair + ', <em>Chair</em></span></div>' + '<div><a style="font-weight:500;" href="' + sesslink + '">Session: ' + obj.title + '</a></div>' : '' ;
         out += '</p></div>';
         resultdiv.prepend(out);
