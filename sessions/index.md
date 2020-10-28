@@ -52,7 +52,7 @@ Saturday, November 7
 </p>
 
 <h2>3:00–5:00 CST</h2>
-<p class="non-session"><a href="">Exhibit Hall Open Hours</a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="">Exhibit Hall Open Hours </a><span class="room">(AMS Platform)</span></p>
 
 <h2>3:30–5:30 CST</h2>
 {% include session-short.html session="graduate-student-workshop-gawboy" %}
@@ -117,10 +117,10 @@ Sunday, November 8
 <p class="non-session"><a href="">Brown Bag Luncheon</a><span class="room"> (Remo)</span></p>
 
 <h2>3:00–4:50 CST</h2>
-<p class="non-session"><a href="">Coffee Break</a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="">Coffee Break </a><span class="room">(AMS Platform)</span></p>
 
 <h2>3:00–5:00 CST</h2>
-<p class="non-session"><a href="">Exhibit Hall Open Hours</a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="">Exhibit Hall Open Hours </a><span class="room">(AMS Platform)</span></p>
 
 <h2>3:00–5:30 CST</h2>
 <p class="non-session"><a href="/graduate-fair">Graduate School Fair</a><span class="room"></span>
@@ -130,7 +130,7 @@ Sunday, November 8
 {% include session-short.html session="music-interculturality-scopes-methods-approaches" %}
 
 <h2>6:00–7:30 CST</h2>
-<p class="non-session"><a href="">Listen and Unwind</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="">Listen and Unwind </a><span class="room">(AMS Platform)</span>
 </p>
 
 <h2>6:00–8:00 CST</h2>
@@ -182,7 +182,7 @@ Saturday, November 14
 {% include session-short.html session="plenary" %}
 
 <h2>3:00–4:50 CST</h2>
-<p class="non-session"><a href="">Coffee Break</a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="">Coffee Break </a><span class="room">(AMS Platform)</span></p>
 
 <h2>3:00–5:00 CST</h2>
 <p class="non-session"><a href="">Exhibit Hall Open Hours</a>(AMS Platform)</p>
@@ -194,7 +194,7 @@ Saturday, November 14
 {% include session-short.html session="modulations-and-intersections-disability-and-the-uncritical-role-of-music" %}
 
 <h2>6:00–7:30 CST</h2>
-<p class="non-session"><a href="">Listen and Unwind</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="">Listen and Unwind </a><span class="room">(AMS Platform)</span>
 </p>
 </details>
 <details>
@@ -252,7 +252,7 @@ Sunday, November 15
 {% include session-short.html session="substantial-similarity-and-the-role-of-forensic-musicology" %}
 
 <h2>6:00–8:00 CST</h2>
-<p class="non-session"><a href="">Listen and Unwind</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="">Listen and Unwind </a><span class="room">(AMS Platform)</span>
 </p>
 
 <h2>6:00–8:30 CST</h2>

@@ -48,7 +48,7 @@ title: Saturday, Nov. 14
 {% include session-short.html session="plenary" %}
 
 ## 3:00–4:50 CST
-<p class="non-session"><a href="">Coffee Break</a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="">Coffee Break </a><span class="room">(AMS Platform)</span></p>
 
 ## 3:00–5:00 CST
 <p class="non-session"><a href="">Exhibit Hall Open Hours</a>(AMS Platform)</p>
@@ -60,5 +60,5 @@ title: Saturday, Nov. 14
 {% include session-short.html session="modulations-and-intersections-disability-and-the-uncritical-role-of-music" %}
 
 ## 6:00–7:30 CST
-<p class="non-session"><a href="">Listen and Unwind</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="">Listen and Unwind </a><span class="room">(AMS Platform)</span>
 </p>

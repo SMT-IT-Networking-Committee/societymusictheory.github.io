@@ -46,7 +46,7 @@ title: Saturday, Nov. 7
 <p class="non-session"><a href="">Welcome Break and Coffee Reception</a><span class="room"> (AMS Platform)</span></p>
 
 ## 3:00–5:00 CST
-<p class="non-session"><a href="">Exhibit Hall Open Hours</a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="">Exhibit Hall Open Hours </a><span class="room">(AMS Platform)</span></p>
 
 ## 3:30–5:30 CST
 {% include session-short.html session="graduate-student-workshop-gawboy" %}

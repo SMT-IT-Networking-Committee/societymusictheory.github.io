@@ -64,7 +64,7 @@ title: Sunday, Nov. 15
 {% include session-short.html session="substantial-similarity-and-the-role-of-forensic-musicology" %}
 
 ## 6:00–8:00 CST
-<p class="non-session"><a href="">Listen and Unwind</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="">Listen and Unwind </a><span class="room">(AMS Platform)</span>
 </p>
 
 ## 6:00–8:30 CST

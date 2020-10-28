@@ -10,7 +10,7 @@ title: Sunday Evening, Nov. 8
 {% include session-short.html session="music-interculturality-scopes-methods-approaches" %}
 
 ## 6:00–7:30 CST
-<p class="non-session"><a href="">Listen and Unwind</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="">Listen and Unwind </a><span class="room">(AMS Platform)</span>
 </p>
 
 ## 6:00–8:00 CST
