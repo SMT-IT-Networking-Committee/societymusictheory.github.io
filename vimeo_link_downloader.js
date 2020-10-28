@@ -25,3 +25,6 @@ client.request({
   console.log('headers');
   console.log(headers);
 });
+
+https://api.vimeo.com/users/{user_id}/albums
+https://api.vimeo.com/me/albums
