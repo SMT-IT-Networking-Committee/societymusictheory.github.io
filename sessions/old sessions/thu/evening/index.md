@@ -5,7 +5,6 @@ title: Thursday Evening Sessions
 
 # Thursday Evening Sessions
 
-Click the triangle to see session details, or go directly to the Zoom discussion by clicking the <i class="fas fa-video"></i> icon.
 
 ## 8:00--9:00
 

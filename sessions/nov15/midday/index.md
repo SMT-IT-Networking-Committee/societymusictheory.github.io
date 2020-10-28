@@ -5,7 +5,6 @@ title: Sunday Midday, Nov. 15
 
 # Sunday, Nov. 15, 11:30–3:15 CST
 
-Click the triangle to see session details, or go directly to the Zoom discussion by clicking the <i class="fas fa-video"></i> icon.
 
 ## 11:30–12:45 CST
 {% include session-short.html session="using-open-educational-resources" %}

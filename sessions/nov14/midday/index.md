@@ -5,7 +5,6 @@ title: Saturday Midday, Nov. 14
 
 # Saturday, November 14, 12:00–3:00 CST
 
-Click the triangle to see session details, or go directly to the Zoom discussion by clicking the <i class="fas fa-video"></i> icon.
 
 ## 12:00–12:50 CST
 {% include session-short.html session="gesture-the-mimetic-hypothesis-musical-feels" %}

@@ -5,7 +5,6 @@ title: Sunday Afternoon, Nov. 8
 
 # Sunday, November 8, 3:00–5:30 CST
 
-Click the triangle to see session details, or go directly to the Zoom discussion by clicking the <i class="fas fa-video"></i> icon.
 
 ## 3:00–4:00 CST
 <p class="non-session"><a href="">Brown Bag Luncheon</a><span class="room"> (Remo)</span></p>

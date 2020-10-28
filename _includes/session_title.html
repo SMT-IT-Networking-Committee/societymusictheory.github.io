@@ -75,6 +75,11 @@
     <a href="{{sess.zoom}}">Session Contents and Discussion at AMS</a> 
   	<a href="{{sess.slack}}">Discuss Before, During, and After on Slack</a>
 </div>
+{%- elsif sess.sessiontype == "Poster Session" -%}
+<div class="icon-bar">
+    <a href="{{sess.zoom}}">Poster Presentation on Zoom</a> 
+  	<a href="{{sess.slack}}">Discuss Before, During, and After on Slack</a>
+</div>
 {%- else -%}
 <div class="icon-bar">
 	{%- if sess.playlist.size >0 -%}
@@ -83,6 +88,10 @@
   	<a href="{{sess.zoom}}">Go to the Session Discussion on Zoom</a> 
   	<a href="{{sess.slack}}">Discuss Before, During, and After on Slack</a>
 </div>
+{%- endif -%}
+
+{%- if sess.sessiontype == "Poster Session" %}
+<br><p>Poster sessions begin with a short presentation from each of the poster presenters. A link to this Zoom webinar is just above. Fifteen minutes after the beginning of the session, every poster presenter will enter their own Zoom meeting room and entertain comments and questions. Click the camera icons below to join each meeting.</p>
 {%- endif -%}
 
 

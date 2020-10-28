@@ -5,7 +5,6 @@ title: Friday Afternoon Sessions
 
 # Friday Afternoon Sessions
 
-Click the triangle to see session details, or go directly to the Zoom discussion by clicking the <i class="fas fa-video"></i> icon.
 
 ## 2:15--5:30
 

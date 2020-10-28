@@ -13,8 +13,8 @@
 {%- endif -%}
 
 {% if sess.chair.size >0 %}
-{%- if sess.chair.formatted_short -%}
-  {{ sess.chair.formatted_short }}
+{%- if sess.chair.formatted -%}
+  {{ sess.chair.formatted }}
 {%- else -%}
   {{ sess.chair.name }},&nbsp;
   {%- if sess.chair.title -%}

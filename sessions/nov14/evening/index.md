@@ -5,7 +5,6 @@ title: Saturday Evening, November 14
 
 # Sunday, November 14, 6:00–7:30 CST
 
-Click the triangle to see session details, or go directly to the Zoom discussion by clicking the <i class="fas fa-video"></i> icon.
 
 ## 6:00–7:30 CST
 {% include session-short.html session="modulations-and-intersections-disability-and-the-uncritical-role-of-music" %}

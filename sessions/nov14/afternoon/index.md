@@ -5,7 +5,6 @@ title: Saturday Afternoon, Nov. 14
 
 # Saturday, November 14, 3:00–4:50 CST 
 
-Click the triangle to see session details, or go directly to the Zoom discussion by clicking the <i class="fas fa-video"></i> icon.
 
 ## 3:00–4:50 CST
 <p class="non-session"><a href="">Coffee Break</a><span class="room">(AMS Platform)</span></p>

@@ -2,7 +2,10 @@
 {% assign p = site.data.papers[include.paper] %}
 
 
-<p class="title">{{ p.title }}</p>
+<p class="title">{{ p.title }}
+{% if p.zoom.size > 0 %}
+<span><a href="{{ sess.zoom }}"><i class="fas fa-video"></i></a></span>{% endif %}
+</p>
 <div>
 	{% for a in p.authors %}
 	{%- capture auth -%}
