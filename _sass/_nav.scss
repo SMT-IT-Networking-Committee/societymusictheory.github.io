@@ -99,7 +99,7 @@ $navbar-item-active-border:  $complementary-color;
     flex-flow: row nowrap;
     align-items: center;
     white-space: nowrap;
-    margin-left: $spacing-unit*2;
+    padding-left: $spacing-unit*2;
     margin-right: $spacing-unit*2;
     
     @media (min-width: $navbar-collapse-breakpoint) {
