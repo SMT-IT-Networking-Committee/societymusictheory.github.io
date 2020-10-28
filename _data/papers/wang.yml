@@ -3,28 +3,33 @@ authors:
     - name: Anna Yu Wang
       institution: Harvard University
 title: "The Cultural Binds of Tonal Function"
-video:
-    - desc: Example 1 of 4
-      path: "470650110"
-    - desc: Example 2 of 4
-      path: "470650071"
-    - desc: Example 3 of 4
-      path: "470650130"
-    - desc: Example 4 of 4
-      path: "470650046"
+
 handouts:
     - desc: Script
       path: Yu Wang_script.pdf
       external: 
-    - desc: Audio 1
-      path: YuWang_audio1.wav
+    - desc: Example 1 - Audio
+      path: YuWang_Audio1.wav
       external:
-    - desc: Audio 2
+    - desc: Example 2 - Audio
       path: YuWang_Audio2.wav
       external: 
-    - desc: Audio 3
+    - desc: Example 3 - Video
+      path: "https://vimeo.com/470650110"
+      external: true
+    - desc: Example 4 - Video
+      path: "https://vimeo.com/470650071"
+      external: true
+    - desc: Example 5 - Video
+      path: "https://vimeo.com/470650130"
+      external: true
+    - desc: Example 6 - Video
+      path: "https://vimeo.com/470650046"
+      external: true
+    - desc: Example 7 - Audio
       path: YuWang_audio3.mp3
       external:
+
 abstract: |
     <p>Analysis of culturally unfamiliar music, or “world music,” is a burgeoning subdiscipline whose maturation brings a fresh tangle of methodological problems into the purview of North American music theory. How can we analyze world musics in a culturally resonant and ethical manner, and how do we theorize musical experiences that appear to contradict our own acquired intuitions? Taking as a case study tonal function in a Chinese theatrical tradition called <em>huangmei</em> opera, I draw on ethnographer Dwight Conquergood’s framework of dialogical performance and ethnomusicologist Judith Becker’s notion of <em>habitus of listening</em> to propose a model of analysis underpinned by fieldwork and two-way inquiry.</p>
     <p>My case study concerns the phenomenon that <em>sol</em>—the fourth tone in the pentatonic sequences C-D-E-G-A, D-E-F&#9839;-A-B, E-F&#9839;-G&#9839;-B-C&#9839;, etc.—forms the final sonority of most <em>huangmei</em> opera works. Indeed, <em>sol</em>-ending <em>huangmei</em> opera melodies can evoke greater structural closure than juxtaposing <em>do</em>-ending melodies, revealing sharp incongruencies with how tonal functions are imagined in Western art music. Reflecting on ethnographic encounters with musicians of <em>huangmei</em> opera, I trace their tonal experiences of <em>sol</em> and <em>do</em> back to several socially ingrained frameworks, including the tonal profiles found in ancient Chinese ritual texts and a cross-disciplinary aesthetic ideal known as 韵味 (<em>yunwei</em>). Ultimately, I wish to suggest that the experience of tonal function, whether in <em>huangmei</em> opera or Western art music, must appeal to the relevant <em>habitus of listening</em>—the particular nexus of social narratives within which a musical intuition resides—in order to accrue cultural resonance and musical significance.</p>

@@ -9,7 +9,10 @@
 <div>
 	{% for a in p.authors %}
 	{%- capture auth -%}
-		{{ a.name }} ({{ a.institution }})
+		{{ a.name }} 
+		{% if a.institution %}
+		({{ a.institution }})
+		{% endif %}
 	{%- endcapture -%}
 	{%- capture insti -%}
 		{{ a.insti }}
