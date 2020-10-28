@@ -706,11 +706,6 @@ details.schedule {
 summary {
     cursor: pointer;
     font-weight: 500;
-    
-}
-
-summary span {
-	pointer-events: none;
 }
 
 summary::-webkit-details-marker {

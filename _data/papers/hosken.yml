@@ -2,6 +2,8 @@
 authors:
     - name: Fred Hosken
       institution: Northwestern University
+      bio: |
+        <p>Fred Hosken is a PhD candidate in music theory and cognition at Northwestern University. His research investigates musical time, specifically what makes music groove and what gives particular performers their specific “feel.” His focus on the perception of groove is coupled with theories of rhythm, meter, and the beat, as well as computational methods of performance analysis, to advance a theory of beats as “pockets” of time. His phenomenological study of the multidimensional experience of groove appears in <em>Psychology of Music</em> and a large corpus of drum performances, created in collaboration with the Lucerne Groove Research lab, is forthcoming in <em>Empirical Musicology Review</em>.</p>
 title: "Metric Feel and Form in “Superstition”: Analyzing Stevie Wonder’s Beat “Pockets”"
 video:
     - desc: 

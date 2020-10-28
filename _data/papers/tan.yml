@@ -10,6 +10,9 @@ video:
     - desc: 
       path: "467581509"
 handouts:
+    - desc: Script
+      path: Tan_Script.pdf
+      external: 
     - desc: References
       path: Tan_References_SMT2020.pdf
       external: 

@@ -3,8 +3,7 @@ authors:
     - name: Dorian A. Mueller
       institution: University of Michigan
       bio: |
-        <p>Dorian Mueller is a doctoral candidate in music theory at the University of Michigan. She holds an M.A. in Music Theory from Penn State University and a B.A. in Mathematics from Rutgers University. Her research interests include musical narrativity, film music theory, nineteenth-century music, musical form, and musical phenomenology and aesthetics. She is currently writing her dissertation, under the direction of Prof René Rusch, which explores connections between musical narrative and perspectives in literary theory and film theory. In particular, she is interested in examining music through the constructs of narrative space, diegetic space, and story/discourse in light of how these notions are conceptualized in both literature and film. Dorian has presented her work at national and international conferences, including Music and the Moving Image, New York (2016, 2019); the Biennial International Conference on Music Theory and Analysis, Belgrade (2019); and London Film and Media (2014). She currently serves as the technical/layout editor for <em>Music &amp; Politics</em>, and is a copy-editing Assistant for <em>Music Theory Online</em>.</p>
-
+        <p>Dorian Mueller is a doctoral candidate in music theory at the University of Michigan. She holds an M.A. in Music Theory from Penn State University and a B.A. in Mathematics from Rutgers University. Her research interests include musical narrativity, film music theory, nineteenth-century music, musical form, and musical phenomenology and aesthetics. She is currently writing her dissertation, under the direction of Prof René Rusch, which explores connections between musical narrative and perspectives in literary theory and film theory. In particular, she is interested in examining music through the constructs of narrative space, diegetic space, and story/discourse in light of how these notions are conceptualized in both literature and film. Dorian has presented her work at national and international conferences, including Music and the Moving Image, New York (2016, 2019); the Biennial International Conference on ​Music Theory and Analysis, Belgrade (2019); and London Film and Media (2014). She currently serves as the technical/layout editor for <em>Music &amp; Politics</em>, and is a copy-editing Assistant for <em>Music Theory Online</em>.</p>
 title: "Conceptualizing Musical Narrative Space: A “Phenomenological” Journey through Chopin’s Nocturne in F-sharp Minor, op. 48/2"
 video:
     - desc: 
@@ -12,6 +11,9 @@ video:
 handouts:
     - desc: Script
       path: Mueller_script.pdf
+      external: 
+    - desc: Handout
+      path: Mueller_handout.pdf
       external: 
     - desc: Slides
       path: Mueller_slides.pdf

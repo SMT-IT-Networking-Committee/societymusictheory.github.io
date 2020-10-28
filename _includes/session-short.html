@@ -6,8 +6,6 @@
    {% if sess.room == "AMS Platform" %}
       <span class="room">(AMS Platform)</span>
    {% endif %}
-   {% if sess.slack %}<span><a href="{{ sess.slack }}"><i class="fab fa-slack"></i></a></span>{% endif %}
-   {% if sess.zoom %}<span><a href="{{ sess.zoom }}"><i class="fas fa-video"></i></a></span>{% endif %}
   </summary>
 <p class="index-chair">
 {%- if sess.sponsor -%}
