@@ -9,9 +9,12 @@ authors:
 
 title: "The Hidden Influencers of Jazz: An Analysis of Eddie Brown’s BS Chorus"
 video:
-    - desc: 
-      path: 
+    - desc:
+      path: "473810558"
 handouts:
+    - desc: YouTube Playlist
+      path: "https://www.youtube.com/playlist?list=PLtbDf_lzo-1r45aiAY45E-nyw8JX1j7os"
+      external: true
     - desc: Script
       path: Luong_Script.pdf
       external: 
