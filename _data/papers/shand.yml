@@ -2,20 +2,20 @@
 authors:
     - name: Jessica Shand
       institution: Harvard University, New England Conservatory
+      bio: |
+        <p><strong>Jessica Shand</strong> is a performer-composer pursuing an A.B. in Mathematics and Music (Harvard University ’22) and an M.M. in flute performance (New England Conservatory ’23). She has put her studies on pause during the COVID-19 pandemic, working as a Research Analyst with the Advisory Board for the Arts to tackle the new challenges faced by arts and education organizations at this time.</p>
+        <p>Committed to innovation, integrity, and the possibility of a more just &amp; equitable future, Shand’s current artistic work revolves around fostering, developing, and supporting practices that build kinships to dismantle systemic inequities in arts and culture, to amplify underrepresented voices in the music industry, to experiment radically and shamelessly, to strengthen the social fabric of local communities, to elicit productive empathy, and to envision social, political, and technological change. She has championed and premiered upwards of thirty brand-new musical works over the course of the last three years, not including her own compositions.</p>
+        <p>Most recently, Shand received Harvard’s 2020 Hugh F. MacColl Prize in Composition and worked on the staffs of the International Contemporary Ensemble (Development &amp; Marketing Assistant), New Amsterdam Records (Financial Assistant), and Kaleidoscope Chamber Orchestra (Director of Community Engagement). She is currently the President of the Harvard College Opera Society.</p>
+        <p>Jessica grew up along Colorado’s Front Range and has been a Wm. S. Haynes Co. International Young Artist since 2016. Her mentors and influences include flutists Paula Robison, Claire Chase, and Brook Ferguson, and academics Lauren Williams, Barry Mazur, Vijay Iyer, and Alexander Rehding.</p>
+        <p>For more information, please visit <a href="http://www.jessicashand.com/"><span class="underline">www.jessicashand.com</span>.</a></p>
 title: "Artificial Creativity, Artificial Genius: Improvising Computers and the Listening Subject"
-video:
-    - desc: 
-      path: 
 handouts:
-    - desc: 
-      path: 
+    - desc: Paper
+      path: Shand_paper.pdf
       external: 
-    - desc: 
-      path: 
+    - desc: Handout
+      path: Shand_Handout.pdf
       external: 
-    - desc: 
-      path: 
-      external:
 abstract: |
     <p>In this research, I turn toward musically improvising computers to unpack notions of creativity within 21st-century contemporary art music using American composer Pauline Oliveros’s Expanded Instrument System (EIS) as a case study. I allow for a creativity that is co-determined by a non-human, machinic agency, temporarily setting aside Lovelace’s famous assumption that machines cannot be creative. In order to do this, I rely on the method of actor-network theory (ANT), examining both human and non-human actors in terms of the natural and social networks of relations in which they exist and thereby assigns agency to all such actors. Through a close reading of the role of computer-improvisers in the music of Pauline Oliveros as performed by her close friend and collaborator, the flutist Claire Chase, I ask: how is creativity constructed in Oliveros’s context? How has software and hardware shaped and been shaped by that construction? As in this case study the notion of creativity is strictly tied to that of improvisation, I also question the relationship between the two. To conclude, I directly respond to recent developments in the theorization of the listening subject as put forth by musicologist Nina Eidsheim—namely, her proposal for a vibrational practice of listening in which “music is predominantly understood…as material and intermaterial vibration.” I argue that Eidsheim’s model breaks down in the face of computer temporalities that operate outside of, even beyond, the material here-and-now: indeed, any contemporary practice of listening must be pliable enough to capture the agency, however immaterial, of the listening machine.</p>
 ---

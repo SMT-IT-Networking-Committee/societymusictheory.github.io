@@ -2,8 +2,12 @@
 authors:
     - name: Alfred Cramer
       institution: Pomona College
+      bio: |
+        <p>Alfred Cramer is Associate Professor of Music at Pomona College, where he is also affiliated with the department of Linguistics and Cognitive Science. While much of his research is related to early twentieth-century modernism (particularly that of the Second Viennese School), a current project involves Woody Guthrie and the mid-twentieth-century American Folk Music movement. He remains an active violinist. This presentation on Ruth Crawford Seeger's music brings together all of these interests.</p>
     - name: YouYoung Kang
       institution: Scripps College
+      bio: |
+        <p>YouYoung Kang is Associate Professor of Music at Scripps College in Claremont, California where she teaches courses in music theory, European music history, East Asian Music, and Christian musical practices.  She also teaches courses in the Scripps interdisciplinary humanities curriculum.  Her research has focused on a wide range of topics including early music analysis, Korean and Korean American music, and the US WPA Federal Music Project of the 1930s.</p>
 title: "Ruth Crawford Seeger and Songs for Children"
 video:
     - desc: 
