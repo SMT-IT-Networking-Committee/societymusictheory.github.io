@@ -5,7 +5,7 @@ authors:
 title: "Key and Affect in the Million-Song Dataset"
 video:
     - desc: 
-      path: "470608387"
+      path: "470608732"
 abstract: |
     <p>Beyond distinctions between major and minor modes, the notion of key affect is largely absent in contemporary music theory, music theory pedagogy, and the modeling of pitch space. This despite a longstanding practice of describing key affect according to relative positions in pitch space, such that keys flatter than others in pitch space were considered to be calmer and keys that were relatively sharper were considered more energetic. In contrast to prior studies on key affect and key characteristics, which have often associated specific topics to keys, this analysis uses computational modeling to map pieces in an affective space, and then measures the relative distribution of keys within this affective space.</p>
     <p>To build our affect space, we tagged 750,305 tracks from the Million Song Dataset (a collection of one million contemporary popular music tracks) with values for tonal center, mode, and seven affective qualities, all queried through the Spotify API. We then applied multidimensional scaling to build a three-dimensional affective space that retains 67% of the affect variance in the original dataset. When mapped onto this affect space, keys appear systematically organized according to their relative position on the line of fifths: sharper keys tend to have fast, angular gestures and distorted timbre, while flat keys tend to have slower gestures and rounder, clearer timbre. By bridging a gap between the syntax and semantics of pitch-space, this analysis thus invites discourse on how to integrate relative key affect in music theory pedagogy and the modeling of pitch space.</p>
