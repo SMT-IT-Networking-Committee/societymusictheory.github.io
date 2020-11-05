@@ -67,26 +67,26 @@
   	{%- if sess.playlist.size >0 -%}
   	<a href="{{sess.playlist}}">Session playlist</a> 
   	{%- endif -%}
-    <a href="{{sess.zoom}}">Interest Group Meeting on Zoom</a> 
-  	<a href="{{sess.slack}}">Discuss Before, During, and After on Slack</a>
+    <a href="{{sess.zoom}}" target="_blank">Interest Group Meeting on Zoom</a> 
+  	<a href="{{sess.slack}}" target="_blank">Discuss Before, During, and After on Slack</a>
 </div>
 {%- elsif sess.sessiontype == "AMS Platform" -%}
 <div class="icon-bar">
-    <a href="{{sess.zoom}}">Session Contents and Discussion at AMS</a> 
-  	<a href="{{sess.slack}}">Discuss Before, During, and After on Slack</a>
+    <a href="{{sess.zoom}}" target="_blank">Session Contents and Discussion at AMS</a> 
+  	<a href="{{sess.slack}}" target="_blank">Discuss Before, During, and After on Slack</a>
 </div>
 {%- elsif sess.sessiontype == "Poster Session" -%}
 <div class="icon-bar">
-    <a href="{{sess.zoom}}">Poster Presentation on Zoom</a> 
-  	<a href="{{sess.slack}}">Discuss Before, During, and After on Slack</a>
+    <a href="{{sess.zoom}}" target="_blank">Poster Presentation on Zoom</a> 
+  	<a href="{{sess.slack}}" target="_blank">Discuss Before, During, and After on Slack</a>
 </div>
 {%- else -%}
 <div class="icon-bar">
 	{%- if sess.playlist.size >0 -%}
   	<a href="{{sess.playlist}}">Session playlist</a> 
   	{%- endif -%}    
-  	<a href="{{sess.zoom}}">Go to the Session Discussion on Zoom</a> 
-  	<a href="{{sess.slack}}">Discuss Before, During, and After on Slack</a>
+  	<a href="{{sess.zoom}}" target="_blank">Go to the Session Discussion on Zoom</a> 
+  	<a href="{{sess.slack}}" target="_blank">Discuss Before, During, and After on Slack</a>
 </div>
 {%- endif -%}
 
