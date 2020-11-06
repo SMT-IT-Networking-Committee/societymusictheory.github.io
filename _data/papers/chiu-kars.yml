@@ -2,6 +2,8 @@
 authors:
     - name: Matt Chiu 
       institution: Eastman School of Music
+      bio: |
+        <p>Matt Chiu is a Ph.D. student at the Eastman School of Music. Prior to Eastman, Matt received degrees from Boston University (MM) and the University of Connecticut (BM). His recent interests connect computational models to perception, drawing on the interdisciplinary aid of natural language processing, audio engineering, and machine learning.</p>
     - name: Noah Kahrs 
       institution: Eastman School of Music      
 title: "Chord Spacing and Quality: Lessons from Timbre Research"
