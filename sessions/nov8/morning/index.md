@@ -7,7 +7,7 @@ title: Saturday Morning, Nov. 8
 
 
 ## 9:00–9:45 CST
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/YEKJ4Pn3ieCXgggmB">Morning Mindfullness</a><span> (AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/YEKJ4Pn3ieCXgggmB">Morning Mindfulness</a><span> (AMS Platform)</span></p>
 
 ## 10:00–10:50 CST
 {% include session-short.html session="microrhythm-and-displacement" %}

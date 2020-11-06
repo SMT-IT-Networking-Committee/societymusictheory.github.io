@@ -43,7 +43,7 @@ title: Saturday, Nov. 7
 {% include session-short.html session="improvisation-ig" %}
 
 ## 2:30–4:00 CST
-<p class="non-session"><a href="https://live.remo.co/e/smt-executive-board-meet-and-gre">Welcome Break and Coffee Reception</a><span> (AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/waWzzQDJuBK7kgGwk">Welcome Break and Coffee Reception</a><span> (AMS Platform)</span></p>
 
 ## 3:00–5:00 CST
 <p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours </a><span>(AMS Platform)</span></p>
@@ -53,7 +53,7 @@ title: Saturday, Nov. 7
 {% include session-short.html session="graduate-student-workshop-murphy" %}
 
 ## 4:30–5:30 CST
-<p class="non-session"><a href="">SMT Executive Board Meet and Greet</a><span> (Remo)</span></p>
+<p class="non-session"><a href="https://live.remo.co/e/smt-executive-board-meet-and-gre">SMT Executive Board Meet and Greet</a><span> (Remo)</span></p>
 
 ## 6:00–7:30 CST
 <p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/ar4nSYcqyn84Z6k97">Listen and Unwind</a><span> (AMS Platform)</span></p>

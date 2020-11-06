@@ -7,7 +7,7 @@ title: Saturday Afternoon, Nov. 7
 
 
 ## 2:30–4:00 CST
-<p class="non-session"><a href="">Welcome Break and Coffee Reception</a><span> (AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/waWzzQDJuBK7kgGwk">Welcome Break and Coffee Reception</a><span> (AMS Platform)</span></p>
 
 ## 3:00–5:00 CST
 <p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours </a><span>(AMS Platform)</span></p>

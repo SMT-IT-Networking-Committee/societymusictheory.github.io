@@ -47,7 +47,7 @@ Saturday, November 7
 {% include session-short.html session="improvisation-ig" %}
 
 <h2>2:30–4:00</h2>
-<p class="non-session"><a href="https://live.remo.co/e/smt-executive-board-meet-and-gre">Welcome Break and Coffee Reception</a><span> (AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/waWzzQDJuBK7kgGwk">Welcome Break and Coffee Reception</a><span> (AMS Platform)</span></p>
 
 <h2>3:00–5:00</h2>
 <p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours </a><span>(AMS Platform)</span></p>
@@ -57,7 +57,7 @@ Saturday, November 7
 {% include session-short.html session="graduate-student-workshop-murphy" %}
 
 <h2>4:30–5:30</h2>
-<p class="non-session"><a href="">SMT Executive Board Meet and Greet</a><span> (Remo)</span></p>
+<p class="non-session"><a href="https://live.remo.co/e/smt-executive-board-meet-and-gre">SMT Executive Board Meet and Greet</a><span> (Remo)</span></p>
 
 <h2>6:00–7:30</h2>
 <p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/ar4nSYcqyn84Z6k97">Listen and Unwind</a><span> (AMS Platform)</span></p>
@@ -67,7 +67,7 @@ Saturday, November 7
 Sunday, November 8
 </summary>
 <h2>9:00–9:45</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/YEKJ4Pn3ieCXgggmB">Morning Mindfullness</a><span> (AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/YEKJ4Pn3ieCXgggmB">Morning Mindfulness</a><span> (AMS Platform)</span></p>
 
 <h2>10:00–10:50</h2>
 {% include session-short.html session="microrhythm-and-displacement" %}
@@ -198,7 +198,7 @@ Sunday, November 15
 </summary>
 
 <h2>9:00–9:45</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/3xjjpo63uxSWPbEQZ">Morning Mindfullness</a><span>(AMS Platform)</span>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/3xjjpo63uxSWPbEQZ">Morning Mindfulness</a><span>(AMS Platform)</span>
 </p>
 
 <h2>10:00–10:50</h2>
