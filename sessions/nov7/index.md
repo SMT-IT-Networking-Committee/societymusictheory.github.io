@@ -43,7 +43,7 @@ title: Saturday, Nov. 7
 {% include session-short.html session="improvisation-ig" %}
 
 ## 2:30–4:00 CST
-<p class="non-session"><a href="">Welcome Break and Coffee Reception</a><span class="room"> (AMS Platform)</span></p>
+<p class="non-session"><a href="https://live.remo.co/e/smt-executive-board-meet-and-gre">Welcome Break and Coffee Reception</a><span class="room"> (AMS Platform)</span></p>
 
 ## 3:00–5:00 CST
 <p class="non-session"><a href="">Exhibit Hall Open Hours </a><span class="room">(AMS Platform)</span></p>

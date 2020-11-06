@@ -7,7 +7,7 @@ title: Sunday Afternoon, Nov. 8
 
 
 ## 3:00–4:00 CST
-<p class="non-session"><a href="">Brown Bag Luncheon</a><span class="room"> (Remo)</span></p>
+<p class="non-session"><a href="https://live.remo.co/e/smt-cmte-on-the-status-of-women-">Brown Bag Luncheon</a><span class="room"> (Remo)</span></p>
 
 ## 3:00–4:50 CST
 <p class="non-session"><a href="">Coffee Break </a><span class="room">(AMS Platform)</span></p>
