@@ -8,7 +8,7 @@ title: Saturday, Nov. 8
 
 
 ## 9:00–9:45 CST
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/YEKJ4Pn3ieCXgggmB">Morning Mindfullness</a><span class="room"> (AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/YEKJ4Pn3ieCXgggmB">Morning Mindfullness</a><span> (AMS Platform)</span></p>
 
 ## 10:00–10:50 CST
 {% include session-short.html session="microrhythm-and-displacement" %}
@@ -34,7 +34,7 @@ title: Saturday, Nov. 8
 {% include session-short.html session="autographs-ig" %}
 
 ## 12:00–1:30 CST
-<p class="non-session"><a href="">Committee on Race and Ethnicity Travel Grant Luncheon, <em>for invited recipients only</em></a><span class="room"> (Remo)</span></p>
+<p class="non-session"><a href="">Committee on Race and Ethnicity Travel Grant Luncheon, <em>for invited recipients only</em></a><span> (Remo)</span></p>
 
 ## 1:00–1:50 CST
 {% include session-short.html session="period-and-cyclic-form-in-the-nineteenth-century" %}
@@ -51,23 +51,23 @@ title: Saturday, Nov. 8
 {% include session-short.html session="stories-from-the-frontlines" %}
 
 ## 3:00–4:00 CST
-<p class="non-session"><a href="https://live.remo.co/e/smt-cmte-on-the-status-of-women-">Brown Bag Luncheon</a><span class="room"> (Remo)</span></p>
+<p class="non-session"><a href="https://live.remo.co/e/smt-cmte-on-the-status-of-women-">Brown Bag Luncheon</a><span> (Remo)</span></p>
 
 ## 3:00–4:50 CST
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/FtnTFFbwqzn4qimGS">Coffee Break </a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/FtnTFFbwqzn4qimGS">Coffee Break </a><span>(AMS Platform)</span></p>
 
 ## 3:00–5:00 CST
-<p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours </a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours </a><span>(AMS Platform)</span></p>
 
 ## 3:00–5:30 CST
-<p class="non-session"><a href="/graduate-fair">Graduate School Fair</a><span class="room"></span>
+<p class="non-session"><a href="/graduate-fair">Graduate School Fair</a><span></span>
 </p>
 
 ## 5:00–6:30 CST
 {% include session-short.html session="music-interculturality-scopes-methods-approaches" %}
 
 ## 6:00–7:30 CST
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/Ee2fK9u4JovtaBbB8">Listen and Unwind </a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/Ee2fK9u4JovtaBbB8">Listen and Unwind </a><span>(AMS Platform)</span>
 </p>
 
 ## 6:00–8:00 CST

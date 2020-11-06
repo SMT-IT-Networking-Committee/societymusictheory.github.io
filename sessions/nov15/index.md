@@ -9,7 +9,7 @@ title: Sunday, Nov. 15
 
 
 ## 9:00–9:45 CST
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/3xjjpo63uxSWPbEQZ">Morning Mindfullness</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/3xjjpo63uxSWPbEQZ">Morning Mindfullness</a><span>(AMS Platform)</span>
 </p>
 
 ## 10:00–10:50 CST
@@ -64,7 +64,7 @@ title: Sunday, Nov. 15
 {% include session-short.html session="substantial-similarity-and-the-role-of-forensic-musicology" %}
 
 ## 6:00–7:30 CST
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/7k568eMsNyzg2qZF6">Listen and Unwind </a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/7k568eMsNyzg2qZF6">Listen and Unwind </a><span>(AMS Platform)</span>
 </p>
 
 ## 6:00–8:30 CST

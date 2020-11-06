@@ -7,7 +7,7 @@ title: Saturday Morning, Nov. 7
 
 
 ## 9:00–9:45 CST
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/qRThe8fTsvZPjcHhz">Morning Yoga Session</a><span class="room"> (AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/qRThe8fTsvZPjcHhz">Morning Yoga Session</a><span> (AMS Platform)</span></p>
 
 ## 10:00–10:50 CST
 {% include session-short.html session="chinese-music-theory" %}

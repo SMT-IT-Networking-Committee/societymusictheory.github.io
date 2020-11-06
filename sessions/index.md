@@ -14,7 +14,7 @@ Saturday, November 7
 </summary>
 
 <h2>9:00–9:45 CST</h2>
-<p class="non-session"><a href="">Morning Meditation</a><span class="room"> (AMS Platform)</span></p>
+<p class="non-session"><a href="">Morning Meditation</a><span> (AMS Platform)</span></p>
 
 <h2>10:00–10:50 CST</h2>
 {% include session-short.html session="chinese-music-theory" %}
@@ -48,21 +48,21 @@ Saturday, November 7
 {% include session-short.html session="improvisation-ig" %}
 
 <h2>2:30–4:00 CST</h2>
-<p class="non-session"><a href="">Welcome Break and Coffee Reception</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="">Welcome Break and Coffee Reception</a><span>(AMS Platform)</span>
 </p>
 
 <h2>3:00–5:00 CST</h2>
-<p class="non-session"><a href="">Exhibit Hall Open Hours </a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="">Exhibit Hall Open Hours </a><span>(AMS Platform)</span></p>
 
 <h2>3:30–5:30 CST</h2>
 {% include session-short.html session="graduate-student-workshop-gawboy" %}
 {% include session-short.html session="graduate-student-workshop-murphy" %}
 
 <h2>4:30–5:30 CST</h2>
-<p class="non-session"><a href="">SMT Executive Board Meet and Great</a><span class="room"> (Remo)</span></p>
+<p class="non-session"><a href="">SMT Executive Board Meet and Great</a><span> (Remo)</span></p>
 
 <h2>6:00–7:30 CST</h2>
-<p class="non-session"><a href="">Listen and Unwind</a><span class="room"> (AMS Platform)</span></p>
+<p class="non-session"><a href="">Listen and Unwind</a><span> (AMS Platform)</span></p>
 </details>
 <details>
 <summary>
@@ -70,7 +70,7 @@ Sunday, November 8
 </summary>
 
 <h2>9:00–9:45 CST</h2>
-<p class="non-session"><a href="">Morning Meditation</a><span class="room"> (AMS Platform)</span></p>
+<p class="non-session"><a href="">Morning Meditation</a><span> (AMS Platform)</span></p>
 
 <h2>10:00–10:50 CST</h2>
 {% include session-short.html session="microrhythm-and-displacement" %}
@@ -96,7 +96,7 @@ Sunday, November 8
 {% include session-short.html session="autographs-ig" %}
 
 <h2>12:00–1:30 CST</h2>
-<p class="non-session"><a href="">Committee on Race and Ethnicity Travel Grant Luncheon</a><span class="room"> (Remo)</span>
+<p class="non-session"><a href="">Committee on Race and Ethnicity Travel Grant Luncheon</a><span> (Remo)</span>
 </p>
 
 <h2>1:00–1:50 CST</h2>
@@ -114,23 +114,23 @@ Sunday, November 8
 {% include session-short.html session="stories-from-the-frontlines" %}
 
 <h2>3:00–4:00 CST</h2>
-<p class="non-session"><a href="">Brown Bag Luncheon</a><span class="room"> (Remo)</span></p>
+<p class="non-session"><a href="">Brown Bag Luncheon</a><span> (Remo)</span></p>
 
 <h2>3:00–4:50 CST</h2>
-<p class="non-session"><a href="">Coffee Break </a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="">Coffee Break </a><span>(AMS Platform)</span></p>
 
 <h2>3:00–5:00 CST</h2>
-<p class="non-session"><a href="">Exhibit Hall Open Hours </a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="">Exhibit Hall Open Hours </a><span>(AMS Platform)</span></p>
 
 <h2>3:00–5:30 CST</h2>
-<p class="non-session"><a href="/graduate-fair">Graduate School Fair</a><span class="room"></span>
+<p class="non-session"><a href="/graduate-fair">Graduate School Fair</a><span></span>
 </p>
 
 <h2>5:00–6:30 CST</h2>
 {% include session-short.html session="music-interculturality-scopes-methods-approaches" %}
 
 <h2>6:00–7:30 CST</h2>
-<p class="non-session"><a href="">Listen and Unwind </a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="">Listen and Unwind </a><span>(AMS Platform)</span>
 </p>
 
 <h2>6:00–8:00 CST</h2>
@@ -142,7 +142,7 @@ Saturday, November 14
 </summary>
 
 <h2>9:00–9:45 CST</h2>
-<p class="non-session"><a href="">Morning Meditation</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="">Morning Meditation</a><span>(AMS Platform)</span>
 </p>
 
 <h2>10:00–10:50 CST</h2>
@@ -182,7 +182,7 @@ Saturday, November 14
 {% include session-short.html session="plenary" %}
 
 <h2>3:00–4:50 CST</h2>
-<p class="non-session"><a href="">Coffee Break </a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="">Coffee Break </a><span>(AMS Platform)</span></p>
 
 <h2>3:00–5:00 CST</h2>
 <p class="non-session"><a href="">Exhibit Hall Open Hours</a>(AMS Platform)</p>
@@ -194,7 +194,7 @@ Saturday, November 14
 {% include session-short.html session="modulations-and-intersections-disability-and-the-uncritical-role-of-music" %}
 
 <h2>6:00–7:30 CST</h2>
-<p class="non-session"><a href="">Listen and Unwind </a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="">Listen and Unwind </a><span>(AMS Platform)</span>
 </p>
 </details>
 <details>
@@ -203,7 +203,7 @@ Sunday, November 15
 </summary>
 
 <h2>9:00–9:45 CST</h2>
-<p class="non-session"><a href="">Morning Meditation</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="">Morning Meditation</a><span>(AMS Platform)</span>
 </p>
 
 <h2>10:00–10:50 CST</h2>
@@ -252,7 +252,7 @@ Sunday, November 15
 {% include session-short.html session="substantial-similarity-and-the-role-of-forensic-musicology" %}
 
 <h2>6:00–8:00 CST</h2>
-<p class="non-session"><a href="">Listen and Unwind </a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="">Listen and Unwind </a><span>(AMS Platform)</span>
 </p>
 
 <h2>6:00–8:30 CST</h2>

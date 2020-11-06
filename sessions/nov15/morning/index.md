@@ -7,7 +7,7 @@ title: Sunday Morning, Nov. 15
 
 
 ## 9:00–9:45 CST
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/3xjjpo63uxSWPbEQZ">Morning Mindfullness</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/3xjjpo63uxSWPbEQZ">Morning Mindfullness</a><span>(AMS Platform)</span>
 </p>
 
 ## 10:00–10:50 CST

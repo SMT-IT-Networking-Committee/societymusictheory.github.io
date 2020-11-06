@@ -13,7 +13,7 @@ title: Sunday Midday, Nov. 8
 {% include session-short.html session="autographs-ig" %}
 
 ## 12:00–1:30 CST
-<p class="non-session">Committee on Race and Ethnicity Travel Grant Luncheon, <em>for invited recipients only</em><span class="room"> (Remo)</span></p>
+<p class="non-session">Committee on Race and Ethnicity Travel Grant Luncheon, <em>for invited recipients only</em><span> (Remo)</span></p>
 
 ## 1:00–1:50 CST
 {% include session-short.html session="period-and-cyclic-form-in-the-nineteenth-century" %}
