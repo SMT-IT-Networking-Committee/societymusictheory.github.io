@@ -9,7 +9,7 @@ title: Saturday, Nov. 14
 
 
 ## 9:00–9:45 CST
-<p class="non-session"><a href="">Morning Meditation</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/dvvTsZPw8bufn8HXi">Morning Yoga</a><span class="room">(AMS Platform)</span>
 </p>
 
 ## 10:00–10:50 CST
@@ -48,10 +48,10 @@ title: Saturday, Nov. 14
 {% include session-short.html session="plenary" %}
 
 ## 3:00–4:50 CST
-<p class="non-session"><a href="">Coffee Break </a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/hAAESwq9Jmf2otrTL">Coffee Break </a><span class="room">(AMS Platform)</span></p>
 
 ## 3:00–5:00 CST
-<p class="non-session"><a href="">Exhibit Hall Open Hours</a>(AMS Platform)</p>
+<p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours</a>(AMS Platform)</p>
 
 ## 4:00–4:50 CST
 {% include session-short.html session="meaningless-excitement-and-smooth-atonal-sound" %}
@@ -60,5 +60,5 @@ title: Saturday, Nov. 14
 {% include session-short.html session="modulations-and-intersections-disability-and-the-uncritical-role-of-music" %}
 
 ## 6:00–7:30 CST
-<p class="non-session"><a href="">Listen and Unwind </a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/7k568eMsNyzg2qZF6">Listen and Unwind </a><span class="room">(AMS Platform)</span>
 </p>

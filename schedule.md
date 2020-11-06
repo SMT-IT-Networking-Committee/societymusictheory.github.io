@@ -7,8 +7,9 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 
 # Saturday, November 7
 
+
 ## 9:00–9:45 CST
-<p class="non-session"><a href="">Morning Meditation</a><span class="room"> (AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/qRThe8fTsvZPjcHhz">Morning Yoga Session</a><span class="room"> (AMS Platform)</span></p>
 
 ## 10:00–10:50 CST
 {% include session-short.html session="chinese-music-theory" %}
@@ -28,7 +29,6 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="form-poster" %}
 {% include session-short.html session="music-cognition-ig" %}
 
-
 ## 1:00–1:50 CST
 {% include session-short.html session="on-rotational-form" %}
 {% include session-short.html session="musical-experience-in-time-and-space" %}
@@ -42,28 +42,28 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="improvisation-ig" %}
 
 ## 2:30–4:00 CST
-<p class="non-session"><a href="">Welcome Break and Coffee Reception</a><span class="room">(AMS Platform)</span>
-</p>
+<p class="non-session"><a href="https://live.remo.co/e/smt-executive-board-meet-and-gre">Welcome Break and Coffee Reception</a><span class="room"> (AMS Platform)</span></p>
 
 ## 3:00–5:00 CST
-<p class="non-session"><a href="">Exhibit Hall Open Hours</a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours </a><span class="room">(AMS Platform)</span></p>
 
 ## 3:30–5:30 CST
 {% include session-short.html session="graduate-student-workshop-gawboy" %}
 {% include session-short.html session="graduate-student-workshop-murphy" %}
 
 ## 4:30–5:30 CST
-<p class="non-session"><a href="">SMT Executive Board Meet and Great</a><span class="room"> (Remo)</span></p>
+<p class="non-session"><a href="">SMT Executive Board Meet and Greet</a><span class="room"> (Remo)</span></p>
 
 ## 6:00–7:30 CST
-<p class="non-session"><a href="">Listen and Unwind</a><span class="room"> (AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/ar4nSYcqyn84Z6k97">Listen and Unwind</a><span class="room"> (AMS Platform)</span></p>
 
 
 <br>
 # Sunday, November 8
 
+
 ## 9:00–9:45 CST
-<p class="non-session"><a href="">Morning Meditation</a><span class="room"> (AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/YEKJ4Pn3ieCXgggmB">Morning Mindfullness</a><span class="room"> (AMS Platform)</span></p>
 
 ## 10:00–10:50 CST
 {% include session-short.html session="microrhythm-and-displacement" %}
@@ -89,8 +89,7 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="autographs-ig" %}
 
 ## 12:00–1:30 CST
-<p class="non-session"><a href="">Committee on Race and Ethnicity Travel Grant Luncheon</a><span class="room"> (Remo)</span>
-</p>
+<p class="non-session"><a href="">Committee on Race and Ethnicity Travel Grant Luncheon, <em>for invited recipients only</em></a><span class="room"> (Remo)</span></p>
 
 ## 1:00–1:50 CST
 {% include session-short.html session="period-and-cyclic-form-in-the-nineteenth-century" %}
@@ -107,13 +106,13 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="stories-from-the-frontlines" %}
 
 ## 3:00–4:00 CST
-<p class="non-session"><a href="">Brown Bag Luncheon</a><span class="room"> (Remo)</span></p>
+<p class="non-session"><a href="https://live.remo.co/e/smt-cmte-on-the-status-of-women-">Brown Bag Luncheon</a><span class="room"> (Remo)</span></p>
 
 ## 3:00–4:50 CST
-<p class="non-session"><a href="">Coffee Break</a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/FtnTFFbwqzn4qimGS">Coffee Break </a><span class="room">(AMS Platform)</span></p>
 
 ## 3:00–5:00 CST
-<p class="non-session"><a href="">Exhibit Hall Open Hours</a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours </a><span class="room">(AMS Platform)</span></p>
 
 ## 3:00–5:30 CST
 <p class="non-session"><a href="/graduate-fair">Graduate School Fair</a><span class="room"></span>
@@ -123,7 +122,7 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="music-interculturality-scopes-methods-approaches" %}
 
 ## 6:00–7:30 CST
-<p class="non-session"><a href="">Listen and Unwind</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/Ee2fK9u4JovtaBbB8">Listen and Unwind </a><span class="room">(AMS Platform)</span>
 </p>
 
 ## 6:00–8:00 CST
@@ -132,8 +131,11 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 <br>
 # Saturday, November 14
 
+# Saturday, November 14
+
+
 ## 9:00–9:45 CST
-<p class="non-session"><a href="">Morning Meditation</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/dvvTsZPw8bufn8HXi">Morning Yoga</a><span class="room">(AMS Platform)</span>
 </p>
 
 ## 10:00–10:50 CST
@@ -151,7 +153,6 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="scripts-schemas-prototypes" %}
 {% include session-short.html session="popular-music-ig" %}
 {% include session-short.html session="music-and-disability-ig" %}
-
 
 ## 12:00–12:50 CST
 {% include session-short.html session="gesture-the-mimetic-hypothesis-musical-feels" %}
@@ -173,10 +174,10 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="plenary" %}
 
 ## 3:00–4:50 CST
-<p class="non-session"><a href="">Coffee Break</a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/hAAESwq9Jmf2otrTL">Coffee Break </a><span class="room">(AMS Platform)</span></p>
 
 ## 3:00–5:00 CST
-<p class="non-session"><a href="">Exhibit Hall Open Hours</a>(AMS Platform)</p>
+<p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours</a>(AMS Platform)</p>
 
 ## 4:00–4:50 CST
 {% include session-short.html session="meaningless-excitement-and-smooth-atonal-sound" %}
@@ -185,14 +186,15 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="modulations-and-intersections-disability-and-the-uncritical-role-of-music" %}
 
 ## 6:00–7:30 CST
-<p class="non-session"><a href="">Listen and Unwind</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/7k568eMsNyzg2qZF6">Listen and Unwind </a><span class="room">(AMS Platform)</span>
 </p>
 
 <br>
-# Sunday, November 15
+# Sunday, November 15, 9:00–12:00 CST
+
 
 ## 9:00–9:45 CST
-<p class="non-session"><a href="">Morning Meditation</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/3xjjpo63uxSWPbEQZ">Morning Mindfullness</a><span class="room">(AMS Platform)</span>
 </p>
 
 ## 10:00–10:50 CST
@@ -208,6 +210,9 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 {% include session-short.html session="balanchine" %}
 
 ## 11:30-12:45 CST
+{% include session-short.html session="using-open-educational-resources" %}
+
+## 11:30–12:45 CST
 {% include session-short.html session="using-open-educational-resources" %}
 
 ## 12:00–12:50 CST
@@ -231,24 +236,21 @@ Click the triangle to see session details, or go directly to the Zoom discussion
 ## 3:00–3:15 CST
 {% include session-short.html session="awards" %}
 
+## 3:00–3:15 CST
+{% include session-short.html session="awards" %}
+
 ## 3:00–4:50 CST
-<p class="non-session"><a href="">Coffee Break</a></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/scXJgkaqzdcd4nzRn">Coffee Break</a></p>
 
 ## 3:00–5:00 CST
-<p class="non-session"><a href="">Exhibit Hall Open</a></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours</a></p>
 
 ## 5:00–5:50 CST
 {% include session-short.html session="substantial-similarity-and-the-role-of-forensic-musicology" %}
 
-## 6:00–8:00 CST
-<p class="non-session"><a href="">Listen and Unwind</a><span class="room">(AMS Platform)</span>
+## 6:00–7:30 CST
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/7k568eMsNyzg2qZF6">Listen and Unwind </a><span class="room">(AMS Platform)</span>
 </p>
 
 ## 6:00–8:30 CST
 {% include session-short.html session="pedagogy-for-the-public" %}
-
-
-
-
-
-

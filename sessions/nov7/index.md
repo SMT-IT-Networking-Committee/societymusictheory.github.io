@@ -10,7 +10,7 @@ title: Saturday, Nov. 7
 
 
 ## 9:00–9:45 CST
-<p class="non-session"><a href="">Morning Meditation</a><span class="room"> (AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/qRThe8fTsvZPjcHhz">Morning Yoga Session</a><span class="room"> (AMS Platform)</span></p>
 
 ## 10:00–10:50 CST
 {% include session-short.html session="chinese-music-theory" %}
@@ -46,7 +46,7 @@ title: Saturday, Nov. 7
 <p class="non-session"><a href="https://live.remo.co/e/smt-executive-board-meet-and-gre">Welcome Break and Coffee Reception</a><span class="room"> (AMS Platform)</span></p>
 
 ## 3:00–5:00 CST
-<p class="non-session"><a href="">Exhibit Hall Open Hours </a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours </a><span class="room">(AMS Platform)</span></p>
 
 ## 3:30–5:30 CST
 {% include session-short.html session="graduate-student-workshop-gawboy" %}
@@ -56,7 +56,7 @@ title: Saturday, Nov. 7
 <p class="non-session"><a href="">SMT Executive Board Meet and Greet</a><span class="room"> (Remo)</span></p>
 
 ## 6:00–7:30 CST
-<p class="non-session"><a href="">Listen and Unwind</a><span class="room"> (AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/ar4nSYcqyn84Z6k97">Listen and Unwind</a><span class="room"> (AMS Platform)</span></p>
 
 
 

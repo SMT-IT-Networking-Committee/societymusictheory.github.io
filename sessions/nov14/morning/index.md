@@ -7,7 +7,7 @@ title: Saturday Morning, Nov. 14
 
 
 ## 9:00–9:45 CST
-<p class="non-session"><a href="">Morning Meditation</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/dvvTsZPw8bufn8HXi">Morning Yoga</a><span class="room">(AMS Platform)</span>
 </p>
 
 ## 10:00–10:50 CST

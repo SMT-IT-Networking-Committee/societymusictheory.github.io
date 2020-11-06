@@ -10,10 +10,10 @@ title: Sunday Afternoon, Nov. 15
 {% include session-short.html session="awards" %}
 
 ## 3:00–4:50 CST
-<p class="non-session"><a href="">Coffee Break</a></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/scXJgkaqzdcd4nzRn">Coffee Break</a></p>
 
 ## 3:00–5:00 CST
-<p class="non-session"><a href="">Exhibit Hall Open</a></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours</a></p>
 
 ## 5:00–5:50 CST
 {% include session-short.html session="substantial-similarity-and-the-role-of-forensic-musicology" %}

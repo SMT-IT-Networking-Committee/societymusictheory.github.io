@@ -7,7 +7,7 @@ title: Saturday Evening, Nov. 7
 
 
 ## 6:00–7:30 CST
-<p class="non-session"><a href="">Listen and Unwind</a><span class="room"> (AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/ar4nSYcqyn84Z6k97">Listen and Unwind</a><span class="room"> (AMS Platform)</span></p>
 
 
 

@@ -9,7 +9,7 @@ title: Sunday, Nov. 15
 
 
 ## 9:00–9:45 CST
-<p class="non-session"><a href="">Morning Meditation</a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/3xjjpo63uxSWPbEQZ">Morning Mindfullness</a><span class="room">(AMS Platform)</span>
 </p>
 
 ## 10:00–10:50 CST
@@ -55,16 +55,16 @@ title: Sunday, Nov. 15
 {% include session-short.html session="awards" %}
 
 ## 3:00–4:50 CST
-<p class="non-session"><a href="">Coffee Break</a></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/scXJgkaqzdcd4nzRn">Coffee Break</a></p>
 
 ## 3:00–5:00 CST
-<p class="non-session"><a href="">Exhibit Hall Open</a></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours</a></p>
 
 ## 5:00–5:50 CST
 {% include session-short.html session="substantial-similarity-and-the-role-of-forensic-musicology" %}
 
-## 6:00–8:00 CST
-<p class="non-session"><a href="">Listen and Unwind </a><span class="room">(AMS Platform)</span>
+## 6:00–7:30 CST
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/7k568eMsNyzg2qZF6">Listen and Unwind </a><span class="room">(AMS Platform)</span>
 </p>
 
 ## 6:00–8:30 CST

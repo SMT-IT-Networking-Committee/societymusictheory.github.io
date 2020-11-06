@@ -8,7 +8,7 @@ title: Saturday, Nov. 8
 
 
 ## 9:00–9:45 CST
-<p class="non-session"><a href="">Morning Meditation</a><span class="room"> (AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/YEKJ4Pn3ieCXgggmB">Morning Mindfullness</a><span class="room"> (AMS Platform)</span></p>
 
 ## 10:00–10:50 CST
 {% include session-short.html session="microrhythm-and-displacement" %}
@@ -54,10 +54,10 @@ title: Saturday, Nov. 8
 <p class="non-session"><a href="https://live.remo.co/e/smt-cmte-on-the-status-of-women-">Brown Bag Luncheon</a><span class="room"> (Remo)</span></p>
 
 ## 3:00–4:50 CST
-<p class="non-session"><a href="">Coffee Break </a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/FtnTFFbwqzn4qimGS">Coffee Break </a><span class="room">(AMS Platform)</span></p>
 
 ## 3:00–5:00 CST
-<p class="non-session"><a href="">Exhibit Hall Open Hours </a><span class="room">(AMS Platform)</span></p>
+<p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours </a><span class="room">(AMS Platform)</span></p>
 
 ## 3:00–5:30 CST
 <p class="non-session"><a href="/graduate-fair">Graduate School Fair</a><span class="room"></span>
@@ -67,7 +67,7 @@ title: Saturday, Nov. 8
 {% include session-short.html session="music-interculturality-scopes-methods-approaches" %}
 
 ## 6:00–7:30 CST
-<p class="non-session"><a href="">Listen and Unwind </a><span class="room">(AMS Platform)</span>
+<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/Ee2fK9u4JovtaBbB8">Listen and Unwind </a><span class="room">(AMS Platform)</span>
 </p>
 
 ## 6:00–8:00 CST
