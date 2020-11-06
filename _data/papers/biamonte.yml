@@ -10,7 +10,7 @@ video:
       path: "469824085"
 handouts:
     - desc: Script
-      path: Biamonte_script.pdf
+      path: Biamonte_script_1.pdf
       external: 
     - desc: Slides
       path: Biamonte_slides.pdf
