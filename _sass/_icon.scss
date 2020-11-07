@@ -34,3 +34,36 @@
 .active {
     background-color: #4CAF50;
 }
+
+
+.icon-bar {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: $background-color;
+    overflow: auto;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 27px;
+}
+
+.icon-bar-warning p {
+    display: flex;
+	justify-content: center; 
+	align-items: center; 
+    text-align: center;
+    height: auto;
+    width: 70%;
+	padding:0.3em 1.2em;
+    transition: all 0.3s ease;
+    color: $background-color;
+    font-size: $small-font-size;
+    background-color: #C0392B;
+	border: 1em darken(#C0392B, 50%);
+	border-radius:2em;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+
