@@ -110,7 +110,7 @@ Sunday, November 8
 {% include session-short.html session="stories-from-the-frontlines" %}
 
 <h2>3:00–4:00</h2>
-<p class="non-session"><a href="https://live.remo.co/e/smt-cmte-on-the-status-of-women-">Committee on the Status of Women Brown Bag Luncheon</a><span> (Remo)</span></p>
+<p class="non-session"><a href="https://live.remo.co/e/smt-cmte-on-the-status-of-women-">Committee on the Status of Women Brown Bag Luncheon, <em>Open to all!</em>/a><span> (Remo)</span></p>
 
 <h2>3:00–4:50</h2>
 <p class="non-session"><a href="https://ams2020.pathable.co/meetings/FtnTFFbwqzn4qimGS">Coffee Break </a><span>(AMS Platform)</span></p>
