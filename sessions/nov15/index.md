@@ -27,9 +27,6 @@ title: Sunday, Nov. 15
 ## 11:30-12:45 CST
 {% include session-short.html session="using-open-educational-resources" %}
 
-## 11:30–12:45 CST
-{% include session-short.html session="using-open-educational-resources" %}
-
 ## 12:00–12:50 CST
 {% include session-short.html session="postwar-transformations-of-the-american-common-stock" %}
 {% include session-short.html session="reconsidering-schenker-and-hierarchy" %}
@@ -47,9 +44,6 @@ title: Sunday, Nov. 15
 
 ## 2:30–3:00 CST
 {% include session-short.html session="smt-business-meeting" %}
-
-## 3:00–3:15 CST
-{% include session-short.html session="awards" %}
 
 ## 3:00–3:15 CST
 {% include session-short.html session="awards" %}

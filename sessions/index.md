@@ -216,9 +216,6 @@ Sunday, November 15
 <h2>11:30-12:45</h2>
 {% include session-short.html session="using-open-educational-resources" %}
 
-<h2>11:30–12:45</h2>
-{% include session-short.html session="using-open-educational-resources" %}
-
 <h2>12:00–12:50</h2>
 {% include session-short.html session="postwar-transformations-of-the-american-common-stock" %}
 {% include session-short.html session="reconsidering-schenker-and-hierarchy" %}
@@ -236,9 +233,6 @@ Sunday, November 15
 
 <h2>2:30–3:00</h2>
 {% include session-short.html session="smt-business-meeting" %}
-
-<h2>3:00–3:15</h2>
-{% include session-short.html session="awards" %}
 
 <h2>3:00–3:15</h2>
 {% include session-short.html session="awards" %}
