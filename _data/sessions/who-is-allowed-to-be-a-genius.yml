@@ -8,6 +8,7 @@ playlist:
 slack: https://smt-2020.slack.com/archives/C01D2UMC3S4
 zoom: https://us02web.zoom.us/j/82387188557
 passcode: 168339
+archive: https://vimeo.com/479951616/
 chair:
     name: Judith Lochhead
     institution: Stonybrook University
@@ -22,5 +23,4 @@ papers:
     - straus
     - shand
     - luong-meyers
-abstract: |
-    <h2><a href="https://vimeo.com/user124701555/review/479951616/c09abb4613">Recording of the CSW Session</a></h2><br>
+        
