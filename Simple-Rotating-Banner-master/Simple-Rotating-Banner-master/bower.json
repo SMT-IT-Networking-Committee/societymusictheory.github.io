@@ -1,0 +1,14 @@
+{
+    "name" : "simplebanner",
+    "version" : "1.2.0",
+    "main" : ["jquery.simplebanner.min.js","jquery.simplebanner.css"],
+    "dependencies" : {
+        "jquery" : ">=1.7.0"
+    },
+    "ignore" : [
+        "samples",
+        "readme.md",
+        "simplebanner.jquery.json",
+        "demo.html"
+    ]
+}
