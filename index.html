@@ -1,16 +1,41 @@
 ---
 layout: home-default
 ---
-
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="css/jquery.simplebanner.css"/>
+		<script type="text/javascript" src="js/jquery-3.6.0.min.js"></script>
+		<script type="text/javascript" src="js/jquery.simplebanner.js"></script>
+		
+		<script type="text/javascript">
+			$(document).ready(function(){
+				$('.simpleBanner').simplebanner();
+			});
+		</script>
+  </head>
 <div class="home">
 
 <div class="icon-bar-warning">
-  	<p>Make sure that you have updated your Zoom app before joining any synchronous Q&As. Questions? Email support@societymusictheory.org.</p>  
+  	<p>Make sure that you have updated your Zoom app before joining any synchronous Q&As. Questions? Email support@societymusictheory.org.</p>
 </div>
 
+<div id="rotating" class="simpleBanner">
+	<div class="bannerListWpr">
+		<ul class="bannerList">
+			<!-- LI list goes here -->
+			<li><img src="img/ads/artusi.jpg" /></li>
+			<li><img src="img/ads/columbus-brew.jpg" /></li>
+			<li><img src="img/ads/columbus-leasing.jpg" /></li>
+			<li><img src="img/ads/cpe-bach.jpg" /></li>
+			<li><img src="img/ads/duke.jpg" /></li>
+			<li><img src="img/ads/eastman.jpg" /></li>
+		</ul>
+	</div>
+	<div class="bannerControlsWpr bannerControlsPrev"><div class="bannerControls"></div></div>
+	<div class="bannerIndicators"><ul></ul></div>
+	<div class="bannerControlsWpr bannerControlsNext"><div class="bannerControls"></div></div>
+</div>
 
-
-    
     <h1>Welcome from the SMT</h1>
     <p>Welcome to the first joint virtual conference for AMS and SMT! We pride ourselves in taking the challenges of the COVID era and creating a virtual conference that will exceed the traditional conference experience while minimizing our carbon footprint. We offer the most diverse program of presentations for any SMT conference yet, with the opportunity to view presentations in-depth before the conference, and to interact in real-time with the authors during a session. Similarly, we hope you will take advantage of the enlarged poster sessions &ndash; a highlight of last year&rsquo;s conference&mdash;in a format that allows you view materials at your leisure before interacting with the presenter.</p>
 	<p>One of the recurring themes in the design of our program has been ﬂexibility: to view multiple sessions that would normally have been scheduled simultaneously; to register for AMS sessions, SMT sessions, or both; to take part in asynchronous Slack discussions after a session has ended.</p>
@@ -38,8 +63,8 @@ layout: home-default
 
     <h1>How do I find AMS sessions and meetings?</h2>
 
-    <p>Only joint AMS/SMT sessions, meetings, and events are accessible from this platform. These sessions and meeting are listed under the Complete Schedule tab or under Conference Sessions on this page. Click on the event you wish to attend, and you will be led to either Pathable (the platform that is hosting the AMS conference) or Remo (where select AMS/SMT social events are being held). 
-	
+    <p>Only joint AMS/SMT sessions, meetings, and events are accessible from this platform. These sessions and meeting are listed under the Complete Schedule tab or under Conference Sessions on this page. Click on the event you wish to attend, and you will be led to either Pathable (the platform that is hosting the AMS conference) or Remo (where select AMS/SMT social events are being held).
+
     <h1>Other helpful info</h2>
 
     	<ul>
@@ -49,7 +74,7 @@ layout: home-default
 
 </div>
 <div class="schedule">
-    <h1>Conference Events</h1>    
+    <h1>Conference Events</h1>
 
     <h2 style="margin-top: 0px;"><a href="sessions/nov7/">Saturday, November 7</a></h2>
     <ul>
@@ -87,3 +112,4 @@ layout: home-default
     </ul>
 
 </div>
+</html>
