@@ -1,16 +1,15 @@
 ---
 authors:
-    - name: Kristi Hardman
+    - name: Kristi Hardman 
       institution: The Graduate Center, CUNY
-      bio: |
-        <p>Kristi Hardman is a Ph.D. candidate in music theory at the Graduate Center, City University of New York. She holds bachelor’s degrees in music and education from the University of Manitoba and a master’s degree in music theory from the University of British Columbia.</p>
-        <p>Currently, she teaches music theory at Hunter College in New York. Kristi also serves as an associate editor for the <em>Analytical Approaches to World Music</em> journal. She has presented her research at numerous conferences, including the Society for Ethnomusicology, Analytical Approaches to World Music, the College Music Society, and IASPM. Her research interests include Indigenous music made in North America, popular music, computational analysis, timbre, rhythm and meter, text/music relations, and issues of transcription, all of which she is working to incorporate into her dissertation.</p>
-
-title: "The Acoustic Properties of Tanya Tagaq’s Vocal Sounds as Situated on Timbral Continua "
-video:
+      bio: 
+title: "The Vocal Backbeat as a Text Painting Device in Recent Mainstream Country Music"
+handouts:
+    - desc: Handout
+      path: 
     - desc: 
-      path: "470614160"
-abstract: |
-    <p>Tanya Tagaq is an experimental vocalist originally from Cambridge Bay, Nunavut, who regularly employs Inuit <em>katajjaq</em> (throat singing), as well as screams, moans, cries and whispers. Tagaq describes <em>katajjaq</em> sounds in two ways: (1) by inhalation or exhalation, and (2) as a low, deep growl or a high, pure pitch. Her description focuses on sound qualities, indicating an importance of timbre in her music. In contrast to the oppositional way that Tagaq categorizes these sounds and the timbral opposition charts of Cogan (1984), this paper suggests that the acoustic properties of Tanya Tagaq’s vocal sounds are best situated on a continua of relative values for various acoustic properties, allowing for a more in-depth comparison of the sounds.</p>
-    <p>Computer-assisted acoustic measurements show noticeable differences between all sounds used by Tagaq. First, I analyze recordings of Tagaq’s solo singing with Sonic Visualiser plugins for <em>RMS energy</em> (loudness), <em>periodicity</em> (noisiness), and <em>spectral centroid</em> (brightness). From this data, I establish the central tendency values for Tagaq’s sounds using descriptive statistical analysis. Based on this analysis, I construct continua of the acoustic properties of these sounds—a continuum of loudness, of noisiness, and of brightness. These continua provide a nuanced way of describing the subtle, but important, differences between Tagaq’s sounds. This exploratory method of analyzing the acoustic properties of musical sounds is not only useful for Tagaq’s vocal style but could also be applied to any other music using “extended” techniques where timbre plays a significant role.</p>
+      path: 
+abstract: | 
+    <p>This paper explores a text-music phenomenon, that I call <em>vocal backbeat,</em> which is used as a text painting device in much recent mainstream country music. Vocal backbeat occurs when phonetic accents and/or rhyming words appear on beats 2 and 4 of a 4/4 meter. In these vocal backbeats, beats 2 and 4 are also performatively stronger through phenomenal accents, including durational, dynamic, and/or pitch accents. </p>
+    <p>Vocal backbeat is often used as a text painting device in recent mainstream country music in order to create a sense of tension. In sections with vocal backbeat, there is a divorce between the phenomenal accents in the vocals and the conventional metric accents in the guitars and keyboards. Drawing on recent work on metric dissonance, text-music relationships, and positional listening (Attas 2015, Biamonte 2014, Covach 2020, Samarotto 1999, and Malawey 2020, among others), I suggest that, within the singer’s part, the backbeat feels like the strongest of the four beats, subverting our expectations of 4/4 meter. The tension between the parts usually accompanies a conflict in the song’s narrative. Once the conflict resolves in the lyrics, the patterns of accent in the vocals, guitars and keyboards reconcile as well. This paper will include analyses of songs by Carrie Underwood, Kane Brown, Eric Church, Jason Aldean, and Emerson Drive.</p>
 ---

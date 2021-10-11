@@ -1,15 +1,15 @@
 ---
 authors:
-    - name: Guy Capuzzo
-      institution: University of North Carolina at Greensboro
-title: "”Dance to the Dissonant Sway”: Groove, Headbanging, and Entrainment in Extreme Metal"
+    - name: Guy Capuzzo 
+      institution: University of North Carolina Greensboro
+      bio: 
+title: "Composition, Improvisation, and Macroharmony in Henry Threadgill’s <em>Sixfivetwo</em>"
 handouts:
-    - desc: Text
-      path: Capuzzo_Text.pdf
-      external: 
-    - desc: Examples
-      path: Capuzzo_Examples.pdf
-      external: 
-abstract: |
-    <p>Analytical studies of rhythm and meter in extreme metal stress the inseparable relation of musical content (repeated riffs or <em>grooves</em>) with the bodily motions of performers and fans (headbanging and/or moshing). To further analyze this relationship, this paper uses live performance videos and transcriptions of songs by Meshuggah and Animals as Leaders to illustrate how and why a single extreme metal groove can encourage and accommodate multiple modes of entrainment. I argue that these riffs create “targets for bodily motion” (Zbikowski 2004, 286) through (1) the interplay of grouping and meter and (2) the realization or denial of metric projections. To accomplish this, this paper synthesizes work on extreme metal (Hannan 2018; Lucas 2018; Pieslak 2007), grooves and embodiment (Cox 2011; Kozak 2018; Pressing 2002; Zbikowski 2004), and rhythm and meter (Lerdahl and Jackendoff 1983; Hasty 1997). The talk will demonstrate that the ability of extreme metal grooves to promote multiple modes of entrainment is an important stylistic marker, with ramifications that speak to broader issues in the study of music and movement.</p>
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>The music of Henry Threadgill (b. 1944), African-American composer/performer and 2016 Pulitzer Prize winner, strikes an innovative balance between composed and improvised elements. His influences include his activities with the Association for the Advancement of Creative Musicians (AACM), and the music of Varèse, and Carter. Threadgill’s music raises an interesting question about the coexistence of African-American and European traditions in 21<sup>st</sup>-century music: What methods might analysts use to describe the interaction between harmonic organization and improvisation in non-tonal settings? Building on work by Chad Taylor, Gareth Keany Hill, and Matthew Forker, I contend that attention to <em>macroharmony</em> will begin to answer this question. I use the <em>discrete Fourier transform</em> (DFT) to interpret macroharmonies and their harmonic qualities in <em>Sixfivetwo</em> (2018) for string quartet.</p>
+    <p>The picture that emerges from the paper’s analytic examples is one of striking coordinations between improvisation and composed harmonic structure. Macroharmony and the DFT offer a way to probe the interaction of harmonic organization and improvisation in <em>Sixfivetwo</em>. The results may lead to a deeper understanding of the music of a composer/performer described by the Pulitzer committee as “among the most important artists in jazz.” More broadly, the results may improve our understanding of other nontonal music in which composition, improvisation, European elements, and African-American elements play equal roles, particularly that of other AACM luminaries such as Anthony Braxton and George Lewis.</p>
 ---

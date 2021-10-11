@@ -1,38 +1,14 @@
 ---
 authors:
-    - name: Michèle Duguay
-      institution: The Graduate Center, CUNY
-      bio: |
-        <p>Michèle Duguay is a Ph.D. candidate in music theory at the Graduate Center, CUNY, where she also completed a Certificate Program in Women’s Studies. She currently teaches music theory at the City College of New York. Her research interests include the intersection of popular music analysis and gender studies, the construction of virtual space in recorded popular music, and gesture in contemporary piano music. Prior to her studies at the Graduate Center, she received an M.A. in music theory from McGill University and a B.Mus. from the University of Ottawa.</p>
-title: "Gendering the Virtual Space: Sonic Femininities and Masculinities in the Billboard charts, 2008–18"
-video:
-    - desc: 
-      path: "468554210"
+    - name: Michèle Duguay 
+      institution: Indiana University
+      bio: 
+title: "The Sonic Construction of White Femininity in the Music of Taylor Swift"
 handouts:
-    - desc: Script
-      path: Duguay_script.pdf
-      external: 
-    - desc: Audio File 1
-      path: Duguay_Audio File 1.wav
-      external: 
-    - desc: Audio File 2
-      path: Duguay_Audio File 2.wav
-      external: 
-    - desc: Audio File 3
-      path: Duguay_Audio File 3.wav
-      external:
-    - desc: Audio File 4
-      path: Duguay_Audio File 4.wav
-      external: 
-    - desc: Audio File 5
-      path: Duguay_Audio File 5.wav
-      external: 
-    - desc: Audio File 6
-      path: Duguay_Audio File 6.wav
-      external:
-    - desc: Audio File 7
-      path: Duguay_Audio File 7.wav
-      external:    
-abstract: |
-    <p>This paper establishes a methodology for analyzing virtual space—the sense of physical space evoked in a recording via reverberation, stereo placement, and other sonic parameters. More specifically, I analyze vocal placement—the apparent location of a voice within this virtual space. While these sonic features are a central concern for both mixing engineers and listeners, they are seldom analyzed. Existing music-theoretical approaches to the analysis of virtual space rely primarily on the analyst’s subjective perception (Moore &amp; Dockwray 2010; Camilleri 2010; Vad 2017; Zinser 2019). To complement these studies, I provide an empirical method using digital sound-processing tools to precisely locate recorded sound sources in virtual space. Through an analysis of the 2008–18 <em>Billboard</em> Year-end charts, I show how commercially successful songs frequently juxtapose wide and reverberant women’s voices with narrow and centered men’s voices. I argue that these contrasting vocal representations sonically construct a gender binary that is rarely challenged in the popular music industry, exemplifying one of the ways in which gender stereotypes are reinforced through the technological mediation of the voice. </p>
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>This paper analyzes the construction of white femininity in singer-songwriter Taylor Swift’s music. I contend that her album <em>Folklore</em> (2020) makes use of recording technology to create a sense of white femininity built through sonic markers of intimacy, domesticity, and isolation. In the track “Exile,” Swift vocally constructs a white and feminine persona that relies on sonic conventions and extramusical tropes of white-coded indie music. By emulating a private in-person performance setting that has not been altered by recording technology, Swift’s vocal placement depicts her as a neutral subject devoid of racial markers. This persona allows her to align with other white indie artists who have built their artistic identities through narratives of intimacy, isolation, and exile into nature. I draw on studies of whiteness in indie music (Delciampo 2019; Hsu 2019) to link the “cabin-in-the-woods” imagery at play in the music video with Swift’s aesthetic rebranding as an indie artist. Building on previous scholarship that analyzes musical representations of femininity (Hisama 1999, 2001; Heidemann 2014, 2016; Malawey 2020), this paper demonstrates how white womanhood, a hegemonic identity that is often depicted as natural or unmarked (Rowe 2008; Butler 2013), is constructed through sound.</p>
 ---

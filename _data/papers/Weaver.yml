@@ -1,0 +1,15 @@
+---
+authors:
+    - name: Charles Weaver 
+      institution: The Graduate Center, CUNY
+      bio: 
+title: "Messiaen’s Octatonic Voice Leading: A Neo-Riemannian Approach"
+handouts:
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>Olivier Messiaen's early compositions often feature his second mode of limited transposition—the octatonic scale—a collection whose symmetrical properties have long fascinated theorists. Analyses of these second-mode pieces, including analyses by Messiaen himself, are often content to identify which octatonic collection contain a particular series of chords. In this poster presentation, I show that this music can be analyzed more effectively with the algebraic tools of neo-Riemannian theory, in a manner inspired by Leah Frederick's recent research into diatonic voice-leading spaces.</p>
+    <p>In particular, I define an octatonic-step transformation, in which multiple voices move by successive parallel steps within an octatonic scale. Messiaen calls such progressions "parallel successions of chords," and they are a common surface feature of his music. Using a model that employs a mod-8 voice-leading space, I show that this transformation operates at more abstract levels as well, though its presence is often hidden by oblique or contrary contrapuntal motion on the surface. This model provides a fuller explanation of Messiaen's characteristic octatonicism than previous analyses.</p>
+---

@@ -1,12 +1,16 @@
 ---
 authors:
-    - name: Dustin Chau
+    - name: Dustin Chau 
       institution: University of Chicago
-title: "Gates’ Signifyin(g), Kane’s Ontology_ Jazz Standard Replications Through an Afrological Lens"
+      bio: 
+title: "Revisiting Kane’s Jazz Ontology: Signifyin(g) on Tune Titles"
 handouts:
-    - desc: Paper
-      path: "Gates’ Signifyin(g), Kane’s Ontology_ Jazz Standard Replications Through an Afrological Lens—Dustin Chau, University of Chicago.pdf"
-      external: 
-abstract: |
-    
-
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>Studies in “titology” (first coined by Harry Levin in 1977) generally agree that the function of titles go beyond designative labels. Take for example Jerrold Levinson in the <em>Journal of Aesthetics and Art Criticism</em>, who argues that “titles of artworks are plausibly <em>essential properties</em> of them, in many cases,” and that “The <em>title slot</em> for a work of art is never devoid of <em>aesthetic potential</em>; <em>how</em> it is filled, or that it is <em>not</em> filled, is always aesthetically relevant” (1985, 29). Primarily, titles initiate aesthetic experiences and interpretations of a work. How does this intersect with jazz theory and analysis?</p>
+    <p>Most related to this paper is Brian Kane’s study of jazz ontologies (2017), where he argues that the musical work of a jazz standard is an expanding network of related performances. His two key parameters consider the tune’s <em>replications</em>, associations between work-determinative properties (harmony, form, etc.), and <em>nominations</em>, associations between <u>names</u> of performances.</p>
+    <p>While Kane’s nominations function as assertions for node-to-network associations, Brent Hayes Edwards (2017) specifies some jazz-specific approaches to the naming tunes, notably surface appearance of code, insider status through outsider language, and motivation out of a related sense of play (among many others). This paper revisits Kane’s and Edwards’s approaches to titles through Henry Louis Gates Jr’s well-known theory of signifyin(g), which interprets literature through connotative relations of meaning (1988). I explore this territory with analytical examples drawn from Charlie Parker’s “Confirmation” and “Donna Lee” tune networks.</p>
+---

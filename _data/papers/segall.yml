@@ -1,15 +1,14 @@
 ---
-authors: 
-    - name: Christopher Segall
-      institution: University of Cincinnati
-      bio: |
-        <p><strong>Christopher Segall</strong> is Associate Professor of Music Theory at the College-Conservatory of Music, University of Cincinnati. He is contributing co-editor, with Inessa Bazayev, of <em>Analytical Approaches to 20th-Century Russian Music</em> (Routledge, 2020). His research on Russian music theory, musical transformation, and formal function appears in the <em>Journal of Music Theory</em>, <em>Journal of Musicology</em>, <em>Music Theory Online</em>, <em>Music Theory and Analysis</em>, <em>Theoria</em>, <em>Theory and Practice</em>, and <em>Music and Politics.</em></p>
-
-title: "Attingent Harmonic Function in Zara Levina’s Poem for Viola and Piano"
-video:
-    - desc: 
-      path: "470229789"
+authors:
+    - name: Christopher Segall 
+      institution: University of Cincinnati College-Conservatory of Music
+      bio: 
+title: "Sonata Form Without Main Theme"
 handouts:
-    - desc: Script
-      path: RussianIG.Segall_script.pdf
-
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>Theories of formal function view musical events in terms of beginnings, middles, and ends. These temporal locations are cued not just by literal position but also by musical characteristics. Form-functional theories furthermore posit that not all themes contain a beginning <em>and</em> a middle <em>and</em> an end. Some themes sound as though they begin “in the middle.” Lacking a beginning function, they start immediately with material associated with functional middles. I’ll expand this concept to a broader scale and examine sonata-form works whose expositions begin “in the middle,” bypassing main-theme function and proceeding directly to transition function. Such works—I offer Beethoven’s Op. 101 as a <em>locus classicus</em>—produce a complex temporal experience bound to a Romantic sensibility of listening and reinterpretation.</p>
+---

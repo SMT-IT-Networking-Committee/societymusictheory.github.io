@@ -1,0 +1,18 @@
+---
+authors:
+    - name:  Claire Arthur 
+      institution: Georgia Institute of Technology
+      bio: 
+    - name: Nathaniel Condit-Schultz 
+      institution: Georgia Institute of Technology
+      bio: 
+title: "Testing the “Loose-Verse, Tight-Chorus” Model: A Corpus Study of Melodic-Harmonic Divorce"
+handouts:
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>A seminal paper by Temperley (2007) drew attention to a phenomenon in Western popular music dubbed the “melodic-harmonic divorce,” a term he attributed to Alan Moore (1995). While a well-orchestrated relationship between melody and harmony is the lynchpin of Western common-practice music, Western popular music, on the other hand, frequently eschews the traditional formal rules of harmony and counterpoint.  Temperley, for instance, argues that pop/rock melodies are less likely than classical melodies to have non-chord tones (NCTs) resolve down by step, are more likely to have multiple NCTs in a row, or contain NCTs left unresolved.  The phenomenon is also argued to be more prominent in verse melodies than chorus melodies: a phenomenon coined by Temperley (2007) as the “loose-verse, tight-chorus” (LVTC) model.</p>
+    <p>In this paper we examine the propensity of the melodic-harmonic divorce phenomenon via a large-scale corpus analysis of a set of 414 expert-encoded popular melodies—dubbed <a href="https://github.com/Computational-Cognitive-Musicology-Lab/CoCoPops-Billboard">the “CoCoPops” project</a>, with 212 melodies pulled from Burgoyne et al.’s <em>McGill Billboard</em> corpus of harmonic annotations (Burgoyne et al., 2011),  as well as 200 melodies encoded as a part of the <a href="http://rockcorpus.midside.com/melodic_transcriptions.html">RS200 project</a> (Temperley &amp; deClercq)—with the aim of shedding light on the basic questions of when (and where?) does melodic-harmonic divorce occur? And, how prevalent of a phenomenon is it in popular music in general? Our paper will discuss the contentious issues of defining a chord (Doll, 2013), chord labeling and harmonic analysis, especially of popular music, and how our practices impact the interpretability and reliability of results.  </p>
+---

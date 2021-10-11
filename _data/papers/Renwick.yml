@@ -1,0 +1,15 @@
+---
+authors:
+    - name: James Renwick 
+      institution: McGill University
+      bio: 
+title: "Pitch, Voicings, and Fretboard Transformations in Tōru Takemitsu’s “Rosedale”"
+handouts:
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>While recent publications exploring the instrumental affordances of the guitar through transformational theory such as De Souza (2017; 2018) focus on the concept of embodiment, the explanatory power of such transformations with regard to voicings has yet to be examined. In this paper, I develop a methodology involving the interaction between pitch content and fretboard transformations to investigate the limited number of voicings used by Tōru<strong> </strong>Takemitsu in “Rosedale” from <em>In the Woods</em> (1995). I introduce fretboard prime forms (<em>fbsets</em>), which are generic hand shapes that can be transposed up and down the fretboard while maintaining the same intervallic pitch relationships. <em>Fbsets</em> thus correspond to voicings, with each voicing yielding several <em>fbsets</em> when plotted on the fretboard GIS. Furthermore, I discuss various fretboard transformations that model chord successions in fretboard space such the the <em>SINT</em> transformation, which preserves same-shapedness across strings, and the <em>S</em> and <em>A</em> operations, which adjust the “soprano” and “alto” voices respectively. Using these transformations to map <em>fbsets</em>, I construct a network that demonstrates the proximate relationships of the voicings that Takemitsu selects.</p>
+    <p>Ultimately, these results clarify that the close relationships among pitch sets in this piece are related to fingerings on the guitar. Specifically, these relationships are manifest in idiomatic chord successions that allow phrases to be performed smoothly and with legato execution. Thus, by choosing proximate voicings throughout “Rosedale,” Takemitsu demonstrates a deep understanding of the relationship between pitch content and the classical guitar’s affordances. </p>
+---

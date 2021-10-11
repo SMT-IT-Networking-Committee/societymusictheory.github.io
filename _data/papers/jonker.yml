@@ -1,25 +1,15 @@
 ---
 authors:
-    - name: Alexandrea Jonker
+    - name: Alexandrea Jonker 
       institution: McGill University
-      bio: |
-        <p>Alexandrea Jonker is a doctoral student in Music Theory at McGill University. She received a MM in Music Theory from Michigan State University and a B.Mus in Music Theory from Wilfrid Laurier University. Alexandrea has presented research at conferences around North America including Music Theory Midwest, the New England Conference of Music Theorists, the International Conference on Music Perception and Cognition, the International Music by Women Festival, and several graduate student conferences. Her two main research interests are the music of Vivian Fine and aural skills pedagogy. Her work has been published in the conference proceedings from the ICMPC and the <em>Routledge Companion to Music Theory Pedagogy</em>. Alexandrea was an inaugural winner of the Innovative Learning and Teaching in Music award at McGill University and currently holds a Joseph-Armand Bombardier Canada Graduate Scholarship from the Social Sciences and Humanities Research Council of Canada.</p>
-title: "“Dissonation” of Tonal Materials in Vivian Fine’s Ultra-Modernist Compositions"
-video:
-    - desc: 
-      path: "467919532"
+      bio: 
+title: "Keeping the “Ear” in “Ear Training”: Incorporating “Blind Hearing” for Improved Aural Skills Pedagogy"
 handouts:
-    - desc: Script
-      path: Jonker_Script.pdf
-      external: 
-    - desc: Slides
-      path: Jonker_Presentation_Slides.pdf
-      external: 
     - desc: Handout
-      path: Jonker_Handout.pdf
-      external:
-abstract: |
-    <p>Dissonant counterpoint, a compositional technique used by “ultra-modernist” composers in America during the 1920s and 1930s, is designed to exclude tonal references through a rigorous process of “dissonation.” A treatise co-authored by Charles Seeger and Ruth Crawford outlines the precepts of dissonant counterpoint, whose ultimate goal was for polyphonic voices to “sound apart,” or be independent, to create “heterophony” (Seeger 1994 [1930]).</p>
-    <p>Vivian Fine (1913–2000), Crawford’s most prolific and successful student, followed the compositional style of her teacher in many ways (Lumsden 2017), including the use of dissonant counterpoint in the music she wrote while studying, or shortly after studying, with Crawford. But there is one important and previously unnoted exception: within a generally dissonant framework, Fine’s music makes extensive reference to tonal materials, including melodic fourths and fifths, and major and minor triads. The coalescence of these two irreconcilable forces creates a tension that suggests a new kind of heterophony, one in which the “sounding apart” occurs between the tonal references and the dissonant framework that struggles to contain them.</p>
-    <p>By analyzing several of Fine’s ultra-modernist pieces, I aim to show the ways in which she manipulated dissonant counterpoint into her own unique style, one in which tonal materials play a fundamental role in the heterophonic “sounding apart.” Ultimately, this paper extends the notion of dissonance beyond the quality of an interval or chord to include the conceptual conflict between consonances and dissonances themselves.</p>
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>Straus (2011) characterizes “blind hearing” as the methods that blind musicians use to learn and listen to music and participate in music making. While nominally aural skills classes concentrate on a student’s ability to listen musically and “think in music,” in reality these classes rely heavily on visual components such as writing dictations, sight-singing, and working through interval drills. Quaglia (2015), Johnson (2016), Pacun (2009), and<br />
+    Saslaw (2009) explore ways in which blind students can be taught in the core music major curriculum. These studies, however, focus on written theory classes and often necessitate the use of braille notation or segregated learning. In contrast, this paper takes Straus’s “blind hearing” as a starting point and argues that by teaching aural skills entirely without the mediation of visual components, instructors can not only accommodate any blind students in their classes but improve the aural abilities of all students. First, I present ten learning objectives based on blind learning preferences, such as reliance on rote and embodied modes of learning. Then, following the precepts of Universal Design for Learning, the second section of the paper proposes a set of “blind” activities students can do in order to achieve these learning objectives, including melody sing-back, singing triads and intervals, and improvisation, among others. By shifting our learning objectives and activities from ones based on notation to those completed aurally, we can accommodate and improve the learning of all students in our classrooms. </p>
 ---

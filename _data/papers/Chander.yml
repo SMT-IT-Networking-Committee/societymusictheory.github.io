@@ -1,0 +1,16 @@
+---
+authors:
+    - name: Aditya Chander 
+      institution: Yale University
+      bio: 
+title: "Analyzing Hemiolas with the Discrete Fourier Transform"
+handouts:
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>Hemiolas are defined by the conflict of pulses in a 3:2 ratio in at least one level of a metric hierarchy. Existing analytical models of hemiolas capture this conflict but typically overlook other qualities that may distinguish one hemiola from another, particularly the phase difference of the conflicting pulses and their relative strengths. These omissions limit the analytical power of methods developed for hemiola analysis such as ski-hill graphs and semimeters.      </p>
+    <p>The Discrete Fourier Transform (DFT) can be leveraged to increase the richness of hemiola analysis, providing more nuanced characterisations of the pulses at play. The DFT operates on a sampled time-domain signal (rhythm), outputting the magnitude (strength) and phase of the frequency components (pulse periods) of that signal. The DFT has previously been used to analyse chord quality, large-scale metric form and rhythmic balance, but not hemiolas. </p>
+    <p>The DFT captures local variations in pulse strength and phase more effectively than previously developed methods for hemiola analysis due to its note onset sensitivity. This property is demonstrated through its application to an excerpt from Jean Sibelius’s Violin Concerto. Its analytical power offers avenues for further research in music encoding, music perception, and performance timing analysis. While the DFT alone cannot provide a theory of musical meter, it illuminates how rhythms reinforce specific metric interpretations, a question of fundamental importance in hemiola analysis.</p>
+---

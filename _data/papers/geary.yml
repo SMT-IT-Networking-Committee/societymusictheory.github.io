@@ -1,18 +1,14 @@
 ---
 authors:
-    - name: David Geary
+    - name: David Geary 
       institution: Wake Forest University
-      bio: |
-        <p><strong>David Geary</strong> is an Assistant Professor of Music at Wake Forest University where he teaches music theory and music history. A recent graduate of Indiana University, his dissertation presents new techniques for analyzing drum parts in popular music and examines eight unique definitions of the word “beat” and their application in popular music analysis. David has published research on post- tonal aural skills in the <em>Journal of Music Theory Pedagogy</em> and <em>The Routledge Companion to Music Theory Pedagogy</em>. His other research interests include Renaissance counterpoint and Verdi operas, which have been presented at meetings of the Society for Music Theory and various regional conferences. Prior to joining the faculty at Wake Forest, David was a Visiting Instructor of Music Theory at Oberlin Conservatory.</p>
-
-title: "Analyzing Drum Patterns and Drum Pattern Changes in Twenty-First Century Mainstream Pop"
-video:
-    - desc: 
-      path: "467919503"
+      bio: 
+title: "A Holistic Approach for Analyzing the “Beat” in Popular Music"
 handouts:
-    - desc: Transcript
-      path: Geary_Transcript.pdf
-      external: 
-abstract: |
-    <p>In many genres of popular music, the drums perform a fixed rhythmic layer called a drum pattern. Further, most analytical methods either compare specific drum patterns to more generalized rhythmic structures or treat the drums as a backdrop for evaluating rhythmic variability in other parts. In twenty-first century mainstream pop, however, the drums alone provide both fixed and variable elements. A close study of Billboard’s top fifty pop songs from 2018 shows that individual tracks have an average of four drum patterns and eight drum pattern changes—the action of moving between adjacent drum patterns—and as many as nine and eighteen. The first goal of this presentation is to outline the three musical characteristics that vary most regularly amongst a song’s multiple drum patterns: number of layers, rhythm, and instrumentation. This corpus also shows that patterns typically match the rhetorical function of formal areas. The second goal is to define two types of drum pattern changes: drum buildups and drum decays. Both of these musical processes can create a sense of trajectory across different spans of musical material as well as for different expressive effects—and the two are regularly combined in individual tracks. Together, analyzing drum patterns and drum pattern changes can be a new way to highlight expressive variability in this repertoire, and it can also be used to refine other types of popular music analysis.</p>
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>Although identifying a song’s primary pulse rate, more commonly called the beat, is a fundamental musical skill, it has generated varied theories and analyses throughout history and across disciplines. Popular music has been a rewarding repertoire to which to apply and refine traditional approaches as well as to develop new, style-specific theories. Rather than adopting any single definition, this presentation introduces a three-part conception of beat for popular music analysis which better characterizes the temporal phenomenon’s multi-dimensional, interactive, and interpretive attributes. The first half of the presentation outlines the three facets of beat, each identifying a song’s primary pulse rate according to a different musical parameter. The drum pattern rate (DPR) prioritizes the drumset rhythm, aligning with the bass-snare alternation or the four-on-the-floor bass drum rhythm. The absolute time rate (ATR) privileges a prescribed tempo, identifying the layer closest to 120 beats-per-minute. And the preferred pulse rate (PPR) models listener preferences, allowing individuals to treat any pulse rate as primary. The second half of the presentation shifts to analytical application. For example, while it is common for the DPR, ATR, and PPR to identify the same pulse rate as primary, there are at least three types of musical passages that show the more dynamic and varied ways these distinct conceptions can interact: different tempi, changing grooves, and ambiguity. </p>
 ---
