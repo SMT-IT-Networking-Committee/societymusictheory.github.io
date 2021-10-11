@@ -1,19 +1,16 @@
 ---
 authors:
-    - name: Tobias Tschiedl
+    - name: trong>Tobias Tschiedl 
       institution: McGill University
-title: "Balancing, Not Balance/Imbalance: The “Melodic Center of Mass” as a Time-Dependent, Continuous Substitute for Atemporal, Discrete Inversional Axes"
-video:
-    - desc: 
-      path: "470626819"
+      bio: 
+title: "Contour Theory, Gesture and Embodiment: Promises, Problems and Continuous Alter"
 handouts:
-    - desc: Script
-      path: Tschiedl_script.pdf
-      external: 
-abstract: |
-    <p>The embodied rhetorics accompanying transformational theory have often served to vindicate its mathematical apparatus (Lewin 1987; Attas 2009; Straus 2011a), yet rarely has attention been devoted to the question whether that fundamentally discrete apparatus is at all suited to capture the continuous motion implied in wording such as “gesture” and “dance.”</p>
-    <p>As an instance of this larger problem, I focus on the concept of inversional symmetry and its analytical application. In an examination of Straus’s (2011b) reading of inversional symmetry in Schoenberg and Webern in terms of “balance lost and regained,” I show that his twelve-tone-derived analytical toolbox itself presupposes a discrete and static opposition between balance and imbalance rather than a continuous and dynamic process of balanc<em>ing.</em> Consequently, such an analysis does not allow for a gradual going-in-and-out<em>-</em>of-balance, or for any finer-grained distinction between different asymmetric states.</p>
-    <p>To address these shortcomings, I introduce a computer-assisted procedure that interprets inversional axes as a special instance of a general feature of pitch distributions, which I call their <em>melodic center of mass</em> (MCM), in analogy to physical centers of mass. The MCM of melodies can be tracked through time by means of a moving-average algorithm.</p>
-    <p>Beyond its engagement with embodiment and temporality, this approach permits interpretations in terms of disability, musical forces, and concepts in technical timbre analysis. Most importantly, the critique of the discrete apparatus of post-tonal theory takes seriously the concern with music as “characteristic gesture,” “idealized dance,” or more broadly, as something meant to happen <em>in time.</em></p>
-
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>Contour is often described along the lines of “a pattern of ascents, descents and plateaus that occur as music moves through time” (Wallentinsen 2017). While such intuitive embodied interpretations help explain contour theory’s musical relevance and appeal, the continuous motion in time that such wording implies is only inadequately captured by the discrete formalism at the basis of the theory. </p>
+    <p>I focus here on three characteristics of contour theory, and their attendant problems: (1) Abstraction from exact pitch and duration; (2) Comparison of csegs and similarities across cardinalities; (3) Different temporal scopes (motives, phrases, pieces) and contour reduction. To address these problems, I propose an approach based on what I call the “melodic center of mass”. This simple moving average of pitch (a continuous function over time) can be used as a form of reduction, smoothing out local extremes while providing an adequate representation of the melody’s general tendencies. Locally salient extremes can then be qualified in terms of “Reach”—their distance from the MCM. If the MCM is analogous to the motion through space of the <em>entirety</em> of a “body”, “Reach” is analogous to the motion of a body <em>part</em> with respect to that body.</p>
+    <p>This permits a qualification of melodic motion that goes beyond contour theory: (1) Exact pitches and durations remain peripheral, but <em>contribute</em> to the average. (2) Direction <em>towards</em> or <em>away</em> <em>from</em> the MCM supplement ascent and descent as possible features of comparison, along with <em>speeds</em> of motion. (3) The decomposition of a melody into MCM and Reach can play a role comparable to reduction.</p>
 ---

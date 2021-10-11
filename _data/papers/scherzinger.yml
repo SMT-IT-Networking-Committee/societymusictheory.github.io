@@ -1,18 +1,14 @@
 ---
 authors:
-    - name: Martin Scherzinger
+    - name: Martin Scherzinger 
       institution: New York University
-      bio: |
-        <p><strong>Martin Scherzinger</strong> is a composer and associate professor of media studies at New York University. He works on sound, music, media, and politics of the twentieth and twenty-first centuries. Primary areas include the musical and choreographic traditions of Europe, Africa, and America as well as global biographies of sound and other ephemera circulating in geographically-remote regions. Scherzinger’s research includes the examination of links between political economy and digital sound technologies, copyright law in diverse sociotechnical environments, relations between aesthetics and censorship, sensory limits of mass-mediated music, mathematical geometries of musical time, histories of sound in philosophy, and the politics of biotechnification. (Personal website: <a href="http://martinscherzinger.org/">martinscherzinger.org</a>)</p>
-title: "Pre-Colonial Rhythm and Meter in Africa"
+      bio: 
+title: "Meter, Africanized"
 handouts:
-    - desc: Paper
-      path: Scherzinger_paper.pdf
-      external: 
-    - desc: Audio
-      path: Scherzinger_Audio.mp3
-      external: 
-
-abstract: |
-    <p>How do we frame musical thought in the historical period of settler colonialism? Some key ideas have begun to emerge. The concept of Newtonian <em>absolute time,</em> for example, gained ascendancy (following prolonged intellectual efforts to locate the correct measure of time in seventeenth-century astronomy) and was efficiently and militaristically leveraged in service of colonial governance. Matrices for framing <em>musical time</em> were theorized along similar lines; and, along with pitch spaces, instruments, devices, electrical currents, political nation-states, legal policy guiding intellectual property—instrumentality itself—were standardized and scaled. This analysis reckons with the limits of music’s standardized representation schemes by analyzing musical techniques and technologies that did <em>not</em> survive the colonial assault. With reference to mid-century <em>matepe </em>music from the Korekore region in northern Zimbabwe and <em>amadinda</em> music from the Kampala region in southern Uganda from the era before the destruction of the Lubiri Court, I show how these African cases, in a significant sense, actually <em>invert</em> the abstract relation of rhythm and meter altogether. In both <em>matepe</em> and <em>amadinda</em> music, there is no single fixed meter against which flexible rhythmic activity unfolds. First, the interlocking parts of <em>amadinda</em>, for example (<em>okunaga</em> and <em>okwawula</em>)—both perceived by the performers to be <em>on</em> the beat—elaborate different basic meters. Second, an additional meter emerges within a third part (<em>okukonera</em>) played in the upper register of the instrument. Third, four additional inherent patterns form within the middle registers of the total configuration, each implying a distinct metric scheme.</p>
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>The talk examines the way some types of sub-Saharan African music—ranging from pre-colonial <em>matepe</em> music from the Korekore region in northern Zimbabwe and <em>amadinda</em> music from the Kampala region in southern Uganda from the era before the destruction of the Lubiri Court—pose a challenge to, if not conceptually <em>invert,</em> the Newtonian-inflected relation of meter (and thereby also rhythm). In contrast to the Euro-industrial conception of it, consolidated in modern Enlightenment era, rhythmic-melodic entities in <em>matepe</em> and <em>amadinda music,</em> (no less than <em>embaire</em>, <em>akadinda, mbira dza vadzimu,</em> and <em>timbila</em> music) often remain stable, while metric schemes are meticulously rotated. This talk describes the systems that undergird their performance practices, demonstrating, for example, how interlocking parts and inherent pattern formations elicit beat entrainment set adrift of the embodied motor patterns of performers, as well as how procedures for pitch transposition further rotate distinct metric schemes, effectively recouping a kind of rhythmic-melodic identity under transformational metric conditions. Instead of merely to relativize Euro-industrial practices of meter (and its attendant rhythm-concept) the talk hopes to Africanize those metric practices that go as universal. This is a study in reimagining a musical formalism, beyond refusal or redemption, to decenter the colonial legacies of musical time.</p>
 ---

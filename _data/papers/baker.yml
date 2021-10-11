@@ -1,14 +1,15 @@
 ---
 authors:
-    - name: Michael Baker
-      institution: University of Kentucky
-      bio: |
-        <p>Michael Baker is associate professor of music theory at the University of Kentucky, where he teaches courses on harmony, voice leading, counterpoint, solfege and aural skills, musical form, and musical interpretation. His research focuses on text-music relationships in songs and opera, semiotic approaches to music analysis, Schenkerian studies, the music of Britten, and interdisciplinary studies related to music. His articles and book chapters appear in various music analysis journals and essay collections. He has spent the past few summers teaching for a study abroad program based in Salzburg, Austria, and recently served as faculty teaching fellow within the Paul Chellgren Center for Undergraduate Excellence at the University of Kentucky. Aside from his work as a music theory teacher, Michael is also an avid horn player, and performs with ensembles in and around Lexington, KY.</p>
-title: "Felix Mendelssohn’s Dominantized Tonics"
+    - name: Ben Baker 
+      institution: Eastman School of Music
+      bio: 
+title: "Irony and Improvisation in Jazz Covers by The Bad Plus"
 handouts:
-    - desc: Poster
-      path: Baker_poster.pdf
-      external: 
-abstract: |
-    <p>A common use of tonicization involves altering the overall tonic harmony to momentarily sound like the applied dominant of IV. However, when this occurs directly at the outset of a composition, it immediately casts doubt upon the opening tonic’s role as the decisive signifier of tonality. A similar expressive effect occurs when the V7/IV accompanies the melodic <em>Urlinie</em> closure, motivating a post-cadential prolongation technique common to works featuring this device. In each case, the apparent tonicization of IV is only of passing interest when compared to the destabilizing chromatic alteration of the overall tonic harmony. Whereas numerous composers may have occasionally employed dominantized tonics in this manner, this technique occurs with a marked frequency in the songs of Felix Mendelssohn, a composer considerably less regarded for his songs than for his accomplishments in other, instrumental genres. This poster will examine four particularly important compositional uses in Mendelssohn’s songs: (1) beginning an entire song immediately on the dominantized tonic, (2) setting the first vocal entrance with the dominantized tonic following a piano introduction, (3) ending the vocal melody on the dominantized tonic prior to the final bar of a song, and (4) concluding an entire song on an altered tonic sonority, prepared with a dominantized tonic. Although one may simply regard many of these altered tonic harmonies as V7/IV and stop there, doing so ignores the extravagance of their structural and expressive effect, especially when used at the outset of a work.</p>
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>While The Bad Plus (TBP) is hardly the only jazz piano trio to perform covers of modern popular songs, their approach is more consistently heard as ironic by fans and critics alike. The band has rejected this facile interpretation, asserting that their covers are earnest attempts to “make rock, pop, and electronica songs vehicles for contemporary improvisation” (TBP 2007). Nevertheless, the trio maintains a reputation “for being irony-steeped hipsters who play irreverent pop covers, and who like nothing better than to thumb their noses at the jazz tradition” (Argue 2006).</p>
+    <p>In this paper, I argue that these two dimensions of TBP’s covering practices are often interdependent. I build on Janet Bourne’s (2016) framework for analyzing musical irony in order to posit three musical transformations—<em>side-slipping</em>, <em>overextension</em>, and <em>parameter shift—</em>that recur across TBP’s cover catalog and court ironic hearings by flouting various combinations of the so-called Gricean maxims. Using these transformations to frame potential links between musical structure and expression, I explore how the transformations signify a novel approach to a source song as a compositional and improvisational referent—often yielding imaginative or divergent solo spaces—while also underpinning the vertiginous contrasts, knowing misinterpretations, and rhetorical panache for which the trio is famous. By examining how this balance manifests in several of the band’s performances, I suggest that TBP’s cover transformations regularly yield both compelling developmental processes and dynamic improvisational environments, even when—or perhaps, <em>especially</em> when—these transformations are catalyzed by ironic subversion.</p>
 ---

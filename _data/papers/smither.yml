@@ -1,15 +1,15 @@
 ---
 authors:
-    - name: Sean R. Smither
+    - name: Sean R. Smither 
       institution: The Juilliard School
-      bio: |
-        <p><strong>Sean R. Smither</strong> received his Ph.D. in music theory from Rutgers University and also holds an M.A. in music theory from Rutgers and a B.F.A. in jazz drumming from the New School for Jazz and Contemporary Music. His research focuses on the analysis of jazz standards, improvisation, and group interaction, and utilizes tools from linguistics, philosophy, and cognitive psychology to shed light on musical concerns. His doctoral dissertation, “Conceptualizing Tunes: <em>Avant-Textes</em>, Referents, and the Analysis of Musical Structure in Jazz,” explores the ways in which jazz improvisers conceptualize musical structure and develops a model for the analysis of jazz tunes. His research has been published in <em>Music Theory Online</em> and <em>Theory and Practice</em> (forthcoming), and he has presented his work at national and regional conferences throughout North America.</p>
-
-title: "Referents in the Palimpsests of Jazz: Disentangling Tune from Improvisation in Recordings of Ellington and Strayhorn’s “Satin Doll”"
-video:
+      bio: 
+title: "“Pulling Apart” and “Floating Above”: Cross-Rhythmic Metric Divergence in Jazz Improvisation"
+handouts:
+    - desc: Handout
+      path: 
     - desc: 
-      path: "469829367"
-abstract: |
-    <p>Benjamin Givan has compared jazz improvisations to palimpsests, writing that improvised utterances “provide us with clues to the improviser’s underlying conception” of the tune being played (2002, 41). The sounding music represents a negotiation between extemporization and fixed text wherein it is not always clear which elements are “part of the tune” and which are improvised. While recent research has sought to better understand both what a jazz tune is (Born 2005; Kane 2018) and how such tunes may be analyzed (Stover 2013), the palimpsests that are jazz improvisations continue to pose problems for analysts due to the dense entanglement of improvised utterances with the referents (Pressing 1984) that underlie them. In this paper, I take Givan’s above observation as the starting point for a methodology that disentangles improvisations from the tunes with which they intersect. </p>
-    <p>I begin by outlining a theory of referent defaults, prototypical features grounded in a tune’s performance network that represent an improviser’s understanding of the musical structure of the referent. Using nine recordings of Duke Ellington’s “Satin Doll” as a case study, I show how various segments of the musical surface may be understood to convey referent defaults in varying degrees. By examining the interplay between referent and improvisation, we can better account for the tune as both an inspiration for and constraint upon the sounding music. This methodology reconfigures the objects of jazz analysis, suggesting new ways of understanding the relationship between improvisation and referent in jazz practice and beyond. </p>
+      path: 
+abstract: | 
+    <p>Theorists have long been fascinated by the rhythmic and metric particularities of jazz improvisers. Much of this fascination has centered around those aspects of rhythm that are not easily notatable, especially expressive microtiming, rubato, and cross-rhythm. Among the chief distinctions that can be made between such techniques is whether they occur at or below the syntactical level. While participatory discrepancies—slight deviations from an idealized prototypical tactus that compound when musicians play together—mostly fall below the level of musical syntax, microtiming can also inflect larger utterances on the syntactical level, creating gestures that stimulate group interaction.</p>
+    <p>In this paper, I examine the relationship between jazz interaction and two expressive metric devices,  “pulling apart,” and “floating above”, both of which involve the simultaneous sounding of two conflicting pulse streams. “Pulling apart” refers to moments when improvisers’ delays or anticipations suggest a slowing or quickening of tempo that conflicts with the prevailing tempo, resulting in a temporary disconnect that produces microrhythmic ambiguity before eventually resolving. “Floating above” occurs when an improviser’s utterance is untethered from the groove projected by the rest of the ensemble. I argue that such utterances arise from the interactional matrix of jazz improvisation and are therefore best analyzed using theories of improvisational interaction. As irreducibly interactive gestures, instances of metric divergence are a product of the Afrological orientation of jazz improvisation; by considering these metric techniques to be fundamentally dialogic, I seek to highlight the symbiotic relationship between elements of metric divergence and cultural aesthetics.</p>
 ---

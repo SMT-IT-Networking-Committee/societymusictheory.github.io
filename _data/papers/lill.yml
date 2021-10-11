@@ -1,12 +1,15 @@
 ---
 authors:
-    - name: Kája Lill 
+    - name: Kája Lill 
       institution: University of Michigan
-title: "N-dimensional Ski-hill Graphs and Complex Meters"
+      bio: 
+title: "Karel Janeček’s Lydian and Phrygian Functions: Reconsidering Riemann in Light of His Czech Reception"
 handouts:
-    - desc: Slides
-      path: Lill_slides.pdf
-      external: 
-abstract: |
-    <p>Most rhythm and meter scholarship that addresses complex meters—meters that include quintuple and larger prime number pulse groupings—examines individual complex meters in isolation, like Justin London (2002) and Godfried Toussaint (2013). Some authors, like Fernando Benadon (2004) and Mark Gotham (2015), have begun to consider how different complex meters relate to one another. I contribute to this topic with a novel analytical method that synthesizes Gotham’s metric relationships and Benadon’s description of tempo- (metric-)modulation into a single graphical representation of complex meters. To do this, I build on the work of Richard Cohn (2001), Scott Murphy (2009), and Daphne Leong (2007) on ski-hill graphs—graphic representations of simple and compound meters that import analytical possibilities from the <em>Tonnetz</em> into the metrical realm—by expanding them from 2- to n-dimensions. N-dimensional ski-hill graphs are ideally suited for analyzing repertoire comprising changing complex meters and especially cases of tempo-modulation by providing succinct graphic representations of those meters and highlighting relationships that otherwise remain opaque. This poster first shows how I generalize Cohn’s 2-dimensional ski-hill graphs, which feature subdivisions by two or three, to account for subdivision by prime numbers larger than two or three. It then shows that by expanding ski-hill graphs into n-dimensions they can account for any number of prime number subdivisions. For demonstration, I provide analyses of complex meters utilizing 2-, 3-, and 4-dimensional ski-hill graphs respectively in Gustav Holst’s “Mars, The Bringer of War,” Elliot Carter’s Cello Sonata, and Leoš Janáček’s “Fanfare” from his <em>Sinfonietta</em>.</p>
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>Music-theory scholarship and pedagogy generally assume Hugo Riemann’s (1891; 1893), three functions: tonic, subdominant, and dominant. Some twenty-first-century theorists, such as Lerdahl (2001) and White and Quinn (2018), have suggested various additional functions. Already in the twentieth-century however, Prague was home to a school of Czech music theorists who developed expanded theories of harmonic function. The most famous of these theorists was Karel Janeček (1903–1974), who in his <em>Základy moderní harmonie</em> (<em>Foundations of Modern Harmony</em>, 1965) adds Lydian and Phrygian functions to Riemann’s original three.</p>
+    <p>This poster presents Janeček’s theory and compares it to Riemann’s. This juxtaposition clarifies three open questions concerning Riemann’s function theory. First, is the <em>Schritt und Wechsel</em> system vital to Riemann’s approach? Second, is Riemann’s function theory so diatonic that it limits musical possibilities, as Rehding (2003) suggests, or does Riemann allow for analyzing virtually any chord into any one of the three functions, as Harrison suggests (1994)? Lastly—a concern raised by Dahlhaus (1975)—why do triads related to the tonic by fifth receive the privileged status of dominant and subdominant functions? The goal of this study is to show that examining Riemann’s reception in Prague can elucidate Riemann’s function theory, and by extension, the theories of harmonic function that scholars continue to use and develop today.</p>
 ---

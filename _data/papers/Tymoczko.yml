@@ -1,0 +1,15 @@
+---
+authors:
+    - name: tri Tymoczko 
+      institution: Princeton University
+      bio: 
+title: "The Quadruple Hierarchy</"
+handouts:
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>My talk will connect recent work on voice-leading geometry to the hierarchical ideas of Schenkerian theory.  Its basic thesis is that musical objects such as chords, sets, motives, and scales define two scalar contexts: the extrinsic or containing scale and the <em>intrinsic</em> <em>scale</em> consisting of the object’s own notes.  Attending to the intrinsic scale reveals a <em>quadruple hierarchy</em> in which voices move along possibly scale-like chords that move within scales that are themselves moving through a chromatic aggregate (fixed or continuous, equal-tempered or unequal).  Reconceiving chords as abstract and scale-like objects leads to methodologically unproblematic reformulations of many characteristic Schenkerian claims.</p>
+    <p>I begin by introducing several practical applications for the notion of the intrinsic scale, including motivic development, generalizing the notion of chordal inversion, harmonizing melodies, modeling efficient voice leading, and extending neo-Riemannian theory to arbitrary chord-and-scale environments.  I then introduce a remarkable set of two-dimensional spiral diagrams that represent each level of the quadruple hierarchy: voice in chord, chord in scale, and scale in aggregate.  These diagrams subsume virtually every existing model of voice leading, including Heinichen’s circle of major and minor keys, Euler’s <em>Tonnetz</em> as reinterpreted by Richard Cohn, Douthett and Steinbach’s “Cube Dance” and “Power Towers,” the circle of fifths, and many others.  By combining multiple diagrams we can connect nonhierarchical voice-leading geometry to the hierarchical structures of Schenkerian analysis, using standard scalar terminology to reinterpret such notions as “verticalization,” “the imaginary continuo,” and “register transfer.”  </p>
+---

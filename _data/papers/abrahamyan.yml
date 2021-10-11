@@ -1,20 +1,15 @@
 ---
 authors:
-    - name: Knar Abrahamyan
+    - name: Knar Abrahamyan 
       institution: Yale University
-      bio: |
-        <p>Knar Abrahamyan is a PhD candidate in music theory at the Yale University Department of Music. Her dissertation explores opera as statecraft in Soviet Armenia and Kazakhstan. Her research interests include sound studies, animal studies, Russian music theory, and intersections between music and philosophy. Knar completed a master's in music theory at the Indiana University Jacobs School of Music. In 2015–16, Knar pursued a Fulbright Fellowship in Moscow, where she conducted research on Russian theoretical approaches to the music of Shostakovich. </p>
-title: "Secularizing Soviet Armenia: Enacting Power Dynamics through Operatic Topoi"
-video:
-    - desc: 
-      path: "469821640"
+      bio: 
+title: "Yuri Kholopov’s Theory of Universal Harmony as a Clandestine Bearer of Orthodox Beliefs"
 handouts:
-    - desc: Script
-      path: Abrahamyan_script.pdf
-      external: 
-    - desc: Slides
-      path: Abrahamyan_slides.pdf
-      external: 
-abstract: |
-    <p>Soviet leadership attacked religion as the ideological enemy of the communist state by portraying it as antithetical to cultural modernization and economic progress. The fact that, by the time the Bolsheviks took power, Christianity had been part of Armenian culture for over 1600 years presented unique challenges to the dissemination of scientific atheism. Examining archival materials on Armen Tigranyan’s <em>Davit Bek</em> (1950), this paper argues that the revisions of this opera contributed to the secularization of its initial libretto. Tigranyan’s opera narrates the events of Armenian liberation from Persian subjugation in the early 1720s but, in several scenes, crucially diverges from Raffi’s eponymous novel. These divergences, musically carried out through familiar operatic topoi, construct alternative dynamics between Armenian, Georgian, Persian, and Russian political powers represented in the plot. One topos, <em>deus ex machina</em>, is utilized when Peter the Great’s messenger descends upon the Armenian people in a scene that initially centered on liturgical prayer. Another set of topoi, orientalism, is employed to construct difference. Whereas traditionally orientalism highlights difference between the imperial West and the colonized East, here, this binary distinction is obscured for political reasons. Even though Armenians, Georgians, and Persians geographically represent the East, Persia was an imperial rival to Russia and, as such, had to be orientalized, or “othered.” Disentangling musical representations of the different nations, this paper illustrates how these representations perpetuated ideological goals, above all, the construction of a secular Armenian nationalism in which Russia’s role is reconfigured from a colonizer to a delivering God.</p>
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>In English-language scholarship, the work of Yuri Kholopov (1932–2003) has been addressed by Philip Ewell, Zachary Cairns, and Christopher Segall, among others. However, the intellectual history of Kholopov’s seminal achievement—the theory of universal harmony<em>—</em>has not received due attention. Kholopov introduced this theory as a comprehensive method for analyzing all music ranging from Ancient Greece to the twentieth century. In this paper, I argue that the theory of universal harmony presented a hidden outlet for manifesting the theorist’s Orthodox beliefs. </p>
+    <p>Although Kholopov was a devout Orthodox, he could not openly express his beliefs due to the Soviet government’s hostility toward religion. His writings are, nonetheless, permeated with terminology and metaphors borrowed from the religious philosopher Aleksei Losev’s (1893–1988) neo-Platonic understanding of music as representing the originary unity resting on numbers. Only in 2006 did Kholopov’s affinity to Losev’s doctrine became explicit in a posthumous publication: Kholopov stated that the aesthetic qualities of music have the capability to bring one nearer to God and argued that the act of composition represents the process of manifesting the Platonic <em>eidos</em> in the sonic realm. Drawing on the work of Larisa Kirillina, I first outline the common features between the theory of universal harmony and Losev’s doctrine of unity. I then consider the specificities of the theory’s practical application by turning to several music analyses by Kholopov. Finally, I examine to what degree a music theory as such may function as a subversive apparatus capable of resisting censorship.</p>
 ---

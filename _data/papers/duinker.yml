@@ -1,49 +1,15 @@
 ---
 authors:
-    - name: Ben Duinker
+    - name: Ben Duinker 
       institution: University of Toronto
-      bio: |
-        <p><strong>Ben Duinker</strong> is a Canadian music theorist and percussionist. His doctoral dissertation focused on metric and rhythmic aspects of hip-hop flow and was awarded the 2020 SMT-40 dissertation fellowship by the Society for Music Theory. Duinker has published articles in the journals <em>Empirical Musicology Review</em>, <em>Music Theory Online</em>, <em>Popular Music</em>, and his work on segmentation and phrasing in hip-hop flow is forthcoming in <em>Music Theory Spectrum</em>. He received a PhD in Music Theory and Master of Music Performance from McGill University, and presently holds a SSHRC Postdoctoral Fellowship for research in music analysis and performance at the University of Toronto. Duinker maintains a parallel career as a percussionist and chamber musician, regularly touring, recording, and commissioning new works.</p>
-
-title: "Functions of Expressive Timing in Hip-Hop Flow"
-video:
-    - desc: 
-      path: "468554883"
+      bio: 
+title: "Unpacking Interpretive Difficulty in Contemporary Music"
 handouts:
-    - desc: Script
-      path: Duinker - Functions of expressive timing in hip-hop flow - SCRIPT.pdf
-      external: 
-    - desc: Slides
-      path: Duinker - Functions of Expressive Timing in Hip Hop Flow - SLIDES.pdf
-      external: 
-    - desc: Instructions
-      path: Duinker - Functions of expressive timing in hip-hop flow - INSTRUCTIONS.pdf
-      external:
-    - desc: Audio 1 - Long Time
-      path: Audio 1 - Long Time.wav
-      external: 
-    - desc: Audio 2 - Flava In Ya Ear
-      path: Audio 2 - Flava In Ya Ear.wav
-      external: 
-    - desc: Audio 3 - Flava in Ya Ear
-      path: Audio 3 - Flava in Ya Ear.wav
-      external: 
-    - desc: Audio 4 - Pain
-      path: Audio 4 - Pain.wav
-      external:
-    - desc: Audio 5 - Ladies First
-      path: Audio 5 - Ladies First.wav
-      external: 
-    - desc: Audio 6 - Stan Verse 1
-      path: Audio 6 - Stan Verse 1.wav
-      external: 
-    - desc: Audio 7 - Stan Verse 2
-      path: Audio 7 - Stan Verse 2.wav
-      external: 
-    - desc: Audio 8 - Stan Verse 3
-      path: Audio 8 - Stan Verse 3.wav
-      external: 
-abstract: |
-    <p>Expressive timing in hip-hop flow concerns the practice whereby an MC (rapper) inflects their flow rhythms on a miniscule scale not easily representable with standard musical notation—how far “ahead” or “behind” the beat they rap. Adams (2015) and Kautny (2015) position expressive timing as an integral part of hip-hop flow and Ohriner (2017 and 2019) discusses it in greater detail. This paper complements their work by surveying flow timing across the broader hip-hop genre.</p>
-    <p>I identify three broad practices of expressive timing in flow. <em>Swung timing</em> subdivides the tactus unequally, similar to a common jazz drum timekeeping pattern. <em>Lagging timing</em> refers to the patterned delay of flow rhythm in relation to the underlying instrumental or sampled beat. And <em>conversational timing</em> pertains to flow performances that resemble rhythmic patterns idiomatic of spoken language. I use theoretical and notational concepts developed by Benadon (2006, 2009) and Ohriner (2019) to illustrate the extent to which a flow performance involves these approaches to expressive timing, and propose analytical methods for these approaches that highlight their functional and rhetorical appeal. I also consider expressive timing in light of Signifyin(g) in African American music (Floyd Jr., 2002), groove-based expressive microtiming (Iyer, 2002), Afrocentric models of rhetoric (Jackson, 1995), and narrativity. My analyses of performances by LL Cool J, Snoop Dogg, Queen Latifah, and Eminem illuminate the variegated approaches to expressive timing in hip-hop flow—specifically in how they relate to musical function and performance rhetoric.</p>
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>This paper explores the notion of <em>interpretive difficulty</em> in contemporary music, treating it as a structural, tangible aspect of music analysis. Interpretive difficulty comprises any challenge a performer may encounter in their practice—physical, cognitive, emotional; specific to a musical passage, or generalized across a repertoire, genre, or idiom. Inspired by Daphne Leong’s collaborative research on analysis and performance in twentieth-century music (2019), I interview professional musicians about their experiences learning and performing works such as <em>Crimson</em> (Rebecca Saunders, 2005), <em>Taurangi</em> (Gillian Whitehead 1999), and <em>Mani.Δίκη</em> (Pierluigi Billone 2012), focusing on how interpretive difficulty and musical structure intersect in their practice. While several interviews are hardly sufficient to theorize broadly on the relationship between interpretive difficulty and musical structure, the musicians’ comments suggest that this relationship manifests along several axes: accuracy, latitude (choice), narrative, and control. </p>
+    <p>Interpretive difficulty is uniquely determined by any musician’s context: physical, cognitive, environmental, musical, or cultural. Despite this individuality, construing difficulty along the aforementioned axes establishes relationships between works, performers, and instrumental idioms that might otherwise have little in common—a particularly appealing prospect for recently composed repertoire, for which few comprehensive analytical strategies exist. My work subscribes to Nicholas Cook’s (2013) redefinition of the score from an immutable “text” to a “script” that is interpreted, supplemented, and molded in performance. This redefinition creates space to integrate performance issues into the analytical process and encourages the treatment of performer agency as a fundamental object of analysis. </p>
 ---

@@ -1,0 +1,19 @@
+---
+authors:
+    - name: ine Brown 
+      institution: Peabody Institute of the Johns Hopkins University
+      bio: 
+    - name: Daphne Tan 
+      institution: University of Toronto
+      bio: 
+title: "A Context-Sensitive Approach to the Pre-Dominant Function</"
+handouts:
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>In western harmony textbooks, pre-dominant chords are typically organized according to a regulative syntax (e.g., IV goes to ii), yet the rationale for this syntax and the repertoire on which it is based is rarely explicit. Furthermore, the role of PDs beyond the phrase level is underexplored, be it in textbooks or corpus studies. </p>
+    <p>Creating a novel dataset from sonata-form movements in Mozart’s piano sonatas, we catalogued all V chords plus the three chords preceding them. Chords before V are mediated by formal function: tonic is most frequent before non-cadential Vs, and ii is most frequent before cadential Vs. Further, different PDs signal the arrival of form-defining moments, e.g., V<sup>6/5</sup>/V and vii<sup>o7</sup>/V occur at 91% of recapitulatory medial caesuras, despite their overall infrequency in the corpus. Similarly, the Aug6 is rare but almost always marks the arrival of new keys, suggesting that pedagogical emphasis on this harmony stems from its consistent formal context rather than frequency.</p>
+    <p>Our dataset can be sourced to explore claims about orderings within the PD function itself. For instance, IV–ii in any mode/inversion/seventh precedes V 10x more than ii–IV. Finally, we compared PDs in analogous parts of expositions and recapitulations, noting instances of harmonic intensifications (e.g., Ger<sup>+6</sup> replacing ęVI, vii<sup>o7</sup>/V replacing ii<sup>6</sup>); most of these occur at the medial caesura and the close of subordinate themes. Our findings are suggestive for the perception of harmony at various form-functional levels. They also argue for a more context-sensitive approach to the teaching of tonal function.</p>
+---

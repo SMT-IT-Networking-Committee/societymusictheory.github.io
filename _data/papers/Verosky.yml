@@ -1,0 +1,14 @@
+---
+authors:
+    - name: Niels Verosky 
+      institution: San Francisco, CA
+      bio: 
+title: "Extracting Scale Structure from Common Collections in Rock Music"
+handouts:
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>Musical excerpts can consist of some unknown combination of in-scale and out-of-scale pitches with indeterminate underlying scale structure. A notable example comes from Temperley and de Clercq’s (2013) corpus analysis of 200 rock songs, which identified ten commonly occurring pitch-class collections that mostly do not correspond to commonly cited musical scales. Drawing on perceptual studies that suggest pitch-class occurrence frequency as a cue of scale membership, I propose a simple heuristic for separating in-scale and out-of-scale pitch classes across musical excerpts sharing a pitch-class collection with unknown scale structure. I then apply this heuristic to de Clercq and Temperley’s rock corpus, finding that the ten common pitch-class collections reduce to four underlying scales: two reduce to the major diatonic, four reduce to the major pentatonic, three reduce to the “pentatonic union” identified by Temperley and de Clercq, and one reduces to Schuller’s proposed nonatonic blues scale. All four collections are exceptional in terms of a property previously highlighted as a cross-stylistic predictor of scale candidacy: they are as densely packed as possible with hierarchically nested, repeating stepwise patterns. While the pentatonic union and blues nonatonic collections may at first seem like surprising candidates to function as independent scales, their use is not unique to blues-influenced music, with transpositions appearing as klezmer scales. This approach to separating in-scale and out-of-scale pitch classes may be useful in analyzing other repertoire with ambiguous scale structures and in understanding cross-stylistic patterns in pitch-class collections’ scale candidacy.</p>
+---

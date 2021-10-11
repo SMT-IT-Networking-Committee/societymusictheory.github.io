@@ -1,14 +1,17 @@
 ---
 authors:
-    - name: Rebecca Simpson-Litke
+    - name: Rebecca Simpson-Litke 
       institution: University of Manitoba
-      bio: |
-        <p>Rebecca Simpson-Litke is an Assistant Professor of Music Theory in the Desautels Faculty of Music at the University of Manitoba. She holds a Ph.D. in music theory from the University of British Columbia, having completed her dissertation on pitch organization in the music of Olivier Messiaen. In addition to 20th-century French music, her research activities explore rhythmic interactions between music and dance, focusing on the Latin social dances she has taught and performed in her spare time for the past 19 years. Her salsa research is published in Music Theory Spectrum and in an upcoming special issue devoted to dance research in Journal of Music Theory.</p>
-
-title: "A Corpus Study of Metric Dissonance in Salsa"
-video:
+      bio: 
+title: "An Examination of Improvisatory Practices in Salsa Music and Dance"
+handouts:
+    - desc: Handout
+      path: 
     - desc: 
-      path: "470625888"
-abstract: |
-    <p>In my 2014 SMT paper, “Flipped and Broken Clave: Dancing Through Metric Ambiguities in Salsa Music,” I provided an examination of some of the complex interactions that occur between salsa music and dance by focusing on the physical interpretation of specific types of metric ambiguities and disruptions. In particular, I explored both grouping and displacement dissonances (resulting from flipping, breaking, or pausing the clave) and showed how the nature of the dancers’ responses to these metric disruptions depends heavily on the specific features of each unique musical context. I begin this paper by reviewing these ideas through live demonstrations, audience participation, and dance video illustrations. I then build on my previous case-based research by providing a broader corpus analysis of salsa music in order to show how prevalent these types of metric disruptions are in the genre as a whole, noting how displacement dissonances are relatively prevalent while grouping dissonances are considerably rarer. I also show where instances of metric ambiguity tend to be placed in relation to the formal structure of a typical salsa song, and how these disruptions play an important role in defining the characteristics of particular time periods, specific artists’ output, and the geographically-based styles of salsa music and dance.</p>
+      path: 
+abstract: | 
+    <p>Every night in salsa venues around the world, exciting interactions between music and dance unfold through a complex and nuanced system of improvisatory practices. In this paper, I explore these practices by analyzing videos of improvised salsa performances, showing the range of spontaneous connections between music and dance on the social dance floor. </p>
+    <p>I begin by examining the elements that are prescribed by conventions, noting how these fixed components are often embellished—or even defined—by improvisation. On the large scale, the typical two-part formal structure of salsa songs is marked by contrast between a precomposed theme in the first half and a number of improvisatory sections in the second half. It is here that an initial parallel between music and dance practices may be drawn, the improvised call of the lead dancer/singer eliciting a precomposed response from the follow dancer/chorus. </p>
+    <p>Another opportunity for improvisation in salsa dance emerges when the lead relinquishes this decision-making role, separating from the follow so that one or both dancers can execute their own individual moves, which are not unlike instrumental solos. I examine how open-work provides opportunities for dance partners to interact spontaneously with each other and in dialogue with the music.</p>
+    <p>Finally, I analyze elements that are freely manipulated <em>throughout</em> a song, as musicians and dancers express their individuality by finding micro-moments for unique ornamentation and styling. These subtle-but-pervasive interpretive choices have far-reaching ramifications, helping to define the important qualitative distinctions between individual styles and more broadly, between regional variants of salsa.</p>
 ---

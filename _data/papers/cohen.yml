@@ -1,14 +1,17 @@
 ---
 authors:
-    - name: David E. Cohen
-      institution: Max Planck Institute for Empirical Aesthetics, Frankfurt am Main
-      bio: |
-        <p>David E. Cohen researches the history of music theory from Greek antiquity through the nineteenth century. He is currently a Senior Research Scientist with the research group, “Histories of Music, Mind, and Body” at the Max Planck Institute for Empirical Aesthetics in Frankfurt. He has held professorships at Tufts, Harvard, and Columbia Universities, and visiting professorships at Yale and McGill. His article, “‘The Imperfect Seeks its Perfection’: Harmonic Progression, Directed Motion, and Aristotelian Physics” won the 2001 Best Publication award of the Society for Music Theory. His current principal writing project is a book, <em>Rameau Before the Enlightenment: The</em> Traité de l’harmonie <em>and the Origins of Modern Harmonic Theory.</em></p>
-title: "“In which it is evident that perception is always deceived”: Pythagorean Rationality and Descartes’ “Clear and Distinct Ideas”"
-video:
+    - name: David E. Cohen 
+      institution: Max Planck Institute for Empirical Aesthetics, Frankfurt
+      bio: 
+title: "Marsilio Ficino’s Letter on Music Theory: Just Intonation, the Ovoid Scale, and the Neoplatonic One"
+handouts:
+    - desc: Handout
+      path: 
     - desc: 
-      path: "470606527"
-abstract: |
-    <p>Descartes’ early <em>Compendium of Music</em> begins by arguing that the senses can take “delight” only in objects which, because they exhibit simple proportional relations, are perceived “distinctly.” Our minds, he holds, are inevitably deceived by proportions of excessive complexity, such as those involving irrational quantities, which “can in no way be perfectly known … to perception.” Thus—as the eminent Descartes scholar Stephen Gaukroger has observed—right from the start we find Descartes treating as foundational a version of what will later, in his most celebrated and influential writings, constitute the epistemological foundation of the <em>Cogito</em>: those mental entities or events that he comes to call “clear and distinct” ideas or perceptions.</p>
-    <p>As I go on to show, much the same concern for clarity and simplicity—for immediate, effortless intellectual perspicuity—had for centuries before Descartes played an equally crucial role in precisely <em>this</em> domain of intellectual endeavor, the “Pythagorean,” mathematical theory of music. In discussing these points, I focus on the philosophical reasons why mathematical music theory—<em>unlike</em> geometry—from antiquity through early modernity had always rejected the irrational in favor exclusively of rational quantities, and had moreover sometimes regarded <em>as</em> “irrational” certain proportions that are in fact not so. I thus identify an idiosyncratic “Pythagorean” form of “rationality,” whose lifespan extended from antiquity into at least the seventeenth century, when, transmuted by the alembic of Descartes’ thought, it came to play an unlooked-for role in the foundation of modern philosophy.</p>
+      path: 
+abstract: | 
+    <p>Northern Italy between 1482 and 1558 witnessed a music-theoretical revolution reflective of contemporaneous practices in composition and performance: the ancient “Pythagorean” tuning system, in which imperfect consonances sound quite harsh, gave way to what we call “just intonation,” in which those same concords sound “sweet” and harmonious. </p>
+    <p>Directly relevant to these developments are ideas expressed by the great Florentine Neoplatonist philosopher and translator of Plato, Marsilio Ficino (1433-99). Ficino’s discussions of music theory have heretofore been studied principally in connection with his commentary on the <em>Timaeus</em>, where it is chiefly the Pythagorean system that is in view. But in a letter of 1484 offering a “rational explanation of music” (<em>De rationibus musicae</em>), the theoretical interest of which has thus far been insufficiently appreciated, Ficino—possibly influenced by Ramos de Pareia—effectively anticipates the advent of just intonation. </p>
+    <p>Ficino there also introduces several other innovative music-theoretical ideas, including an image of the scale with its steps plotted against the curve of an ovoid figure as a representation of intra-scalar relations; the latter are conceived in an unprecedented manner that strikingly anticipates theoretical concepts otherwise known only from much later sources. </p>
+    <p>This paper examines the innovative theoretical ideas expressed in this letter of Ficino, placing them in the context of contemporaneous theory and compositional practice, and considering, via their indebtedness to Neopythagorean metaphysics, their possible relation to a crucial aspect of Ficino’s philosophical thought, the theme of the soul’s “reversion” (<em>conversio</em>) to itself and (thereby) to its divine source, the Neoplatonic One.</p>
 ---

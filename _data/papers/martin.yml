@@ -1,23 +1,17 @@
 ---
 authors:
-    - name: Alexander Martin
+    - name: Alexander Martin 
       institution: Stetson University
-title: "Parenthetical Insertions and Ellipses in Robert Schumann’s Eichendorff Liederkreis"
-video:
-    - desc: 
-      path: "468319071" 
+      bio: 
+title: "Dreamlike Ambiguities in Clara Schumann’s “Ihr Bildnis”"
 handouts:
-    - desc: Script
-      path: Martin_script.pdf
-      external: 
-    - desc: Slides
-      path: Martin_slides.pdf
-      external: 
     - desc: Handout
-      path: Martin_Handout.pdf
-      external:
-abstract: |
-    <p>Many theorists have investigated how composers express tonal archetypes using expansions (e.g., internal repetition or interpolation) and contractions (e.g., omission or elision). However, the matter is seldom approached from the perspective of text-setting. How do composers use these techniques to highlight ideas, imagery, or atmosphere in texted music?</p>
-    <p>I explore this question by investigating text-music correspondences in Schumann’s op. 39 <em>Liederkreis</em>. A novel feature of my approach is that I argue for the existence of stock musico-poetic pairings, which I call <em>correspondence complexes</em>. By considering individual correspondences as inter-related under the aegis of various text-musical <em>topoi</em>, my approach addresses Agawu’s long-standing criticism that musico-poetic analyses are “one-off” and “ad hoc” (1999).</p>
-    <p>I show how musico-poetic meaning may arise in Schumann’s songs when textual elements are coordinated with one of two categories of musical elements. In the first case, the correspondence involves extraneous material that is added in some way to the underlying tonal framework (i.e., something that <em>shouldn’t</em> to be there—but <em>is</em>); in the second, the correspondence involves tonal material that is implied or conceptually present, albeit unrealized or else literally absent in the score, (i.e., something that <em>should to</em> be there—but <em>isn’t</em>).</p>
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>This paper explores Clara Schumann’s two versions of “Ihr Bildnis” with a view to exploring nineteenth-century tonal strategies for depicting dreamscapes in song. Schumann first set Heine’s famous poem to music as a Christmas gift to her husband in 1840; a second, revised version appears as the first song in <em>Sechs Lieder</em>, op. 13, published in 1843.</p>
+    <p>Julie Penault-Deslauriers (2020; 2016) has explored how ambiguity transcends <em>Vierhebigkeit</em> in Schumann with reference to formal function, but there is more to uncover from the perspective of harmony, voice leading, and prolongation. I argue that Schumann responds to the poetry with a dreamlike musical language characterized by ambiguous tonal processes that permeate different levels of structure. The prelude, for example, introduces ambiguities of harmonic syntax, the resolution of o7 sonorities, and line. Additionally, both versions are remarkable for their oneiric use of implicit tonality and enharmonic re-interpretation of o7 chords at important textual/formal boundaries.</p>
+    <p>At the middleground, several features in the music entice us to hear a return of tonic harmony with the text’s description of the beloved’s smile (<em>Lächeln</em> <em>wunderbar</em>). In my reading, however, this is a tonal verisimilitude—the apparent tonic here symbolizes the protagonist’s experience of the dream as reality. I demonstrate how the true tonic return is coordinated with the protagonist’s realization that he has lost his beloved (<em>Ach! Ich kann’s nicht glauben</em>).</p>
+    <p>Lastly, I highlight how two crucial differences—in declamation and structural closure—have implications for each version as a separate and distinct interpretation of the poem.</p>
 ---

@@ -1,18 +1,16 @@
 ---
 authors:
-    - name: Grant Sawatzky
+    - name: Grant Sawatzky 
       institution: University of British Columbia
-title: "Generative Meter and Phrase-Rhythmic Multivalence in Three Slavic Folk Tunes"
-video:
-    - desc: 
-      path: "470691851"
+      bio: 
+title: "Irregular to whom? Segmentation, grouping, and “irregular” phrase lengths in Klassen’s <em>Plautdietsch</em> folk song collection"
 handouts:
-    - desc: Script
-      path: Sawatzky_script.pdf
-      external: 
-    - desc: Bibliography
-      path: Sawatzky_bibliography.pdf
-      external:
-abstract: |
-    <p>Using three Slavic folk tunes, I demonstrate an analytical approach for irregular phrase-rhythmic structures that involves anti-metrical motivic parallelisms and aperiodicities. The three generative analyses illustrate how melodic, harmonic, and rhythmic groupings interact to create phrase-rhythm, regardless of whether the structures involved are periodic enough to establish hypermeter, or idiomatic enough to invite comparison to normative phrase lengths. The music theory literature has addressed issues of rhythmic/metric irregularity, including well-known accounts of irregular rhythm in Stravinsky (for whom Slavic folk tunes were a source material). Analyzing rhythmic irregularity in Stravinsky’s music, theorists have described the unique time-sense engendered by aperiodic structures using concepts such as Van den Toorn’s “strong-weak reversal” or Horlacher’s “metric reinterpretation.” Both concepts involve analyzing phrase-rhythmic irregularity with reference to how a passage conforms to some <em>a priori</em> regular metric structure; i.e. irregular tunes are described in terms of what they distort rather than in terms of what they create. I describe irregularity in positive terms by conceiving of meter and phrase-type as generative rather than conformational schemas (Bonds, 1991). The generative view I endorse does not take alternate possibilities to be in conflict (e.g. Krebs’ “metrical dissonance”), nor as an ambiguity to be clarified by the performer (e.g. London’s “metric malleability”). Instead, I propose that co-present grouping structures mutually inform one another and establish phrase-rhythmic multivalences, imbuing these short and repetitive game-songs with their characteristic playfulness. In this way, their phrase-rhythmic whole is greater than the sum of its parts.</p>
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>Within the Western common-practice canon it is generally accepted that four-measure phrases are prototypical, and non-quadruple phrase lengths are transforms (expansion, overlap, etc.) of underlying quadruple prototypes. This paper asks: under what circumstances should four-measure normativity apply to/guide analysis of other tonal repertoires? That this question has not warranted much attention is evidence of the extent to which prevailing approaches to phrase rhythm are comfortable in accepting quadruple basic-phrases as a “natural” proportion with explanatory power for a wide range of tonal repertoires. </p>
+    <p>This study considers an anthology of <em>Plautdietsch</em> (low-German) transcriptions collected from Mennonite communities in the 19<sup>th</sup> and early-20<sup>th</sup> centuries (Klassen, 1989). While four-measure structures abound, and about 2/3 of the melodies have a total number of measures that is a multiple of four, those factors, alone, are <em>not</em> sufficient evidence to conclude that all/most non-quadruple phrases derive from quadruple prototypes. By analyzing melodic grouping, gestalt segmentation, and melodic reductions, I demonstrate how an “irregular” tune’s phrase-rhythmic particularity can be meaningfully described without reference to quadruple prototype.</p>
+    <p>To listeners familiar with the tonal common-practice idiom, the <em>Plautdietsch</em> folk-tunes likely sound relatively conventional. However, many of the peasant-farmer-<em>cum</em>-political-refugees who sang these tunes intentionally kept limited contact with the outside world, and thus had little direct knowledge of the notated music of 18<sup>th</sup>-century Europe—why should we assume phrase-length norms of that repertoire are relevant here? In assuming “naturalness” of four, we overlook or deny the relevance of novel forms and schemes that might better characterize this repertoire’s phrase-structural types. </p>
 ---

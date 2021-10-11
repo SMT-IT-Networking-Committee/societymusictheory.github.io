@@ -1,24 +1,15 @@
 ---
 authors:
-    - name: Stephen Hudson
+    - name: Stephen S. Hudson 
       institution: University of Richmond
-      bio: |
-        <p>Dr. Stephen S. Hudson is a Visiting Assistant Professor in Music at the University of Richmond. His music theory research draws on cognitive linguistics, embodied cognition, and performance studies to understand the mental models, embodied metaphors, and performative scenarios that structure our musical experiences. His dissertation “Feeling Beats and Experiencing Motion: A Construction-Based Theory of Meter” explored the performance and perception of meter (especially mixed meter) in heavy metal, baroque recitative and dance forms, and late-Romantic chamber music. Much of his writing explores metal music, including forthcoming articles “Bang Your Head: Construing Beat Through Familiar Drum Patterns in Metal Music” (<em>Music Theory Spectrum</em>) and “Compound AABA and Style Distinction in Heavy Metal” (<em>Music Theory Online</em>). In addition to his scholarly work, Dr. Hudson is an avid baroque cellist.</p>
-title: "How Much Math is in Math Rock? Riffs, Progressive Rhythm, and Embodied Music Theory"
-video:
-    - desc: 
-      path: "470614882"
+      bio: 
+title: "Decentering White Music Theory with Jazz Theory and Drake"
 handouts:
-    - desc: Script
-      path: Hudson_script.pdf
-      external: 
-    - desc: Slides
-      path: Hudson_slides.pdf
-      external: 
-    - desc: Audio
-      path: Hudson_audio.m4a
-      external:
-abstract: |
-    <p>This paper explores embodied experiences of “metrical constructedness” (Macan 1997), using a new theoretical tool called “motional conceptual models” to analyze the motion experienced in progressive rock’s riffs. Prog rock/metal is often associated with “mathematical” complexity of odd time signatures and polyrhythms. But this complexity rhetoric leaves some mysteries, including the use of such rhythms by non-prog bands; or Meshuggah’s claim that “there is no mathematical approach” in their music; or online arguments about whether Metallica’s …<em>And Justice For All</em> (<em>AJFA</em>, 1988) is “prog-influenced,” when the album is mostly in duple meter and contains few polyrhythms.</p>
-    <p>Riffs are not just sequences of notes, but motions experienced by performers and listeners (Fast 2001). My “motional conceptual models” represent one experience of a riff’s motion, framing that shape as a prototype category to explain how it can be recognized despite variations (see “conceptual models,” Zbikowski 2002). These “motional conceptual models” show how manipulations of <em>riffs</em> can lead to manipulated <em>perceived</em> <em>motion</em>—providing a unified theory for “ABAC Additive Metrical Process” in Dream Theater (McCandless 2013), truncated riffs by Meshuggah (Pieslak 2007), Meshuggah riffs that begin “<em>in media res</em>” (Lucas 2018), and riff fragmentations I observe in Metallica’s <em>AJFA</em>. Changes in riff shape can thus be perceived as interrupting the normal looping of meter, and this impression of artificial intervention is one possible explanation for Macan’s “constructedness.” This embodied cognition approach to riffs also demonstrates how it is possible to write rhythmically “progressive” rock and metal rhythms by feel, with no math required.</p>
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>Several scholars (especially Philip Ewell) have recently advocated decentering classical music repertoire and analytical concepts in music theory, both to make the field more inclusive and to create more diverse and robust student outcomes. Some obstacles stand in the way of professors wanting to include new traditions and theories in the curriculum: learning new repertoire, selecting pieces to teach, finding appropriate methods for teaching and analysis. My goal is to reduce these obstacles, by first presenting new theoretical concepts, and then providing a unit of teaching materials about contemporary R&amp;B harmonic idioms, for both songwriting and analysis.</p>
+    <p>R&amp;B music is clearly underrepresented in music theory—especially Drake, who has hardly been discussed by theorists even though by some metrics he has surpassed the Beatles in sales. Contemporary R&amp;B often draws on Jazz Theory to create extended harmonies (9th, 11th, 13th chords). These extended sonorities can be mimicked by “Slash chords” that add a bass note below the base triad; for example, G/A (G major with A in the bass, or AGBD) sounds like Am11 (ACEGBD). I propose that G/A—and also Am11—can sometimes be a “backwards extension” of G. This chord sometimes seems to have a double function, substituting in for either G or Am. Relationships like this create an “extension-related family” of chords. In Drake songs these harmonies seem to depict a paradox of simultaneous motion and stasis, resonating with lyrics about anxious and ambivalent relationships to create an influential musical brand of vulnerable millennial masculinity.</p>
 ---

@@ -1,0 +1,25 @@
+---
+authors:
+    - name: Michael Clarke 
+      institution: University of Huddersfield
+      bio: 
+    - name: Frédéric Dufeu 
+      institution: University of Huddersfield
+      bio:
+    - name: Keitaro Takahashi 
+      institution: University of Huddersfield
+      bio:
+    - name: Axel Roebel
+      institution: IRCAM, Paris
+      bio:             
+title: "A Case Study in Using Interactive Aural Software for the Analysis of Spectral Music: Liza Lim’s ‘An Elemental Thing’"
+handouts:
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>Spectral music (in the broadest sense) foregrounds timbre and fluid processes in shaping compositions and most existing analytical approaches are not well suited to this repertoire. This poster presents research developing new interactive aural software to ameliorate this situation. </p>
+    <p>We take as a case study <em>An elemental thing</em> by the Australian composer Liza Lim, a 15-minute work for solo woodblock. Software is used to enable the analyst and readers to relate analytical ideas directly to aural experience. Interactive taxonomies and dynamic structural charts can be ‘played’; the software includes a video recording of the work, facilitating integration of visual aspects of a performance, including physical gesture, into the analytical discussion. An interactive sonogram allows users to select segments in the graphic display, or scrub (with the mouse) in both time and frequency, hearing the results instantly. Visualisations of data from audio descriptors can be heard interactively. Our software encourages ‘readers’ to experiment with analytical materials for themselves, with findings presented, not simply as abstract ideas about an unfamiliar sonic environment, but in sound.</p>
+    <p>This interactive analysis demonstrates how the work is shaped and structured through transformations of timbres and textures generated using a range of implements and materials, and employing a variety of physical gestures to excite the woodblock and modify its resonance. More generally, it shows how software can enhance research into spectral music, linking data, graphic presentations and verbal descriptions to aural experience, facilitating interactive engagement with an analysis and incorporation of visual/gestural aspects into the research.</p>
+---
