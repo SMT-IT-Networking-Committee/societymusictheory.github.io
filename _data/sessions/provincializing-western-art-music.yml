@@ -10,11 +10,17 @@ zoom:
 chair:
     name: Noriko Manabe
     institution: Temple University
+    formatted: Michael Tenzer (University of British Columbia) and Noriko Manabe (Temple University), Co-Chairs
 respondent:
-    name: Michael Tenzer
-    institution: University of British Columbia
+    name: 
+    institution: 
 papers: 
     - Hynes-Tawa
     - Murphy
     - Quinn
     - Sawatzky
+    - Stover
+    - Wang
+    - 
+    - 
+    - 
