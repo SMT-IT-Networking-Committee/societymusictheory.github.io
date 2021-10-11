@@ -10,248 +10,132 @@ Click a triangle to see that day's events.
 <details>
 
 <summary markdown="span">
-Saturday, November 7
+Thursday, November 4
 </summary>
 
-<h2>9:00–9:45</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/qRThe8fTsvZPjcHhz">Morning Yoga Session</a><span> (AMS Platform)</span></p>
 
-<h2>10:00–10:50</h2>
-{% include session-short.html session="chinese-music-theory" %}
-{% include session-short.html session="forces-energy-balance" %}
-{% include session-short.html session="meter-and-time" %}
-{% include session-short.html session="work-family-ig" %}
+<h2>11:00-12:30 ET</h2>
+{% include session-short.html session="intersectionality-and-music-analysis" %}
+{% include session-short.html session="opera-operetta" %}
+{% include session-short.html session="towards-defining-a-musical" %}
+{% include session-short.html session="20th-century-composers’-tonal-organization" %}
+{% include session-short.html session="history-of-theory-18th-century" %}
 
-<h2>11:00-11:50</h2>
-{% include session-short.html session="fraught-intersections" %}
-{% include session-short.html session="mahler" %}
-{% include session-short.html session="post-1945-ig" %}
-{% include session-short.html session="early-music-ig" %}
+<h2>12:45-2:15 ET</h2>
+{% include session-short.html session="motives-narratives-timbres" %}
+{% include session-short.html session="flexible-themes-and-forms" %}
+{% include session-short.html session="songs-in-flux" %}
+{% include session-short.html session="sonata-forms" %}
 
-<h2>12:00–12:50</h2>
-{% include session-short.html session="contrapuntal-innovations" %}
-{% include session-short.html session="gesture-and-transformation" %}
-{% include session-short.html session="form-poster" %}
-{% include session-short.html session="music-cognition-ig" %}
+<h2>12:45-4:00 ET</h2>
+{% include session-short.html session="whose-voices?-epistemic-injustice" %}
 
-<h2>1:00–1:50</h2>
-{% include session-short.html session="on-rotational-form" %}
-{% include session-short.html session="musical-experience-in-time-and-space" %}
-{% include session-short.html session="music-pedagogy-ig" %}
-{% include session-short.html session="russian-music-theory-ig" %}
+<h2>2:30-4:00 ET</h2>
+{% include session-short.html session="delivery-schemata-and-vocal" %}
+{% include session-short.html session="gestures-and-fragments" %}
+{% include session-short.html session="poster-session-1-20th-21st-century" %}
 
-<h2>2:00–3:00</h2>
-{% include session-short.html session="analysis-of-music-for-dancing" %}
-{% include session-short.html session="rediscovering-opera" %}
-{% include session-short.html session="karpinskis-aural-skills-acquisition" %}
-{% include session-short.html session="improvisation-ig" %}
-
-<h2>2:30–4:00</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/waWzzQDJuBK7kgGwk">Welcome Break and Coffee Reception</a><span> (AMS Platform)</span></p>
-
-<h2>3:00–5:00</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours </a><span>(AMS Platform)</span></p>
-
-<h2>3:30–5:30</h2>
-{% include session-short.html session="graduate-student-workshop-gawboy" %}
-{% include session-short.html session="graduate-student-workshop-murphy" %}
-
-<h2>4:30–5:30</h2>
-<p class="non-session"><a href="https://live.remo.co/e/smt-executive-board-meet-and-gre">SMT Executive Board Meet and Greet</a><span> (Remo)</span></p>
-
-<h2>6:00–7:30</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/ar4nSYcqyn84Z6k97">Listen and Unwind</a><span> (AMS Platform)</span></p>
+<h2>2:30-4:30 ET</h2>
+{% include session-short.html session="the-expanding-history-of" %}
 </details>
+
 <details>
 <summary>
-Sunday, November 8
+Friday, November 5
 </summary>
-<h2>9:00–9:45</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/YEKJ4Pn3ieCXgggmB">Morning Mindfulness</a><span> (AMS Platform)</span></p>
 
-<h2>10:00–10:50</h2>
-{% include session-short.html session="microrhythm-and-displacement" %}
-{% include session-short.html session="history-of-theory" %}
-{% include session-short.html session="transformational-and-serial-techniques-poster" %}
-
-<h2>10:00–11:50</h2>
-{% include session-short.html session="analysis-of-world-music-ig" %}
+<h2>11:00-12:30 ET</h2>
+{% include session-short.html session="transforming-tunes-appropriating-styles" %}
+{% include session-short.html session="counterpoint" %}
+{% include session-short.html session="rethinking-jazz" %}
+{% include session-short.html session="poster-session-2-the" %}
 
 
-<h2>11:00-11:50</h2>
-{% include session-short.html session="salvatore-sciarrinos-novel-forms" %}
-{% include session-short.html session="schubert-and-chopin" %}
-{% include session-short.html session="schemas-frames-paradigms-poster" %}
+<h2>11:00-2:15 ET</h2>
+{% include session-short.html session="antiracist-music-theories-redefining" %}
 
-<h2>11:00-12:30</h2>
-{% include session-short.html session="histories-of-music-pedagogy" %}
+<h2>12:45-2:15 ET</h2>
+{% include session-short.html session="pop-vocals" %}
+{% include session-short.html session="performative-challenges" %}
+{% include session-short.html session="new-perspectives-on-tonality" %}
 
-<h2>12:00–12:50</h2>
-{% include session-short.html session="gender-disability-politics-popular-music" %}
-{% include session-short.html session="voice-leading-spaces-and-transformation" %}
-{% include session-short.html session="jazz-ig" %}
-{% include session-short.html session="autographs-ig" %}
+<h2>12:45-4:00 ET</h2>
+{% include session-short.html session="voice,-sexuality,-and-embodiment" %}
 
-<h2>12:00–1:30</h2>
-<p class="non-session"><a href="">Committee on Race and Ethnicity Travel Grant Luncheon, <em>for invited recipients only</em></a><span> (Remo)</span></p>
 
-<h2>1:00–1:50</h2>
-{% include session-short.html session="period-and-cyclic-form-in-the-nineteenth-century" %}
-{% include session-short.html session="rethinking-what-counts-in-serial-music" %}
-{% include session-short.html session="dance-and-movement-ig" %}
-{% include session-short.html session="history-of-theory-ig" %}
+<h2>2:30-4:00 ET</h2>
+{% include session-short.html session="analyzing-complex-rhythms" %}
+{% include session-short.html session="analysis-within-temporal-context" %}
+{% include session-short.html session="sounds-of-freedom-liberation-demilitarization" %}
+{% include session-short.html session="vernacular-idioms-and-topics" %}
 
-<h2>2:00–3:00</h2>
-{% include session-short.html session="theorists-talk-sex-in-musicals" %}
-{% include session-short.html session="new-perspectives-on-referents-in-analyses-of-improvisation" %}
-{% include session-short.html session="music-and-philosophy-ig" %}
-
-<h2>2:00–3:15</h2>
-{% include session-short.html session="stories-from-the-frontlines" %}
-
-<h2>3:00–4:00</h2>
-<p class="non-session"><a href="https://live.remo.co/e/smt-cmte-on-the-status-of-women-">Committee on the Status of Women Brown Bag Luncheon, <em>Open to all!</em></a><span> (Remo)</span></p>
-
-<h2>3:00–4:50</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/FtnTFFbwqzn4qimGS">Coffee Break </a><span>(AMS Platform)</span></p>
-
-<h2>3:00–5:00</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours </a><span>(AMS Platform)</span></p>
-
-<h2>3:30–5:30</h2>
-<p class="non-session"><a href="/graduate-fair">Graduate School Fair, <em>Open to all!</em></a><span></span>
-</p>
-
-<h2>5:00–6:30</h2>
-{% include session-short.html session="music-interculturality-scopes-methods-approaches" %}
-
-<h2>6:00–7:30</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/Ee2fK9u4JovtaBbB8">Listen and Unwind </a><span>(AMS Platform)</span>
-</p>
-
-<h2>6:00–8:00</h2>
-{% include session-short.html session="mediating-the-cold-war" %}
+<h2>4:15-5:45 ET</h2>
+{% include session-short.html session="scholars-as-community-activists" %}
 </details>
+
+
+
 <details>
 <summary>
-Saturday, November 14
+Saturday, November 6
 </summary>
 
-<h2>9:00–9:45</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/dvvTsZPw8bufn8HXi">Morning Yoga</a><span>(AMS Platform)</span>
-</p>
+<h2>11:00-12:00 ET</h2>
+{% include session-short.html session="the-expanding-history-of-II" %}
 
-<h2>10:00–10:50</h2>
 
-{% include session-short.html session="joni-mitchell" %}
-{% include session-short.html session="brahms-and-beethoven" %}
-{% include session-short.html session="pedagogy-and-cognition-poster" %}
-{% include session-short.html session="queer-resource-group" %}
+<h2>11:00-12:30 ET</h2>
+{% include session-short.html session="mentoring-students-considerations,-practices," %}
+{% include session-short.html session="poster-session-3-computer-aided" %}
+{% include session-short.html session="jazz-improvisation-polyrhythm" %}
+{% include session-short.html session="neo-riemannian-excursions" %}
 
-<h2>10:00–11:30</h2>
-{% include session-short.html session="black-lives-matter-in-music" %}
+<h2>12:45-2:15 ET</h2>
+{% include session-short.html session="dance-explorations" %}
+{% include session-short.html session="poster-session-4-expanding" %}
+{% include session-short.html session="perspectives-of-black-composers" %}
+{% include session-short.html session="shifting-meter" %}
+{% include session-short.html session="schoenberg" %}
 
-<h2>11:00-11:50</h2>
-{% include session-short.html session="unsettling-encounters" %}
-{% include session-short.html session="scripts-schemas-prototypes" %}
-{% include session-short.html session="popular-music-ig" %}
-{% include session-short.html session="music-and-disability-ig" %}
-
-<h2>12:00–12:50</h2>
-{% include session-short.html session="gesture-the-mimetic-hypothesis-musical-feels" %}
-{% include session-short.html session="sonata-problems" %}
-{% include session-short.html session="popular-and-video-game-music-poster" %}
-{% include session-short.html session="music-and-psychoanalysis-ig" %}
-
-<h2>12:00–1:30</h2>
-{% include session-short.html session="fostering-decoloniality" %}
-
-<h2>1:00–1:50</h2>
-{% include session-short.html session="analyzing-recordings" %}
-{% include session-short.html session="redefining-drama" %}
-
-<h2>1:00–2:15</h2>
-{% include session-short.html session="who-is-allowed-to-be-a-genius" %}
-
-<h2>2:30–4:00</h2>
-{% include session-short.html session="plenary" %}
-
-<h2>3:00–4:50</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/hAAESwq9Jmf2otrTL">Coffee Break </a><span>(AMS Platform)</span></p>
-
-<h2>3:00–5:00</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours</a>(AMS Platform)</p>
-
-<h2>4:00–4:50</h2>
-{% include session-short.html session="meaningless-excitement-and-smooth-atonal-sound" %}
-
-<h2>6:00–7:30</h2>
-{% include session-short.html session="modulations-and-intersections-disability-and-the-uncritical-role-of-music" %}
-
-<h2>6:00–7:30</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/7k568eMsNyzg2qZF6">Listen and Unwind </a><span>(AMS Platform)</span>
-</p>
+<h2>3:30-5:30 ET</h2>
+{% include session-short.html session="teaching-music-in-the" %}
 </details>
+
+
+
 <details>
 <summary>
-Sunday, November 15
+Sunday, November 7
 </summary>
 
-<h2>9:00–9:45</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/3xjjpo63uxSWPbEQZ">Morning Mindfulness</a><span>(AMS Platform)</span>
-</p>
+<h2>11:00-12:30 ET</h2>
+{% include session-short.html session="hearing-listening-signing" %}
+{% include session-short.html session="timbral-techniques" %}
+{% include session-short.html session="poster-session-5-fourier" %}
+{% include session-short.html session="the-schumanns" %}
 
-<h2>10:00–10:50</h2>
-{% include session-short.html session="new-directions-in-topic-theory" %}
-{% include session-short.html session="apropos-wagner-and-strauss" %}
-{% include session-short.html session="mathematics-of-music-ig" %}
 
-<h2>10:00–11:15</h2>
-{% include session-short.html session="provincializing-music-theory" %}
+<h2>11:00-2:15 ET</h2>
+{% include session-short.html session="provincializing-western-art-music" %}
 
-<h2>11:00-11:50</h2>
-{% include session-short.html session="timbre" %}
-{% include session-short.html session="balanchine" %}
 
-<h2>11:30-12:45</h2>
-{% include session-short.html session="using-open-educational-resources" %}
+<h2>12:45-2:15 ET</h2>
+{% include session-short.html session="cinquecento-and-ottocento" %}
+{% include session-short.html session="fretboards" %}
+{% include session-short.html session="sentences" %}
+{% include session-short.html session="compositional-uses-of-space" %}
 
-<h2>12:00–12:50</h2>
-{% include session-short.html session="postwar-transformations-of-the-american-common-stock" %}
-{% include session-short.html session="reconsidering-schenker-and-hierarchy" %}
+<h2>2:30-3:30 ET</h2>
+{% include session-short.html session="temporality-and-listener-experience" %}
 
-<h2>1:00–1:50</h2>
-{% include session-short.html session="tempo-rhythm-grove-in-metal" %}
-{% include session-short.html session="clara-and-robert-schumann" %}
-{% include session-short.html session="music-informatics-ig" %}
+<h2>2:30-4:00 ET</h2>
+{% include session-short.html session="gender-studies" %}
+{% include session-short.html session="corpus-approaches-to-popular" %}
+{% include session-short.html session="celebrating-unsuk-chin" %}
 
-<h2>1:00–2:15</h2>
-{% include session-short.html session="ethics-in-peer-review" %}
+<h2>4:15-5:45 ET</h2>
+{% include session-short.html session="demystifying-the-peer-review" %}
 
-<h2>2:00–3:30</h2>
-{% include session-short.html session="the-sound-object-and-music-media" %}
-
-<h2>2:30–3:00</h2>
-{% include session-short.html session="smt-business-meeting" %}
-
-<h2>3:00–3:15</h2>
-{% include session-short.html session="awards" %}
-
-<h2>3:00–4:50</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/scXJgkaqzdcd4nzRn">Coffee Break</a></p>
-
-<h2>3:00–5:00</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/trade-show/organizations">Exhibit Hall Open Hours</a></p>
-
-<h2>5:00–5:50</h2>
-{% include session-short.html session="substantial-similarity-and-the-role-of-forensic-musicology" %}
-
-<h2>6:00–7:30</h2>
-<p class="non-session"><a href="https://ams2020.pathable.co/meetings/virtual/7k568eMsNyzg2qZF6">Listen and Unwind </a><span>(AMS Platform)</span>
-</p>
-
-<h2>6:00–8:30</h2>
-{% include session-short.html session="pedagogy-for-the-public" %}
 </details>
 
 
