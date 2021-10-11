@@ -11,4 +11,4 @@ title: Friday Midday, Nov. 5
 {% include session-short.html session="new-perspectives-on-tonality" %}
 
 ## 12:45-4:00 ET
-{% include session-short.html session="voice,-sexuality,-and-embodiment" %}
+{% include session-short.html session="voice-sexuality-and-embodiment" %}

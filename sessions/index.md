@@ -8,17 +8,15 @@ title: Conference Schedule
 Click a triangle to see that day's events.
 
 <details>
-
 <summary markdown="span">
 Thursday, November 4
 </summary>
-
 
 <h2>11:00-12:30 ET</h2>
 {% include session-short.html session="intersectionality-and-music-analysis" %}
 {% include session-short.html session="opera-operetta" %}
 {% include session-short.html session="towards-defining-a-musical" %}
-{% include session-short.html session="20th-century-composers’-tonal-organization" %}
+{% include session-short.html session="20th-century-composers-tonal-organization" %}
 {% include session-short.html session="history-of-theory-18th-century" %}
 
 <h2>12:45-2:15 ET</h2>
@@ -28,7 +26,7 @@ Thursday, November 4
 {% include session-short.html session="sonata-forms" %}
 
 <h2>12:45-4:00 ET</h2>
-{% include session-short.html session="whose-voices?-epistemic-injustice" %}
+{% include session-short.html session="whose-voices-epistemic-injustice" %}
 
 <h2>2:30-4:00 ET</h2>
 {% include session-short.html session="delivery-schemata-and-vocal" %}
@@ -40,7 +38,7 @@ Thursday, November 4
 </details>
 
 <details>
-<summary>
+<summary markdown="span">
 Friday, November 5
 </summary>
 
@@ -49,7 +47,6 @@ Friday, November 5
 {% include session-short.html session="counterpoint" %}
 {% include session-short.html session="rethinking-jazz" %}
 {% include session-short.html session="poster-session-2-the" %}
-
 
 <h2>11:00-2:15 ET</h2>
 {% include session-short.html session="antiracist-music-theories-redefining" %}
@@ -60,8 +57,7 @@ Friday, November 5
 {% include session-short.html session="new-perspectives-on-tonality" %}
 
 <h2>12:45-4:00 ET</h2>
-{% include session-short.html session="voice,-sexuality,-and-embodiment" %}
-
+{% include session-short.html session="voice-sexuality-and-embodiment" %}
 
 <h2>2:30-4:00 ET</h2>
 {% include session-short.html session="analyzing-complex-rhythms" %}
@@ -73,19 +69,16 @@ Friday, November 5
 {% include session-short.html session="scholars-as-community-activists" %}
 </details>
 
-
-
 <details>
-<summary>
+<summary markdown="span">
 Saturday, November 6
 </summary>
 
 <h2>11:00-12:00 ET</h2>
 {% include session-short.html session="the-expanding-history-of-II" %}
 
-
 <h2>11:00-12:30 ET</h2>
-{% include session-short.html session="mentoring-students-considerations,-practices," %}
+{% include session-short.html session="mentoring-students-considerations-practices," %}
 {% include session-short.html session="poster-session-3-computer-aided" %}
 {% include session-short.html session="jazz-improvisation-polyrhythm" %}
 {% include session-short.html session="neo-riemannian-excursions" %}
@@ -101,10 +94,8 @@ Saturday, November 6
 {% include session-short.html session="teaching-music-in-the" %}
 </details>
 
-
-
 <details>
-<summary>
+<summary markdown="span">
 Sunday, November 7
 </summary>
 
@@ -114,10 +105,8 @@ Sunday, November 7
 {% include session-short.html session="poster-session-5-fourier" %}
 {% include session-short.html session="the-schumanns" %}
 
-
 <h2>11:00-2:15 ET</h2>
 {% include session-short.html session="provincializing-western-art-music" %}
-
 
 <h2>12:45-2:15 ET</h2>
 {% include session-short.html session="cinquecento-and-ottocento" %}
