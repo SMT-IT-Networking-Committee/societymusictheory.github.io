@@ -13,9 +13,14 @@ chair:
 respondent:
     name:  
     institution: 
-papers: 
-    - Kidula
-    - Nwankpa
-    - Rabinovitch
-    - Tanner
-    - Carter-Ényì
+    formatted: Quintina Carter-Ényì (University of Georgia), Presenter
+panelists: 
+    - name: Jean Kidula
+      institution: University of Georgia
+    - name: Onyee N. Nwankpa
+      institution: University of Port Harcourt, Nigeria
+    - name: Gilad Rabinovitch
+      institution: Florida State University
+    - name: Robert Tanner
+      institution: Morehouse College
+

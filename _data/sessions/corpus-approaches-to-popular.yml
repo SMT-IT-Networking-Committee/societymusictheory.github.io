@@ -8,11 +8,12 @@ link: /sessions/nov7/afternoon/corpus-approaches-to-popular
 slack: 
 zoom: 
 chair:
-    name: Stefanie Acevedo
-    institution: University of Connecticut
+    name:
+    institution:
+    formatted: Stefanie Acevedo (University of Connecticut), Chair and Respondent
 respondent:
-    name: Stefanie Acevedo
-    institution: University of Connecticut
+    name: 
+    institution: 
 papers: 
     - Arthur-Condit-Schultz
     - Park
