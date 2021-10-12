@@ -14,6 +14,11 @@ respondent:
     name: 
     institution: 
 papers: 
-    - Smith
-    - Ohriner
-    - Kaes Long
+panelists:
+    - name: Peter Smith 
+      institution: University of Notre Dame; Editor of <em>Music Theory Spectrum</em>
+    - name: Mitchell Ohriner
+      institution: University of Denver; Editor of <em>Music Theory Online</em>
+    - name: Megan Kaes Long
+      institution: Oberlin College & Conservatory; Editor of <em>SMT-V</em>
+

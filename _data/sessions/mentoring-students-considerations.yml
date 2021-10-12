@@ -14,7 +14,12 @@ respondent:
     name:  
     institution: 
 papers: 
-    - Tan
-    - Hunt
-    - Gawboy
-    - Pacun
+panelists:
+    - name: Daphne Tan
+      institution: University of Toronto
+    - name: Graham Hunt
+      institution: University of Texas at Arlington
+    - name: Anna Gawboy
+      institution: Ohio State University
+    - name: David Pacun
+      institution: Ithaca College
