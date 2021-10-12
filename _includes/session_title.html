@@ -29,7 +29,7 @@
 <p class="chair">{{ chair }}
 
 
-{%- if sess.respondent -%}
+{% if sess.respondent.name >0 %}
 <br />
   {%- if sess.respondent.formatted -%}
     {{ sess.respondent.formatted }}
@@ -65,27 +65,27 @@
 {%- if sess.sessiontype == "Interest Group" -%}
 <div class="icon-bar">
   	{%- if sess.playlist.size >0 -%}
-  	<a href="{{sess.playlist}}">Session playlist</a> 
+  	<a href="{{sess.playlist}}">Session playlist</a>
   	{%- endif -%}
-    <!--<a href="{{sess.zoom}}" target="_blank">Interest Group Meeting on Zoom</a>--> 
+    <!--<a href="{{sess.zoom}}" target="_blank">Interest Group Meeting on Zoom</a>-->
   	<a href="{{sess.slack}}" target="_blank">Continue the discussion on Slack</a>
 </div>
 {%- elsif sess.sessiontype == "AMS Platform" -%}
 <div class="icon-bar">
-    <a href="{{sess.zoom}}" target="_blank">Session Contents at AMS</a> 
+    <a href="{{sess.zoom}}" target="_blank">Session Contents at AMS</a>
   	<a href="{{sess.slack}}" target="_blank">Continue the discussion on Slack</a>
 </div>
 {%- elsif sess.sessiontype == "Poster Session" -%}
 <div class="icon-bar">
-    <!--<a href="{{sess.zoom}}" target="_blank">Poster Presentation on Zoom</a>--> 
+    <!--<a href="{{sess.zoom}}" target="_blank">Poster Presentation on Zoom</a>-->
   	<a href="{{sess.slack}}" target="_blank">Continue the discussion on Slack</a>
 </div>
 {%- else -%}
 <div class="icon-bar">
 	{%- if sess.playlist.size >0 -%}
-  	<a href="{{sess.playlist}}">Session playlist</a> 
-  	{%- endif -%}    
-  	<!--<a href="{{sess.zoom}}" target="_blank">Go to the Session Discussion on Zoom</a>--> 
+  	<a href="{{sess.playlist}}">Session playlist</a>
+  	{%- endif -%}
+  	<!--<a href="{{sess.zoom}}" target="_blank">Go to the Session Discussion on Zoom</a>-->
   	<a href="{{sess.slack}}" target="_blank">Continue the discussion on Slack</a>
 </div>
 {%- endif -%}
