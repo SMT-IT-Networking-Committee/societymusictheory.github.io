@@ -6,7 +6,7 @@
   {% if forloop.last %}
     > {{ page.title }}
   {% else %}
-    > <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | replace: 'nov3', 'November 3' | replace: 'nov4', 'November 4'| replace: 'nov5', 'November 5' | replace: 'nov6', 'November 6' | replace: 'nov7', 'November 7' | replace: 'morning', '9:00–12:00' | replace: 'midday', '12:00–3:00' | replace: 'afternoon', '3:00–6:00' | replace: 'evening', '6:00–9:00' | replace: 'sessions', 'Complete Schedule' capitalize }}</a>
+    > <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | replace: 'nov3', 'November 3' | replace: 'nov4', 'November 4'| replace: 'nov5', 'November 5' | replace: 'nov6', 'November 6' | replace: 'nov7', 'November 7' | replace: 'morning', '11:00' | replace: 'midday', '12:45' | replace: 'afternoon', '2:30' | replace: 'evening', '4:15' | replace: 'sessions', 'Complete Schedule at a glance' capitalize }}</a>
   {% endif %}
 {% endfor %}
 </div>
