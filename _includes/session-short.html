@@ -26,7 +26,7 @@
 {%- endif -%}
 
 
-{%- if sess.respondent -%}
+{% if sess.respondent.chair >0 %}
   {%- if sess.respondent.formatted_short -%}
     ; {{ sess.respondent.formatted_short }}
   {%- else -%}
