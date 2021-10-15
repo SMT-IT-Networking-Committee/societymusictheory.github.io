@@ -1,0 +1,16 @@
+---
+authors:
+    - name: Tobias Tschiedl 
+      institution: McGill University
+      bio: 
+title: "Contour Theory, Gesture and Embodiment: Promises, Problems and Continuous Alter"
+handouts:
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>Contour is often described along the lines of “a pattern of ascents, descents and plateaus that occur as music moves through time” (Wallentinsen 2017). While such intuitive embodied interpretations help explain contour theory’s musical relevance and appeal, the continuous motion in time that such wording implies is only inadequately captured by the discrete formalism at the basis of the theory. </p>
+    <p>I focus here on three characteristics of contour theory, and their attendant problems: (1) Abstraction from exact pitch and duration; (2) Comparison of csegs and similarities across cardinalities; (3) Different temporal scopes (motives, phrases, pieces) and contour reduction. To address these problems, I propose an approach based on what I call the “melodic center of mass”. This simple moving average of pitch (a continuous function over time) can be used as a form of reduction, smoothing out local extremes while providing an adequate representation of the melody’s general tendencies. Locally salient extremes can then be qualified in terms of “Reach”—their distance from the MCM. If the MCM is analogous to the motion through space of the <em>entirety</em> of a “body”, “Reach” is analogous to the motion of a body <em>part</em> with respect to that body.</p>
+    <p>This permits a qualification of melodic motion that goes beyond contour theory: (1) Exact pitches and durations remain peripheral, but <em>contribute</em> to the average. (2) Direction <em>towards</em> or <em>away</em> <em>from</em> the MCM supplement ascent and descent as possible features of comparison, along with <em>speeds</em> of motion. (3) The decomposition of a melody into MCM and Reach can play a role comparable to reduction.</p>
+---

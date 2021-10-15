@@ -1,0 +1,14 @@
+---
+authors:
+    - name: M. A. Coury-Hall 
+      institution: New York City
+      bio: 
+title: "Rogue Symmetry: The Groupoid of Riemannian UTTs"
+handouts:
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>Since the publication of the influential and pioneering work of music theorist David Lewin (1987), group theory has informed many rigorous studies in music. However, mathematically-inclined music theorists need not be bound by group-theoretical thinking alone.  This paper examines how groups and, in particular, groupoids handle symmetry in music with groupoids exemplifying a "rogue" symmetry.  Music theorists have recently considered groupoids in a categorical setting applied to poly-Klumpenhouwer Networks (PK-Nets) [Popoff et al., 2019].  An equivalent algebraic approach considers a groupoid of order 12 within the Riemann group of UTTs, a normal subgroup of the group formalized by Julian Hook in his seminal paper “Uniform Triadic Transformations” [Hook, 2002].  This groupoid includes the important PLR transformations and the N transformation [Cohn, 2000] of Neo-Riemannian theory.  An examination of the algebraic- and music-theoretic structure of this groupoid follows in detail, and this paper demonstrates how tonic and dominant functions arise as epiphenomena of the groupoid structure.  All of the appealing musical properties of this groupoid are a result of the transformations having a distribution that can be described as maximally even which expands the analytic scope of this concept from diatonic scale theory [Clough and Douthett, 1991] to transformational theory.  Beethoven’s “An die ferne Geliebte” (1816) and Bartók’s “Music for Strings, Percussion, and Celesta” (1936) provide basic and advanced examples respectively of this analytic technique.</p>
+---
