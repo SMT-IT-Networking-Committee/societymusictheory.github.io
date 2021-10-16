@@ -1,0 +1,56 @@
+---
+layout: default
+title: Conference Schedule
+---
+
+
+<summary markdown="span">
+Saturday, November 6
+</summary>
+
+<h2>9:30-10:45 ET</h2>
+{% include session-short.html session="improvisation-ig" %}
+{% include session-short.html session="music-cognition-music-ig" %}
+{% include session-short.html session="music-and-philosophy-ig" %}
+{% include session-short.html session="work-and-family-ig" %}
+
+<h2>10:00-10:45 ET</h2>
+{% include session-short.html session="yoga-with-lindsey-reymore2" %}
+
+
+<h2>11:00-12:00 ET</h2>
+{% include session-short.html session="the-expanding-history-of-II" %}
+
+<h2>11:00-12:30 ET</h2>
+{% include session-short.html session="mentoring-students-considerations" %}
+{% include session-short.html session="poster-session-3-computer-aided" %}
+{% include session-short.html session="jazz-improvisation-polyrhythm" %}
+{% include session-short.html session="neo-riemannian-excursions" %}
+
+<h2>12:45-2:15 ET</h2>
+{% include session-short.html session="dance-explorations" %}
+{% include session-short.html session="poster-session-4-expanding" %}
+{% include session-short.html session="perspectives-of-black-composers" %}
+{% include session-short.html session="shifting-meter" %}
+{% include session-short.html session="schoenberg" %}
+
+<h2>2:30-3:00 ET</h2>
+{% include session-short.html session="smt-business-meeting" %}
+
+<h2>3:00-3:30 ET</h2>
+{% include session-short.html session="smt-awards-presentation" %}
+
+<h2>3:30-5:30 ET</h2>
+{% include session-short.html session="teaching-music-in-the" %}
+
+<h2>6:00-7:30 ET</h2>
+{% include session-short.html session="autographs-and-archival-documents-ig" %}
+{% include session-short.html session="film-and-multimedia-ig" %}
+{% include session-short.html session="music-and-disability-ig" %}
+{% include session-short.html session="popular-music-ig" %}
+{% include session-short.html session="the-university-of-texas-recep" %}
+
+<h2>8:00 ET</h2>
+{% include session-short.html session="city-university-of-new-recep" %}
+{% include session-short.html session="indiana-university-recep" %}
+{% include session-short.html session="mcgill-university-recep" %}
