@@ -1,0 +1,47 @@
+---
+layout: default
+title: Conference Schedule
+---
+
+
+<summary markdown="span">
+Thursday, November 4
+</summary>
+
+<h2>9:30-10:45 ET</h2>
+{% include session-short.html session="post-1945-music-analysis-ig" %}
+
+
+<h2>11:00-12:30 ET</h2>
+{% include session-short.html session="intersectionality-and-music-analysis" %}
+{% include session-short.html session="opera-operetta" %}
+{% include session-short.html session="towards-defining-a-musical" %}
+{% include session-short.html session="20th-century-composers-tonal-organization" %}
+{% include session-short.html session="history-of-theory-18th-century" %}
+
+<h2>12:45-2:15 ET</h2>
+{% include session-short.html session="motives-narratives-timbres" %}
+{% include session-short.html session="flexible-themes-and-forms" %}
+{% include session-short.html session="songs-in-flux" %}
+{% include session-short.html session="sonata-forms" %}
+
+<h2>12:45-4:00 ET</h2>
+{% include session-short.html session="whose-voices-epistemic-injustice" %}
+
+<h2>2:30-4:00 ET</h2>
+{% include session-short.html session="delivery-schemata-and-vocal" %}
+{% include session-short.html session="gestures-and-fragments" %}
+{% include session-short.html session="poster-session-1-20th-21st-century" %}
+
+<h2>2:30-4:30 ET</h2>
+{% include session-short.html session="the-expanding-history-of" %}
+
+<h2>7:00 ET</h2>
+{% include session-short.html session="meet-the-board" %}
+{% include session-short.html session="analysis-of-world-music-ig" %}
+{% include session-short.html session="dance-and-movement-ig" %}
+{% include session-short.html session="early-music-analysis-ig" %}
+{% include session-short.html session="performance-and-analysis-ig" %}
+{% include session-short.html session="indiana-theory-review-recep" %}
+{% include session-short.html session="university-of-connecticut-recep" %}
+

@@ -1,0 +1,39 @@
+---
+layout: default
+title: Conference Schedule
+---
+
+
+<summary markdown="span">
+Sunday, November 7
+</summary>
+
+<h2>9:30-10:45 ET</h2>
+{% include session-short.html session="mathematics-of-music-ig" %}
+{% include session-short.html session="queer-resource-ig" %}
+
+<h2>11:00-12:30 ET</h2>
+{% include session-short.html session="hearing-listening-signing" %}
+{% include session-short.html session="timbral-techniques" %}
+{% include session-short.html session="poster-session-5-fourier" %}
+{% include session-short.html session="the-schumanns" %}
+
+<h2>11:00-2:15 ET</h2>
+{% include session-short.html session="provincializing-western-art-music" %}
+
+<h2>12:45-2:15 ET</h2>
+{% include session-short.html session="cinquecento-and-ottocento" %}
+{% include session-short.html session="fretboards" %}
+{% include session-short.html session="sentences" %}
+{% include session-short.html session="compositional-uses-of-space" %}
+
+<h2>2:30-3:30 ET</h2>
+{% include session-short.html session="temporality-and-listener-experience" %}
+
+<h2>2:30-4:00 ET</h2>
+{% include session-short.html session="gender-studies" %}
+{% include session-short.html session="corpus-approaches-to-popular" %}
+{% include session-short.html session="celebrating-unsuk-chin" %}
+
+<h2>4:15-5:45 ET</h2>
+{% include session-short.html session="demystifying-the-peer-review" %}
