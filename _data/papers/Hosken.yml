@@ -1,0 +1,15 @@
+---
+authors:
+    - name: Fred Hosken 
+      institution: Georgetown University
+      bio: 
+title: "Characterizing a Signature Metric Feel: The Stax Sound"
+handouts:
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>Michael Bland, Prince’s drummer, described performers’ unique tendencies to play slightly ahead or behind the beat as being “as signature to you as the shape of your face” (Scott’s Bass Lessons 2021). Is it possible, therefore, to quantify the temporal “feel” of a performer or group in ways that reveal their signature sound? Stax Records was famous for creating a subgenre of rhythm and blues known as “southern soul” that, between 1961 and 1969/70, had a readily identifiable sound (Bowman 1995). Key to this signature sound—supposedly—was the house band’s delayed backbeats, heard prominently on Wilson Pickett’s “In the Midnight Hour” (Bowman 1995; Covach &amp; Flory 2018; Wexler &amp; Ritz 1993).</p>
+    <p>This paper presents an analysis of how meter is performed during Stax Record’s first period (1961–1969/70). First, I analyze the microtemporal details of inter-beat intervals in “Midnight Hour” to show that backbeats are indeed delayed. I expand on this by analyzing Bowman’s 95-song Stax Sound corpus to ascertain whether the delayed backbeat truly is a signature of the record label’s band or whether “Midnight Hour” is an exceptional occurrence. These analyses prompt the question: if a signature sound may be metrically characterized, might it be possible to then apply this feel fingerprint to a new performance and thereby recreate the “feel”? This paper will also consider the “neutrality” of computational methods, emphasizing how there is no straightforward point of measurement when analyzing something as multifaceted as musical beats, and advocating for musical sensitivity when applying these tools.</p>
+---

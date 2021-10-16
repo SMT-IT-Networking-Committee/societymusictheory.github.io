@@ -1,0 +1,15 @@
+---
+authors:
+    - name: Jinny Park 
+      institution: Indiana University
+      bio: 
+title: "Meta Corpus Study of Chord-Loop Syntax in Twenty-First-Century Popular Music"
+handouts:
+    - desc: Handout
+      path: 
+    - desc: 
+      path: 
+abstract: | 
+    <p>Harmonic tension and closure in 21<sup>st</sup>-century pop defy common-practice theoretical concepts; a melody often appears independently above the cyclic repetitions of the chord-loop, where multiple tonal centers are perpetually in non-alignment with each other. Instead, formal sections adapted from Electronic Popular Music (EDM)—riser, drop, and dance chorus—create musical tension and closure through its sonic function (Peres 2016, Barna 2020). The characteristic equivocal tonal centers in popular music have been analyzed as multiple modal tonics (Richards 2017), “fragile, emergent, and absent tonics” (Spicer 2017), “hybrid tonics” (Duinker 2019), or “divorced” of musical layers (Nobile 2015, De Clercq 2019). While there have been case studies of “ambiguous tonality” in notable chord-loops schemas (Richards 2017, Duinker 2019), there is no expert-encoded harmony dataset of 21<sup>st</sup>-century popular music to corroborate these harmonic theories.</p>
+    <p>Through a meta-corpus study of an expert-encoded dataset over 300 songs, I uncover the shift in harmonic syntax of chord-loops after 2000. I compiled and encoded 21<sup>st</sup>-century pop harmony using a “relative-key” approach (De Clercq 2019), which reveals a shared harmonic grammar consistent within a style: it allows multiple interpretations of chord-loop’s tonality, while ensuring unequivocal identification of the chord-loop schema. Moreover, the use of <em>chord-loop pairs</em>—two related chord-loop schemas that always appear as a pair—is normative to EDM-pop especially in respect to “Axis” (Richards 2017) and “Plateau” (Duinker 2019) loop family. I close my paper by observing the prominence of the EDM-influenced chord-loop syntax across various 21<sup>st</sup>-century popular music genres.</p>
+---
