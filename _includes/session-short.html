@@ -26,9 +26,9 @@
 {%- endif -%}
 
 
-{% if sess.respondent.chair >0 %}
-  {%- if sess.respondent.formatted_short -%}
-    ; {{ sess.respondent.formatted_short }}
+{% if sess.respondent.name %}
+  {%- if sess.respondent.formatted -%}
+    ; {{ sess.respondent.formatted }}
   {%- else -%}
     ; {{ sess.respondent.name }},&nbsp;
     {%- if sess.respondent.title -%}
