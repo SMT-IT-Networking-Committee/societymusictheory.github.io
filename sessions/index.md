@@ -12,6 +12,10 @@ Click a triangle to see that day's events.
 Thursday, November 4
 </summary>
 
+<h2>9:30-10:45 ET</h2>
+{% include session-short.html session="post-1945-music-analysis-ig" %}
+
+
 <h2>11:00-12:30 ET</h2>
 {% include session-short.html session="intersectionality-and-music-analysis" %}
 {% include session-short.html session="opera-operetta" %}
@@ -35,12 +39,31 @@ Thursday, November 4
 
 <h2>2:30-4:30 ET</h2>
 {% include session-short.html session="the-expanding-history-of" %}
+
+<h2>7:00 ET</h2>
+{% include session-short.html session="meet-the-board" %}
+{% include session-short.html session="analysis-of-world-music-ig" %}
+{% include session-short.html session="dance-and-movement-ig" %}
+{% include session-short.html session="early-music-analysis-ig" %}
+{% include session-short.html session="performance-and-analysis-ig" %}
+{% include session-short.html session="indiana-theory-review-recep" %}
+{% include session-short.html session="university-of-connecticut-recep" %}
+
 </details>
 
 <details>
 <summary markdown="span">
 Friday, November 5
 </summary>
+
+<h2>9:30-10:45 ET</h2>
+{% include session-short.html session="global-interculturalism-and-musical-ig" %}
+{% include session-short.html session="music-notation-and-visualization-ig" %}
+{% include session-short.html session="popular-music-ig" %}
+{% include session-short.html session="scholars-for-social-responsibility-ig" %}
+
+<h2>10:00-10:45 ET</h2>
+{% include session-short.html session="yoga-with-lindsey-reymore" %}
 
 <h2>11:00-12:30 ET</h2>
 {% include session-short.html session="transforming-tunes-appropriating-styles" %}
@@ -67,12 +90,38 @@ Friday, November 5
 
 <h2>4:15-5:45 ET</h2>
 {% include session-short.html session="scholars-as-community-activists" %}
+
+
+<h2>6:00-7:30 ET</h2>
+{% include session-short.html session="history-of-music-theory-ig" %}
+{% include session-short.html session="jazz-ig" %}
+{% include session-short.html session="musical-theater-ig" %}
+{% include session-short.html session="russian-music-theory-ig" %}
+{% include session-short.html session="eastman-school-of-music-recep" %}
+
+<h2>8:00 ET</h2>
+{% include session-short.html session="florida-state-university-recep" %}
+{% include session-short.html session="michigan-state-university-recep" %}
+{% include session-short.html session="university-of-cincinnati-college-conservatory-recep" %}
+{% include session-short.html session="university-of-massachusetts-amherst-recep" %}
+{% include session-short.html session="university-of-oregon-recep" %}
+
 </details>
 
 <details>
 <summary markdown="span">
 Saturday, November 6
 </summary>
+
+<h2>9:30-10:45 ET</h2>
+{% include session-short.html session="improvisation-ig" %}
+{% include session-short.html session="music-cognition-music-ig" %}
+{% include session-short.html session="music-and-philosophy-ig" %}
+{% include session-short.html session="work-and-family-ig" %}
+
+<h2>10:00-10:45 ET</h2>
+{% include session-short.html session="yoga-with-lindsey-reymore2" %}
+
 
 <h2>11:00-12:00 ET</h2>
 {% include session-short.html session="the-expanding-history-of-II" %}
@@ -90,14 +139,36 @@ Saturday, November 6
 {% include session-short.html session="shifting-meter" %}
 {% include session-short.html session="schoenberg" %}
 
+<h2>2:30-3:00 ET</h2>
+{% include session-short.html session="smt-business-meeting" %}
+
+<h2>3:00-3:30 ET</h2>
+{% include session-short.html session="smt-awards-presentation" %}
+
 <h2>3:30-5:30 ET</h2>
 {% include session-short.html session="teaching-music-in-the" %}
+
+<h2>6:00-7:30 ET</h2>
+{% include session-short.html session="autographs-and-archival-documents-ig" %}
+{% include session-short.html session="film-and-multimedia-ig" %}
+{% include session-short.html session="music-and-disability-ig" %}
+{% include session-short.html session="popular-music-ig" %}
+{% include session-short.html session="the-university-of-texas-recep" %}
+
+<h2>8:00 ET</h2>
+{% include session-short.html session="city-university-of-new-recep" %}
+{% include session-short.html session="indiana-university-recep" %}
+{% include session-short.html session="mcgill-university-recep" %}
 </details>
 
 <details>
 <summary markdown="span">
 Sunday, November 7
 </summary>
+
+<h2>9:30-10:45 ET</h2>
+{% include session-short.html session="mathematics-of-music-ig" %}
+{% include session-short.html session="queer-resource-ig" %}
 
 <h2>11:00-12:30 ET</h2>
 {% include session-short.html session="hearing-listening-signing" %}
