@@ -15,7 +15,7 @@
 .simpleBanner .bannerControlsPrev:hover .bannerControls {border-color:transparent #FFF transparent transparent;}
 .simpleBanner .bannerControlsNext:hover .bannerControls {border-color:transparent transparent transparent #FFF;}
 .simpleBanner .bannerControls {width:0;height:0;border-style:solid;}
-.simpleBanner .bannerIndicators {background:transparent;right:20px;opacity:0.9;padding:4px 8px 4px 0;position:absolute;bottom:25px;}
+.simpleBanner .bannerIndicators {background:transparent;right:20px;opacity:0.9;padding:4px 8px 4px 0;position:absolute;bottom:0px;}
 .simpleBanner .bannerIndicators ul {overflow:hidden;}
 .simpleBanner .bannerIndicators .bannerIndicator {background:#5D5D5D;border-radius:7px 7px 7px 7px;cursor:pointer;float:left;height:15px;margin-left:8px;width:15px;}
 .simpleBanner .bannerIndicators .bannerIndicator:hover {background:#FFF;}

@@ -16,7 +16,7 @@
         this._bannerWidth = 0;
         this._bannerCount = 0;
         this.options = $.extend({
-            arrows:true,
+            arrows:false,
             indicators:true,
             pauseOnHover:true,
             autoRotate:true,
