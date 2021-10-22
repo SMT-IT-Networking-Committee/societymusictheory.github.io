@@ -681,6 +681,18 @@ div.video iframe {
     height: 100%;
 }
 
+div.sponsor {
+		margin: 25px auto;
+		width: 90%;
+}
+
+div.sponsor img {
+		display: block;
+		margin: auto;
+		max-width: 100%;
+		height: auto;
+}
+
 details.root {
     padding-left: 1em;
     border-left: 3px solid $complementary-color;

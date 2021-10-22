@@ -17,10 +17,21 @@
   gtag('config', 'G-3F23SZS3GQ');
 </script>
 
+<!-- Rotating Banner ad scripts and stylesheet -->
+<link rel="stylesheet" type="text/css" href="/css/bannerads.css"/>
+<script type="text/javascript" src="/js/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" src="/js/jquery.simplebanner.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.simpleBanner').simplebanner();
+  });
+</script>
+
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link href="/css/fontawesome-free-5.14.0-web/css/all.css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-	<link rel="stylesheet" href="https://use.typekit.net/zsz7lqz.css">
+ 	  <link rel="stylesheet" href="https://use.typekit.net/zsz7lqz.css">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="icon" href="/favicon.ico?v=2019" />
     <link rel="apple-touch-icon-precomposed" href="/favicon.ico">
