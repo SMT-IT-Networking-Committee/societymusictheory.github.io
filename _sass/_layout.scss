@@ -682,7 +682,7 @@ div.video iframe {
 }
 
 div.sponsor {
-		margin: 25px auto;
+		margin: 0 auto;
 		width: 90%;
 }
 
@@ -691,6 +691,10 @@ div.sponsor img {
 		margin: auto;
 		max-width: 100%;
 		height: auto;
+}
+
+div.sponsor h3 {
+		text-align: center;
 }
 
 details.root {
