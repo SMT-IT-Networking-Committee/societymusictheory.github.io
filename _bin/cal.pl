@@ -13,10 +13,10 @@ binmode(STDIN, ':utf8');
 binmode(STDOUT, ':utf8');
 
 my %days = (
-  'November 7'  => '20201107',
-  'November 8'  => '20201108',
-  'November 14' => '20201114',
-  'November 15' => '20201115',
+  'November 4'  => '20211104',
+  'November 5'  => '20211105',
+  'November 6' => '20211106',
+  'November 7' => '20211107',
 );
 
 my %names = (
@@ -40,37 +40,37 @@ $cal_dir->mkpath;
 my $prelude = <<'EOF';
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//SMT Conference Guide 2020
+PRODID:-//SMT Conference Guide 2021
 CALSCALE:GREGORIAN
 BEGIN:VTIMEZONE
-TZID:America/Chicago
+TZID:America/New_York
 BEGIN:DAYLIGHT
 TZNAME:EDT
 RRULE:FREQ=YEARLY;UNTIL=20060402T070000Z;BYDAY=1SU;BYMONTH=4
 DTSTART:20000402T020000
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
 END:DAYLIGHT
 BEGIN:DAYLIGHT
 TZNAME:EDT
 RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
 DTSTART:20070311T020000
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0500
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
 END:DAYLIGHT
 BEGIN:STANDARD
 TZNAME:EST
 RRULE:FREQ=YEARLY;UNTIL=20061029T060000Z;BYDAY=-1SU;BYMONTH=10
 DTSTART:20001029T020000
 TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
+TZOFFSETTO:-0400
 END:STANDARD
 BEGIN:STANDARD
 TZNAME:EST
 RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
 DTSTART:20071104T020000
 TZOFFSETFROM:-0500
-TZOFFSETTO:-0600
+TZOFFSETTO:-0400
 END:STANDARD
 END:VTIMEZONE
 EOF
@@ -119,8 +119,8 @@ for my $f ($session_dir->children) {
     $end = sprintf("%02d%02d00", $eh, $em);
   }
 
-  my $dtstart = sprintf("DTSTART;TZID=America/Chicago:%sT%s", $days{$date}, $start);
-  my $dtend =   sprintf("DTEND;TZID=America/Chicago:%sT%s", $days{$date}, $end);
+  my $dtstart = sprintf("DTSTART;TZID=America/New_York:%sT%s", $days{$date}, $start);
+  my $dtend =   sprintf("DTEND;TZID=America/New_York:%sT%s", $days{$date}, $end);
 
   my $now = DateTime->now(time_zone => 'UTC');
   my $dtstamp = $now->ymd('') . 'T' . $now->hms('') . 'Z';
