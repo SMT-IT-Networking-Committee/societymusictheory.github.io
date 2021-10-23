@@ -10,10 +10,13 @@ zoom:
 chair:
     name: Suzannah Clark and Gavin Lee
     institution:
-    formatted: Suzannah Clark (Harvard University) and Gavin Lee (Soochow University School of Music), Co-Chairs
+    formatted: |
+        <p>Part 1: Suzannah Clark (Harvard University), Chair; Ashon Crawley (University of Virginia, Religious Studies), Presenter; and Vivian Luong (University of Oklahoma), Respondent</p>
+        <p>Part 2: Fred Maus (University of Virginia), Chair; Alisha Lola Jones (Indiana University), Presenter; Stephan Pennington (Tufts University), Respondent</p>
+        <p>Part 3: Open conversation about LGBTQ issues and professional life (research, teaching, work-place)</p>
 respondent:
-    name: Vivian Luong and Stephan Pennington 
+    name: 
     institution:
-    formatted: Vivian Luong (University of Oklahoma) and Stephan Pennington (Tufts University), Co-respondents
+    formatted:
 papers:
 
