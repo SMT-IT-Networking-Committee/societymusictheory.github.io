@@ -11,9 +11,9 @@ chair:
     name: Suzannah Clark and Gavin Lee
     institution:
     formatted: |
-        <p>Part 1: Suzannah Clark (Harvard University), Chair; Ashon Crawley (University of Virginia, Religious Studies), Presenter; and Vivian Luong (University of Oklahoma), Respondent</p>
-        <p>Part 2: Fred Maus (University of Virginia), Chair; Alisha Lola Jones (Indiana University), Presenter; Stephan Pennington (Tufts University), Respondent</p>
-        <p>Part 3: Open conversation about LGBTQ issues and professional life (research, teaching, work-place)</p>
+        <p><strong>Part 1:</strong> Suzannah Clark (Harvard University), Chair; Ashon Crawley (University of Virginia, Religious Studies), Presenter; and Vivian Luong (University of Oklahoma), Respondent</p>
+        <p><strong>Part 2:</strong> Fred Maus (University of Virginia), Chair; Alisha Lola Jones (Indiana University), Presenter; Stephan Pennington (Tufts University), Respondent</p>
+        <p><strong>Part 3:</strong> Open conversation about LGBTQ issues and professional life (research, teaching, work-place)</p>
 respondent:
     name: 
     institution:
