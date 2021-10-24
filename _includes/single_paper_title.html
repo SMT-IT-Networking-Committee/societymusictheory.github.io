@@ -49,8 +49,8 @@
 </details>
 {% endif %}-->
 
-{% if p.handouts.size > 0 %}
-<details class="root"><summary>Other Materials</summary>
+{% if p.handouts[0].path.size > 0 %}
+<details class="root"><summary>Supplementary Materials</summary>
 <ul class="handouts">
   {% for h in p.handouts %}
   {%- capture link -%}
