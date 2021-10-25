@@ -5,10 +5,10 @@ authors:
       bio: 
 title: "The Logic of Six-Based Minor for Harmonic Analyses of Popular Music"
 handouts:
-    - desc: Handout
-      path: 
-    - desc: 
-      path: 
+    - desc: Slides
+      path: deClercq_slides.pdf
+    - desc: Text
+      path: deClercq_text.pdf
 abstract: | 
     <p>Harmonic analyses of popular music typically take the minor tonic to be Roman numeral “one.” By nature, this “one-based” approach requires a new numbering scheme when songs shift between relative key centers. Recent scholarship has argued, however, that popular music often involves ambiguity between relative tonalities, as exemplified in the “Axis” progression, if not sometimes a tonal fusion of two relative keys. I thus argue for the utility of a “six-based” approach to the minor tonic, where the minor tonic is taken to be ć. This six-based approach, common among practitioners of popular music as seen in the Nashville number system, avoids the forced choice of a single tonic, and it thus offers a consistent way to track chord function and behavior across shifts between relative key centers. After considering these shifts in a diatonic context on the levels of both phrase and song form, I posit that popular music involves three possible tonalities, together which form a “triple-tonic complex” akin to Stephenson’s three harmonic palettes: a major system, a parallel-minor system, and a relative-minor system. I conclude by considering how chromatic chords common in a major key, such as II and ęVII, correspond to their counterparts in the relative minor, IV and ęII, thereby collapsing the landscape of diatonic modes into three modal complexes. Overall, this paper serves to reveal the logic of six-based minor: why it is useful, what issues it resolves, and what types of insights it can afford us about harmonic syntax in popular music.</p>
 ---
