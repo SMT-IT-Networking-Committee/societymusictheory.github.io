@@ -16,8 +16,6 @@ title: "A Case Study in Using Interactive Aural Software for the Analysis of Spe
 handouts:
     - desc: Handout
       path: Clarke.Dufeu.Takahashi.Roebel_slides.pdf
-    - desc: 
-      path: 
 abstract: | 
     <p>Spectral music (in the broadest sense) foregrounds timbre and fluid processes in shaping compositions and most existing analytical approaches are not well suited to this repertoire. This poster presents research developing new interactive aural software to ameliorate this situation. </p>
     <p>We take as a case study <em>An elemental thing</em> by the Australian composer Liza Lim, a 15-minute work for solo woodblock. Software is used to enable the analyst and readers to relate analytical ideas directly to aural experience. Interactive taxonomies and dynamic structural charts can be ‘played’; the software includes a video recording of the work, facilitating integration of visual aspects of a performance, including physical gesture, into the analytical discussion. An interactive sonogram allows users to select segments in the graphic display, or scrub (with the mouse) in both time and frequency, hearing the results instantly. Visualisations of data from audio descriptors can be heard interactively. Our software encourages ‘readers’ to experiment with analytical materials for themselves, with findings presented, not simply as abstract ideas about an unfamiliar sonic environment, but in sound.</p>
