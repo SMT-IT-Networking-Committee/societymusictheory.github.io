@@ -5,10 +5,10 @@ authors:
       bio: 
 title: "Skiing in <em>k</em> Dimensions, Or, “Metric” <em>k</em>-ary <em>n</em>-Cubes in Some Music of (and since) Ligeti"
 handouts:
-    - desc:
-      path: 
-    - desc: 
-      path: 
+    - desc: Scores
+      path: NSmith_scores.pdf
+    - desc: Supplement
+      path: NSmith_supmaterial.pdf
 abstract: | 
     <p>This poster presents a generalization and consolidation the of lineage of approaches to metrical inclusions put forward by Cohn (1992, 2001, 2019), Leong (2007), Murphy (2009), and Guerra (2018, 2019) that model metrical states in which pulses are related by combinations of the powers of 2 and 3. As oft noted, current methodologies could adequately address the <em>substitution</em> of higher primes for either 2 or 3. However, the <em>inclusion of more</em> (co-)prime generators necessitates a reexamination of “ski-hill graphs” and “metric cubes”—recasting them as <em>k-</em>dimensional ski-hill lattices and <em>k-</em>ary <em>n</em>-cubes, respectively. Expanded thusly, the ski-hill affords a new category of hemiola (<em>k</em>-Hemiola) that captures up to <em>k</em> hemiolas on <em>the same metrical level</em>, as distinct from “complex” hemiolas that occur across <em>different</em> levels. Isochronous <em>k-</em>ary <em>n</em>-cubes form a GIS as the group action of the <em>n</em>-fold Cartesian production of Z<em><sub>k</sub></em>: (Z<em><sub>k</sub></em>)<em><sup>n</sup></em>.</p>
     <p>A generalized space is proposed that encompasses all possible isochronous and non-isochronous metrical states and their hemiolic relations. As hemiolas are here defined in reference to the space’s abstract structure, I present a three-tier conception of hemiolas based on the properties of the chosen generators: dissonances arising from the powers of 2 and 3; those arising from powers of higher primes; and those arising from co-prime generators. Illustrated by Ligeti’s <em>Études</em>, King Crimson, and Animals as Leaders, the generalizations presented here offer a means of evaluating abstractions of hemiolas and metrical dissonance, while providing a foil against which their traditional conceptions can be heard anew.</p>
