@@ -2,7 +2,8 @@
 authors:
     - name: Niels Verosky 
       institution: San Francisco, CA
-      bio: 
+      bio: |
+        <p>Niels Verosky is an independent researcher, computer science tutor, and freelance writer based in San Francisco, CA. His research has been published in <em>Cognitive Science</em>, <em>Journal of New Music Research</em>, <em>Music Perception</em>, and <em>Psychomusicology</em>. He is interested in exploring topics such as tonality perception and scale structure, especially using computational modeling and corpus analysis. He received a BA with High Honors from Swarthmore College, completing majors in music and computer science.</p>
 title: "Extracting Scale Structure from Common Collections in Rock Music"
 handouts:
     - desc: Handout
