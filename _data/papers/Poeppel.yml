@@ -6,9 +6,7 @@ authors:
 title: "Notre Oiseaux: A Computational Study of the Messiaen Birdsong Transcriptions of New Caledonia"
 handouts:
     - desc: Handout
-      path: 
-    - desc: 
-      path: 
+      path: Poeppel_Presentation.pdf
 abstract: | 
     <p>Olivier Messiaen was famously active as a composer, a music theorist, and an ornithologist interested in birdsong. His unconventional music-theoretical interests are evident in the first volume of his <em>Traité de Rythme, de Couleur, et d’Ornithologie</em> (1994), as well as in his 1944 work <em>Technique de mon langage musical,</em> both of which extensively treat Greek metrics alongside ancient Carnatic rhythms. Birdsong, on the other hand, is the subject of the fifth volume of his <em>Traité de Rythme, de Couleur, et d’Ornithologie</em> (1999/2000), which features hundreds of the composer's transcriptions of birdsong from around the globe. Here I disentangle the reciprocal and often covert interactions between the composer’s activities in these three domains, and show how his purportedly naturalistic birdsong transcriptions in fact reflect his compositional habits and his theoretical ideas and influences. </p>
     <p>Presenting new computational tools and a novel algorithm for rhythmic search and alignment, I demonstrate the remarkable concordance (99.31%) between the algorithm’s findings and compositional analyses by the composer and by Messiaen scholars (Griffiths 1985, Cheong 2008, Kraft 2013). These new computational methods confirm the pervasiveness of Greek prosodic feet in the New Caledonian birdsong transcriptions (<em>n</em>=103), while also revealing the hitherto unsuspected presence of Carnatic fragments more familiar from his compositions, including 33-Turangalila and 54-Nandana. Moreover, analysis of the transcription’s pitch space demonstrates frequent conformity to the Modes of Limited Transposition (1944) both within and across avian species, further demonstrating that the composer’s <em>langage musical</em> permeated his naturalistic transcriptions. </p>
