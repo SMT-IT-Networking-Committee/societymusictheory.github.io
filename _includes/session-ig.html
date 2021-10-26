@@ -1,0 +1,68 @@
+{% assign sess = site.data.sessions[include.session] %}
+
+<div class="session-contents">
+  <summary><a href="{{ sess.link }}">{{ sess.title }}</a>
+   {% if sess.society %}<span class="society">({{ sess.society }})</span>{% endif %}
+   {% if sess.room == "AMS Platform" %}
+      <span>(AMS Platform)</span>
+   {% endif %}
+  </summary>
+<p class="index-chair">
+{%- if sess.sponsor -%}
+<i>Sponsored by the {{ sess.sponsor }}</i><br>
+{%- endif -%}
+
+{% if sess.chair.size >0 %}
+{%- if sess.chair.formatted -%}
+  {{ sess.chair.formatted }}
+{%- else -%}
+  {{ sess.chair.name }},&nbsp;
+  {%- if sess.chair.title -%}
+    {{ sess.chair.title }}
+  {%- else -%}
+    Chair
+  {%- endif -%}
+{%- endif -%}
+{%- endif -%}
+
+
+{% if sess.respondent.name %}
+  {%- if sess.respondent.formatted -%}
+    ; {{ sess.respondent.formatted }}
+  {%- else -%}
+    ; {{ sess.respondent.name }},&nbsp;
+    {%- if sess.respondent.title -%}
+      {{ sess.respondent.title }}
+    {%- else -%}
+      Respondent
+    {%- endif -%}
+  {%- endif -%}
+{%- endif -%}
+{%- if sess.livestream -%}
+<br><i>This session will be streamed <a href="https://societymusictheory.org/events/meeting2019/main">live on the internet</a></i>
+{%- endif -%}
+
+</p>
+
+{% unless include.nopapers %}
+<ul class="paper-list">
+
+{% for paper in sess.papers %}
+  {% assign p = site.data.papers[paper] %}
+  {%- capture auth -%}
+    {%- if p.authors[0].formatted -%}
+      {{ p.authors | slice: 1,99 | map: "name" | array_to_sentence_string }}
+    {%- else -%}
+        {{ p.authors | map: "name" | array_to_sentence_string }}
+    {%- endif -%}
+  {%- endcapture -%}
+  <li style="font-weight: 500;">{{ auth }}, <span class="title">{{ p.title }}</span></li>
+{% endfor %}
+
+{%- if sess.panelists[0].name -%}
+    <li>{{ sess.panelists | map: "name" | array_to_sentence_string }}, Panelists</li>
+{%- endif -%}
+</ul>
+{% endunless %}
+
+</div>
