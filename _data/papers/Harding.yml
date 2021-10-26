@@ -2,7 +2,8 @@
 authors:
     - name: Jennifer Harding 
       institution: University of Massachusetts Amherst
-      bio: 
+      bio: |
+        <p>Jennifer Harding is a Lecturer of Music Theory at University of Massachusetts Amherst. She holds graduate degrees in music theory and violin performance from Florida State University and Northern Illinois University. Her research uses computational approaches to music analysis to answer questions about harmony in the music of a wide range of composers. Jennifer's recent dissertation, “Applications of the Discrete Fourier Transform to Music Analysis," offers several approaches for investigating harmony through the lens of the Fourier transform.</p>
 title: "Musical Maps and Chord Cartographies: Mapping Harmony in Fourier Space"
 handouts:
     - desc: Handout
