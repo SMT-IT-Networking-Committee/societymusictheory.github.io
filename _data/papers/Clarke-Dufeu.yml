@@ -6,13 +6,16 @@ authors:
         <p>Michael Clarke is a Professor of Music at the University of Huddersfield (UK). He is Principal Investigator for the IRiMaS project (Interactive Research in Music as Sound), funded by an Advanced Grant from the European Research Council. He is a composer of both acoustic and computer music and a developer of software for music. He developed the Interactive Aural approach to music analysis, initially in the context of electroacoustic music, which through IRiMaS is now being extended to other repertoires.</p>
     - name: Frédéric Dufeu 
       institution: University of Huddersfield
-      bio:
+      bio: |
+        <p>Frédéric Dufeu is Senior Research Fellow in Music and Music Technology at the University of Huddersfield, where he works on software development for music analysis and musicology within the ERC-funded IRiMaS project (Interactive Research in Music as Sound) directed by Michael Clarke. As musicologist, his main area of research is electroacoustic music. He is the co-author, with Michael Clarke and Peter Manning, of the book <em>Inside Computer Music</em> (Oxford University Press, 2020).</p>
     - name: Keitaro Takahashi 
       institution: University of Huddersfield
-      bio:
+      bio: |
+        <p>Keitaro Takahashi is a Japanese composer and programmer. He currently works as a research fellow at CeReNeM (Center for Research in New Music) at the University of Huddersfield, where he develops audio/video analysis and data sorting software for various musicological subjects within the IRiMaS project led by Michael Clarke. The tools he developed for media art (DIPS ICMC 2013), instrumental research (Recorderology ICMC 2014), and performance practice (CelloMap App 2020) are available online and Apple store.</p>
     - name: Axel Roebel
       institution: IRCAM, Paris
-      bio:             
+      bio: |
+        <p>Axel Roebel received his Diploma in electrical engineering from Hannover University in 1990, his Ph.D. degree in computer science from the Technical University of Berlin in 1993, and his Habilitation from the Sorbonne Université in 2011. In 2000 he joined the Sound Analysis-Synthesis team of IRCAM, became the head of the team in 2011 and became research director in 2013. He has developed state of the art speech and music analysis and transformation algorithms and is the author of numerous libraries for signal analysis, synthesis and transformation. His current interests are sound processing algorithms based on deep learning. He has published more than 100 publications in international journals and conferences.</p>
 title: "A Case Study in Using Interactive Aural Software for the Analysis of Spectral Music: Liza Lim’s ‘An Elemental Thing’"
 handouts:
     - desc: Handout
