@@ -16,13 +16,13 @@
 	{%- endcapture -%}
 	{%- capture insti -%}
 		{{ a.insti }}
-	{%- endcapture -%}
+	{%- endcapture -%}	
 	{%if a.bio %}
 		{%- capture bio -%}
 			{{ a.bio }}
 		{%- endcapture -%}
-		<details><summary class="author"><p class="author">{{ auth }}</p>
-		</summary>{{ bio }}</details>
+	    <p class="author">{{ auth }}</p>
+		<details><summary>bio for {{ a.name }}</summary>{{ bio }}</details>
 	{%- else -%}
 		<p class="author">{{ auth }}</p>
 	{% endif %}
