@@ -2,7 +2,8 @@
 authors:
     - name: Michael Clarke 
       institution: University of Huddersfield
-      bio: 
+      bio: |
+        <p>Michael Clarke is a Professor of Music at the University of Huddersfield (UK). He is Principal Investigator for the IRiMaS project (Interactive Research in Music as Sound), funded by an Advanced Grant from the European Research Council. He is a composer of both acoustic and computer music and a developer of software for music. He developed the Interactive Aural approach to music analysis, initially in the context of electroacoustic music, which through IRiMaS is now being extended to other repertoires.</p>
     - name: Frédéric Dufeu 
       institution: University of Huddersfield
       bio:
