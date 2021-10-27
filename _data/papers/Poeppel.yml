@@ -2,7 +2,8 @@
 authors:
     - name: Luke Poeppel 
       institution: New York University and Max Planck Institute for Empirical Aesthetics
-      bio: 
+      bio: |
+        <p>Luke Poeppel is a senior at New York University studying classical composition &amp; conducting (with Prof. Louis Karchin) and mathematics. Luke was the Senior winner in Massachusetts (2018) in the Music Teachers National Association Composition Competition for his work <em>Lux Aeterna et Sanctus</em>, first performed at the Curtis Summer Institute. He received an honorary merit award from the National YoungArts Foundation for his composition <em>Confero</em>, the Seth Kimmelman award from NEC in 2017, as well as the Gustave Ries Memorial Prize in music from NYU in 2021. From 2016 to 2018, he interned for Professor Michael Scott Cuthbert (MIT). As a research assistant in Dr. Nori Jacoby’s Computational Auditory Perception (CAP) group at the Max Planck Institute for Empirical Aesthetics, he has recently completed a study on novel techniques for automated rhythmic search and annotation in the context of Olivier Messiaen’s transcriptions of birdsong. He has also run online experiments in auditory perception investigating melodic expectation and vowel production, as well as facilitated a collaboration between singer Victoria Hanna and the Kronos Quartet.</p>
 title: "Notre Oiseaux: A Computational Study of the Messiaen Birdsong Transcriptions of New Caledonia"
 handouts:
     - desc: Handout
