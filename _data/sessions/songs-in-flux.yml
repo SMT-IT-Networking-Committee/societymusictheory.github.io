@@ -2,17 +2,14 @@
 sessiontype: 
 title: "Songs In Flux"
 slug: songs-in-flux
-room: 
+room: 3
 time: Thursday 12:45-2:15 ET
 link: /sessions/nov4/midday/songs-in-flux
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02JQTGCGR5
+zoom: https://us02web.zoom.us/j/88141709581
 chair:
     name: Christine Boone
     institution: University of North Carolina Asheville
-respondent:
-    name: 
-    institution: 
 papers: 
     - Eng
     - Sebulsky

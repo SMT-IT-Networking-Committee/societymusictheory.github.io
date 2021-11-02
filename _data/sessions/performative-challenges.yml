@@ -2,17 +2,14 @@
 sessiontype: 
 title: "Performative Challenges"
 slug: performative-challenges
-room: 
+room: 2
 time: Friday 12:45-2:15 ET
 link: /sessions/nov5/midday/performative-challenges
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02L1TPA7T3
+zoom: https://us02web.zoom.us/j/85353678728
 chair:
     name: Daphne Leong
     institution: University of Colorado Boulder
-respondent:
-    name: 
-    institution: 
 papers: 
     - Cole
     - Duinker

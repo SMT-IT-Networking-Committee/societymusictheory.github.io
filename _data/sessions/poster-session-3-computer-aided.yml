@@ -2,17 +2,16 @@
 sessiontype: 
 title: "Poster Session 3: Computer-Aided Analysis / Interrogating Riemann"
 slug: poster-session-3-computer-aided
-room: 
+room: 3
 time: Saturday 11-12:30 ET
 link: /sessions/nov6/morning/poster-session-3-computer-aided
-slack: 
+slack: https://society-music-theory.slack.com/archives/C02JYS1CW94
 zoom: 
 chair:
     name: Jocelyn Neal
     institution: University of North Carolina at Chapel Hill
 respondent:
     name:  
-    institution: 
 papers: 
     - Poeppel
     - Clarke-Dufeu

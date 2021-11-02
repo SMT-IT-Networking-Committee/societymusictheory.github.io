@@ -2,17 +2,14 @@
 sessiontype: 
 title: "Counterpoint"
 slug: counterpoint
-room: 
+room: 2
 time: Friday 11-12:30 ET
 link: /sessions/nov5/morning/counterpoint
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02L1TJ7VMX
+zoom: https://us02web.zoom.us/j/84758565101
 chair:
-    name: Jason Yust
+    name: Jason Yust Yust
     institution: Boston University
-respondent:
-    name: 
-    institution: 
 papers: 
     - Tymoczko
     - Domico-Liu

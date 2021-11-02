@@ -2,17 +2,16 @@
 sessiontype: 
 title: "Cinquecento And Ottocento"
 slug: cinquecento-and-ottocento
-room: 
+room: 1
 time: Sunday 12:45-1:45 ET
 link: /sessions/nov7/midday/cinquecento-and-ottocento
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02K8AFBWNT
+zoom: https://us02web.zoom.us/j/88028010727
 chair:
     name: Megan Kaes Long
     institution: Oberlin College & Conservatory
 respondent:
     name:  
-    institution: 
 papers: 
     - Tabares
     - Schubert

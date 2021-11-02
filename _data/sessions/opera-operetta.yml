@@ -2,17 +2,14 @@
 sessiontype: 
 title: "Opera/Operetta"
 slug: opera-operetta
-room: 
+room: 2
 time: Thursday 11-12:30 ET
 link: /sessions/nov4/morning/opera-operetta
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02JYS17Z9C
+zoom: https://us02web.zoom.us/j/85234503355
 chair:
     name: Deborah Burton
     institution: Boston University
-respondent:
-    name: 
-    institution: 
 papers: 
     - Vagts
     - Messina

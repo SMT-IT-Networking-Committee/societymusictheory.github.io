@@ -2,17 +2,16 @@
 sessiontype: 
 title: "Schoenberg"
 slug: schoenberg
-room: 
+room: 5
 time: Saturday 12:45-2:15 ET
 link: /sessions/nov6/midday/schoenberg
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02JYS1H1D4
+zoom: https://us02web.zoom.us/j/83480656329
 chair:
     name: J. Daniel Jenkins
     institution: University of South Carolina
 respondent:
     name:  
-    institution: 
 papers: 
     - Hier
     - Eason

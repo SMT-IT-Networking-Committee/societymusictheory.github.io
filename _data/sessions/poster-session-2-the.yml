@@ -2,17 +2,14 @@
 sessiontype: 
 title: "Poster Session 2: The Late 18th Century – And Beyond"
 slug: poster-session-2-the
-room: 
+room: 4
 time: Friday 11-12:30 ET
 link: /sessions/nov5/morning/poster-session-2-the
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02KP9TK96W
+zoom: https://us02web.zoom.us/j/88319603924
 chair:
     name: Nathan Martin
     institution: University of Michigan
-respondent:
-    name: 
-    institution: 
 papers: 
     - Segall
     - Bakulina-Klorman

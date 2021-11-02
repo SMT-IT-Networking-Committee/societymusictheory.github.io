@@ -2,18 +2,14 @@
 sessiontype: 
 title: "Corpus Approaches to Popular Music Analysis"
 slug: corpus-approaches-to-popular
-room: 
+room: 3
 time: Sunday 2:30-4:00 ET
 link: /sessions/nov7/afternoon/corpus-approaches-to-popular
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02KR7C1SF6
+zoom: https://us02web.zoom.us/j/84945940063
 chair:
     name: Stefanie Acevedo
     institution: University of Connecticut
-    formatted: 
-respondent:
-    name: 
-    institution: 
 papers: 
     - Arthur-Condit-Schultz
     - Park

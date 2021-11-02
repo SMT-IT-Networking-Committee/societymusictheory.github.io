@@ -2,17 +2,16 @@
 sessiontype: 
 title: "Temporality And Listener Experience"
 slug: temporality-and-listener-experience
-room: 
+room: 1
 time: Sunday 2:30-3:30 ET
 link: /sessions/nov7/afternoon/temporality-and-listener-experience
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02LCLUBPRN
+zoom: https://us02web.zoom.us/j/84266934561
 chair:
     name: Bryan Parkhurst
     institution: University of Texas at Austin, Oberlin College & Conservatory
 respondent:
     name:  
-    institution: 
 papers: 
     - Noble
     - Myler

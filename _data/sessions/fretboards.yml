@@ -2,17 +2,16 @@
 sessiontype: 
 title: "Fretboards"
 slug: fretboards
-room: 
+room: 2
 time: Sunday 12:45-2:15 ET
 link: /sessions/nov7/midday/fretboards
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02KP1BN84T
+zoom: https://us02web.zoom.us/j/84531171097
 chair:
     name: Jonathan De Souza
     institution: University of Western Ontario
 respondent:
     name:  
-    institution: 
 papers: 
     - Renwick
     - Shea

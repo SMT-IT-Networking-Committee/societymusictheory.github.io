@@ -2,19 +2,18 @@
 sessiontype: 
 title: "Whose Voices? Epistemic Injustice and Exclusion in Music Academia"
 slug: whose-voices-epistemic-injustice
-room: 
+room: 5
 time: Thursday 12:45-4:00 ET
 link: /sessions/nov4/midday/whose-voices-epistemic-injustice
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02JYS19814
+zoom: https://us02web.zoom.us/j/89693241055
+sponsor: Committee on Accessibility and Disability
 chair:
     name: Anabel Maler
     institution: University of Iowa
-respondent:
-    name: 
-    institution: 
-abstract: |
-    <p>The COVID-19 pandemic and calls for racial justice in 2020 have called attention to the ways in which epistemic exclusion and injustice haunt our society and limit accessibility on a broad, systemic scale. “Epistemic injustice,” a term coined by Miranda Fricker, refers to “a wrong done to someone specifically in their capacity as a knower.” A person may be wronged in their capacity as a giver of knowledge, or when a gap in collective knowledge puts them “at an unfair disadvantage when it comes to making sense of their social experiences” (Fricker 2007, 2). The idea of epistemic exclusion, and the epistemic injustices to which this exclusion leads, can be a productive frame for understanding how some knowledge is valued and disseminated in the discourses of music theory, while other knowledge is marginalized, ignored, and rejected from our dominant musical paradigms. This session aims to dismantle the fixed epistemic frames of music theory, to shift what is marginal and marginalized to the center, to focus on the questions and perspectives that have slipped through the cracks of our epistemic resources. In calling attention to how our epistemic resources have largely been determined by white, male, able-bodied persons, we aim to highlight the knowledge and experience of those who have been traditionally excluded from our epistemic frames.</p>    
+    formatted: Anabel Maler (University of Iowa), Chair and Organizer
+abstract: | 
+    <p>"The COVID-19 pandemic and calls for racial justice in 2020 have called attention to the ways in which epistemic exclusion and injustice haunt our society and limit accessibility on a broad, systemic scale. “Epistemic injustice,” a term coined by Miranda Fricker, refers to “a wrong done to someone specifically in their capacity as a knower.” A person may be wronged in their capacity as a giver of knowledge, or when a gap in collective knowledge puts them “at an unfair disadvantage when it comes to making sense of their social experiences” (Fricker 2007, 2). The idea of epistemic exclusion, and the epistemic injustices to which this exclusion leads, can be a productive frame for understanding how some knowledge is valued and disseminated in the discourses of music theory, while other knowledge is marginalized, ignored, and rejected from our dominant musical paradigms. This session aims to dismantle the fixed epistemic frames of music theory, to shift what is marginal and marginalized to the center, to focus on the questions and perspectives that have slipped through the cracks of our epistemic resources. In calling attention to how our epistemic resources have largely been determined by white, male, able-bodied persons, we aim to highlight the knowledge and experience of those who have been traditionally excluded from our epistemic frames."</p>
 papers: 
     - Honisch
     - Beaudoin

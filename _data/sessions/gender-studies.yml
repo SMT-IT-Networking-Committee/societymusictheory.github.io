@@ -2,17 +2,16 @@
 sessiontype: 
 title: "Gender Studies"
 slug: gender-studies
-room: 
+room: 2
 time: Sunday 2:30-4:00 ET
 link: /sessions/nov7/afternoon/gender-studies
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02LCLUT43A
+zoom: https://us02web.zoom.us/j/83914299523
 chair:
     name: Lori Burns
     institution: University of Ottawa
 respondent:
     name:  
-    institution: 
 papers: 
     - Duguay
     - Harper

@@ -2,19 +2,16 @@
 sessiontype: 
 title: "The Expanding History Of Theory I"
 slug: the-expanding-history-of
-room: 
+room: 4
 time: Thursday 2:30-4:30 ET
 link: /sessions/nov4/afternoon/the-expanding-history-of
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02JQTG9WBH
+zoom: https://us02web.zoom.us/j/81896420297
 chair:
     name: Thomas Christensen
     institution: University of Chicago
-respondent:
-    name: 
-    institution: 
 papers: 
     - Bargrizan
     - Cohen
     - Velez
-    - Groesbeck2
+    - Groesbeck

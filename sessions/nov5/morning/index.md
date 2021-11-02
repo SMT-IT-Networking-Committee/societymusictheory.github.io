@@ -10,6 +10,7 @@ title: Friday Morning, Nov. 5
 {% include session-short.html session="counterpoint" %}
 {% include session-short.html session="rethinking-jazz" %}
 {% include session-short.html session="poster-session-2-the" %}
+{% include session-short.html session="artusi-demo-2" %}
 
 
 ## 11:00-2:15 ET

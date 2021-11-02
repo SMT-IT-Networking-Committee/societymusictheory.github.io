@@ -2,17 +2,16 @@
 sessiontype: 
 title: "Neo-Riemannian Excursions"
 slug: neo-riemannian-excursions
-room: 
+room: 5
 time: Saturday 11-12:30 ET
 link: /sessions/nov6/morning/neo-riemannian-excursions
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02JQTGLCA3
+zoom: https://us02web.zoom.us/j/87686886572
 chair:
     name: Julian Hook
     institution: Indiana University
 respondent:
     name:  
-    institution: 
 papers: 
     - Walch
     - OHara

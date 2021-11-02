@@ -2,18 +2,17 @@
 sessiontype: 
 title: "Provincializing Western Art Music Syntaxes"
 slug: provincializing-western-art-music
-room: 
+room: 5
 time: Sunday 11-2:15 ET
 link: /sessions/nov7/morning/provincializing-western-art-music
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02KL1BAG3X
+zoom: https://us02web.zoom.us/j/84944532954
 chair:
-    name: 
-    institution: 
-    formatted: Michael Tenzer (University of British Columbia) and Noriko Manabe (Temple University), Co-Chairs
-respondent:
-    name: 
-    institution: 
+    name: Noriko Manabe
+    institution: Temple University
+    formatted: Chris Stover (Queensland Conservatorium, Griffith University), Anna Yu Wang (Harvard University), Organizers; Michael Tenzer (University of British Columbia), Noriko Manabe (Temple University), Co-Chairs
+abstract: | 
+    <p>Musical syntax is often the conceptual bedrock of analysis, providing what might be perceived as law-like givens which structure and delimit the scope of acceptable analytical insights. This proposed Special Session seeks to illuminate some ways in which Western music theory’s received ideas about musical syntax—which have been overwhelmingly deduced from the close study of Western Art Music—exclude the musical realities of diverse audiences and practitioners, and actually impede deep analytical engagement with music on terms that are not Western. The papers compiled here spotlight various issues of syntax that animate the theories and practices of musics beyond the West. Each poses a challenge to, and thereby provincializes, the syntactic principles commonly held as axiomatic or near-axiomatic among Western music theorists. In so doing, we aim to persuade music theorists to think reflexively about the contingent and local nature of the theoretical assumptions that undergird our research and teaching. This session comprises of two sets of three papers. Each of the papers in the first set provincializes an aspect of pitch-related syntax in Western Art Music by engaging with Japanese, South Indian, and Chinese scalar and tonal concepts. The second set of papers speak to syntaxes of musical temporality by examining rhythm and/or metric processes in Mennonite folk songs, African drum-dance traditions, and Chinese opera. In order to inspire a richer conversation about how to figure WAM musical syntax as simply one of many provincial music practices, each half-session will be followed by 30 minutes of dialogue.</p>
 papers: 
     - Hynes-Tawa
     - Murphy

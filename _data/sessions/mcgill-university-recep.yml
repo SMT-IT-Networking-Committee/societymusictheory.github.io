@@ -2,8 +2,8 @@
 sessiontype: 
 title: "McGill University Reception"
 slug: mcgill-university-recep
-room: 
+room: 3
 time: Saturday 8:00 PM
 link: /sessions/nov6/late/mcgill-university-recep
 slack: 
-zoom: 3
+zoom: https://mcgill.zoom.us/j/81013833537

@@ -2,17 +2,14 @@
 sessiontype: 
 title: "Sonata Forms"
 slug: sonata-forms
-room: 
+room: 4
 time: Thursday 12:45-2:15 ET
 link: /sessions/nov4/midday/sonata-forms
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02K2JHAB6Z
+zoom: https://us02web.zoom.us/j/88363825192
 chair:
     name: Joel Galand
     institution: Florida International University
-respondent:
-    name: 
-    institution: 
 papers: 
     - Mayr
     - Hunt

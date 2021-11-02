@@ -2,17 +2,16 @@
 sessiontype: 
 title: "Poster Session 5: Fourier Analysis / Linear Approaches"
 slug: poster-session-5-fourier
-room: 
+room: 3
 time: Sunday 11-12:30 ET
 link: /sessions/nov7/morning/poster-session-5-fourier
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02KG8TSNRL
+zoom: https://us02web.zoom.us/j/89167059097
 chair:
     name: Richard Cohn
     institution: Yale University
 respondent:
     name:  
-    institution: 
 papers: 
     - Harding
     - Chander

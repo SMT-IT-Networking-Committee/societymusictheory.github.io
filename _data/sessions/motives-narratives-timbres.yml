@@ -2,17 +2,14 @@
 sessiontype: 
 title: "Motives/Narratives/Timbres"
 slug: motives-narratives-timbres
-room: 
+room: 1
 time: Thursday 12:45-2:15 ET
 link: /sessions/nov4/midday/motives-narratives-timbres
-slack: 
+slack: https://society-music-theory.slack.com/archives/C02KJ6DL2JD
 zoom: 
 chair:
     name: Robert Hatten
     institution: University of Texas at Austin
-respondent:
-    name: 
-    institution: 
 papers: 
     - Hutchinson
     - Orvek

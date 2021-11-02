@@ -2,17 +2,16 @@
 sessiontype: 
 title: "Timbral Techniques"
 slug: timbral-techniques
-room: 
+room: 2
 time: Sunday 11-12:30 ET
 link: /sessions/nov7/morning/timbral-techniques
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02KR75SSTW
+zoom: https://us02web.zoom.us/j/85156317831
 chair:
     name: Alfred Cramer
     institution: Pomona College
 respondent:
     name:  
-    institution: 
 papers: 
     - Hannan
     - Tatar

@@ -2,17 +2,16 @@
 sessiontype: 
 title: "Jazz: Improvisation/Polyrhythm"
 slug: jazz-improvisation-polyrhythm
-room: 
+room: 4
 time: Saturday 11-12:30 ET
 link: /sessions/nov6/morning/jazz-improvisation-polyrhythm
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02JYS1FLMU
+zoom: https://us02web.zoom.us/j/85801206853
 chair:
     name: Keith Waters
     institution: University of Colorado Boulder
 respondent:
     name:  
-    institution: 
 papers: 
     - Capuzzo
     - Pellegrin

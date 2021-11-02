@@ -11,4 +11,5 @@ title: Thursday Morning, Nov. 4
 {% include session-short.html session="towards-defining-a-musical" %}
 {% include session-short.html session="20th-century-composers-tonal-organization" %}
 {% include session-short.html session="history-of-theory-18th-century" %}
+{% include session-short.html session="artusi-demo-1" %}
 

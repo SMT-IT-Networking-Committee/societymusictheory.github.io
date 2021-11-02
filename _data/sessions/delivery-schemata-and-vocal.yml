@@ -2,17 +2,14 @@
 sessiontype: 
 title: "Delivery Schemata And Vocal Stress"
 slug: delivery-schemata-and-vocal
-room: 
+room: 1
 time: Thursday 2:30-4:00 ET
 link: /sessions/nov4/afternoon/delivery-schemata-and-vocal
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02K2JH7Q7P
+zoom: https://us02web.zoom.us/j/87932022642
 chair:
     name: Jocelyn Neal
     institution: University of North Carolina Chapel Hill
-respondent:
-    name: 
-    institution: 
 papers: 
     - Hardman
     - VanderStel-Temperley

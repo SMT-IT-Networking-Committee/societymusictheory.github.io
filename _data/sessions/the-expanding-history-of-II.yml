@@ -2,17 +2,16 @@
 sessiontype: 
 title: "The Expanding History Of Theory II"
 slug: the-expanding-history-of-II
-room: 
+room: 1
 time: Saturday 11-12:00 ET
 link: /sessions/nov6/morning/the-expanding-history-of-II
-slack: 
-zoom: 
+slack: https://society-music-theory.slack.com/archives/C02KJ6DTHG9
+zoom: https://us02web.zoom.us/j/86712754619
 chair:
     name: Alexander Rehding
     institution: Harvard University
 respondent:
     name:  
-    institution: 
 papers: 
     - Abrahamyan
     - Birson

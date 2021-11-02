@@ -10,4 +10,4 @@ title: Friday Afternoon, Nov. 5
 {% include session-short.html session="analysis-within-temporal-context" %}
 {% include session-short.html session="sounds-of-freedom-liberation-demilitarization" %}
 {% include session-short.html session="vernacular-idioms-and-topics" %}
-
+{% include session-short.html session="rising-demo-2" %}
