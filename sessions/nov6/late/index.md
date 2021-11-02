@@ -3,6 +3,8 @@ layout: default
 title: Saturday Late Evening, Nov. 6
 ---
 
+{% include breadcrumbs.html %}
+
 # Saturday, November 6, 6:00 ET
 
 ## 6:00-7:30 ET

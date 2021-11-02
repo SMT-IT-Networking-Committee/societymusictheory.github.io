@@ -2,6 +2,7 @@
 layout: default
 title: Sunday Evening, Nov. 7
 ---
+{% include breadcrumbs.html %}
 
 # Sunday, November 7, 4:15 ET
 
