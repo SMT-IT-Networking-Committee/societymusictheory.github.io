@@ -13,4 +13,4 @@ title: Thursday Midday, Nov. 4
 {% include session-short.html session="sonata-forms" %}
 
 ## 12:45-4:00 ET
-{% include session-short.html session="whose-voices?-epistemic-injustice" %}
+{% include session-short.html session="whose-voices-epistemic-injustice" %}
