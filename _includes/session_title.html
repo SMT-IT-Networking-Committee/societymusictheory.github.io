@@ -86,7 +86,9 @@
   	<a href="{{sess.playlist}}">Session playlist</a>
   	{%- endif -%}
   	<a href="{{sess.zoom}}" target="_blank">Go to the Session on Zoom</a>
+  	{% if sess.slack.size >0 %}
   	<a href="{{sess.slack}}" target="_blank">Continue the discussion on Slack</a>
+  	{%- endif -%}
 </div>
 {%- endif -%}
 
