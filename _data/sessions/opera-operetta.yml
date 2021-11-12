@@ -6,10 +6,15 @@ room: 2
 time: Thursday 11-12:30 ET
 link: /sessions/nov4/morning/opera-operetta
 slack: https://society-music-theory.slack.com/archives/C02JYS17Z9C
-zoom: https://us02web.zoom.us/j/85234503355
+zoom: 
 chair:
     name: Deborah Burton
     institution: Boston University
+    formatted: |
+        <p>Deborah Burton (Boston University), Chair</p>
+        <p><strong>N.B.</strong> Unfortunately there was a Zoom error during this session, please use the following two links to access the recordings of this session:</p>
+        <p>    <a href="https://us02web.zoom.us/rec/share/nmeJly3MvwTsBXqpA_1SooPhg1dLH0S5-n41GUmx5uWQ6z33gJBcppQRgYfnJgM.7XtsWm4ygQRIW71n?startTime=1636037277000">Opera/Operetta - part 1</a></p> 
+        <p>    <a href="https://us02web.zoom.us/rec/share/15bX-chdrOFeUygAcNRu6CL2MCAYGif2DjMTBTFN4iCxbpa2Coiop4GF0QeU61ZO.VA0SV3_aZZv0iZkR?startTime=1636038736000">Opera/Operetta - part 2</a></p>
 papers: 
     - Vagts
     - Messina

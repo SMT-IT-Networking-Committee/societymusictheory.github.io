@@ -6,10 +6,15 @@ room: 4
 time: Thursday 11-12:30 ET
 link: /sessions/nov4/morning/20th-century-composers-tonal-organization
 slack: https://society-music-theory.slack.com/archives/C02JYS15DV4
-zoom: https://us02web.zoom.us/j/87838986184
+zoom: 
 chair:
     name: Andrew Mead
     institution: Indiana University
+    formatted: |
+            <p>Andrew Mead (Indiana University), Chair</p>
+            <p><strong>N.B.</strong> Unfortunately there was a Zoom error during this session, please use the following two links to access the recordings of this session:</p>
+            <p>    <a href="https://us02web.zoom.us/rec/share/CxoC1VVy46P8gR18DLex0MckIRwsDfzsG0M_RG9C_EghFPK6fRQcKClkTYnGrAYP.66-ejBGPSDMK56N7?startTime=1636037081000">20th-Century Composers’ Tonal Organization - part 1</a></p> 
+            <p>    <a href="https://us02web.zoom.us/rec/share/W0qcquy2RK3b-MKASAfRhPkerbR7nCq3bjQm4_AjVy85PYRwMOwMdKw1fpzZxDGw.5z6brbLJ__UhLG5_?startTime=1636038568000">20th-Century Composers’ Tonal Organization - part 2</a></p>
 papers: 
     - Principi
     - Redmond

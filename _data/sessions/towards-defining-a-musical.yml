@@ -6,10 +6,15 @@ room: 3
 time: Thursday 11-12:30 ET
 link: /sessions/nov4/morning/towards-defining-a-musical
 slack: https://society-music-theory.slack.com/archives/C02KJ6DMD33
-zoom: https://us02web.zoom.us/j/82359216446
+zoom: 
 chair:
     name: Christopher Doll
     institution: Rutgers University
+    formatted: |
+        <p>Christopher Doll (Rutgers University), Chair</p>
+        <p><strong>N.B.</strong> Unfortunately there was a Zoom error during this session, please use the following two links to access the recordings of this session:</p>
+        <p>    <a href="https://us02web.zoom.us/rec/share/IWdRru7Q6ZfkzIIFQHkBtoP5okbkk5h5WPKPiNhuZ42336WO27hb5IyRJxeU-PGx.yYgxgxsq-Qq5bs_D?startTime=1636036950000">Towards Defining A Musical Style - part 1</a></p> 
+        <p>    <a href="https://us02web.zoom.us/rec/share/IUZ230wcP3YfY9jELz5j4hbxPhDXcd9LtZKLR-jAr-BHfAPuHQbjqmirpZ5yfsst.pnQV52MUPfiHqSrW?startTime=1636038569000">Towards Defining A Musical Style - part 2</a></p> 
 papers: 
     - Hosken
     - Reale

@@ -1,0 +1,112 @@
+{% assign sess = site.data.sessions[page.slug] %}
+
+
+{% include breadcrumbs.html %}
+
+<div class="sessionInfo">
+<p class="sessionInfo"> {{ sess.time }}</p>
+<p><a href="/ics/{{ sess.slug }}.ics"><i class="fas fa-calendar-alt"></i>Add this to your calendar</a></p>
+</div>
+<h1>{{ sess.title }}</h1>
+{% if sess.sponsor %}
+<h3 class="sponsor">Sponsored by the {{ sess.sponsor }}</h3>
+{% endif %}
+
+{% if sess.chair.size >0 %}
+{%- capture chair -%}
+  {%- if sess.chair.formatted -%}
+    {{ sess.chair.formatted }}
+  {%- else -%}
+    {{ sess.chair.name }} ({{ sess.chair.institution }}),&nbsp;
+    {%- if sess.chair.title -%}
+      {{ sess.chair.title }}
+    {%- else -%}
+      <em>Chair</em>
+    {%- endif -%}
+  {%- endif -%}
+{%- endcapture -%}
+{%- endif -%}
+<p class="chair">{{ chair }}
+
+
+{% if sess.respondent.name %}
+<br />
+  {%- if sess.respondent.formatted -%}
+    {{ sess.respondent.formatted }}
+  {%- else -%}
+    {{ sess.respondent.name }} ({{ sess.respondent.institution }}),&nbsp;
+    {%- if sess.respondent.title -%}
+      {{ sess.respondent.title }}
+    {%- else -%}
+      <em>Respondent</em>
+    {%- endif -%}
+  {%- endif -%}
+{%- endif -%}
+
+{%- if sess.panelists[0].name -%}
+  <br />
+{{ sess.panelists | map: "name" | array_to_sentence_string }}, <em>Panelists</em>
+{%- endif -%}
+
+{%- if sess.other -%}
+  <br />
+{{ sess.other.formatted }}
+{%- endif -%}
+
+</p>
+
+{%- if sess.livestream -%}
+<p class="livestream">This session will be streamed
+<a href="https://societymusictheory.org/events/meeting2019/main">live on the internet</a>.
+</p>
+{%- endif -%}
+
+
+{%- if sess.sessiontype == "Interest Group" -%}
+<div class="icon-bar">
+  	{%- if sess.playlist.size >0 -%}
+  	<a href="{{sess.playlist}}">Session playlist</a>
+  	{%- endif -%}
+    <a href="{{sess.zoom}}" target="_blank">Interest Group Meeting on Zoom</a>
+  	<a href="{{sess.slack}}" target="_blank">Continue the discussion on Slack</a>
+</div>
+{%- elsif sess.sessiontype == "AMS Platform" -%}
+<div class="icon-bar">
+    <a href="{{sess.zoom}}" target="_blank">Session Contents at AMS</a>
+  	<a href="{{sess.slack}}" target="_blank">Continue the discussion on Slack</a>
+</div>
+{%- elsif sess.sessiontype == "Poster Session" -%}
+<div class="icon-bar">
+    <a href="{{sess.zoom}}" target="_blank">Poster Presentation on Zoom</a>
+  	<a href="{{sess.slack}}" target="_blank">Continue the discussion on Slack</a>
+</div>
+{%- else -%}
+<div class="icon-bar">
+	{%- if sess.playlist.size >0 -%}
+  	<a href="{{sess.playlist}}">Session playlist</a>
+  	{%- endif -%}
+  	<a href="{{sess.zoom}}" target="_blank">Go to the Session on Zoom</a>
+  	{% if sess.slack.size >0 %}
+  	<a href="{{sess.slack}}" target="_blank">Continue the discussion on Slack</a>
+  	{%- endif -%}
+</div>
+{%- endif -%}
+
+{%- if sess.passcode.size >0 -%}
+	{%- if sess.archive.size >0 -%}
+<br><p><em>View <a href="{{sess.archive}}">an archived recording</a> of the session using the passcode: <strong>{{sess.passcode}}</strong></em></p>
+	{%- endif -%}
+{%- endif -%}
+
+{%- if sess.sessiontype == "Poster Session" %}
+<br><p>Poster sessions begin with a short presentation from each of the poster presenters. A link to this Zoom webinar is just above. Fifteen minutes after the beginning of the session, every poster presenter will enter their own breakout room and entertain comments and questions.</p>
+{%- endif -%}
+
+
+
+
+
+
+{%- if sess.abstract -%}
+	 <p class="session-abstract">{{ sess.abstract }}</p>
+{%- endif -%}
